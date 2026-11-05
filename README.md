@@ -1,4 +1,4 @@
-# Shared Sound Library
+# Music Library (Shared Sound Library)
 
 One shared library of **music and sound effects** for every channel and every Hark that uses our AI33 API key.
 It's built once and reused by everyone. Only new sounds cost credits, and every new sound is added here for everyone.
@@ -19,7 +19,7 @@ It's built once and reused by everyone. Only new sounds cost credits, and every 
 
 ## Quick start
 ```bash
-git clone <this repo> sound-library && cd sound-library
+git clone https://github.com/zaimzon021/Music-Library.git sound-library && cd sound-library
 pip install requests numpy          # ffmpeg must be installed
 python3 tools/lib.py search "epic battle drums" --type music
 python3 tools/lib.py search "explosion" --type sfx

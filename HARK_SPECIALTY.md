@@ -6,7 +6,7 @@ In Hark, say: **"Save this as a specialty called shared-sound-library and follow
 
 SHARED SOUND LIBRARY + AI33 RULES (mandatory for every video)
 
-Repo: <REPO_URL>  (clone it into the workspace, run `git pull` before each video)
+Repo: https://github.com/zaimzon021/Music-Library  (clone it into the workspace, run `git pull` before each video)
 Full rules: RULES.md in the repo. Read it on first use.
 
 1. LIBRARY FIRST. Before generating any music or sound effect, search the repo:
