@@ -22,6 +22,7 @@ Before you generate **any** music or sound effect:
 ## Rule 2. Generate only when the library truly doesn't have it
 
 You may generate new music or SFX **only if**:
+
 - nothing in the library fits, **or**
 - what's there is clearly a different mood, style, instrument, or energy from what the video needs.
 
@@ -55,10 +56,13 @@ python3 tools/lib.py similar --prompt "your planned prompt" --type music
 **Every** music track or sound effect you generate is added to this repo, the same day, with a library entry. No exceptions. This is how the library grows and how everyone saves credits.
 
 ```
-python3 tools/lib.py add new_roar.mp3 --type sfx --category creatures --slug lizard-screech \
-   --tags screech,monster,high-pitched --prompt "the exact prompt you used" \
+python3 tools/lib.py add new_roar.mp3 --type sfx --category creatures \
+   --slug lizard-screech --tags screech,monster,high-pitched \
+   --prompt "the exact prompt you used" \
    --generator "ElevenLabs SFX v3 via AI33" --by "your-channel-name"
-git add -A && git commit -m "add sfx: creatures/lizard-screech (your-channel)" && git push
+git add -A
+git commit -m "add sfx: creatures/lizard-screech (your-channel)"
+git push
 ```
 - Suno returns **2 tracks per call**: add **both** (`-a`, `-b`).
 - Put the exact prompt in `--prompt`. It makes the duplicate check work.
@@ -76,7 +80,8 @@ git add -A && git commit -m "add sfx: creatures/lizard-screech (your-channel)" &
      ```
      python3 tools/voice_patch.py --voice voice.mp3 --words words.json \
         --replace-until "last words of the part to replace" \
-        --new-text "The new hook." --voice-id <same voice> --model <same model> --speed <same speed> \
+        --new-text "The new hook." --voice-id <same voice> \
+        --model <same model> --speed <same speed> \
         --out voice_new.mp3 --out-words words_new.json
      ```
      For a part in the middle, add `--replace-from "first words of the part"`.
