@@ -1,0 +1,1162 @@
+{
+  "version": 1,
+  "updated": "2026-11-05",
+  "items": [
+    {
+      "id": "music/epic-cinematic/kaiju-trailer-taiko-brass-a",
+      "type": "music",
+      "file": "music/epic-cinematic/kaiju-trailer-taiko-brass-a.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "epic",
+        "trailer",
+        "taiko",
+        "brass",
+        "suspense",
+        "heroic",
+        "drops"
+      ],
+      "energy": "high",
+      "duration_s": 179.6,
+      "instrumental": true,
+      "prompt": "Dynamic cinematic kaiju trailer score: quiet suspense intro, sudden huge drum hit, pounding taiko and brass build, drop to silence then massive hit, tense pulsing middle, epic heroic climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #31"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/epic-cinematic/kaiju-trailer-taiko-brass-b",
+      "type": "music",
+      "file": "music/epic-cinematic/kaiju-trailer-taiko-brass-b.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "epic",
+        "trailer",
+        "taiko",
+        "brass",
+        "suspense",
+        "heroic",
+        "drops"
+      ],
+      "energy": "high",
+      "duration_s": 180.0,
+      "instrumental": true,
+      "prompt": "Dynamic cinematic kaiju trailer score: quiet suspense intro, sudden huge drum hit, pounding taiko and brass build, drop to silence then massive hit, tense pulsing middle, epic heroic climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #31"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/jungle-prehistoric/prehistoric-jungle-tribal-a",
+      "type": "music",
+      "file": "music/jungle-prehistoric/prehistoric-jungle-tribal-a.mp3",
+      "category": "jungle-prehistoric",
+      "tags": [
+        "jungle",
+        "prehistoric",
+        "tribal-drums",
+        "ominous",
+        "primal"
+      ],
+      "energy": "high",
+      "duration_s": 201.8,
+      "instrumental": true,
+      "prompt": "Ominous prehistoric jungle score: swampy suspense, tribal drums, deep low strings, sudden hits, building to a huge primal climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #32"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/jungle-prehistoric/prehistoric-jungle-tribal-b",
+      "type": "music",
+      "file": "music/jungle-prehistoric/prehistoric-jungle-tribal-b.mp3",
+      "category": "jungle-prehistoric",
+      "tags": [
+        "jungle",
+        "prehistoric",
+        "tribal-drums",
+        "ominous",
+        "primal"
+      ],
+      "energy": "high",
+      "duration_s": 196.9,
+      "instrumental": true,
+      "prompt": "Ominous prehistoric jungle score: swampy suspense, tribal drums, deep low strings, sudden hits, building to a huge primal climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #32"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/retro-japanese/1960s-monster-march-a",
+      "type": "music",
+      "file": "music/retro-japanese/1960s-monster-march-a.mp3",
+      "category": "retro-japanese",
+      "tags": [
+        "retro",
+        "japanese",
+        "march",
+        "brass",
+        "playful",
+        "heroic",
+        "triumphant"
+      ],
+      "energy": "medium",
+      "duration_s": 152.2,
+      "instrumental": true,
+      "prompt": "Retro 1960s Japanese monster movie march: bold brass fanfare, playful heroic energy, big drums, triumphant finale",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #33"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/retro-japanese/1960s-monster-march-b",
+      "type": "music",
+      "file": "music/retro-japanese/1960s-monster-march-b.mp3",
+      "category": "retro-japanese",
+      "tags": [
+        "retro",
+        "japanese",
+        "march",
+        "brass",
+        "playful",
+        "heroic",
+        "triumphant"
+      ],
+      "energy": "medium",
+      "duration_s": 146.3,
+      "instrumental": true,
+      "prompt": "Retro 1960s Japanese monster movie march: bold brass fanfare, playful heroic energy, big drums, triumphant finale",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #33"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/tragic-dramatic/meltdown-choir-tragic-a",
+      "type": "music",
+      "file": "music/tragic-dramatic/meltdown-choir-tragic-a.mp3",
+      "category": "tragic-dramatic",
+      "tags": [
+        "tragic",
+        "choir",
+        "ticking",
+        "dread",
+        "explosive",
+        "sad-ending"
+      ],
+      "energy": "high",
+      "duration_s": 208.4,
+      "instrumental": true,
+      "prompt": "Tragic intense kaiju score: ticking tension, rising dread, choir and heavy drums, huge explosive meltdown climax, sad heroic ending",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #34"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/tragic-dramatic/meltdown-choir-tragic-b",
+      "type": "music",
+      "file": "music/tragic-dramatic/meltdown-choir-tragic-b.mp3",
+      "category": "tragic-dramatic",
+      "tags": [
+        "tragic",
+        "choir",
+        "ticking",
+        "dread",
+        "explosive",
+        "sad-ending"
+      ],
+      "energy": "high",
+      "duration_s": 204.8,
+      "instrumental": true,
+      "prompt": "Tragic intense kaiju score: ticking tension, rising dread, choir and heavy drums, huge explosive meltdown climax, sad heroic ending",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #34"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/mech-industrial/industrial-mech-stomp-a",
+      "type": "music",
+      "file": "music/mech-industrial/industrial-mech-stomp-a.mp3",
+      "category": "mech-industrial",
+      "tags": [
+        "mech",
+        "robot",
+        "industrial",
+        "synth",
+        "metallic",
+        "heroic"
+      ],
+      "energy": "high",
+      "duration_s": 195.3,
+      "instrumental": true,
+      "prompt": "Industrial mech score: pulsing synths, metallic percussion, curious build, massive robot stomp hits, epic heroic climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #35"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/mech-industrial/industrial-mech-stomp-b",
+      "type": "music",
+      "file": "music/mech-industrial/industrial-mech-stomp-b.mp3",
+      "category": "mech-industrial",
+      "tags": [
+        "mech",
+        "robot",
+        "industrial",
+        "synth",
+        "metallic",
+        "heroic"
+      ],
+      "energy": "high",
+      "duration_s": 204.5,
+      "instrumental": true,
+      "prompt": "Industrial mech score: pulsing synths, metallic percussion, curious build, massive robot stomp hits, epic heroic climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #35"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/horror/jungle-creature-chase-a",
+      "type": "music",
+      "file": "music/horror/jungle-creature-chase-a.mp3",
+      "category": "horror",
+      "tags": [
+        "horror",
+        "creepy",
+        "drones",
+        "scare-hits",
+        "chase",
+        "jungle"
+      ],
+      "energy": "high",
+      "duration_s": 186.9,
+      "instrumental": true,
+      "prompt": "Creepy jungle horror score: eerie scratching textures, low drones, sudden scare hits, pounding monster chase drums, epic climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #36"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/horror/jungle-creature-chase-b",
+      "type": "music",
+      "file": "music/horror/jungle-creature-chase-b.mp3",
+      "category": "horror",
+      "tags": [
+        "horror",
+        "creepy",
+        "drones",
+        "scare-hits",
+        "chase",
+        "jungle"
+      ],
+      "energy": "high",
+      "duration_s": 184.8,
+      "instrumental": true,
+      "prompt": "Creepy jungle horror score: eerie scratching textures, low drones, sudden scare hits, pounding monster chase drums, epic climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #36"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/synth-retro/psychedelic-70s-sludge-a",
+      "type": "music",
+      "file": "music/synth-retro/psychedelic-70s-sludge-a.mp3",
+      "category": "synth-retro",
+      "tags": [
+        "psychedelic",
+        "1970s",
+        "synth",
+        "eerie",
+        "weird",
+        "dark"
+      ],
+      "energy": "medium",
+      "duration_s": 219.8,
+      "instrumental": true,
+      "prompt": "Eerie psychedelic 1970s synth score: sludgy bass, weird warbling textures, ominous build, heavy monster hits, dark climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #37"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/synth-retro/psychedelic-70s-sludge-b",
+      "type": "music",
+      "file": "music/synth-retro/psychedelic-70s-sludge-b.mp3",
+      "category": "synth-retro",
+      "tags": [
+        "psychedelic",
+        "1970s",
+        "synth",
+        "eerie",
+        "weird",
+        "dark"
+      ],
+      "energy": "medium",
+      "duration_s": 240.1,
+      "instrumental": true,
+      "prompt": "Eerie psychedelic 1970s synth score: sludgy bass, weird warbling textures, ominous build, heavy monster hits, dark climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #37"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/retro-japanese/hero-vs-monster-showdown-a",
+      "type": "music",
+      "file": "music/retro-japanese/hero-vs-monster-showdown-a.mp3",
+      "category": "retro-japanese",
+      "tags": [
+        "retro",
+        "japanese",
+        "hero",
+        "showdown",
+        "brass",
+        "fast-drums",
+        "triumphant"
+      ],
+      "energy": "high",
+      "duration_s": 184.8,
+      "instrumental": true,
+      "prompt": "Heroic retro Japanese hero vs monster score: bold brass, fast drums, dramatic showdown build, epic triumphant climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #38"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/retro-japanese/hero-vs-monster-showdown-b",
+      "type": "music",
+      "file": "music/retro-japanese/hero-vs-monster-showdown-b.mp3",
+      "category": "retro-japanese",
+      "tags": [
+        "retro",
+        "japanese",
+        "hero",
+        "showdown",
+        "brass",
+        "fast-drums",
+        "triumphant"
+      ],
+      "energy": "high",
+      "duration_s": 179.0,
+      "instrumental": true,
+      "prompt": "Heroic retro Japanese hero vs monster score: bold brass, fast drums, dramatic showdown build, epic triumphant climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #38"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/ocean-deep/deep-sea-sonar-mystery-a",
+      "type": "music",
+      "file": "music/ocean-deep/deep-sea-sonar-mystery-a.mp3",
+      "category": "ocean-deep",
+      "tags": [
+        "ocean",
+        "underwater",
+        "sonar",
+        "mysterious",
+        "ambient",
+        "reveal"
+      ],
+      "energy": "medium",
+      "duration_s": 274.4,
+      "instrumental": true,
+      "prompt": "Mysterious deep-sea score: dark ambient underwater drones, eerie sonar pings, slow tension build, huge reveal hit, haunting climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #39"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/ocean-deep/deep-sea-sonar-mystery-b",
+      "type": "music",
+      "file": "music/ocean-deep/deep-sea-sonar-mystery-b.mp3",
+      "category": "ocean-deep",
+      "tags": [
+        "ocean",
+        "underwater",
+        "sonar",
+        "mysterious",
+        "ambient",
+        "reveal"
+      ],
+      "energy": "medium",
+      "duration_s": 228.6,
+      "instrumental": true,
+      "prompt": "Mysterious deep-sea score: dark ambient underwater drones, eerie sonar pings, slow tension build, huge reveal hit, haunting climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #39"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/horror/music-box-horror-trailer-a",
+      "type": "music",
+      "file": "music/horror/music-box-horror-trailer-a.mp3",
+      "category": "horror",
+      "tags": [
+        "horror",
+        "trailer",
+        "music-box",
+        "stingers",
+        "dread",
+        "terrifying"
+      ],
+      "energy": "high",
+      "duration_s": 170.0,
+      "instrumental": true,
+      "prompt": "Dark horror trailer score: unsettling ambience, creepy music box, stingers, rising dread, massive terrifying climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #40"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/horror/music-box-horror-trailer-b",
+      "type": "music",
+      "file": "music/horror/music-box-horror-trailer-b.mp3",
+      "category": "horror",
+      "tags": [
+        "horror",
+        "trailer",
+        "music-box",
+        "stingers",
+        "dread",
+        "terrifying"
+      ],
+      "energy": "high",
+      "duration_s": 166.8,
+      "instrumental": true,
+      "prompt": "Dark horror trailer score: unsettling ambience, creepy music box, stingers, rising dread, massive terrifying climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #40"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/playful-heartfelt/playful-pizzicato-heroic-swell-a",
+      "type": "music",
+      "file": "music/playful-heartfelt/playful-pizzicato-heroic-swell-a.mp3",
+      "category": "playful-heartfelt",
+      "tags": [
+        "playful",
+        "heartfelt",
+        "pizzicato",
+        "strings",
+        "emotional",
+        "heroic"
+      ],
+      "energy": "medium",
+      "duration_s": 174.9,
+      "instrumental": true,
+      "prompt": "Warm playful kaiju score: light curious pizzicato, heartfelt strings, then a big emotional heroic swell and epic finale",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #41"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/playful-heartfelt/playful-pizzicato-heroic-swell-b",
+      "type": "music",
+      "file": "music/playful-heartfelt/playful-pizzicato-heroic-swell-b.mp3",
+      "category": "playful-heartfelt",
+      "tags": [
+        "playful",
+        "heartfelt",
+        "pizzicato",
+        "strings",
+        "emotional",
+        "heroic"
+      ],
+      "energy": "medium",
+      "duration_s": 174.9,
+      "instrumental": true,
+      "prompt": "Warm playful kaiju score: light curious pizzicato, heartfelt strings, then a big emotional heroic swell and epic finale",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #41"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/dark-electronic/toxic-hazard-pulse-a",
+      "type": "music",
+      "file": "music/dark-electronic/toxic-hazard-pulse-a.mp3",
+      "category": "dark-electronic",
+      "tags": [
+        "toxic",
+        "electronic",
+        "bass",
+        "alarm",
+        "gritty",
+        "ominous"
+      ],
+      "energy": "high",
+      "duration_s": 203.7,
+      "instrumental": true,
+      "prompt": "Toxic tense dark score: pulsing electronic bass, hazard alarms feel, gritty percussion, ominous build, heavy climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #42"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/dark-electronic/toxic-hazard-pulse-b",
+      "type": "music",
+      "file": "music/dark-electronic/toxic-hazard-pulse-b.mp3",
+      "category": "dark-electronic",
+      "tags": [
+        "toxic",
+        "electronic",
+        "bass",
+        "alarm",
+        "gritty",
+        "ominous"
+      ],
+      "energy": "high",
+      "duration_s": 204.0,
+      "instrumental": true,
+      "prompt": "Toxic tense dark score: pulsing electronic bass, hazard alarms feel, gritty percussion, ominous build, heavy climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #42"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/epic-cinematic/choir-clicking-battle-a",
+      "type": "music",
+      "file": "music/epic-cinematic/choir-clicking-battle-a.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "ominous",
+        "choir",
+        "brass",
+        "dread",
+        "battle",
+        "monster"
+      ],
+      "energy": "high",
+      "duration_s": 218.0,
+      "instrumental": true,
+      "prompt": "Ominous cinematic monster score: eerie choir, clicking tension, deep brass blasts, building dread, massive battle climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #43"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/epic-cinematic/choir-clicking-battle-b",
+      "type": "music",
+      "file": "music/epic-cinematic/choir-clicking-battle-b.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "ominous",
+        "choir",
+        "brass",
+        "dread",
+        "battle",
+        "monster"
+      ],
+      "energy": "high",
+      "duration_s": 203.7,
+      "instrumental": true,
+      "prompt": "Ominous cinematic monster score: eerie choir, clicking tension, deep brass blasts, building dread, massive battle climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #43"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/epic-cinematic/escalating-size-build-a",
+      "type": "music",
+      "file": "music/epic-cinematic/escalating-size-build-a.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "escalating",
+        "build",
+        "drums",
+        "brass",
+        "colossal",
+        "comparison"
+      ],
+      "energy": "high",
+      "duration_s": 203.7,
+      "instrumental": true,
+      "prompt": "Escalating epic score: starts small and quiet, each section bigger, pounding drums and brass, colossal final climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #44"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/epic-cinematic/escalating-size-build-b",
+      "type": "music",
+      "file": "music/epic-cinematic/escalating-size-build-b.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "escalating",
+        "build",
+        "drums",
+        "brass",
+        "colossal",
+        "comparison"
+      ],
+      "energy": "high",
+      "duration_s": 210.0,
+      "instrumental": true,
+      "prompt": "Escalating epic score: starts small and quiet, each section bigger, pounding drums and brass, colossal final climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #44"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/comedic-menace/three-headed-sneaky-wink-a",
+      "type": "music",
+      "file": "music/comedic-menace/three-headed-sneaky-wink-a.mp3",
+      "category": "comedic-menace",
+      "tags": [
+        "menacing",
+        "comedic",
+        "choir",
+        "sneaky",
+        "dragon",
+        "epic"
+      ],
+      "energy": "medium",
+      "duration_s": 173.9,
+      "instrumental": true,
+      "prompt": "Menacing three-headed dragon score with a comedic wink: dark brass, choir chants, playful sneaky middle, epic climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #45"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/comedic-menace/three-headed-sneaky-wink-b",
+      "type": "music",
+      "file": "music/comedic-menace/three-headed-sneaky-wink-b.mp3",
+      "category": "comedic-menace",
+      "tags": [
+        "menacing",
+        "comedic",
+        "choir",
+        "sneaky",
+        "dragon",
+        "epic"
+      ],
+      "energy": "medium",
+      "duration_s": 164.0,
+      "instrumental": true,
+      "prompt": "Menacing three-headed dragon score with a comedic wink: dark brass, choir chants, playful sneaky middle, epic climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #45"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/modern-epic/neon-synth-power-up-a",
+      "type": "music",
+      "file": "music/modern-epic/neon-synth-power-up-a.mp3",
+      "category": "modern-epic",
+      "tags": [
+        "modern",
+        "synth",
+        "orchestra",
+        "power-up",
+        "drops",
+        "electrifying"
+      ],
+      "energy": "high",
+      "duration_s": 225.3,
+      "instrumental": true,
+      "prompt": "Energetic modern epic score: driving synths and orchestra, neon power-up build, huge drops, triumphant electrifying climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #46"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/modern-epic/neon-synth-power-up-b",
+      "type": "music",
+      "file": "music/modern-epic/neon-synth-power-up-b.mp3",
+      "category": "modern-epic",
+      "tags": [
+        "modern",
+        "synth",
+        "orchestra",
+        "power-up",
+        "drops",
+        "electrifying"
+      ],
+      "energy": "high",
+      "duration_s": 214.9,
+      "instrumental": true,
+      "prompt": "Energetic modern epic score: driving synths and orchestra, neon power-up build, huge drops, triumphant electrifying climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #46"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/ocean-deep/ocean-predator-heartbeat-a",
+      "type": "music",
+      "file": "music/ocean-deep/ocean-predator-heartbeat-a.mp3",
+      "category": "ocean-deep",
+      "tags": [
+        "ocean",
+        "underwater",
+        "heartbeat",
+        "suspense",
+        "splash",
+        "predator"
+      ],
+      "energy": "high",
+      "duration_s": 205.2,
+      "instrumental": true,
+      "prompt": "Deep ocean suspense score: dark underwater ambience, slow heartbeat drums, sudden huge splash hit, epic predator climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #47"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/ocean-deep/ocean-predator-heartbeat-b",
+      "type": "music",
+      "file": "music/ocean-deep/ocean-predator-heartbeat-b.mp3",
+      "category": "ocean-deep",
+      "tags": [
+        "ocean",
+        "underwater",
+        "heartbeat",
+        "suspense",
+        "splash",
+        "predator"
+      ],
+      "energy": "high",
+      "duration_s": 209.7,
+      "instrumental": true,
+      "prompt": "Deep ocean suspense score: dark underwater ambience, slow heartbeat drums, sudden huge splash hit, epic predator climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #47"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/military-disaster/military-siren-disaster-a",
+      "type": "music",
+      "file": "music/military-disaster/military-siren-disaster-a.mp3",
+      "category": "military-disaster",
+      "tags": [
+        "military",
+        "snare",
+        "sirens",
+        "disaster",
+        "explosions",
+        "action"
+      ],
+      "energy": "high",
+      "duration_s": 193.6,
+      "instrumental": true,
+      "prompt": "Military action disaster score: snare drums, sirens feel, tense brass, explosions hits, overwhelming monster climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #48"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/military-disaster/military-siren-disaster-b",
+      "type": "music",
+      "file": "music/military-disaster/military-siren-disaster-b.mp3",
+      "category": "military-disaster",
+      "tags": [
+        "military",
+        "snare",
+        "sirens",
+        "disaster",
+        "explosions",
+        "action"
+      ],
+      "energy": "high",
+      "duration_s": 194.8,
+      "instrumental": true,
+      "prompt": "Military action disaster score: snare drums, sirens feel, tense brass, explosions hits, overwhelming monster climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #48"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/wonder-mystery/ancient-wonder-reveal-a",
+      "type": "music",
+      "file": "music/wonder-mystery/ancient-wonder-reveal-a.mp3",
+      "category": "wonder-mystery",
+      "tags": [
+        "wonder",
+        "ancient",
+        "discovery",
+        "choir",
+        "awe",
+        "reveal"
+      ],
+      "energy": "medium",
+      "duration_s": 240.0,
+      "instrumental": true,
+      "prompt": "Mysterious wonder score: ancient atmosphere, discovery build, ethereal choir, giant reveal hits, epic awe climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #49"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/wonder-mystery/ancient-wonder-reveal-b",
+      "type": "music",
+      "file": "music/wonder-mystery/ancient-wonder-reveal-b.mp3",
+      "category": "wonder-mystery",
+      "tags": [
+        "wonder",
+        "ancient",
+        "discovery",
+        "choir",
+        "awe",
+        "reveal"
+      ],
+      "energy": "medium",
+      "duration_s": 234.8,
+      "instrumental": true,
+      "prompt": "Mysterious wonder score: ancient atmosphere, discovery build, ethereal choir, giant reveal hits, epic awe climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #49"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/epic-rock/rock-orchestra-battle-a",
+      "type": "music",
+      "file": "music/epic-rock/rock-orchestra-battle-a.mp3",
+      "category": "epic-rock",
+      "tags": [
+        "battle",
+        "rock",
+        "guitars",
+        "orchestra",
+        "relentless",
+        "showdown"
+      ],
+      "energy": "high",
+      "duration_s": 234.7,
+      "instrumental": true,
+      "prompt": "Massive epic battle score: thunderous drums, heavy rock guitars and orchestra, relentless build, final colossal showdown climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #50"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "music/epic-rock/rock-orchestra-battle-b",
+      "type": "music",
+      "file": "music/epic-rock/rock-orchestra-battle-b.mp3",
+      "category": "epic-rock",
+      "tags": [
+        "battle",
+        "rock",
+        "guitars",
+        "orchestra",
+        "relentless",
+        "showdown"
+      ],
+      "energy": "high",
+      "duration_s": 238.7,
+      "instrumental": true,
+      "prompt": "Massive epic battle score: thunderous drums, heavy rock guitars and orchestra, relentless build, final colossal showdown climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #50"
+      ],
+      "notes": "Full-length cue with build and climax; cut any section to fit a Short."
+    },
+    {
+      "id": "sfx/transitions/whoosh",
+      "type": "sfx",
+      "file": "sfx/transitions/whoosh.mp3",
+      "category": "transitions",
+      "tags": [
+        "whoosh",
+        "swoosh",
+        "transition",
+        "fast"
+      ],
+      "duration_s": 1.0,
+      "prompt": "fast cinematic swoosh transition",
+      "generator": "ElevenLabs sound effects v3 via AI33 (/v1/task/sound-effect)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #31-#38"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/explosions/boom",
+      "type": "sfx",
+      "file": "sfx/explosions/boom.mp3",
+      "category": "explosions",
+      "tags": [
+        "explosion",
+        "boom",
+        "sub-bass",
+        "nuclear",
+        "huge"
+      ],
+      "duration_s": 3.0,
+      "prompt": "massive nuclear explosion, deep sub bass",
+      "generator": "ElevenLabs sound effects v3 via AI33 (/v1/task/sound-effect)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #31-#38"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/roar",
+      "type": "sfx",
+      "file": "sfx/creatures/roar.mp3",
+      "category": "creatures",
+      "tags": [
+        "roar",
+        "monster",
+        "kaiju",
+        "creature",
+        "distorted"
+      ],
+      "duration_s": 2.5,
+      "prompt": "giant kaiju roar, distorted",
+      "generator": "ElevenLabs sound effects v3 via AI33 (/v1/task/sound-effect)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #31-#38"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/impact",
+      "type": "sfx",
+      "file": "sfx/impacts/impact.mp3",
+      "category": "impacts",
+      "tags": [
+        "impact",
+        "hit",
+        "metal",
+        "heavy",
+        "stinger"
+      ],
+      "duration_s": 1.2,
+      "prompt": "heavy metal impact hit",
+      "generator": "ElevenLabs sound effects v3 via AI33 (/v1/task/sound-effect)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #31-#38"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/pop",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/pop.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "pop",
+        "cartoon",
+        "ui",
+        "light",
+        "comedic"
+      ],
+      "duration_s": 0.5,
+      "prompt": "cartoon pop",
+      "generator": "ElevenLabs sound effects v3 via AI33 (/v1/task/sound-effect)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #31-#38"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/scratch",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/scratch.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "record-scratch",
+        "vinyl",
+        "comedic",
+        "stop",
+        "twist"
+      ],
+      "duration_s": 1.0,
+      "prompt": "vinyl record scratch",
+      "generator": "ElevenLabs sound effects v3 via AI33 (/v1/task/sound-effect)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #31-#38"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/risers/riser",
+      "type": "sfx",
+      "file": "sfx/risers/riser.mp3",
+      "category": "risers",
+      "tags": [
+        "riser",
+        "tension",
+        "build",
+        "transition"
+      ],
+      "duration_s": 2.5,
+      "prompt": "tension riser",
+      "generator": "ElevenLabs sound effects v3 via AI33 (/v1/task/sound-effect)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-04",
+      "used_in": [
+        "kaiju-shorts #31-#38"
+      ],
+      "notes": ""
+    }
+  ]
+}
