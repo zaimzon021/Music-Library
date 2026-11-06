@@ -5320,6 +5320,146 @@
         "The Tower Part 4"
       ],
       "notes": ""
+    },
+    {
+      "id": "sfx/ambience/jungle-ambience-loop",
+      "type": "sfx",
+      "file": "sfx/ambience/jungle-ambience-loop.mp3",
+      "category": "ambience",
+      "tags": [
+        "jungle",
+        "tropical",
+        "ambience",
+        "insects",
+        "birds",
+        "loop",
+        "humid"
+      ],
+      "duration_s": 22.0,
+      "prompt": "dense tropical jungle ambience, insects, distant birds, humid, seamless loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "what-if-survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "Day 21 Onoda"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/city-street-ambience-loop",
+      "type": "sfx",
+      "file": "sfx/ambience/city-street-ambience-loop.mp3",
+      "category": "ambience",
+      "tags": [
+        "city",
+        "street",
+        "traffic",
+        "crowd",
+        "murmur",
+        "ambience",
+        "loop"
+      ],
+      "duration_s": 22.0,
+      "prompt": "busy city street ambience, distant traffic and crowd murmur, loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "what-if-survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "Day 20 Only Person With Internet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/rotary-phone-ring",
+      "type": "sfx",
+      "file": "sfx/foley/rotary-phone-ring.mp3",
+      "category": "foley",
+      "tags": [
+        "phone",
+        "telephone",
+        "rotary",
+        "landline",
+        "ring",
+        "vintage"
+      ],
+      "duration_s": 4.0,
+      "prompt": "old rotary landline telephone ringing, two rings",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "what-if-survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "Day 20"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/paper-leaflets-flutter",
+      "type": "sfx",
+      "file": "sfx/foley/paper-leaflets-flutter.mp3",
+      "category": "foley",
+      "tags": [
+        "paper",
+        "leaflets",
+        "flutter",
+        "falling",
+        "flyers"
+      ],
+      "duration_s": 4.0,
+      "prompt": "stack of paper leaflets fluttering down through the air",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "what-if-survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "Day 21"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/propeller-plane-flyby",
+      "type": "sfx",
+      "file": "sfx/vehicles/propeller-plane-flyby.mp3",
+      "category": "vehicles",
+      "tags": [
+        "plane",
+        "propeller",
+        "vintage",
+        "aircraft",
+        "flyby",
+        "overhead"
+      ],
+      "duration_s": 6.0,
+      "prompt": "vintage propeller airplane flying overhead, flyby",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "what-if-survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "Day 21"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/crowds/press-crowd-camera-flashes",
+      "type": "sfx",
+      "file": "sfx/crowds/press-crowd-camera-flashes.mp3",
+      "category": "crowds",
+      "tags": [
+        "crowd",
+        "reporters",
+        "press",
+        "camera",
+        "shutter",
+        "flash",
+        "murmur"
+      ],
+      "duration_s": 6.0,
+      "prompt": "crowd of reporters, camera shutters and flashes, murmuring",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "what-if-survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "Day 21"
+      ],
+      "notes": ""
     }
   ]
 }
