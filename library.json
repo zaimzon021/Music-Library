@@ -1527,6 +1527,32 @@
       "notes": "",
       "energy": "medium",
       "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/post-chase-resolution-drums-b",
+      "type": "music",
+      "file": "music/epic-cinematic/post-chase-resolution-drums-b.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "resolution",
+        "closure",
+        "drums",
+        "dark-pads",
+        "authority",
+        "cinematic",
+        "95bpm"
+      ],
+      "duration_s": 184.8,
+      "prompt": "cinematic resolution after a chase, heavy drums winding down, dark synth pads, sense of closure and authority, instrumental, 95 bpm",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series V5 Four PITs"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
     }
   ]
 }
