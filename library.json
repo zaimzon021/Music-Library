@@ -4442,6 +4442,174 @@
       "notes": "",
       "energy": "medium",
       "instrumental": true
+    },
+    {
+      "id": "sfx/machines/dialup-modem-handshake",
+      "type": "sfx",
+      "file": "sfx/machines/dialup-modem-handshake.mp3",
+      "category": "machines",
+      "tags": [
+        "dial-up",
+        "modem",
+        "internet",
+        "1990s",
+        "2000s",
+        "retro",
+        "screech",
+        "computer"
+      ],
+      "duration_s": 6.0,
+      "prompt": "1990s dial-up modem connecting handshake screech, clean, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If You Knew About 9/11 the Day Before?"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/machines/fax-machine-printing",
+      "type": "sfx",
+      "file": "sfx/machines/fax-machine-printing.mp3",
+      "category": "machines",
+      "tags": [
+        "fax",
+        "office",
+        "printer",
+        "paper",
+        "machine",
+        "beeps",
+        "retro"
+      ],
+      "duration_s": 5.0,
+      "prompt": "old office fax machine receiving and printing paper, mechanical whir and beeps",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If You Knew About 9/11 the Day Before?"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/office-desk-phone-ring",
+      "type": "sfx",
+      "file": "sfx/foley/office-desk-phone-ring.mp3",
+      "category": "foley",
+      "tags": [
+        "phone",
+        "telephone",
+        "ring",
+        "office",
+        "corded",
+        "landline",
+        "2000s"
+      ],
+      "duration_s": 4.0,
+      "prompt": "old corded office desk telephone ringing twice, early 2000s",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If You Knew About 9/11 the Day Before?"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/underwater-ambience-bubbles",
+      "type": "sfx",
+      "file": "sfx/water/underwater-ambience-bubbles.mp3",
+      "category": "water",
+      "tags": [
+        "underwater",
+        "ocean",
+        "ambience",
+        "bubbles",
+        "deep",
+        "muffled",
+        "loop"
+      ],
+      "duration_s": 12.0,
+      "prompt": "underwater ambience, deep ocean, gentle bubbles and muffled water, seamless",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If You Were Swallowed by a Whale?"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/humpback-whale-call",
+      "type": "sfx",
+      "file": "sfx/creatures/humpback-whale-call.mp3",
+      "category": "creatures",
+      "tags": [
+        "whale",
+        "humpback",
+        "whale-song",
+        "call",
+        "moan",
+        "underwater",
+        "ocean"
+      ],
+      "duration_s": 5.0,
+      "prompt": "humpback whale song call underwater, long low moan, clean single call",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If You Were Swallowed by a Whale?"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/giant-underwater-gulp",
+      "type": "sfx",
+      "file": "sfx/water/giant-underwater-gulp.mp3",
+      "category": "water",
+      "tags": [
+        "gulp",
+        "swallow",
+        "whale",
+        "mouth",
+        "underwater",
+        "wet",
+        "deep"
+      ],
+      "duration_s": 3.0,
+      "prompt": "huge underwater gulp, giant mouth closing, deep wet muffled swallow",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If You Were Swallowed by a Whale?"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/scuba-regulator-breathing",
+      "type": "sfx",
+      "file": "sfx/water/scuba-regulator-breathing.mp3",
+      "category": "water",
+      "tags": [
+        "scuba",
+        "diver",
+        "regulator",
+        "breathing",
+        "bubbles",
+        "underwater"
+      ],
+      "duration_s": 6.0,
+      "prompt": "scuba diver breathing through regulator underwater, inhale and bubbly exhale, two breaths",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If You Were Swallowed by a Whale?"
+      ],
+      "notes": ""
     }
   ]
 }
