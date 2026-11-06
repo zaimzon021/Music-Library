@@ -44,12 +44,56 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | synth-retro | `music/synth-retro/psychedelic-70s-sludge-b.mp3` | 240.1s | psychedelic, 1970s, synth, eerie, weird, dark |
 | music | tragic-dramatic | `music/tragic-dramatic/meltdown-choir-tragic-a.mp3` | 208.4s | tragic, choir, ticking, dread, explosive, sad-ending |
 | music | tragic-dramatic | `music/tragic-dramatic/meltdown-choir-tragic-b.mp3` | 204.8s | tragic, choir, ticking, dread, explosive, sad-ending |
+| music | true-crime | `music/true-crime/brooding-tension-pulse-a.mp3` | 189.6s | brooding, tension, dissonant, synth-pulse, unease |
+| music | true-crime | `music/true-crime/brooding-tension-pulse-b.mp3` | 207.1s | brooding, tension, dissonant, synth-pulse, unease |
+| music | true-crime | `music/true-crime/dark-investigation-drone-a.mp3` | 185.7s | true-crime, investigation, documentary, strings, piano, ominous, narration-bed |
+| music | true-crime | `music/true-crime/dark-investigation-drone-b.mp3` | 186.8s | true-crime, investigation, documentary, strings, piano, ominous, narration-bed |
+| music | true-crime | `music/true-crime/desert-investigation-guitar-a.mp3` | 200.0s | true-crime, investigation, documentary, strings, piano, ominous, narration-bed, southwestern, desert |
+| music | true-crime | `music/true-crime/desert-investigation-guitar-b.mp3` | 211.6s | true-crime, investigation, documentary, strings, piano, ominous, narration-bed, southwestern, desert |
+| music | true-crime | `music/true-crime/desert-true-crime-trailer-a.mp3` | 194.8s | true-crime, trailer, synth-bass, taiko, brass, ticking, build, southwestern, desert |
+| music | true-crime | `music/true-crime/desert-true-crime-trailer-b.mp3` | 196.8s | true-crime, trailer, synth-bass, taiko, brass, ticking, build, southwestern, desert |
+| music | true-crime | `music/true-crime/foot-chase-braams-a.mp3` | 188.4s | chase, action, braams, percussion, adrenaline, climax |
+| music | true-crime | `music/true-crime/foot-chase-braams-b.mp3` | 185.6s | chase, action, braams, percussion, adrenaline, climax |
+| music | true-crime | `music/true-crime/heartbeat-search-suspense-a.mp3` | 209.1s | suspense, search, heartbeat, ambient, waiting, restrained |
+| music | true-crime | `music/true-crime/heartbeat-search-suspense-b.mp3` | 199.3s | suspense, search, heartbeat, ambient, waiting, restrained |
+| music | true-crime | `music/true-crime/investigative-revelation-pulse-a.mp3` | 190.0s | brooding, tension, dissonant, synth-pulse, unease |
+| music | true-crime | `music/true-crime/investigative-revelation-pulse-b.mp3` | 193.9s | brooding, tension, dissonant, synth-pulse, unease |
+| music | true-crime | `music/true-crime/peak-chase-braams-a.mp3` | 183.2s | chase, action, braams, percussion, adrenaline, climax |
+| music | true-crime | `music/true-crime/peak-chase-braams-b.mp3` | 185.3s | chase, action, braams, percussion, adrenaline, climax |
+| music | true-crime | `music/true-crime/pursuit-cellos-arpeggio-a.mp3` | 184.8s | pursuit, chase, cellos, arpeggio, driving, tension |
+| music | true-crime | `music/true-crime/pursuit-cellos-arpeggio-b.mp3` | 193.5s | pursuit, chase, cellos, arpeggio, driving, tension |
+| music | true-crime | `music/true-crime/reflective-resolution-piano-2-a.mp3` | 217.6s | outro, reflective, resolution, piano, strings, somber |
+| music | true-crime | `music/true-crime/reflective-resolution-piano-2-b.mp3` | 213.2s | outro, reflective, resolution, piano, strings, somber |
+| music | true-crime | `music/true-crime/reflective-resolution-piano-a.mp3` | 203.6s | outro, reflective, resolution, piano, strings, somber |
+| music | true-crime | `music/true-crime/reflective-resolution-piano-b.mp3` | 204.3s | outro, reflective, resolution, piano, strings, somber |
+| music | true-crime | `music/true-crime/standoff-heartbeat-suspense-a.mp3` | 204.0s | suspense, search, heartbeat, ambient, waiting, restrained |
+| music | true-crime | `music/true-crime/standoff-heartbeat-suspense-b.mp3` | 196.9s | suspense, search, heartbeat, ambient, waiting, restrained |
+| music | true-crime | `music/true-crime/surveillance-thriller-arps-a.mp3` | 217.3s | surveillance, thriller, electronic, arpeggio, tracking, tension |
+| music | true-crime | `music/true-crime/surveillance-thriller-arps-b.mp3` | 210.1s | surveillance, thriller, electronic, arpeggio, tracking, tension |
+| music | true-crime | `music/true-crime/true-crime-trailer-pulse-a.mp3` | 178.9s | true-crime, trailer, synth-bass, taiko, brass, ticking, build |
+| music | true-crime | `music/true-crime/true-crime-trailer-pulse-b.mp3` | 180.0s | true-crime, trailer, synth-bass, taiko, brass, ticking, build |
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-a.mp3` | 240.0s | wonder, ancient, discovery, choir, awe, reveal |
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-b.mp3` | 234.8s | wonder, ancient, discovery, choir, awe, reveal |
 | sfx | creatures | `sfx/creatures/roar.mp3` | 2.5s | roar, monster, kaiju, creature, distorted |
 | sfx | explosions | `sfx/explosions/boom.mp3` | 3.0s | explosion, boom, sub-bass, nuclear, huge |
 | sfx | impacts | `sfx/impacts/impact.mp3` | 1.2s | impact, hit, metal, heavy, stinger |
+| sfx | impacts | `sfx/impacts/metallic-title-boom.mp3` | 3.0s | metallic, title, boom |
+| sfx | impacts | `sfx/impacts/rubber-stamp-slam.mp3` | 1.0s | rubber, stamp, slam |
+| sfx | impacts | `sfx/impacts/sub-bass-drop.mp3` | 2.0s | sub, bass, drop |
+| sfx | impacts | `sfx/impacts/trailer-impact-sub-boom.mp3` | 3.0s | trailer, impact, sub, boom |
+| sfx | police | `sfx/police/police-radio-squelch.mp3` | 1.5s | police, radio, squelch |
+| sfx | risers | `sfx/risers/cinematic-riser-abrupt.mp3` | 4.0s | cinematic, riser, abrupt |
 | sfx | risers | `sfx/risers/riser.mp3` | 2.5s | riser, tension, build, transition |
+| sfx | tension | `sfx/tension/slow-heavy-heartbeat.mp3` | 4.0s | slow, heavy, heartbeat |
+| sfx | tension | `sfx/tension/tense-clock-ticking.mp3` | 4.0s | tense, clock, ticking |
+| sfx | transitions | `sfx/transitions/air-whoosh-clean.mp3` | 1.2s | air, whoosh, clean |
+| sfx | transitions | `sfx/transitions/deep-swoosh-rumble.mp3` | 1.5s | deep, swoosh, rumble |
+| sfx | transitions | `sfx/transitions/digital-glitch-stutter.mp3` | 0.8s | digital, glitch, stutter |
+| sfx | transitions | `sfx/transitions/vhs-rewind.mp3` | 1.5s | vhs, rewind |
 | sfx | transitions | `sfx/transitions/whoosh.mp3` | 1.0s | whoosh, swoosh, transition, fast |
+| sfx | ui | `sfx/ui/camera-shutter-freeze.mp3` | 1.0s | camera, shutter, freeze |
+| sfx | ui | `sfx/ui/digital-typing-terminal.mp3` | 2.5s | digital, typing, terminal |
+| sfx | ui | `sfx/ui/digital-ui-blip.mp3` | 0.5s | digital, ui, blip |
 | sfx | ui-cartoon | `sfx/ui-cartoon/pop.mp3` | 0.5s | pop, cartoon, ui, light, comedic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/scratch.mp3` | 1.0s | record-scratch, vinyl, comedic, stop, twist |
+| sfx | vehicles | `sfx/vehicles/quadcopter-drone-hover.mp3` | 6.0s | quadcopter, drone, hover |
