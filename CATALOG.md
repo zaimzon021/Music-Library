@@ -135,8 +135,10 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | crowds | `sfx/crowds/crowd-cheer-applause.mp3` | 4.0s | crowd, cheer, applause, celebration, outdoor |
 | sfx | explosions | `sfx/explosions/boom.mp3` | 3.0s | explosion, boom, sub-bass, nuclear, huge |
 | sfx | foley | `sfx/foley/church-bell-distant-medieval.mp3` | 5.0s | bell, church, medieval, distant, village |
+| sfx | foley | `sfx/foley/crowd-cheer-joyful.mp3` | 6.0s | crowd, cheer, applause, joy, celebration, outdoor |
 | sfx | foley | `sfx/foley/keys-jingle-ring.mp3` | 1.5s | keys, jingle, keyring, metal, foley |
 | sfx | foley | `sfx/foley/money-counter-riffle.mp3` | 2.5s | money, cash, banknotes, counter, riffle, bills |
+| sfx | foley | `sfx/foley/morning-birds-loop.mp3` | 20.0s | birds, morning, outdoors, nature, breeze, loop, ambience |
 | sfx | foley | `sfx/foley/office-desk-phone-ring.mp3` | 4.0s | phone, telephone, ring, office, corded, landline, 2000s |
 | sfx | foley | `sfx/foley/running-through-corn.mp3` | 3.0s | corn, cornfield, running, rustle, foliage, foley |
 | sfx | foley | `sfx/foley/ship-bell-three.mp3` | 3.0s | bell, ship, brass, ring, three, alarm, lookout |
@@ -150,6 +152,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | impacts | `sfx/impacts/stone-floor-crumble-collapse.mp3` | 2.5s | stone, rock, crumble, collapse, floor, debris, rubble, cave-in |
 | sfx | impacts | `sfx/impacts/sub-bass-drop.mp3` | 2.0s | sub, bass, drop |
 | sfx | impacts | `sfx/impacts/trailer-impact-sub-boom.mp3` | 3.0s | trailer, impact, sub, boom |
+| sfx | impacts | `sfx/impacts/vault-door-slam-bolts.mp3` | 5.0s | vault, door, blast-door, bunker, slam, bolts, metal, lock |
+| sfx | machines | `sfx/machines/bunker-ventilation-hum.mp3` | 20.0s | ventilation, fan, hum, bunker, air, underground, loop, ambience |
 | sfx | machines | `sfx/machines/clock-tick-loop.mp3` | 6.0s | clock, tick, timer, countdown, loop, tension |
 | sfx | machines | `sfx/machines/dialup-modem-handshake.mp3` | 6.0s | dial-up, modem, internet, 1990s, 2000s, retro, screech, computer |
 | sfx | machines | `sfx/machines/drone-hover-buzz.mp3` | 6.0s | drone, quadcopter, propeller, buzz, hover, loop, surveillance |
@@ -200,9 +204,13 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | vehicles | `sfx/vehicles/spike-strip-tire-pop.mp3` | 2.0s | spike-strip, stop-sticks, tire, pop, hiss, pursuit |
 | sfx | vehicles | `sfx/vehicles/tire-screech-skid.mp3` | 2.5s | tires, screech, skid, brakes, car |
 | sfx | vehicles | `sfx/vehicles/tow-truck-winch-chain-ratchet.mp3` | 2.5s | tow-truck, winch, chain, ratchet, clank, mechanical, repo |
+| sfx | water | `sfx/water/cave-water-drips.mp3` | 20.0s | cave, drips, water, echo, cavern, ambience, loop, dark |
+| sfx | water | `sfx/water/flood-water-rush-loop.mp3` | 20.0s | flood, water, rushing, tunnel, cave, river, loop |
 | sfx | water | `sfx/water/gentle-water-lapping.mp3` | 5.0s | water, lapping, waves, moat, calm, night, ambience |
 | sfx | water | `sfx/water/giant-underwater-gulp.mp3` | 3.0s | gulp, swallow, whale, mouth, underwater, wet, deep |
+| sfx | water | `sfx/water/monsoon-rain-loop.mp3` | 20.0s | rain, monsoon, downpour, jungle, storm, loop, ambience |
 | sfx | water | `sfx/water/pool-splash.mp3` | 2.5s | splash, water, pool, drop, body, drips |
+| sfx | water | `sfx/water/scuba-breathing-bubbles.mp3` | 6.0s | scuba, diver, underwater, breathing, regulator, bubbles |
 | sfx | water | `sfx/water/scuba-regulator-breathing.mp3` | 6.0s | scuba, diver, regulator, breathing, bubbles, underwater |
 | sfx | water | `sfx/water/underwater-ambience-bubbles.mp3` | 12.0s | underwater, ocean, ambience, bubbles, deep, muffled, loop |
 | sfx | water | `sfx/water/wooden-rowboat-creak.mp3` | 2.5s | boat, rowboat, wood, creak, rocking, water |

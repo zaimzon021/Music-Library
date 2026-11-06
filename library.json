@@ -4898,6 +4898,199 @@
         "What If Ep6 Kabul"
       ],
       "notes": ""
+    },
+    {
+      "id": "sfx/impacts/vault-door-slam-bolts",
+      "type": "sfx",
+      "file": "sfx/impacts/vault-door-slam-bolts.mp3",
+      "category": "impacts",
+      "tags": [
+        "vault",
+        "door",
+        "blast-door",
+        "bunker",
+        "slam",
+        "bolts",
+        "metal",
+        "lock"
+      ],
+      "duration_s": 5.0,
+      "prompt": "heavy steel vault blast door slamming shut, metal bolts locking, deep reverb",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep16 bunker"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/machines/bunker-ventilation-hum",
+      "type": "sfx",
+      "file": "sfx/machines/bunker-ventilation-hum.mp3",
+      "category": "machines",
+      "tags": [
+        "ventilation",
+        "fan",
+        "hum",
+        "bunker",
+        "air",
+        "underground",
+        "loop",
+        "ambience"
+      ],
+      "duration_s": 20.0,
+      "prompt": "ventilation fan steady hum, underground bunker air system, loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep16 bunker"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/cave-water-drips",
+      "type": "sfx",
+      "file": "sfx/water/cave-water-drips.mp3",
+      "category": "water",
+      "tags": [
+        "cave",
+        "drips",
+        "water",
+        "echo",
+        "cavern",
+        "ambience",
+        "loop",
+        "dark"
+      ],
+      "duration_s": 20.0,
+      "prompt": "cave ambience, slow water drips echoing in a dark cavern, loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep17 thai cave"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/monsoon-rain-loop",
+      "type": "sfx",
+      "file": "sfx/water/monsoon-rain-loop.mp3",
+      "category": "water",
+      "tags": [
+        "rain",
+        "monsoon",
+        "downpour",
+        "jungle",
+        "storm",
+        "loop",
+        "ambience"
+      ],
+      "duration_s": 20.0,
+      "prompt": "heavy monsoon rain pouring on jungle, steady downpour, loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep17 thai cave"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/scuba-breathing-bubbles",
+      "type": "sfx",
+      "file": "sfx/water/scuba-breathing-bubbles.mp3",
+      "category": "water",
+      "tags": [
+        "scuba",
+        "diver",
+        "underwater",
+        "breathing",
+        "regulator",
+        "bubbles"
+      ],
+      "duration_s": 6.0,
+      "prompt": "scuba diver breathing underwater, regulator bubbles",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep17 thai cave"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/crowd-cheer-joyful",
+      "type": "sfx",
+      "file": "sfx/foley/crowd-cheer-joyful.mp3",
+      "category": "foley",
+      "tags": [
+        "crowd",
+        "cheer",
+        "applause",
+        "joy",
+        "celebration",
+        "outdoor"
+      ],
+      "duration_s": 6.0,
+      "prompt": "large outdoor crowd cheering and applauding, joyful",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep17 thai cave"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/morning-birds-loop",
+      "type": "sfx",
+      "file": "sfx/foley/morning-birds-loop.mp3",
+      "category": "foley",
+      "tags": [
+        "birds",
+        "morning",
+        "outdoors",
+        "nature",
+        "breeze",
+        "loop",
+        "ambience"
+      ],
+      "duration_s": 20.0,
+      "prompt": "morning birds chirping outdoors, gentle breeze, loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep16 bunker"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/flood-water-rush-loop",
+      "type": "sfx",
+      "file": "sfx/water/flood-water-rush-loop.mp3",
+      "category": "water",
+      "tags": [
+        "flood",
+        "water",
+        "rushing",
+        "tunnel",
+        "cave",
+        "river",
+        "loop"
+      ],
+      "duration_s": 20.0,
+      "prompt": "rushing flood water through rock tunnel, loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep17 thai cave"
+      ],
+      "notes": ""
     }
   ]
 }
