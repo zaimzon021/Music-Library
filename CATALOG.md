@@ -7,6 +7,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | comedic-menace | `music/comedic-menace/three-headed-sneaky-wink-a.mp3` | 173.9s | menacing, comedic, choir, sneaky, dragon, epic |
 | music | comedic-menace | `music/comedic-menace/three-headed-sneaky-wink-b.mp3` | 164.0s | menacing, comedic, choir, sneaky, dragon, epic |
 | music | dark-electronic | `music/dark-electronic/crime-doc-suspense-underscore-a.mp3` | 154.9s | suspense, underscore, drones, ticking, documentary, crime, tension, 90bpm |
+| music | dark-electronic | `music/dark-electronic/crime-doc-suspense-underscore-b.mp3` | 165.1s | suspense, underscore, drones, ticking, documentary, crime, tension, 90bpm |
 | music | dark-electronic | `music/dark-electronic/police-trailer-hook-subbass-a.mp3` | 190.0s | trailer, hook, sub-bass, ticking, tense, synth, big-hit, crime |
 | music | dark-electronic | `music/dark-electronic/police-trailer-hook-subbass-b.mp3` | 159.7s | trailer, hook, sub-bass, ticking, tense, synth, big-hit, crime |
 | music | dark-electronic | `music/dark-electronic/surveillance-synth-pulse-a.mp3` | 209.7s | surveillance, thriller, synth-bass, ticking, tension, build, reveal, drone, crime |
