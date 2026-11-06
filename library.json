@@ -1261,6 +1261,30 @@
         "police-video-series V6"
       ],
       "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/radar-ping",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/radar-ping.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "radar",
+        "sonar",
+        "ping",
+        "ui",
+        "electronic",
+        "scan",
+        "hud"
+      ],
+      "duration_s": 2.0,
+      "prompt": "radar sonar ping, single clean electronic ping with soft reverb tail",
+      "generator": "ElevenLabs sound effects via AI33 (/v1/task/sound-effect)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series V6"
+      ],
+      "notes": ""
     }
   ]
 }
