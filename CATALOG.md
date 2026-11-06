@@ -69,4 +69,5 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/radar-ping.mp3` | 2.0s | radar, sonar, ping, ui, electronic, scan, hud |
 | sfx | ui-cartoon | `sfx/ui-cartoon/scratch.mp3` | 1.0s | record-scratch, vinyl, comedic, stop, twist |
 | sfx | ui-cartoon | `sfx/ui-cartoon/target-lock-beeps.mp3` | 1.5s | ui, beep, target, lock-on, hud, electronic, confirm |
+| sfx | ui-cartoon | `sfx/ui-cartoon/thermal-camera-zoom.mp3` | 1.5s | thermal, camera, zoom, servo, whir, chirp, ui, hud, infrared |
 | sfx | water | `sfx/water/pool-splash.mp3` | 2.5s | splash, water, pool, drop, body, drips |

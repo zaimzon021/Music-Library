@@ -1653,6 +1653,32 @@
         "V7 Hot Spot in the Pool"
       ],
       "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/thermal-camera-zoom",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/thermal-camera-zoom.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "thermal",
+        "camera",
+        "zoom",
+        "servo",
+        "whir",
+        "chirp",
+        "ui",
+        "hud",
+        "infrared"
+      ],
+      "duration_s": 1.5,
+      "prompt": "thermal imaging camera zoom, short electronic servo whir with a soft digital chirp, clean UI sound",
+      "generator": "ElevenLabs text-to-sound v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "V7 Hot Spot in the Pool"
+      ],
+      "notes": ""
     }
   ]
 }
