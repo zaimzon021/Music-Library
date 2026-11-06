@@ -6,6 +6,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 |---|---|---|---|---|
 | music | comedic-documentary | `music/comedic-documentary/comedic-sea-shanty-voyage-bed-a.mp3` | 152.0s | comedic, documentary, sea-shanty, nautical, pirate, accordion, fiddle, concertina, 6-8, stomp-clap, age-of-exploration, narration-bed |
 | music | comedic-documentary | `music/comedic-documentary/comedic-sea-shanty-voyage-bed-b.mp3` | 155.1s | comedic, documentary, sea-shanty, nautical, pirate, accordion, fiddle, concertina, 6-8, stomp-clap, age-of-exploration, narration-bed |
+| music | comedic-documentary | `music/comedic-documentary/comedic-soviet-balalaika-march-a.mp3` | 154.3s | comedic, documentary, soviet, russian, cold-war, march, balalaika, accordion, tuba, brass, mock-heroic, narration-bed |
+| music | comedic-documentary | `music/comedic-documentary/comedic-soviet-balalaika-march-b.mp3` | 187.2s | comedic, documentary, soviet, russian, cold-war, march, balalaika, accordion, tuba, brass, mock-heroic, narration-bed |
 | music | comedic-documentary | `music/comedic-documentary/havana-mambo-sneaky-a.mp3` | 168.5s | latin, mambo, cuba, havana, congas, bongos, muted-trumpet, comedic, documentary, sneaky, 1950s |
 | music | comedic-documentary | `music/comedic-documentary/havana-mambo-sneaky-b.mp3` | 163.9s | latin, mambo, cuba, havana, congas, bongos, muted-trumpet, comedic, documentary, sneaky, 1950s |
 | music | comedic-documentary | `music/comedic-documentary/medieval-folk-tavern-comedy-a.mp3` | 172.5s | medieval, folk, lute, recorder, hurdy-gurdy, hand-drum, comedic, documentary, village, tavern, playful |
@@ -151,8 +153,10 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/church-bell-distant-medieval.mp3` | 5.0s | bell, church, medieval, distant, village |
 | sfx | foley | `sfx/foley/crowd-cheer-joyful.mp3` | 6.0s | crowd, cheer, applause, joy, celebration, outdoor |
 | sfx | foley | `sfx/foley/heavy-door-icy-wind.mp3` | 3.0s | door, heavy, metal, open, wind, cold, gust |
+| sfx | foley | `sfx/foley/heavy-executioner-footsteps.mp3` | 2.5s | footsteps, heavy, boots, stone, executioner, menacing, dungeon |
 | sfx | foley | `sfx/foley/hourglass-flip-thunk.mp3` | 1.5s | hourglass, flip, wood, thunk, glass, clink, table |
 | sfx | foley | `sfx/foley/hourglass-sand-trickle.mp3` | 4.0s | sand, hourglass, trickle, grains, timer, soft |
+| sfx | foley | `sfx/foley/jester-bells-jingle.mp3` | 1.5s | bells, jester, jingle, tinkle, playful, medieval |
 | sfx | foley | `sfx/foley/keys-jingle-ring.mp3` | 1.5s | keys, jingle, keyring, metal, foley |
 | sfx | foley | `sfx/foley/money-counter-riffle.mp3` | 2.5s | money, cash, banknotes, counter, riffle, bills |
 | sfx | foley | `sfx/foley/morning-birds-loop.mp3` | 20.0s | birds, morning, outdoors, nature, breeze, loop, ambience |
@@ -162,6 +166,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/rotary-phone-ring.mp3` | 4.0s | phone, telephone, rotary, landline, ring, vintage |
 | sfx | foley | `sfx/foley/running-through-corn.mp3` | 3.0s | corn, cornfield, running, rustle, foliage, foley |
 | sfx | foley | `sfx/foley/ship-bell-three.mp3` | 3.0s | bell, ship, brass, ring, three, alarm, lookout |
+| sfx | foley | `sfx/foley/torch-extinguish-fizzle.mp3` | 1.5s | fire, torch, extinguish, fizzle, hiss, snuff, smoke |
+| sfx | foley | `sfx/foley/torch-fire-crackle.mp3` | 4.0s | fire, torch, flame, crackle, burning, medieval, loop |
 | sfx | foley | `sfx/foley/wooden-chest-lid-creak.mp3` | 2.0s | chest, lid, creak, hinge, open, wood, treasure |
 | sfx | foley | `sfx/foley/wooden-chest-rattle.mp3` | 2.0s | chest, wood, lid, rattle, knock, box, something-inside |
 | sfx | impacts | `sfx/impacts/car-window-glass-smash.mp3` | 2.0s | glass, smash, shatter, window, car, break-in |
@@ -175,6 +181,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | impacts | `sfx/impacts/sub-bass-drop.mp3` | 2.0s | sub, bass, drop |
 | sfx | impacts | `sfx/impacts/trailer-impact-sub-boom.mp3` | 3.0s | trailer, impact, sub, boom |
 | sfx | impacts | `sfx/impacts/vault-door-slam-bolts.mp3` | 5.0s | vault, door, blast-door, bunker, slam, bolts, metal, lock |
+| sfx | impacts | `sfx/impacts/wooden-plank-snap-fall.mp3` | 2.5s | wood, plank, snap, crack, break, fall, bridge, chasm |
 | sfx | machines | `sfx/machines/bunker-ventilation-hum.mp3` | 20.0s | ventilation, fan, hum, bunker, air, underground, loop, ambience |
 | sfx | machines | `sfx/machines/clock-tick-loop.mp3` | 6.0s | clock, tick, timer, countdown, loop, tension |
 | sfx | machines | `sfx/machines/dialup-modem-handshake.mp3` | 6.0s | dial-up, modem, internet, 1990s, 2000s, retro, screech, computer |
@@ -221,6 +228,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | vehicles | `sfx/vehicles/car-power-window-down.mp3` | 2.5s | car, power, window, motor, rolling |
 | sfx | vehicles | `sfx/vehicles/cargo-plane-cabin-rumble.mp3` | 15.0s | plane, cabin, interior, drone, rumble, loop, military |
 | sfx | vehicles | `sfx/vehicles/engine-rev-high-speed.mp3` | 4.0s | engine, rev, car, speed, interior |
+| sfx | vehicles | `sfx/vehicles/engine-sputter-out-of-fuel.mp3` | 3.0s | engine, sputter, cough, stall, out-of-gas, fuel, dying, car, comedic |
 | sfx | vehicles | `sfx/vehicles/helicopter-rotor-hover-loop.mp3` | 8.0s | helicopter, rotor, hover, loop, military, night |
 | sfx | vehicles | `sfx/vehicles/jet-takeoff-roar.mp3` | 7.0s | jet, plane, takeoff, engine, roar, military, cargo |
 | sfx | vehicles | `sfx/vehicles/prop-cargo-plane-takeoff.mp3` | 9.0s | plane, propeller, cargo, takeoff, flyby, aircraft, engine |

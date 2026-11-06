@@ -5822,6 +5822,116 @@
       "added": "2026-11-06",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "sfx/foley/torch-fire-crackle",
+      "type": "sfx",
+      "file": "sfx/foley/torch-fire-crackle.mp3",
+      "category": "foley",
+      "tags": [
+        "fire",
+        "torch",
+        "flame",
+        "crackle",
+        "burning",
+        "medieval",
+        "loop"
+      ],
+      "duration_s": 4.0,
+      "prompt": "Close burning wooden torch flame, steady crackle and soft roar of fire, pops of embers, dry, no music",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/torch-extinguish-fizzle",
+      "type": "sfx",
+      "file": "sfx/foley/torch-extinguish-fizzle.mp3",
+      "category": "foley",
+      "tags": [
+        "fire",
+        "torch",
+        "extinguish",
+        "fizzle",
+        "hiss",
+        "snuff",
+        "smoke"
+      ],
+      "duration_s": 1.5,
+      "prompt": "A burning torch flame snuffed out, sharp fizzle and dying hiss then a puff of smoke, silence after, dry",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/wooden-plank-snap-fall",
+      "type": "sfx",
+      "file": "sfx/impacts/wooden-plank-snap-fall.mp3",
+      "category": "impacts",
+      "tags": [
+        "wood",
+        "plank",
+        "snap",
+        "crack",
+        "break",
+        "fall",
+        "bridge",
+        "chasm"
+      ],
+      "duration_s": 2.5,
+      "prompt": "Rotten wooden plank cracks and snaps, then the broken plank tumbles away falling down into a deep chasm, fading",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/jester-bells-jingle",
+      "type": "sfx",
+      "file": "sfx/foley/jester-bells-jingle.mp3",
+      "category": "foley",
+      "tags": [
+        "bells",
+        "jester",
+        "jingle",
+        "tinkle",
+        "playful",
+        "medieval"
+      ],
+      "duration_s": 1.5,
+      "prompt": "Jester hat with small brass bells jingling as he shakes his head, playful light tinkle, close, dry",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/heavy-executioner-footsteps",
+      "type": "sfx",
+      "file": "sfx/foley/heavy-executioner-footsteps.mp3",
+      "category": "foley",
+      "tags": [
+        "footsteps",
+        "heavy",
+        "boots",
+        "stone",
+        "executioner",
+        "menacing",
+        "dungeon"
+      ],
+      "duration_s": 2.5,
+      "prompt": "Three slow very heavy boot footsteps on stone floor, big menacing man walking, deep thuds with echo in a dungeon",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }
