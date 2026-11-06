@@ -17,6 +17,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | epic-cinematic | `music/epic-cinematic/escalating-size-build-a.mp3` | 203.7s | escalating, build, drums, brass, colossal, comparison |
 | music | epic-cinematic | `music/epic-cinematic/escalating-size-build-b.mp3` | 210.0s | escalating, build, drums, brass, colossal, comparison |
 | music | epic-cinematic | `music/epic-cinematic/highway-chase-hybrid-drums-a.mp3` | 194.8s | chase, action, taiko, electronic-drums, bass-ostinato, distorted, relentless, 140bpm |
+| music | epic-cinematic | `music/epic-cinematic/highway-chase-hybrid-drums-b.mp3` | 194.1s | chase, action, taiko, electronic-drums, bass-ostinato, distorted, relentless, 140bpm |
 | music | epic-cinematic | `music/epic-cinematic/kaiju-trailer-taiko-brass-a.mp3` | 179.6s | epic, trailer, taiko, brass, suspense, heroic, drops |
 | music | epic-cinematic | `music/epic-cinematic/kaiju-trailer-taiko-brass-b.mp3` | 180.0s | epic, trailer, taiko, brass, suspense, heroic, drops |
 | music | epic-rock | `music/epic-rock/rock-orchestra-battle-a.mp3` | 234.7s | battle, rock, guitars, orchestra, relentless, showdown |
