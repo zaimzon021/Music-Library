@@ -54,3 +54,4 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | transitions | `sfx/transitions/whoosh.mp3` | 1.0s | whoosh, swoosh, transition, fast |
 | sfx | ui-cartoon | `sfx/ui-cartoon/pop.mp3` | 0.5s | pop, cartoon, ui, light, comedic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/scratch.mp3` | 1.0s | record-scratch, vinyl, comedic, stop, twist |
+| sfx | ui-cartoon | `sfx/ui-cartoon/target-lock-beeps.mp3` | 1.5s | ui, beep, target, lock-on, hud, electronic, confirm |

@@ -1237,6 +1237,30 @@
         "police-video-series V6"
       ],
       "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/target-lock-beeps",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/target-lock-beeps.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "ui",
+        "beep",
+        "target",
+        "lock-on",
+        "hud",
+        "electronic",
+        "confirm"
+      ],
+      "duration_s": 1.5,
+      "prompt": "targeting system lock-on, three quick electronic beeps then a confirmation tone, clean UI sound",
+      "generator": "ElevenLabs sound effects via AI33 (/v1/task/sound-effect)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series V6"
+      ],
+      "notes": ""
     }
   ]
 }
