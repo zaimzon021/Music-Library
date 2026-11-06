@@ -112,7 +112,9 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | true-crime | `music/true-crime/true-crime-trailer-pulse-b.mp3` | 180.0s | true-crime, trailer, synth-bass, taiko, brass, ticking, build |
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-a.mp3` | 240.0s | wonder, ancient, discovery, choir, awe, reveal |
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-b.mp3` | 234.8s | wonder, ancient, discovery, choir, awe, reveal |
+| sfx | creatures | `sfx/creatures/corgi-happy-bark-double.mp3` | 1.5s | dog, corgi, bark, happy, excited, small-dog, cartoon |
 | sfx | creatures | `sfx/creatures/roar.mp3` | 2.5s | roar, monster, kaiju, creature, distorted |
+| sfx | creatures | `sfx/creatures/small-dog-scared-whimper.mp3` | 1.5s | dog, whimper, whine, scared, small-dog, sad |
 | sfx | explosions | `sfx/explosions/boom.mp3` | 3.0s | explosion, boom, sub-bass, nuclear, huge |
 | sfx | foley | `sfx/foley/running-through-corn.mp3` | 3.0s | corn, cornfield, running, rustle, foliage, foley |
 | sfx | foley | `sfx/foley/ship-bell-three.mp3` | 3.0s | bell, ship, brass, ring, three, alarm, lookout |
@@ -122,6 +124,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | impacts | `sfx/impacts/mechanical-net-launch-thunk.mp3` | 1.5s | mechanical, launch, thunk, net, whip, spring |
 | sfx | impacts | `sfx/impacts/metallic-title-boom.mp3` | 3.0s | metallic, title, boom |
 | sfx | impacts | `sfx/impacts/rubber-stamp-slam.mp3` | 1.0s | rubber, stamp, slam |
+| sfx | impacts | `sfx/impacts/stone-floor-crumble-collapse.mp3` | 2.5s | stone, rock, crumble, collapse, floor, debris, rubble, cave-in |
 | sfx | impacts | `sfx/impacts/sub-bass-drop.mp3` | 2.0s | sub, bass, drop |
 | sfx | impacts | `sfx/impacts/trailer-impact-sub-boom.mp3` | 3.0s | trailer, impact, sub, boom |
 | sfx | machines | `sfx/machines/clock-tick-loop.mp3` | 6.0s | clock, tick, timer, countdown, loop, tension |

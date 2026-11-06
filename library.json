@@ -3812,6 +3812,78 @@
       "notes": "",
       "energy": "medium",
       "instrumental": true
+    },
+    {
+      "id": "sfx/creatures/corgi-happy-bark-double",
+      "type": "sfx",
+      "file": "sfx/creatures/corgi-happy-bark-double.mp3",
+      "category": "creatures",
+      "tags": [
+        "dog",
+        "corgi",
+        "bark",
+        "happy",
+        "excited",
+        "small-dog",
+        "cartoon"
+      ],
+      "duration_s": 1.5,
+      "prompt": "small corgi dog two happy excited barks, close, clean, no background",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [
+        "The Tower Part 2"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/small-dog-scared-whimper",
+      "type": "sfx",
+      "file": "sfx/creatures/small-dog-scared-whimper.mp3",
+      "category": "creatures",
+      "tags": [
+        "dog",
+        "whimper",
+        "whine",
+        "scared",
+        "small-dog",
+        "sad"
+      ],
+      "duration_s": 1.5,
+      "prompt": "small dog scared whimper, short high whine, close, clean, no background",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [
+        "The Tower Part 2"
+      ],
+      "notes": "raw output was very quiet; normalized +27 dB"
+    },
+    {
+      "id": "sfx/impacts/stone-floor-crumble-collapse",
+      "type": "sfx",
+      "file": "sfx/impacts/stone-floor-crumble-collapse.mp3",
+      "category": "impacts",
+      "tags": [
+        "stone",
+        "rock",
+        "crumble",
+        "collapse",
+        "floor",
+        "debris",
+        "rubble",
+        "cave-in"
+      ],
+      "duration_s": 2.5,
+      "prompt": "stone floor cracking and crumbling, heavy rocks breaking and falling into a deep pit, close, clean, no background",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [
+        "The Tower Part 2"
+      ],
+      "notes": "leading silence trimmed"
     }
   ]
 }
