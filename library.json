@@ -2508,6 +2508,122 @@
       "added": "2026-11-06",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "music/true-crime/heartland-chase-guitar-a",
+      "type": "music",
+      "file": "music/true-crime/heartland-chase-guitar-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "heartland",
+        "rural",
+        "chase",
+        "acoustic-guitar",
+        "toms",
+        "farmland",
+        "daytime",
+        "build"
+      ],
+      "duration_s": 204.9,
+      "prompt": "Instrumental tense heartland chase score: driving acoustic guitar ostinato, pounding toms, distorted bass, wide open farmland feel, building chase energy, cinematic, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v8"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/heartland-chase-guitar-b",
+      "type": "music",
+      "file": "music/true-crime/heartland-chase-guitar-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "heartland",
+        "rural",
+        "chase",
+        "acoustic-guitar",
+        "toms",
+        "farmland",
+        "daytime",
+        "build"
+      ],
+      "duration_s": 198.8,
+      "prompt": "Instrumental tense heartland chase score: driving acoustic guitar ostinato, pounding toms, distorted bass, wide open farmland feel, building chase energy, cinematic, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v8"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/foley/running-through-corn",
+      "type": "sfx",
+      "file": "sfx/foley/running-through-corn.mp3",
+      "category": "foley",
+      "tags": [
+        "corn",
+        "cornfield",
+        "running",
+        "rustle",
+        "foliage",
+        "foley"
+      ],
+      "duration_s": 3.0,
+      "prompt": "someone running fast through dry corn stalks, leaves rustling and snapping",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/spike-strip-tire-pop",
+      "type": "sfx",
+      "file": "sfx/vehicles/spike-strip-tire-pop.mp3",
+      "category": "vehicles",
+      "tags": [
+        "spike-strip",
+        "stop-sticks",
+        "tire",
+        "pop",
+        "hiss",
+        "pursuit"
+      ],
+      "duration_s": 2.0,
+      "prompt": "car tires hitting a police spike strip, pop and rushing air hiss",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/police/police-pa-feedback-click",
+      "type": "sfx",
+      "file": "sfx/police/police-pa-feedback-click.mp3",
+      "category": "police",
+      "tags": [
+        "police",
+        "pa",
+        "loudspeaker",
+        "feedback",
+        "click"
+      ],
+      "duration_s": 1.5,
+      "prompt": "police car loudspeaker PA feedback squeal and click, no voice",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }

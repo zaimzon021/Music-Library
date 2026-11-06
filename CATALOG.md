@@ -58,6 +58,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | true-crime | `music/true-crime/forest-manhunt-strings-b.mp3` | 220.1s | forest, manhunt, search, strings, eerie, heartbeat, build, tension |
 | music | true-crime | `music/true-crime/heartbeat-search-suspense-a.mp3` | 209.1s | suspense, search, heartbeat, ambient, waiting, restrained |
 | music | true-crime | `music/true-crime/heartbeat-search-suspense-b.mp3` | 199.3s | suspense, search, heartbeat, ambient, waiting, restrained |
+| music | true-crime | `music/true-crime/heartland-chase-guitar-a.mp3` | 204.9s | heartland, rural, chase, acoustic-guitar, toms, farmland, daytime, build |
+| music | true-crime | `music/true-crime/heartland-chase-guitar-b.mp3` | 198.8s | heartland, rural, chase, acoustic-guitar, toms, farmland, daytime, build |
 | music | true-crime | `music/true-crime/investigative-revelation-pulse-a.mp3` | 190.0s | brooding, tension, dissonant, synth-pulse, unease |
 | music | true-crime | `music/true-crime/investigative-revelation-pulse-b.mp3` | 193.9s | brooding, tension, dissonant, synth-pulse, unease |
 | music | true-crime | `music/true-crime/night-pursuit-synthwave-a.mp3` | 237.7s | night, pursuit, chase, synthwave, neon, driving, build, climax |
@@ -80,6 +82,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-b.mp3` | 234.8s | wonder, ancient, discovery, choir, awe, reveal |
 | sfx | creatures | `sfx/creatures/roar.mp3` | 2.5s | roar, monster, kaiju, creature, distorted |
 | sfx | explosions | `sfx/explosions/boom.mp3` | 3.0s | explosion, boom, sub-bass, nuclear, huge |
+| sfx | foley | `sfx/foley/running-through-corn.mp3` | 3.0s | corn, cornfield, running, rustle, foliage, foley |
 | sfx | impacts | `sfx/impacts/distant-single-gunshot.mp3` | 2.5s | gunshot, distant, single, echo, rural |
 | sfx | impacts | `sfx/impacts/impact.mp3` | 1.2s | impact, hit, metal, heavy, stinger |
 | sfx | impacts | `sfx/impacts/mechanical-net-launch-thunk.mp3` | 1.5s | mechanical, launch, thunk, net, whip, spring |
@@ -89,6 +92,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | impacts | `sfx/impacts/trailer-impact-sub-boom.mp3` | 3.0s | trailer, impact, sub, boom |
 | sfx | police | `sfx/police/handcuffs-ratchet-click.mp3` | 2.0s | handcuffs, metal, click, ratchet, arrest |
 | sfx | police | `sfx/police/police-dog-barking.mp3` | 3.0s | dog, k9, bark, police, outdoors |
+| sfx | police | `sfx/police/police-pa-feedback-click.mp3` | 1.5s | police, pa, loudspeaker, feedback, click |
 | sfx | police | `sfx/police/police-radio-squelch.mp3` | 1.5s | police, radio, squelch |
 | sfx | police | `sfx/police/siren-wail-passing.mp3` | 4.0s | siren, police, wail, passing, emergency |
 | sfx | risers | `sfx/risers/cinematic-riser-abrupt.mp3` | 4.0s | cinematic, riser, abrupt |
@@ -108,4 +112,5 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | vehicles | `sfx/vehicles/car-power-window-down.mp3` | 2.5s | car, power, window, motor, rolling |
 | sfx | vehicles | `sfx/vehicles/engine-rev-high-speed.mp3` | 4.0s | engine, rev, car, speed, interior |
 | sfx | vehicles | `sfx/vehicles/quadcopter-drone-hover.mp3` | 6.0s | quadcopter, drone, hover |
+| sfx | vehicles | `sfx/vehicles/spike-strip-tire-pop.mp3` | 2.0s | spike-strip, stop-sticks, tire, pop, hiss, pursuit |
 | sfx | vehicles | `sfx/vehicles/tire-screech-skid.mp3` | 2.5s | tires, screech, skid, brakes, car |
