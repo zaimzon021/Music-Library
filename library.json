@@ -3198,6 +3198,29 @@
       "notes": "",
       "energy": "medium",
       "instrumental": true
+    },
+    {
+      "id": "sfx/radio/police-radio-squelch",
+      "type": "sfx",
+      "file": "sfx/radio/police-radio-squelch.mp3",
+      "category": "radio",
+      "tags": [
+        "police",
+        "radio",
+        "squelch",
+        "static",
+        "dispatch",
+        "bodycam"
+      ],
+      "duration_s": 1.0,
+      "prompt": "short police radio squelch burst with static",
+      "generator": "elevenlabs-sound-generation",
+      "added_by": "eleven-feet-police-recaps",
+      "added": "2026-11-06",
+      "used_in": [
+        "One Way Out"
+      ],
+      "notes": ""
     }
   ]
 }
