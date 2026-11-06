@@ -4028,6 +4028,113 @@
       "added": "2026-11-06",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "sfx/creatures/goose-panicked-honk",
+      "type": "sfx",
+      "file": "sfx/creatures/goose-panicked-honk.mp3",
+      "category": "creatures",
+      "tags": [
+        "goose",
+        "honk",
+        "bird",
+        "panic",
+        "farm",
+        "cartoon"
+      ],
+      "duration_s": 1.5,
+      "prompt": "goose honking loudly in panic, two sharp honks, close, clean, no background",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/fox-snarl-snap",
+      "type": "sfx",
+      "file": "sfx/creatures/fox-snarl-snap.mp3",
+      "category": "creatures",
+      "tags": [
+        "fox",
+        "snarl",
+        "growl",
+        "bite",
+        "snap",
+        "predator"
+      ],
+      "duration_s": 1.5,
+      "prompt": "fox snarl and quick snapping bite, short, close, clean, no background",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/wooden-rowboat-creak",
+      "type": "sfx",
+      "file": "sfx/water/wooden-rowboat-creak.mp3",
+      "category": "water",
+      "tags": [
+        "boat",
+        "rowboat",
+        "wood",
+        "creak",
+        "rocking",
+        "water"
+      ],
+      "duration_s": 2.5,
+      "prompt": "small wooden rowing boat creaking as it rocks on water, close, clean, no background",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/gentle-water-lapping",
+      "type": "sfx",
+      "file": "sfx/water/gentle-water-lapping.mp3",
+      "category": "water",
+      "tags": [
+        "water",
+        "lapping",
+        "waves",
+        "moat",
+        "calm",
+        "night",
+        "ambience"
+      ],
+      "duration_s": 5.0,
+      "prompt": "gentle water lapping against a stone wall at night, calm, close, clean, no background",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/machines/iron-portcullis-grinding-down",
+      "type": "sfx",
+      "file": "sfx/machines/iron-portcullis-grinding-down.mp3",
+      "category": "machines",
+      "tags": [
+        "portcullis",
+        "gate",
+        "iron",
+        "grinding",
+        "chains",
+        "castle",
+        "medieval"
+      ],
+      "duration_s": 4.0,
+      "prompt": "heavy iron portcullis grinding down with rattling chains, castle gate, close, clean, no background",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }

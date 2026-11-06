@@ -115,6 +115,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-a.mp3` | 240.0s | wonder, ancient, discovery, choir, awe, reveal |
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-b.mp3` | 234.8s | wonder, ancient, discovery, choir, awe, reveal |
 | sfx | creatures | `sfx/creatures/corgi-happy-bark-double.mp3` | 1.5s | dog, corgi, bark, happy, excited, small-dog, cartoon |
+| sfx | creatures | `sfx/creatures/fox-snarl-snap.mp3` | 1.5s | fox, snarl, growl, bite, snap, predator |
+| sfx | creatures | `sfx/creatures/goose-panicked-honk.mp3` | 1.5s | goose, honk, bird, panic, farm, cartoon |
 | sfx | creatures | `sfx/creatures/roar.mp3` | 2.5s | roar, monster, kaiju, creature, distorted |
 | sfx | creatures | `sfx/creatures/small-dog-scared-whimper.mp3` | 1.5s | dog, whimper, whine, scared, small-dog, sad |
 | sfx | explosions | `sfx/explosions/boom.mp3` | 3.0s | explosion, boom, sub-bass, nuclear, huge |
@@ -132,6 +134,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | impacts | `sfx/impacts/trailer-impact-sub-boom.mp3` | 3.0s | trailer, impact, sub, boom |
 | sfx | machines | `sfx/machines/clock-tick-loop.mp3` | 6.0s | clock, tick, timer, countdown, loop, tension |
 | sfx | machines | `sfx/machines/drone-hover-buzz.mp3` | 6.0s | drone, quadcopter, propeller, buzz, hover, loop, surveillance |
+| sfx | machines | `sfx/machines/iron-portcullis-grinding-down.mp3` | 4.0s | portcullis, gate, iron, grinding, chains, castle, medieval |
 | sfx | police | `sfx/police/handcuffs-ratchet-click.mp3` | 2.0s | handcuffs, metal, click, ratchet, arrest |
 | sfx | police | `sfx/police/police-dog-barking.mp3` | 3.0s | dog, k9, bark, police, outdoors |
 | sfx | police | `sfx/police/police-pa-feedback-click.mp3` | 1.5s | police, pa, loudspeaker, feedback, click |
@@ -168,4 +171,6 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | vehicles | `sfx/vehicles/spike-strip-tire-pop.mp3` | 2.0s | spike-strip, stop-sticks, tire, pop, hiss, pursuit |
 | sfx | vehicles | `sfx/vehicles/tire-screech-skid.mp3` | 2.5s | tires, screech, skid, brakes, car |
 | sfx | vehicles | `sfx/vehicles/tow-truck-winch-chain-ratchet.mp3` | 2.5s | tow-truck, winch, chain, ratchet, clank, mechanical, repo |
+| sfx | water | `sfx/water/gentle-water-lapping.mp3` | 5.0s | water, lapping, waves, moat, calm, night, ambience |
 | sfx | water | `sfx/water/pool-splash.mp3` | 2.5s | splash, water, pool, drop, body, drips |
+| sfx | water | `sfx/water/wooden-rowboat-creak.mp3` | 2.5s | boat, rowboat, wood, creak, rocking, water |
