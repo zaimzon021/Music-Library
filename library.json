@@ -3221,6 +3221,166 @@
         "One Way Out"
       ],
       "notes": ""
+    },
+    {
+      "id": "music/modern-epic/anime-rock-transformation-drop-a",
+      "type": "music",
+      "file": "music/modern-epic/anime-rock-transformation-drop-a.mp3",
+      "category": "modern-epic",
+      "tags": [
+        "anime",
+        "rock",
+        "guitars",
+        "taiko",
+        "transformation",
+        "playful",
+        "heroic"
+      ],
+      "duration_s": 183.2,
+      "prompt": "Energetic anime-style instrumental, no vocals: quiet tense synth pulse intro, sudden big taiko drum hit, driving rock guitars and orchestral strings building, a hard drop with heavy drums for the transformation, playful bouncy breakdown for the comedic ending, heroic climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-06",
+      "used_in": [
+        "kaiju short 16"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/modern-epic/anime-rock-transformation-drop-b",
+      "type": "music",
+      "file": "music/modern-epic/anime-rock-transformation-drop-b.mp3",
+      "category": "modern-epic",
+      "tags": [
+        "anime",
+        "rock",
+        "guitars",
+        "taiko",
+        "transformation",
+        "playful",
+        "heroic"
+      ],
+      "duration_s": 183.8,
+      "prompt": "Energetic anime-style instrumental, no vocals: quiet tense synth pulse intro, sudden big taiko drum hit, driving rock guitars and orchestral strings building, a hard drop with heavy drums for the transformation, playful bouncy breakdown for the comedic ending, heroic climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-06",
+      "used_in": [
+        "kaiju short 16"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/cosmic-crystal-kaiju-trailer-a",
+      "type": "music",
+      "file": "music/epic-cinematic/cosmic-crystal-kaiju-trailer-a.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "sci-fi",
+        "cosmic",
+        "crystal",
+        "chimes",
+        "taiko",
+        "choir",
+        "brass",
+        "epic"
+      ],
+      "duration_s": 174.9,
+      "prompt": "Instrumental cinematic kaiju sci-fi trailer, eerie cosmic synth pads and glassy crystal chimes in a quiet suspense intro, then a huge taiko drum hit, pulsing low brass and choir build, driving orchestral drop with heavy percussion, epic climax with roaring brass, then short triumphant sting ending; no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-06",
+      "used_in": [
+        "kaiju short 21"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/cosmic-crystal-kaiju-trailer-b",
+      "type": "music",
+      "file": "music/epic-cinematic/cosmic-crystal-kaiju-trailer-b.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "sci-fi",
+        "cosmic",
+        "crystal",
+        "chimes",
+        "taiko",
+        "choir",
+        "brass",
+        "epic"
+      ],
+      "duration_s": 178.8,
+      "prompt": "Instrumental cinematic kaiju sci-fi trailer, eerie cosmic synth pads and glassy crystal chimes in a quiet suspense intro, then a huge taiko drum hit, pulsing low brass and choir build, driving orchestral drop with heavy percussion, epic climax with roaring brass, then short triumphant sting ending; no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-06",
+      "used_in": [
+        "kaiju short 21"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/reactor-hum-science-reveal-a",
+      "type": "music",
+      "file": "music/epic-cinematic/reactor-hum-science-reveal-a.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "sci-fi",
+        "reactor",
+        "drone",
+        "ticking",
+        "electric",
+        "explosion",
+        "science-reveal",
+        "heroic"
+      ],
+      "duration_s": 193.3,
+      "prompt": "Dynamic cinematic sci-fi kaiju trailer score: low humming reactor drone and ticking suspense intro, sudden huge drum hit, pulsing synth and taiko build with rising electric crackles, drop to near silence then massive explosion hit, eerie shimmering middle for a science reveal, final epic heroic brass climax. Instrumental.",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-06",
+      "used_in": [
+        "kaiju short 26"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/reactor-hum-science-reveal-b",
+      "type": "music",
+      "file": "music/epic-cinematic/reactor-hum-science-reveal-b.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "sci-fi",
+        "reactor",
+        "drone",
+        "ticking",
+        "electric",
+        "explosion",
+        "science-reveal",
+        "heroic"
+      ],
+      "duration_s": 199.3,
+      "prompt": "Dynamic cinematic sci-fi kaiju trailer score: low humming reactor drone and ticking suspense intro, sudden huge drum hit, pulsing synth and taiko build with rising electric crackles, drop to near silence then massive explosion hit, eerie shimmering middle for a science reveal, final epic heroic brass climax. Instrumental.",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "kaiju-shorts",
+      "added": "2026-11-06",
+      "used_in": [
+        "kaiju short 26"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
     }
   ]
 }

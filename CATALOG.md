@@ -16,6 +16,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | dark-electronic | `music/dark-electronic/toxic-hazard-pulse-b.mp3` | 204.0s | toxic, electronic, bass, alarm, gritty, ominous |
 | music | epic-cinematic | `music/epic-cinematic/choir-clicking-battle-a.mp3` | 218.0s | ominous, choir, brass, dread, battle, monster |
 | music | epic-cinematic | `music/epic-cinematic/choir-clicking-battle-b.mp3` | 203.7s | ominous, choir, brass, dread, battle, monster |
+| music | epic-cinematic | `music/epic-cinematic/cosmic-crystal-kaiju-trailer-a.mp3` | 174.9s | sci-fi, cosmic, crystal, chimes, taiko, choir, brass, epic |
+| music | epic-cinematic | `music/epic-cinematic/cosmic-crystal-kaiju-trailer-b.mp3` | 178.8s | sci-fi, cosmic, crystal, chimes, taiko, choir, brass, epic |
 | music | epic-cinematic | `music/epic-cinematic/escalating-size-build-a.mp3` | 203.7s | escalating, build, drums, brass, colossal, comparison |
 | music | epic-cinematic | `music/epic-cinematic/escalating-size-build-b.mp3` | 210.0s | escalating, build, drums, brass, colossal, comparison |
 | music | epic-cinematic | `music/epic-cinematic/highway-chase-hybrid-drums-a.mp3` | 194.8s | chase, action, taiko, electronic-drums, bass-ostinato, distorted, relentless, 140bpm |
@@ -26,6 +28,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | epic-cinematic | `music/epic-cinematic/post-chase-resolution-drums-b.mp3` | 184.8s | resolution, closure, drums, dark-pads, authority, cinematic, 95bpm |
 | music | epic-cinematic | `music/epic-cinematic/pursuit-action-brass-strings-a.mp3` | 176.8s | action, orchestral, percussion, brass-stabs, strings, urgent, pursuit, 130bpm |
 | music | epic-cinematic | `music/epic-cinematic/pursuit-action-brass-strings-b.mp3` | 168.3s | action, orchestral, percussion, brass-stabs, strings, urgent, pursuit, 130bpm |
+| music | epic-cinematic | `music/epic-cinematic/reactor-hum-science-reveal-a.mp3` | 193.3s | sci-fi, reactor, drone, ticking, electric, explosion, science-reveal, heroic |
+| music | epic-cinematic | `music/epic-cinematic/reactor-hum-science-reveal-b.mp3` | 199.3s | sci-fi, reactor, drone, ticking, electric, explosion, science-reveal, heroic |
 | music | epic-rock | `music/epic-rock/rock-orchestra-battle-a.mp3` | 234.7s | battle, rock, guitars, orchestra, relentless, showdown |
 | music | epic-rock | `music/epic-rock/rock-orchestra-battle-b.mp3` | 238.7s | battle, rock, guitars, orchestra, relentless, showdown |
 | music | horror | `music/horror/jungle-creature-chase-a.mp3` | 186.9s | horror, creepy, drones, scare-hits, chase, jungle |
@@ -38,6 +42,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | mech-industrial | `music/mech-industrial/industrial-mech-stomp-b.mp3` | 204.5s | mech, robot, industrial, synth, metallic, heroic |
 | music | military-disaster | `music/military-disaster/military-siren-disaster-a.mp3` | 193.6s | military, snare, sirens, disaster, explosions, action |
 | music | military-disaster | `music/military-disaster/military-siren-disaster-b.mp3` | 194.8s | military, snare, sirens, disaster, explosions, action |
+| music | modern-epic | `music/modern-epic/anime-rock-transformation-drop-a.mp3` | 183.2s | anime, rock, guitars, taiko, transformation, playful, heroic |
+| music | modern-epic | `music/modern-epic/anime-rock-transformation-drop-b.mp3` | 183.8s | anime, rock, guitars, taiko, transformation, playful, heroic |
 | music | modern-epic | `music/modern-epic/neon-synth-power-up-a.mp3` | 225.3s | modern, synth, orchestra, power-up, drops, electrifying |
 | music | modern-epic | `music/modern-epic/neon-synth-power-up-b.mp3` | 214.9s | modern, synth, orchestra, power-up, drops, electrifying |
 | music | noir-suspense | `music/noir-suspense/sly-noir-pizzicato-a.mp3` | 197.3s | noir, suspense, pizzicato, upright-bass, jazz, comedic, sly, late-night |
