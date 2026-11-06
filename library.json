@@ -4805,6 +4805,99 @@
         "What If You Were Swallowed by a Whale?"
       ],
       "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/jet-takeoff-roar",
+      "type": "sfx",
+      "file": "sfx/vehicles/jet-takeoff-roar.mp3",
+      "category": "vehicles",
+      "tags": [
+        "jet",
+        "plane",
+        "takeoff",
+        "engine",
+        "roar",
+        "military",
+        "cargo"
+      ],
+      "duration_s": 7.0,
+      "prompt": "Large four-engine military cargo jet taking off, turbofan roar building and passing, no music",
+      "generator": "ai33-sfx",
+      "added_by": "hark",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If Ep6 Kabul"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/crowd-murmur-outdoor",
+      "type": "sfx",
+      "file": "sfx/ambience/crowd-murmur-outdoor.mp3",
+      "category": "ambience",
+      "tags": [
+        "crowd",
+        "murmur",
+        "outdoor",
+        "ambience",
+        "loop",
+        "anxious"
+      ],
+      "duration_s": 15.0,
+      "prompt": "Large anxious outdoor crowd murmur, many voices indistinct, distant, no clear words, ambience (loop)",
+      "generator": "ai33-sfx",
+      "added_by": "hark",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If Ep6 Kabul"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/underwater-ambience",
+      "type": "sfx",
+      "file": "sfx/ambience/underwater-ambience.mp3",
+      "category": "ambience",
+      "tags": [
+        "underwater",
+        "ocean",
+        "bubbles",
+        "ambience",
+        "loop"
+      ],
+      "duration_s": 15.0,
+      "prompt": "Calm underwater ambience, muffled ocean, gentle bubbles rising, soft low rumble (loop)",
+      "generator": "ai33-sfx",
+      "added_by": "hark",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If Ep7 Never Sleep"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/cargo-plane-cabin-rumble",
+      "type": "sfx",
+      "file": "sfx/vehicles/cargo-plane-cabin-rumble.mp3",
+      "category": "vehicles",
+      "tags": [
+        "plane",
+        "cabin",
+        "interior",
+        "drone",
+        "rumble",
+        "loop",
+        "military"
+      ],
+      "duration_s": 15.0,
+      "prompt": "Inside a military cargo plane in flight, steady deep engine drone and airframe rumble, ambience (loop)",
+      "generator": "ai33-sfx",
+      "added_by": "hark",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If Ep6 Kabul"
+      ],
+      "notes": ""
     }
   ]
 }

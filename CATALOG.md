@@ -118,9 +118,11 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | true-crime | `music/true-crime/true-crime-trailer-pulse-b.mp3` | 180.0s | true-crime, trailer, synth-bass, taiko, brass, ticking, build |
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-a.mp3` | 240.0s | wonder, ancient, discovery, choir, awe, reveal |
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-b.mp3` | 234.8s | wonder, ancient, discovery, choir, awe, reveal |
+| sfx | ambience | `sfx/ambience/crowd-murmur-outdoor.mp3` | 15.0s | crowd, murmur, outdoor, ambience, loop, anxious |
 | sfx | ambience | `sfx/ambience/crowd-murmur-tv-news.mp3` | 8.0s | crowd, murmur, reporters, news, cameras, outdoor |
 | sfx | ambience | `sfx/ambience/medieval-village-ambience-loop.mp3` | 15.0s | medieval, village, ambience, rooster, morning, loop |
 | sfx | ambience | `sfx/ambience/night-crickets-ambience-loop.mp3` | 15.0s | night, crickets, ambience, calm, loop, dogs |
+| sfx | ambience | `sfx/ambience/underwater-ambience.mp3` | 15.0s | underwater, ocean, bubbles, ambience, loop |
 | sfx | creatures | `sfx/creatures/chickens-clucking-yard.mp3` | 5.0s | chicken, cluck, farm, yard, animals |
 | sfx | creatures | `sfx/creatures/corgi-happy-bark-double.mp3` | 1.5s | dog, corgi, bark, happy, excited, small-dog, cartoon |
 | sfx | creatures | `sfx/creatures/cow-moo-single.mp3` | 2.5s | cow, moo, farm, animal |
@@ -189,8 +191,10 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | vehicles | `sfx/vehicles/car-alarm-siren-burst.mp3` | 2.5s | car, alarm, siren, whoop, wail, comedic |
 | sfx | vehicles | `sfx/vehicles/car-horn-double-honk.mp3` | 1.2s | car, horn, honk, beep, comedic |
 | sfx | vehicles | `sfx/vehicles/car-power-window-down.mp3` | 2.5s | car, power, window, motor, rolling |
+| sfx | vehicles | `sfx/vehicles/cargo-plane-cabin-rumble.mp3` | 15.0s | plane, cabin, interior, drone, rumble, loop, military |
 | sfx | vehicles | `sfx/vehicles/engine-rev-high-speed.mp3` | 4.0s | engine, rev, car, speed, interior |
 | sfx | vehicles | `sfx/vehicles/helicopter-rotor-hover-loop.mp3` | 8.0s | helicopter, rotor, hover, loop, military, night |
+| sfx | vehicles | `sfx/vehicles/jet-takeoff-roar.mp3` | 7.0s | jet, plane, takeoff, engine, roar, military, cargo |
 | sfx | vehicles | `sfx/vehicles/quadcopter-drone-hover.mp3` | 6.0s | quadcopter, drone, hover |
 | sfx | vehicles | `sfx/vehicles/ship-horn.mp3` | 4.0s | ship, horn, foghorn, steamship, harbour, low |
 | sfx | vehicles | `sfx/vehicles/spike-strip-tire-pop.mp3` | 2.0s | spike-strip, stop-sticks, tire, pop, hiss, pursuit |
