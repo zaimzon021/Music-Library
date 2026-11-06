@@ -1312,6 +1312,33 @@
       "notes": "",
       "energy": "high",
       "instrumental": true
+    },
+    {
+      "id": "music/dark-electronic/police-trailer-hook-subbass-b",
+      "type": "music",
+      "file": "music/dark-electronic/police-trailer-hook-subbass-b.mp3",
+      "category": "dark-electronic",
+      "tags": [
+        "trailer",
+        "hook",
+        "sub-bass",
+        "ticking",
+        "tense",
+        "synth",
+        "big-hit",
+        "crime"
+      ],
+      "duration_s": 159.7,
+      "prompt": "dark cinematic trailer hook, pulsing sub bass, ticking clock, tense synth drones, building to a huge hit, instrumental, no vocals, 100 bpm",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series V5 Four PITs"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
     }
   ]
 }
