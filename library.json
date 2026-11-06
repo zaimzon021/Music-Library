@@ -1159,6 +1159,1473 @@
       "notes": ""
     },
     {
+      "id": "music/noir-suspense/sly-noir-pizzicato-a",
+      "type": "music",
+      "file": "music/noir-suspense/sly-noir-pizzicato-a.mp3",
+      "category": "noir-suspense",
+      "tags": [
+        "noir",
+        "suspense",
+        "pizzicato",
+        "upright-bass",
+        "jazz",
+        "comedic",
+        "sly",
+        "late-night"
+      ],
+      "duration_s": 197.3,
+      "prompt": "sly late-night noir suspense, plucked pizzicato strings, muted upright bass, brushed ticking hi-hat, smoky jazz club tension with a wry comedic undertone, slow intro, steady build, dramatic climax hit, instrumental",
+      "generator": "Suno via AI33",
+      "added_by": "bodycam-verdict",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/noir-suspense/sly-noir-pizzicato-b",
+      "type": "music",
+      "file": "music/noir-suspense/sly-noir-pizzicato-b.mp3",
+      "category": "noir-suspense",
+      "tags": [
+        "noir",
+        "suspense",
+        "pizzicato",
+        "upright-bass",
+        "jazz",
+        "comedic",
+        "sly",
+        "late-night"
+      ],
+      "duration_s": 194.4,
+      "prompt": "sly late-night noir suspense, plucked pizzicato strings, muted upright bass, brushed ticking hi-hat, smoky jazz club tension with a wry comedic undertone, slow intro, steady build, dramatic climax hit, instrumental",
+      "generator": "Suno via AI33",
+      "added_by": "bodycam-verdict",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/true-crime-trailer-pulse-a",
+      "type": "music",
+      "file": "music/true-crime/true-crime-trailer-pulse-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "true-crime",
+        "trailer",
+        "synth-bass",
+        "taiko",
+        "brass",
+        "ticking",
+        "build"
+      ],
+      "duration_s": 178.9,
+      "prompt": "Instrumental cinematic true crime trailer underscore: tense pulsing synth bass, ticking clock hi-hats, deep taiko hits, dark brass swells, relentless build, no vocals, police chase documentary",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/true-crime-trailer-pulse-b",
+      "type": "music",
+      "file": "music/true-crime/true-crime-trailer-pulse-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "true-crime",
+        "trailer",
+        "synth-bass",
+        "taiko",
+        "brass",
+        "ticking",
+        "build"
+      ],
+      "duration_s": 180.0,
+      "prompt": "Instrumental cinematic true crime trailer underscore: tense pulsing synth bass, ticking clock hi-hats, deep taiko hits, dark brass swells, relentless build, no vocals, police chase documentary",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/dark-investigation-drone-a",
+      "type": "music",
+      "file": "music/true-crime/dark-investigation-drone-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "true-crime",
+        "investigation",
+        "documentary",
+        "strings",
+        "piano",
+        "ominous",
+        "narration-bed"
+      ],
+      "duration_s": 185.7,
+      "prompt": "Instrumental dark investigative documentary score: low droning strings, sparse muted piano notes, soft ticking pulse, ominous and mysterious, slowly building, no vocals, room for narration",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4"
+      ],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/dark-investigation-drone-b",
+      "type": "music",
+      "file": "music/true-crime/dark-investigation-drone-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "true-crime",
+        "investigation",
+        "documentary",
+        "strings",
+        "piano",
+        "ominous",
+        "narration-bed"
+      ],
+      "duration_s": 186.8,
+      "prompt": "Instrumental dark investigative documentary score: low droning strings, sparse muted piano notes, soft ticking pulse, ominous and mysterious, slowly building, no vocals, room for narration",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4"
+      ],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/pursuit-cellos-arpeggio-a",
+      "type": "music",
+      "file": "music/true-crime/pursuit-cellos-arpeggio-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "pursuit",
+        "chase",
+        "cellos",
+        "arpeggio",
+        "driving",
+        "tension"
+      ],
+      "duration_s": 184.8,
+      "prompt": "Instrumental driving hybrid action score: propulsive staccato cellos, rising synth arpeggios, steady heavy kick, growing tension like a pursuit across open ground, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/pursuit-cellos-arpeggio-b",
+      "type": "music",
+      "file": "music/true-crime/pursuit-cellos-arpeggio-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "pursuit",
+        "chase",
+        "cellos",
+        "arpeggio",
+        "driving",
+        "tension"
+      ],
+      "duration_s": 193.5,
+      "prompt": "Instrumental driving hybrid action score: propulsive staccato cellos, rising synth arpeggios, steady heavy kick, growing tension like a pursuit across open ground, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/peak-chase-braams-a",
+      "type": "music",
+      "file": "music/true-crime/peak-chase-braams-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "chase",
+        "action",
+        "braams",
+        "percussion",
+        "adrenaline",
+        "climax"
+      ],
+      "duration_s": 183.2,
+      "prompt": "Instrumental intense cinematic chase music: fast aggressive percussion, braams, distorted bass hits, urgent strings ostinato, peak adrenaline, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/peak-chase-braams-b",
+      "type": "music",
+      "file": "music/true-crime/peak-chase-braams-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "chase",
+        "action",
+        "braams",
+        "percussion",
+        "adrenaline",
+        "climax"
+      ],
+      "duration_s": 185.3,
+      "prompt": "Instrumental intense cinematic chase music: fast aggressive percussion, braams, distorted bass hits, urgent strings ostinato, peak adrenaline, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/heartbeat-search-suspense-a",
+      "type": "music",
+      "file": "music/true-crime/heartbeat-search-suspense-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "suspense",
+        "search",
+        "heartbeat",
+        "ambient",
+        "waiting",
+        "restrained"
+      ],
+      "duration_s": 209.1,
+      "prompt": "Instrumental quiet suspense underscore: dark ambient pads, heartbeat-like low pulse, eerie high strings, uneasy and restrained, no vocals, documentary",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4"
+      ],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/heartbeat-search-suspense-b",
+      "type": "music",
+      "file": "music/true-crime/heartbeat-search-suspense-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "suspense",
+        "search",
+        "heartbeat",
+        "ambient",
+        "waiting",
+        "restrained"
+      ],
+      "duration_s": 199.3,
+      "prompt": "Instrumental quiet suspense underscore: dark ambient pads, heartbeat-like low pulse, eerie high strings, uneasy and restrained, no vocals, documentary",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4"
+      ],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/brooding-tension-pulse-a",
+      "type": "music",
+      "file": "music/true-crime/brooding-tension-pulse-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "brooding",
+        "tension",
+        "dissonant",
+        "synth-pulse",
+        "unease"
+      ],
+      "duration_s": 189.6,
+      "prompt": "Instrumental brooding tension score: slow heavy synth pulse, dissonant strings, distant metallic hits, simmering anger and unease, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/brooding-tension-pulse-b",
+      "type": "music",
+      "file": "music/true-crime/brooding-tension-pulse-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "brooding",
+        "tension",
+        "dissonant",
+        "synth-pulse",
+        "unease"
+      ],
+      "duration_s": 207.1,
+      "prompt": "Instrumental brooding tension score: slow heavy synth pulse, dissonant strings, distant metallic hits, simmering anger and unease, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/reflective-resolution-piano-a",
+      "type": "music",
+      "file": "music/true-crime/reflective-resolution-piano-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "outro",
+        "reflective",
+        "resolution",
+        "piano",
+        "strings",
+        "somber"
+      ],
+      "duration_s": 203.6,
+      "prompt": "Instrumental reflective cinematic resolution: warm low strings, gentle piano motif, soft swelling pads, somber but resolved ending, no vocals, documentary outro",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4"
+      ],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/reflective-resolution-piano-b",
+      "type": "music",
+      "file": "music/true-crime/reflective-resolution-piano-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "outro",
+        "reflective",
+        "resolution",
+        "piano",
+        "strings",
+        "somber"
+      ],
+      "duration_s": 204.3,
+      "prompt": "Instrumental reflective cinematic resolution: warm low strings, gentle piano motif, soft swelling pads, somber but resolved ending, no vocals, documentary outro",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4"
+      ],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/desert-true-crime-trailer-a",
+      "type": "music",
+      "file": "music/true-crime/desert-true-crime-trailer-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "true-crime",
+        "trailer",
+        "synth-bass",
+        "taiko",
+        "brass",
+        "ticking",
+        "build",
+        "southwestern",
+        "desert"
+      ],
+      "duration_s": 194.8,
+      "prompt": "Instrumental cinematic true crime trailer underscore: southwestern desert feel, tense pulsing synth bass, ticking hi-hats, deep taiko hits, dark brass swells, relentless build, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v5"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/desert-true-crime-trailer-b",
+      "type": "music",
+      "file": "music/true-crime/desert-true-crime-trailer-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "true-crime",
+        "trailer",
+        "synth-bass",
+        "taiko",
+        "brass",
+        "ticking",
+        "build",
+        "southwestern",
+        "desert"
+      ],
+      "duration_s": 196.8,
+      "prompt": "Instrumental cinematic true crime trailer underscore: southwestern desert feel, tense pulsing synth bass, ticking hi-hats, deep taiko hits, dark brass swells, relentless build, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v5"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/desert-investigation-guitar-a",
+      "type": "music",
+      "file": "music/true-crime/desert-investigation-guitar-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "true-crime",
+        "investigation",
+        "documentary",
+        "strings",
+        "piano",
+        "ominous",
+        "narration-bed",
+        "southwestern",
+        "desert"
+      ],
+      "duration_s": 200.0,
+      "prompt": "Instrumental dark investigative documentary score: low droning strings, sparse muted piano, subtle desert guitar harmonics, ominous and mysterious, slowly building, no vocals, room for narration",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v5"
+      ],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/desert-investigation-guitar-b",
+      "type": "music",
+      "file": "music/true-crime/desert-investigation-guitar-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "true-crime",
+        "investigation",
+        "documentary",
+        "strings",
+        "piano",
+        "ominous",
+        "narration-bed",
+        "southwestern",
+        "desert"
+      ],
+      "duration_s": 211.6,
+      "prompt": "Instrumental dark investigative documentary score: low droning strings, sparse muted piano, subtle desert guitar harmonics, ominous and mysterious, slowly building, no vocals, room for narration",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v5"
+      ],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/surveillance-thriller-arps-a",
+      "type": "music",
+      "file": "music/true-crime/surveillance-thriller-arps-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "surveillance",
+        "thriller",
+        "electronic",
+        "arpeggio",
+        "tracking",
+        "tension"
+      ],
+      "duration_s": 217.3,
+      "prompt": "Instrumental high-tech surveillance thriller score: pulsing electronic arpeggios, cold synth pads, steady tracking pulse, sense of watching from above, building tension, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v5"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/surveillance-thriller-arps-b",
+      "type": "music",
+      "file": "music/true-crime/surveillance-thriller-arps-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "surveillance",
+        "thriller",
+        "electronic",
+        "arpeggio",
+        "tracking",
+        "tension"
+      ],
+      "duration_s": 210.1,
+      "prompt": "Instrumental high-tech surveillance thriller score: pulsing electronic arpeggios, cold synth pads, steady tracking pulse, sense of watching from above, building tension, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v5"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/foot-chase-braams-a",
+      "type": "music",
+      "file": "music/true-crime/foot-chase-braams-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "chase",
+        "action",
+        "braams",
+        "percussion",
+        "adrenaline",
+        "climax"
+      ],
+      "duration_s": 188.4,
+      "prompt": "Instrumental intense cinematic foot chase music: fast aggressive percussion, braams, distorted bass hits, urgent strings ostinato, peak adrenaline, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v5"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/foot-chase-braams-b",
+      "type": "music",
+      "file": "music/true-crime/foot-chase-braams-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "chase",
+        "action",
+        "braams",
+        "percussion",
+        "adrenaline",
+        "climax"
+      ],
+      "duration_s": 185.6,
+      "prompt": "Instrumental intense cinematic foot chase music: fast aggressive percussion, braams, distorted bass hits, urgent strings ostinato, peak adrenaline, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v5"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/standoff-heartbeat-suspense-a",
+      "type": "music",
+      "file": "music/true-crime/standoff-heartbeat-suspense-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "suspense",
+        "search",
+        "heartbeat",
+        "ambient",
+        "waiting",
+        "restrained"
+      ],
+      "duration_s": 204.0,
+      "prompt": "Instrumental standoff suspense underscore: dark ambient pads, heartbeat-like low pulse, eerie high strings, slow tension, waiting, no vocals, documentary",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v5"
+      ],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/standoff-heartbeat-suspense-b",
+      "type": "music",
+      "file": "music/true-crime/standoff-heartbeat-suspense-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "suspense",
+        "search",
+        "heartbeat",
+        "ambient",
+        "waiting",
+        "restrained"
+      ],
+      "duration_s": 196.9,
+      "prompt": "Instrumental standoff suspense underscore: dark ambient pads, heartbeat-like low pulse, eerie high strings, slow tension, waiting, no vocals, documentary",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v5"
+      ],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/investigative-revelation-pulse-a",
+      "type": "music",
+      "file": "music/true-crime/investigative-revelation-pulse-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "brooding",
+        "tension",
+        "dissonant",
+        "synth-pulse",
+        "unease"
+      ],
+      "duration_s": 190.0,
+      "prompt": "Instrumental brooding investigative score: slow heavy synth pulse, dissonant low strings, distant metallic hits, revelation and unease, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v5"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/investigative-revelation-pulse-b",
+      "type": "music",
+      "file": "music/true-crime/investigative-revelation-pulse-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "brooding",
+        "tension",
+        "dissonant",
+        "synth-pulse",
+        "unease"
+      ],
+      "duration_s": 193.9,
+      "prompt": "Instrumental brooding investigative score: slow heavy synth pulse, dissonant low strings, distant metallic hits, revelation and unease, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v5"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/reflective-resolution-piano-2-a",
+      "type": "music",
+      "file": "music/true-crime/reflective-resolution-piano-2-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "outro",
+        "reflective",
+        "resolution",
+        "piano",
+        "strings",
+        "somber"
+      ],
+      "duration_s": 217.6,
+      "prompt": "Instrumental reflective cinematic resolution: warm low strings, gentle piano motif, soft swelling pads, somber but resolved ending, no vocals, documentary outro",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v5"
+      ],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/reflective-resolution-piano-2-b",
+      "type": "music",
+      "file": "music/true-crime/reflective-resolution-piano-2-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "outro",
+        "reflective",
+        "resolution",
+        "piano",
+        "strings",
+        "somber"
+      ],
+      "duration_s": 213.2,
+      "prompt": "Instrumental reflective cinematic resolution: warm low strings, gentle piano motif, soft swelling pads, somber but resolved ending, no vocals, documentary outro",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v5"
+      ],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/transitions/air-whoosh-clean",
+      "type": "sfx",
+      "file": "sfx/transitions/air-whoosh-clean.mp3",
+      "category": "transitions",
+      "tags": [
+        "air",
+        "whoosh",
+        "clean"
+      ],
+      "duration_s": 1.2,
+      "prompt": "fast cinematic air whoosh transition, clean",
+      "generator": "ElevenLabs sound-generation (direct API)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4,v5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/transitions/deep-swoosh-rumble",
+      "type": "sfx",
+      "file": "sfx/transitions/deep-swoosh-rumble.mp3",
+      "category": "transitions",
+      "tags": [
+        "deep",
+        "swoosh",
+        "rumble"
+      ],
+      "duration_s": 1.5,
+      "prompt": "deep swoosh transition with low rumble tail",
+      "generator": "ElevenLabs sound-generation (direct API)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4,v5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/trailer-impact-sub-boom",
+      "type": "sfx",
+      "file": "sfx/impacts/trailer-impact-sub-boom.mp3",
+      "category": "impacts",
+      "tags": [
+        "trailer",
+        "impact",
+        "sub",
+        "boom"
+      ],
+      "duration_s": 3.0,
+      "prompt": "massive deep cinematic trailer impact hit with sub boom and long tail",
+      "generator": "ElevenLabs sound-generation (direct API)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4,v5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/risers/cinematic-riser-abrupt",
+      "type": "sfx",
+      "file": "sfx/risers/cinematic-riser-abrupt.mp3",
+      "category": "risers",
+      "tags": [
+        "cinematic",
+        "riser",
+        "abrupt"
+      ],
+      "duration_s": 4.0,
+      "prompt": "tense cinematic riser building up, rising pitch noise and strings, ends abruptly",
+      "generator": "ElevenLabs sound-generation (direct API)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4,v5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/sub-bass-drop",
+      "type": "sfx",
+      "file": "sfx/impacts/sub-bass-drop.mp3",
+      "category": "impacts",
+      "tags": [
+        "sub",
+        "bass",
+        "drop"
+      ],
+      "duration_s": 2.0,
+      "prompt": "deep sub bass drop boom",
+      "generator": "ElevenLabs sound-generation (direct API)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4,v5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/rubber-stamp-slam",
+      "type": "sfx",
+      "file": "sfx/impacts/rubber-stamp-slam.mp3",
+      "category": "impacts",
+      "tags": [
+        "rubber",
+        "stamp",
+        "slam"
+      ],
+      "duration_s": 1.0,
+      "prompt": "heavy rubber stamp slam on a desk with punchy thud",
+      "generator": "ElevenLabs sound-generation (direct API)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4,v5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/digital-ui-blip",
+      "type": "sfx",
+      "file": "sfx/ui/digital-ui-blip.mp3",
+      "category": "ui",
+      "tags": [
+        "digital",
+        "ui",
+        "blip"
+      ],
+      "duration_s": 0.5,
+      "prompt": "short clean digital UI blip click",
+      "generator": "ElevenLabs sound-generation (direct API)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4,v5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/camera-shutter-freeze",
+      "type": "sfx",
+      "file": "sfx/ui/camera-shutter-freeze.mp3",
+      "category": "ui",
+      "tags": [
+        "camera",
+        "shutter",
+        "freeze"
+      ],
+      "duration_s": 1.0,
+      "prompt": "camera shutter click freeze frame with subtle flash whoosh",
+      "generator": "ElevenLabs sound-generation (direct API)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4,v5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/quadcopter-drone-hover",
+      "type": "sfx",
+      "file": "sfx/vehicles/quadcopter-drone-hover.mp3",
+      "category": "vehicles",
+      "tags": [
+        "quadcopter",
+        "drone",
+        "hover"
+      ],
+      "duration_s": 6.0,
+      "prompt": "quadcopter drone flying overhead, steady propeller buzz",
+      "generator": "ElevenLabs sound-generation (direct API)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4,v5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/police/police-radio-squelch",
+      "type": "sfx",
+      "file": "sfx/police/police-radio-squelch.mp3",
+      "category": "police",
+      "tags": [
+        "police",
+        "radio",
+        "squelch"
+      ],
+      "duration_s": 1.5,
+      "prompt": "police radio squelch beep and static burst",
+      "generator": "ElevenLabs sound-generation (direct API)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4,v5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/digital-typing-terminal",
+      "type": "sfx",
+      "file": "sfx/ui/digital-typing-terminal.mp3",
+      "category": "ui",
+      "tags": [
+        "digital",
+        "typing",
+        "terminal"
+      ],
+      "duration_s": 2.5,
+      "prompt": "fast digital text typing data terminal sounds",
+      "generator": "ElevenLabs sound-generation (direct API)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4,v5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/tension/slow-heavy-heartbeat",
+      "type": "sfx",
+      "file": "sfx/tension/slow-heavy-heartbeat.mp3",
+      "category": "tension",
+      "tags": [
+        "slow",
+        "heavy",
+        "heartbeat"
+      ],
+      "duration_s": 4.0,
+      "prompt": "slow heavy heartbeat thumps, cinematic tension",
+      "generator": "ElevenLabs sound-generation (direct API)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4,v5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/transitions/vhs-rewind",
+      "type": "sfx",
+      "file": "sfx/transitions/vhs-rewind.mp3",
+      "category": "transitions",
+      "tags": [
+        "vhs",
+        "rewind"
+      ],
+      "duration_s": 1.5,
+      "prompt": "vhs tape rewind sound effect, fast reverse",
+      "generator": "ElevenLabs sound-generation (direct API)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4,v5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/transitions/digital-glitch-stutter",
+      "type": "sfx",
+      "file": "sfx/transitions/digital-glitch-stutter.mp3",
+      "category": "transitions",
+      "tags": [
+        "digital",
+        "glitch",
+        "stutter"
+      ],
+      "duration_s": 0.8,
+      "prompt": "short digital glitch stutter transition",
+      "generator": "ElevenLabs sound-generation (direct API)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4,v5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/tension/tense-clock-ticking",
+      "type": "sfx",
+      "file": "sfx/tension/tense-clock-ticking.mp3",
+      "category": "tension",
+      "tags": [
+        "tense",
+        "clock",
+        "ticking"
+      ],
+      "duration_s": 4.0,
+      "prompt": "loud clock ticking, tense",
+      "generator": "ElevenLabs sound-generation (direct API)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4,v5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/metallic-title-boom",
+      "type": "sfx",
+      "file": "sfx/impacts/metallic-title-boom.mp3",
+      "category": "impacts",
+      "tags": [
+        "metallic",
+        "title",
+        "boom"
+      ],
+      "duration_s": 3.0,
+      "prompt": "cinematic title hit, metallic boom with reverb tail",
+      "generator": "ElevenLabs sound-generation (direct API)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v4,v5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "music/true-crime/night-pursuit-synthwave-a",
+      "type": "music",
+      "file": "music/true-crime/night-pursuit-synthwave-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "night",
+        "pursuit",
+        "chase",
+        "synthwave",
+        "neon",
+        "driving",
+        "build",
+        "climax"
+      ],
+      "duration_s": 237.7,
+      "prompt": "Instrumental night pursuit score: dark driving synthwave bass, steady pounding kick, cold neon arpeggios, rising tension, long build to a huge climax, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v6"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/night-pursuit-synthwave-b",
+      "type": "music",
+      "file": "music/true-crime/night-pursuit-synthwave-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "night",
+        "pursuit",
+        "chase",
+        "synthwave",
+        "neon",
+        "driving",
+        "build",
+        "climax"
+      ],
+      "duration_s": 240.0,
+      "prompt": "Instrumental night pursuit score: dark driving synthwave bass, steady pounding kick, cold neon arpeggios, rising tension, long build to a huge climax, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v6"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/police/siren-wail-passing",
+      "type": "sfx",
+      "file": "sfx/police/siren-wail-passing.mp3",
+      "category": "police",
+      "tags": [
+        "siren",
+        "police",
+        "wail",
+        "passing",
+        "emergency"
+      ],
+      "duration_s": 4.0,
+      "prompt": "american police siren wailing, passing by close",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/engine-rev-high-speed",
+      "type": "sfx",
+      "file": "sfx/vehicles/engine-rev-high-speed.mp3",
+      "category": "vehicles",
+      "tags": [
+        "engine",
+        "rev",
+        "car",
+        "speed",
+        "interior"
+      ],
+      "duration_s": 4.0,
+      "prompt": "car engine revving hard at high speed, interior",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/tire-screech-skid",
+      "type": "sfx",
+      "file": "sfx/vehicles/tire-screech-skid.mp3",
+      "category": "vehicles",
+      "tags": [
+        "tires",
+        "screech",
+        "skid",
+        "brakes",
+        "car"
+      ],
+      "duration_s": 2.5,
+      "prompt": "tires screeching skid on asphalt",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/mechanical-net-launch-thunk",
+      "type": "sfx",
+      "file": "sfx/impacts/mechanical-net-launch-thunk.mp3",
+      "category": "impacts",
+      "tags": [
+        "mechanical",
+        "launch",
+        "thunk",
+        "net",
+        "whip",
+        "spring"
+      ],
+      "duration_s": 1.5,
+      "prompt": "heavy mechanical spring launch thunk with nylon net whip",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "music/true-crime/forest-manhunt-strings-a",
+      "type": "music",
+      "file": "music/true-crime/forest-manhunt-strings-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "forest",
+        "manhunt",
+        "search",
+        "strings",
+        "eerie",
+        "heartbeat",
+        "build",
+        "tension"
+      ],
+      "duration_s": 215.2,
+      "prompt": "Instrumental dark forest manhunt score: tense low strings, eerie woodland atmosphere, sparse metallic percussion, pulsing heartbeat bass, slow relentless build, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v7"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/forest-manhunt-strings-b",
+      "type": "music",
+      "file": "music/true-crime/forest-manhunt-strings-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "forest",
+        "manhunt",
+        "search",
+        "strings",
+        "eerie",
+        "heartbeat",
+        "build",
+        "tension"
+      ],
+      "duration_s": 220.1,
+      "prompt": "Instrumental dark forest manhunt score: tense low strings, eerie woodland atmosphere, sparse metallic percussion, pulsing heartbeat bass, slow relentless build, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v7"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/police/handcuffs-ratchet-click",
+      "type": "sfx",
+      "file": "sfx/police/handcuffs-ratchet-click.mp3",
+      "category": "police",
+      "tags": [
+        "handcuffs",
+        "metal",
+        "click",
+        "ratchet",
+        "arrest"
+      ],
+      "duration_s": 2.0,
+      "prompt": "metal handcuffs clicking and ratcheting closed, close up",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/car-power-window-down",
+      "type": "sfx",
+      "file": "sfx/vehicles/car-power-window-down.mp3",
+      "category": "vehicles",
+      "tags": [
+        "car",
+        "power",
+        "window",
+        "motor",
+        "rolling"
+      ],
+      "duration_s": 2.5,
+      "prompt": "car power window motor rolling down",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/distant-single-gunshot",
+      "type": "sfx",
+      "file": "sfx/impacts/distant-single-gunshot.mp3",
+      "category": "impacts",
+      "tags": [
+        "gunshot",
+        "distant",
+        "single",
+        "echo",
+        "rural"
+      ],
+      "duration_s": 2.5,
+      "prompt": "single distant gunshot echoing across a rural neighborhood",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/police/police-dog-barking",
+      "type": "sfx",
+      "file": "sfx/police/police-dog-barking.mp3",
+      "category": "police",
+      "tags": [
+        "dog",
+        "k9",
+        "bark",
+        "police",
+        "outdoors"
+      ],
+      "duration_s": 3.0,
+      "prompt": "police dog barking aggressively, outdoors",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "music/true-crime/heartland-chase-guitar-a",
+      "type": "music",
+      "file": "music/true-crime/heartland-chase-guitar-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "heartland",
+        "rural",
+        "chase",
+        "acoustic-guitar",
+        "toms",
+        "farmland",
+        "daytime",
+        "build"
+      ],
+      "duration_s": 204.9,
+      "prompt": "Instrumental tense heartland chase score: driving acoustic guitar ostinato, pounding toms, distorted bass, wide open farmland feel, building chase energy, cinematic, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v8"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/heartland-chase-guitar-b",
+      "type": "music",
+      "file": "music/true-crime/heartland-chase-guitar-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "heartland",
+        "rural",
+        "chase",
+        "acoustic-guitar",
+        "toms",
+        "farmland",
+        "daytime",
+        "build"
+      ],
+      "duration_s": 198.8,
+      "prompt": "Instrumental tense heartland chase score: driving acoustic guitar ostinato, pounding toms, distorted bass, wide open farmland feel, building chase energy, cinematic, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v8"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/foley/running-through-corn",
+      "type": "sfx",
+      "file": "sfx/foley/running-through-corn.mp3",
+      "category": "foley",
+      "tags": [
+        "corn",
+        "cornfield",
+        "running",
+        "rustle",
+        "foliage",
+        "foley"
+      ],
+      "duration_s": 3.0,
+      "prompt": "someone running fast through dry corn stalks, leaves rustling and snapping",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/spike-strip-tire-pop",
+      "type": "sfx",
+      "file": "sfx/vehicles/spike-strip-tire-pop.mp3",
+      "category": "vehicles",
+      "tags": [
+        "spike-strip",
+        "stop-sticks",
+        "tire",
+        "pop",
+        "hiss",
+        "pursuit"
+      ],
+      "duration_s": 2.0,
+      "prompt": "car tires hitting a police spike strip, pop and rushing air hiss",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/police/police-pa-feedback-click",
+      "type": "sfx",
+      "file": "sfx/police/police-pa-feedback-click.mp3",
+      "category": "police",
+      "tags": [
+        "police",
+        "pa",
+        "loudspeaker",
+        "feedback",
+        "click"
+      ],
+      "duration_s": 1.5,
+      "prompt": "police car loudspeaker PA feedback squeal and click, no voice",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
       "id": "music/dark-electronic/surveillance-synth-pulse-a",
       "type": "music",
       "file": "music/dark-electronic/surveillance-synth-pulse-a.mp3",
