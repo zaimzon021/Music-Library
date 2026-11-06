@@ -5204,6 +5204,122 @@
         "Cars Explains History V22"
       ],
       "notes": ""
+    },
+    {
+      "id": "sfx/foley/hourglass-sand-trickle",
+      "type": "sfx",
+      "file": "sfx/foley/hourglass-sand-trickle.mp3",
+      "category": "foley",
+      "tags": [
+        "sand",
+        "hourglass",
+        "trickle",
+        "grains",
+        "timer",
+        "soft"
+      ],
+      "duration_s": 4.0,
+      "prompt": "fine sand trickling steadily through an hourglass, soft continuous hiss of grains, close, clean, no background",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [
+        "The Tower Part 4"
+      ],
+      "notes": "very quiet master (peak -33.6 dBFS): add ~+10 dB in the mix"
+    },
+    {
+      "id": "sfx/creatures/snake-hiss",
+      "type": "sfx",
+      "file": "sfx/creatures/snake-hiss.mp3",
+      "category": "creatures",
+      "tags": [
+        "snake",
+        "hiss",
+        "serpent",
+        "danger",
+        "creepy"
+      ],
+      "duration_s": 2.0,
+      "prompt": "snake hissing menacingly, one long sharp hiss, close, clean, no background",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [
+        "The Tower Part 4"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/wooden-chest-rattle",
+      "type": "sfx",
+      "file": "sfx/foley/wooden-chest-rattle.mp3",
+      "category": "foley",
+      "tags": [
+        "chest",
+        "wood",
+        "lid",
+        "rattle",
+        "knock",
+        "box",
+        "something-inside"
+      ],
+      "duration_s": 2.0,
+      "prompt": "heavy wooden chest lid rattling and knocking as something moves inside, close, clean, no background",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [
+        "The Tower Part 4"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/boots-on-stone-footsteps",
+      "type": "sfx",
+      "file": "sfx/foley/boots-on-stone-footsteps.mp3",
+      "category": "foley",
+      "tags": [
+        "footsteps",
+        "boots",
+        "stone",
+        "walking",
+        "castle",
+        "guard"
+      ],
+      "duration_s": 2.0,
+      "prompt": "heavy boot footsteps walking on a stone floor, four steps, castle hall, close, clean, no background",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [
+        "The Tower Part 4"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/smug-man-chuckle",
+      "type": "sfx",
+      "file": "sfx/creatures/smug-man-chuckle.mp3",
+      "category": "creatures",
+      "tags": [
+        "chuckle",
+        "laugh",
+        "smug",
+        "man",
+        "villain",
+        "voice",
+        "mischievous"
+      ],
+      "duration_s": 1.5,
+      "prompt": "deep male voice smug low chuckle, short, mischievous, close, clean, no background",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [
+        "The Tower Part 4"
+      ],
+      "notes": ""
     }
   ]
 }

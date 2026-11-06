@@ -4,6 +4,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 
 | Type | Category | File | Length | Tags |
 |---|---|---|---|---|
+| music | comedic-documentary | `music/comedic-documentary/comedic-sea-shanty-voyage-bed-a.mp3` | 152.0s | comedic, documentary, sea-shanty, nautical, pirate, accordion, fiddle, concertina, 6-8, stomp-clap, age-of-exploration, narration-bed |
+| music | comedic-documentary | `music/comedic-documentary/comedic-sea-shanty-voyage-bed-b.mp3` | 155.1s | comedic, documentary, sea-shanty, nautical, pirate, accordion, fiddle, concertina, 6-8, stomp-clap, age-of-exploration, narration-bed |
 | music | comedic-documentary | `music/comedic-documentary/havana-mambo-sneaky-a.mp3` | 168.5s | latin, mambo, cuba, havana, congas, bongos, muted-trumpet, comedic, documentary, sneaky, 1950s |
 | music | comedic-documentary | `music/comedic-documentary/havana-mambo-sneaky-b.mp3` | 163.9s | latin, mambo, cuba, havana, congas, bongos, muted-trumpet, comedic, documentary, sneaky, 1950s |
 | music | comedic-documentary | `music/comedic-documentary/medieval-folk-tavern-comedy-a.mp3` | 172.5s | medieval, folk, lute, recorder, hurdy-gurdy, hand-drum, comedic, documentary, village, tavern, playful |
@@ -131,17 +133,23 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | creatures | `sfx/creatures/humpback-whale-call.mp3` | 5.0s | whale, humpback, whale-song, call, moan, underwater, ocean |
 | sfx | creatures | `sfx/creatures/pig-oink-grunt.mp3` | 2.5s | pig, oink, grunt, farm, animal, comedic |
 | sfx | creatures | `sfx/creatures/roar.mp3` | 2.5s | roar, monster, kaiju, creature, distorted |
+| sfx | creatures | `sfx/creatures/seagull-squawk.mp3` | 1.5s | seagull, gull, bird, squawk, beach, sea, harbour, comedic |
 | sfx | creatures | `sfx/creatures/small-dog-scared-whimper.mp3` | 1.5s | dog, whimper, whine, scared, small-dog, sad |
+| sfx | creatures | `sfx/creatures/smug-man-chuckle.mp3` | 1.5s | chuckle, laugh, smug, man, villain, voice, mischievous |
+| sfx | creatures | `sfx/creatures/snake-hiss.mp3` | 2.0s | snake, hiss, serpent, danger, creepy |
 | sfx | crowds | `sfx/crowds/crowd-cheer-applause.mp3` | 4.0s | crowd, cheer, applause, celebration, outdoor |
 | sfx | explosions | `sfx/explosions/boom.mp3` | 3.0s | explosion, boom, sub-bass, nuclear, huge |
+| sfx | foley | `sfx/foley/boots-on-stone-footsteps.mp3` | 2.0s | footsteps, boots, stone, walking, castle, guard |
 | sfx | foley | `sfx/foley/church-bell-distant-medieval.mp3` | 5.0s | bell, church, medieval, distant, village |
 | sfx | foley | `sfx/foley/crowd-cheer-joyful.mp3` | 6.0s | crowd, cheer, applause, joy, celebration, outdoor |
+| sfx | foley | `sfx/foley/hourglass-sand-trickle.mp3` | 4.0s | sand, hourglass, trickle, grains, timer, soft |
 | sfx | foley | `sfx/foley/keys-jingle-ring.mp3` | 1.5s | keys, jingle, keyring, metal, foley |
 | sfx | foley | `sfx/foley/money-counter-riffle.mp3` | 2.5s | money, cash, banknotes, counter, riffle, bills |
 | sfx | foley | `sfx/foley/morning-birds-loop.mp3` | 20.0s | birds, morning, outdoors, nature, breeze, loop, ambience |
 | sfx | foley | `sfx/foley/office-desk-phone-ring.mp3` | 4.0s | phone, telephone, ring, office, corded, landline, 2000s |
 | sfx | foley | `sfx/foley/running-through-corn.mp3` | 3.0s | corn, cornfield, running, rustle, foliage, foley |
 | sfx | foley | `sfx/foley/ship-bell-three.mp3` | 3.0s | bell, ship, brass, ring, three, alarm, lookout |
+| sfx | foley | `sfx/foley/wooden-chest-rattle.mp3` | 2.0s | chest, wood, lid, rattle, knock, box, something-inside |
 | sfx | impacts | `sfx/impacts/car-window-glass-smash.mp3` | 2.0s | glass, smash, shatter, window, car, break-in |
 | sfx | impacts | `sfx/impacts/distant-single-gunshot.mp3` | 2.5s | gunshot, distant, single, echo, rural |
 | sfx | impacts | `sfx/impacts/hull-ice-scrape.mp3` | 5.0s | ship, hull, ice, scrape, grind, metal, groan, crack |
@@ -178,6 +186,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui | `sfx/ui/camera-shutter-freeze.mp3` | 1.0s | camera, shutter, freeze |
 | sfx | ui | `sfx/ui/digital-typing-terminal.mp3` | 2.5s | digital, typing, terminal |
 | sfx | ui | `sfx/ui/digital-ui-blip.mp3` | 0.5s | digital, ui, blip |
+| sfx | ui | `sfx/ui/gps-navigation-recalculating-chime.mp3` | 1.0s | gps, navigation, sat-nav, chime, dashboard, notification, recalculating, car, ui |
 | sfx | ui | `sfx/ui/phone-notification-chime.mp3` | 1.0s | phone, notification, chime, smartphone, message |
 | sfx | ui | `sfx/ui/phone-notification-two-tone.mp3` | 1.2s | phone, notification, chime, alert, message, app, two-tone |
 | sfx | ui | `sfx/ui/tv-static-burst.mp3` | 1.5s | static, tv, crt, noise, hiss, broadcast |
