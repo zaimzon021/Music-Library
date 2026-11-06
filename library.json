@@ -1580,6 +1580,33 @@
       "notes": "",
       "energy": "low",
       "instrumental": true
+    },
+    {
+      "id": "music/tragic-dramatic/reflective-doc-outro-piano-b",
+      "type": "music",
+      "file": "music/tragic-dramatic/reflective-doc-outro-piano-b.mp3",
+      "category": "tragic-dramatic",
+      "tags": [
+        "outro",
+        "reflective",
+        "ambient",
+        "pads",
+        "piano",
+        "documentary",
+        "ending",
+        "80bpm"
+      ],
+      "duration_s": 244.6,
+      "prompt": "reflective dark cinematic outro, ambient synth pads, soft piano, slow pulse, documentary ending, instrumental, 80 bpm",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series V5 Four PITs"
+      ],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
     }
   ]
 }

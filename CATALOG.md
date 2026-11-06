@@ -55,6 +55,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | tragic-dramatic | `music/tragic-dramatic/meltdown-choir-tragic-a.mp3` | 208.4s | tragic, choir, ticking, dread, explosive, sad-ending |
 | music | tragic-dramatic | `music/tragic-dramatic/meltdown-choir-tragic-b.mp3` | 204.8s | tragic, choir, ticking, dread, explosive, sad-ending |
 | music | tragic-dramatic | `music/tragic-dramatic/reflective-doc-outro-piano-a.mp3` | 220.0s | outro, reflective, ambient, pads, piano, documentary, ending, 80bpm |
+| music | tragic-dramatic | `music/tragic-dramatic/reflective-doc-outro-piano-b.mp3` | 244.6s | outro, reflective, ambient, pads, piano, documentary, ending, 80bpm |
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-a.mp3` | 240.0s | wonder, ancient, discovery, choir, awe, reveal |
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-b.mp3` | 234.8s | wonder, ancient, discovery, choir, awe, reveal |
 | sfx | creatures | `sfx/creatures/roar.mp3` | 2.5s | roar, monster, kaiju, creature, distorted |
