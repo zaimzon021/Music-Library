@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "items": [
     {
       "id": "music/epic-cinematic/kaiju-trailer-taiko-brass-a",
@@ -1157,6 +1157,56 @@
         "kaiju-shorts #31-#38"
       ],
       "notes": ""
+    },
+    {
+      "id": "music/noir-suspense/sly-noir-pizzicato-a",
+      "type": "music",
+      "file": "music/noir-suspense/sly-noir-pizzicato-a.mp3",
+      "category": "noir-suspense",
+      "tags": [
+        "noir",
+        "suspense",
+        "pizzicato",
+        "upright-bass",
+        "jazz",
+        "comedic",
+        "sly",
+        "late-night"
+      ],
+      "duration_s": 197.3,
+      "prompt": "sly late-night noir suspense, plucked pizzicato strings, muted upright bass, brushed ticking hi-hat, smoky jazz club tension with a wry comedic undertone, slow intro, steady build, dramatic climax hit, instrumental",
+      "generator": "Suno via AI33",
+      "added_by": "bodycam-verdict",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/noir-suspense/sly-noir-pizzicato-b",
+      "type": "music",
+      "file": "music/noir-suspense/sly-noir-pizzicato-b.mp3",
+      "category": "noir-suspense",
+      "tags": [
+        "noir",
+        "suspense",
+        "pizzicato",
+        "upright-bass",
+        "jazz",
+        "comedic",
+        "sly",
+        "late-night"
+      ],
+      "duration_s": 194.4,
+      "prompt": "sly late-night noir suspense, plucked pizzicato strings, muted upright bass, brushed ticking hi-hat, smoky jazz club tension with a wry comedic undertone, slow intro, steady build, dramatic climax hit, instrumental",
+      "generator": "Suno via AI33",
+      "added_by": "bodycam-verdict",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
     }
   ]
 }

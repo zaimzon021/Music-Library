@@ -28,6 +28,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | military-disaster | `music/military-disaster/military-siren-disaster-b.mp3` | 194.8s | military, snare, sirens, disaster, explosions, action |
 | music | modern-epic | `music/modern-epic/neon-synth-power-up-a.mp3` | 225.3s | modern, synth, orchestra, power-up, drops, electrifying |
 | music | modern-epic | `music/modern-epic/neon-synth-power-up-b.mp3` | 214.9s | modern, synth, orchestra, power-up, drops, electrifying |
+| music | noir-suspense | `music/noir-suspense/sly-noir-pizzicato-a.mp3` | 197.3s | noir, suspense, pizzicato, upright-bass, jazz, comedic, sly, late-night |
+| music | noir-suspense | `music/noir-suspense/sly-noir-pizzicato-b.mp3` | 194.4s | noir, suspense, pizzicato, upright-bass, jazz, comedic, sly, late-night |
 | music | ocean-deep | `music/ocean-deep/deep-sea-sonar-mystery-a.mp3` | 274.4s | ocean, underwater, sonar, mysterious, ambient, reveal |
 | music | ocean-deep | `music/ocean-deep/deep-sea-sonar-mystery-b.mp3` | 228.6s | ocean, underwater, sonar, mysterious, ambient, reveal |
 | music | ocean-deep | `music/ocean-deep/ocean-predator-heartbeat-a.mp3` | 205.2s | ocean, underwater, heartbeat, suspense, splash, predator |
