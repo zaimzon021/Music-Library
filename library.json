@@ -5091,6 +5091,119 @@
         "ep17 thai cave"
       ],
       "notes": ""
+    },
+    {
+      "id": "music/comedic-documentary/comedic-sea-shanty-voyage-bed-a",
+      "type": "music",
+      "file": "music/comedic-documentary/comedic-sea-shanty-voyage-bed-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "comedic",
+        "documentary",
+        "sea-shanty",
+        "nautical",
+        "pirate",
+        "accordion",
+        "fiddle",
+        "concertina",
+        "6-8",
+        "stomp-clap",
+        "age-of-exploration",
+        "narration-bed"
+      ],
+      "duration_s": 152.0,
+      "prompt": "Comedic sea shanty documentary bed, bouncy 6/8 shanty groove, accordion, fiddle, concertina, plucky pizzicato strings, foot stomps and hand claps, tuba bass, playful swashbuckling mock-heroic adventure, lighthearted and cheeky, steady medium tempo, room for narration, instrumental",
+      "generator": "Suno via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [
+        "Cars Explains History V22 (Columbus)"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/comedic-sea-shanty-voyage-bed-b",
+      "type": "music",
+      "file": "music/comedic-documentary/comedic-sea-shanty-voyage-bed-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "comedic",
+        "documentary",
+        "sea-shanty",
+        "nautical",
+        "pirate",
+        "accordion",
+        "fiddle",
+        "concertina",
+        "6-8",
+        "stomp-clap",
+        "age-of-exploration",
+        "narration-bed"
+      ],
+      "duration_s": 155.1,
+      "prompt": "Comedic sea shanty documentary bed, bouncy 6/8 shanty groove, accordion, fiddle, concertina, plucky pizzicato strings, foot stomps and hand claps, tuba bass, playful swashbuckling mock-heroic adventure, lighthearted and cheeky, steady medium tempo, room for narration, instrumental",
+      "generator": "Suno via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [
+        "Cars Explains History V22 (Columbus)"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/creatures/seagull-squawk",
+      "type": "sfx",
+      "file": "sfx/creatures/seagull-squawk.mp3",
+      "category": "creatures",
+      "tags": [
+        "seagull",
+        "gull",
+        "bird",
+        "squawk",
+        "beach",
+        "sea",
+        "harbour",
+        "comedic"
+      ],
+      "duration_s": 1.5,
+      "prompt": "a single seagull squawk cry, comedic, close, by the sea, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [
+        "Cars Explains History V22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/gps-navigation-recalculating-chime",
+      "type": "sfx",
+      "file": "sfx/ui/gps-navigation-recalculating-chime.mp3",
+      "category": "ui",
+      "tags": [
+        "gps",
+        "navigation",
+        "sat-nav",
+        "chime",
+        "dashboard",
+        "notification",
+        "recalculating",
+        "car",
+        "ui"
+      ],
+      "duration_s": 1.0,
+      "prompt": "car GPS navigation recalculating chime, two-tone electronic dashboard notification ding, clean, no voice",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [
+        "Cars Explains History V22"
+      ],
+      "notes": ""
     }
   ]
 }
