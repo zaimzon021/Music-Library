@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "items": [
     {
       "id": "music/epic-cinematic/kaiju-trailer-taiko-brass-a",
@@ -1157,6 +1157,34 @@
         "kaiju-shorts #31-#38"
       ],
       "notes": ""
+    },
+    {
+      "id": "music/dark-electronic/surveillance-synth-pulse-a",
+      "type": "music",
+      "file": "music/dark-electronic/surveillance-synth-pulse-a.mp3",
+      "category": "dark-electronic",
+      "tags": [
+        "surveillance",
+        "thriller",
+        "synth-bass",
+        "ticking",
+        "tension",
+        "build",
+        "reveal",
+        "drone",
+        "crime"
+      ],
+      "duration_s": 209.7,
+      "prompt": "surveillance thriller, pulsing synth bass, ticking hi-hats, aerial tension build, big reveal hit, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series V6 Eyes in the Sky"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
     }
   ]
 }
