@@ -38,6 +38,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | crime-thriller | `music/crime-thriller/surveillance-rotor-pulse-b.mp3` | 182.5s | surveillance, electronic, rotor-pulse, drones, glitch, thermal, tension |
 | music | crime-thriller | `music/crime-thriller/taiko-brass-frantic-chase-a.mp3` | 139.3s | chase, taiko, brass, rising-strings, frantic, trailer |
 | music | crime-thriller | `music/crime-thriller/taiko-brass-frantic-chase-b.mp3` | 123.7s | chase, taiko, brass, rising-strings, frantic, trailer |
+| music | crime-thriller | `music/crime-thriller/tech-surveillance-pulse-a.mp3` | 214.0s | surveillance, tech, synth-arpeggio, glitch, airy-pads, build, drone, daylight |
+| music | crime-thriller | `music/crime-thriller/tech-surveillance-pulse-b.mp3` | 190.0s | surveillance, tech, synth-arpeggio, glitch, airy-pads, build, drone, daylight |
 | music | crime-thriller | `music/crime-thriller/tremolo-heartbeat-standoff-crescendo-a.mp3` | 130.0s | standoff, ticking, tremolo-strings, heartbeat, crescendo, suspense |
 | music | crime-thriller | `music/crime-thriller/tremolo-heartbeat-standoff-crescendo-b.mp3` | 138.5s | standoff, ticking, tremolo-strings, heartbeat, crescendo, suspense |
 | music | dark-electronic | `music/dark-electronic/crime-doc-suspense-underscore-a.mp3` | 154.9s | suspense, underscore, drones, ticking, documentary, crime, tension, 90bpm |

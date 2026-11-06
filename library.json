@@ -4366,6 +4366,56 @@
       "notes": "",
       "energy": "1",
       "instrumental": true
+    },
+    {
+      "id": "music/crime-thriller/tech-surveillance-pulse-a",
+      "type": "music",
+      "file": "music/crime-thriller/tech-surveillance-pulse-a.mp3",
+      "category": "crime-thriller",
+      "tags": [
+        "surveillance",
+        "tech",
+        "synth-arpeggio",
+        "glitch",
+        "airy-pads",
+        "build",
+        "drone",
+        "daylight"
+      ],
+      "duration_s": 214.0,
+      "prompt": "modern tech surveillance score, instrumental, clean pulsing synth arpeggio, light glitch percussion, cool airy pads, steady build to tense climax, 108 bpm, no vocals",
+      "generator": "Suno via AI33",
+      "added_by": "zaim-police-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "3",
+      "instrumental": true
+    },
+    {
+      "id": "music/crime-thriller/tech-surveillance-pulse-b",
+      "type": "music",
+      "file": "music/crime-thriller/tech-surveillance-pulse-b.mp3",
+      "category": "crime-thriller",
+      "tags": [
+        "surveillance",
+        "tech",
+        "synth-arpeggio",
+        "glitch",
+        "airy-pads",
+        "build",
+        "drone",
+        "daylight"
+      ],
+      "duration_s": 190.0,
+      "prompt": "modern tech surveillance score, instrumental, clean pulsing synth arpeggio, light glitch percussion, cool airy pads, steady build to tense climax, 108 bpm, no vocals",
+      "generator": "Suno via AI33",
+      "added_by": "zaim-police-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "3",
+      "instrumental": true
     }
   ]
 }
