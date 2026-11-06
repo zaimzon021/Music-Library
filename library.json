@@ -3812,6 +3812,164 @@
       "notes": "",
       "energy": "medium",
       "instrumental": true
+    },
+    {
+      "id": "sfx/foley/door-pound-fist",
+      "type": "sfx",
+      "file": "sfx/foley/door-pound-fist.mp3",
+      "category": "foley",
+      "tags": [
+        "door",
+        "knock",
+        "pounding",
+        "fist",
+        "urgent",
+        "banging"
+      ],
+      "duration_s": 3.0,
+      "prompt": "heavy fist pounding on wooden apartment door, three loud bangs",
+      "generator": "ElevenLabs sound effects via AI33 (/v1/task/sound-effect)",
+      "added_by": "animation-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "animation-series bunker part1 test"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/phone-vibrate-nightstand",
+      "type": "sfx",
+      "file": "sfx/ui/phone-vibrate-nightstand.mp3",
+      "category": "ui",
+      "tags": [
+        "phone",
+        "vibrate",
+        "buzz",
+        "notification",
+        "text",
+        "alert"
+      ],
+      "duration_s": 2.0,
+      "prompt": "smartphone vibration buzz on wooden nightstand",
+      "generator": "ElevenLabs sound effects via AI33 (/v1/task/sound-effect)",
+      "added_by": "animation-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "animation-series bunker part1 test"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/machines/crt-tv-power-on-static",
+      "type": "sfx",
+      "file": "sfx/machines/crt-tv-power-on-static.mp3",
+      "category": "machines",
+      "tags": [
+        "tv",
+        "crt",
+        "static",
+        "power-on",
+        "whine",
+        "television"
+      ],
+      "duration_s": 2.0,
+      "prompt": "old CRT television turning on, static crackle and high whine",
+      "generator": "ElevenLabs sound effects via AI33 (/v1/task/sound-effect)",
+      "added_by": "animation-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "animation-series bunker part1 test"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/radio/eas-attention-tone",
+      "type": "sfx",
+      "file": "sfx/radio/eas-attention-tone.mp3",
+      "category": "radio",
+      "tags": [
+        "emergency",
+        "alert",
+        "broadcast",
+        "eas",
+        "two-tone",
+        "warning",
+        "tv",
+        "beep"
+      ],
+      "duration_s": 3.5,
+      "prompt": "emergency alert broadcast tone, harsh two-tone TV warning beep (853 Hz + 960 Hz)",
+      "generator": "ffmpeg synthesized (free)",
+      "added_by": "animation-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "animation-series bunker part1 test"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/alarms/air-raid-siren-city-night",
+      "type": "sfx",
+      "file": "sfx/alarms/air-raid-siren-city-night.mp3",
+      "category": "alarms",
+      "tags": [
+        "siren",
+        "air-raid",
+        "civil-defense",
+        "alarm",
+        "city",
+        "night",
+        "emergency"
+      ],
+      "duration_s": 10.0,
+      "prompt": "Air raid civil defense siren wailing over a city at night, long rise and fall, distant echo",
+      "generator": "ai33-eleven-sfx-v3",
+      "added_by": "animation-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/footsteps-running-concrete-stairs",
+      "type": "sfx",
+      "file": "sfx/foley/footsteps-running-concrete-stairs.mp3",
+      "category": "foley",
+      "tags": [
+        "footsteps",
+        "running",
+        "stairs",
+        "concrete",
+        "sneakers",
+        "echo"
+      ],
+      "duration_s": 4.0,
+      "prompt": "Footsteps running fast down concrete stairwell, sneakers, slight echo",
+      "generator": "ai33-eleven-sfx-v3",
+      "added_by": "animation-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/marker-draw-circle-squeak",
+      "type": "sfx",
+      "file": "sfx/foley/marker-draw-circle-squeak.mp3",
+      "category": "foley",
+      "tags": [
+        "marker",
+        "pen",
+        "drawing",
+        "circle",
+        "squeak",
+        "paper"
+      ],
+      "duration_s": 2.0,
+      "prompt": "Marker pen quickly drawing a circle on paper, felt tip squeak",
+      "generator": "ai33-eleven-sfx-v3",
+      "added_by": "animation-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }
