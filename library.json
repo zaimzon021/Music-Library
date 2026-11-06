@@ -5740,6 +5740,88 @@
         "survive-this #9"
       ],
       "notes": ""
+    },
+    {
+      "id": "music/comedic-documentary/comedic-soviet-balalaika-march-a",
+      "type": "music",
+      "file": "music/comedic-documentary/comedic-soviet-balalaika-march-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "comedic",
+        "documentary",
+        "soviet",
+        "russian",
+        "cold-war",
+        "march",
+        "balalaika",
+        "accordion",
+        "tuba",
+        "brass",
+        "mock-heroic",
+        "narration-bed"
+      ],
+      "duration_s": 154.3,
+      "prompt": "comedic mock-heroic Soviet-style military march, balalaika tremolo, accordion, oom-pah tuba, snare drum, pompous brass, Russian folk flavour, cheeky and deadpan, instrumental documentary narration bed with intro, build and big finish",
+      "generator": "Suno via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/comedic-soviet-balalaika-march-b",
+      "type": "music",
+      "file": "music/comedic-documentary/comedic-soviet-balalaika-march-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "comedic",
+        "documentary",
+        "soviet",
+        "russian",
+        "cold-war",
+        "march",
+        "balalaika",
+        "accordion",
+        "tuba",
+        "brass",
+        "mock-heroic",
+        "narration-bed"
+      ],
+      "duration_s": 187.2,
+      "prompt": "comedic mock-heroic Soviet-style military march, balalaika tremolo, accordion, oom-pah tuba, snare drum, pompous brass, Russian folk flavour, cheeky and deadpan, instrumental documentary narration bed with intro, build and big finish",
+      "generator": "Suno via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/vehicles/engine-sputter-out-of-fuel",
+      "type": "sfx",
+      "file": "sfx/vehicles/engine-sputter-out-of-fuel.mp3",
+      "category": "vehicles",
+      "tags": [
+        "engine",
+        "sputter",
+        "cough",
+        "stall",
+        "out-of-gas",
+        "fuel",
+        "dying",
+        "car",
+        "comedic"
+      ],
+      "duration_s": 3.0,
+      "prompt": "old car engine sputtering, coughing and dying as it runs out of fuel, then silence",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }
