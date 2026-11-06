@@ -4135,6 +4135,313 @@
       "added": "2026-11-06",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/helicopter-rotor-hover-loop",
+      "type": "sfx",
+      "file": "sfx/vehicles/helicopter-rotor-hover-loop.mp3",
+      "category": "vehicles",
+      "tags": [
+        "helicopter",
+        "rotor",
+        "hover",
+        "loop",
+        "military",
+        "night"
+      ],
+      "duration_s": 8.0,
+      "prompt": "helicopter rotor blades thumping, steady hover, mid distance, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep02-bin-laden-neighbor"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/phone-notification-chime",
+      "type": "sfx",
+      "file": "sfx/ui/phone-notification-chime.mp3",
+      "category": "ui",
+      "tags": [
+        "phone",
+        "notification",
+        "chime",
+        "smartphone",
+        "message"
+      ],
+      "duration_s": 1.0,
+      "prompt": "single short modern smartphone notification chime, clean",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep02-bin-laden-neighbor"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/chickens-clucking-yard",
+      "type": "sfx",
+      "file": "sfx/creatures/chickens-clucking-yard.mp3",
+      "category": "creatures",
+      "tags": [
+        "chicken",
+        "cluck",
+        "farm",
+        "yard",
+        "animals"
+      ],
+      "duration_s": 5.0,
+      "prompt": "a few chickens clucking in a farmyard, close, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep02-bin-laden-neighbor,ep03-1000-years-past"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/cow-moo-single",
+      "type": "sfx",
+      "file": "sfx/creatures/cow-moo-single.mp3",
+      "category": "creatures",
+      "tags": [
+        "cow",
+        "moo",
+        "farm",
+        "animal"
+      ],
+      "duration_s": 2.5,
+      "prompt": "a single cow moo, clean, farm, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep02-bin-laden-neighbor"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/pig-oink-grunt",
+      "type": "sfx",
+      "file": "sfx/creatures/pig-oink-grunt.mp3",
+      "category": "creatures",
+      "tags": [
+        "pig",
+        "oink",
+        "grunt",
+        "farm",
+        "animal",
+        "comedic"
+      ],
+      "duration_s": 2.5,
+      "prompt": "a pig grunting and oinking curiously, close, single, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep03-1000-years-past"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/church-bell-distant-medieval",
+      "type": "sfx",
+      "file": "sfx/foley/church-bell-distant-medieval.mp3",
+      "category": "foley",
+      "tags": [
+        "bell",
+        "church",
+        "medieval",
+        "distant",
+        "village"
+      ],
+      "duration_s": 5.0,
+      "prompt": "a single old church bell ringing three times in the distance, medieval village, airy",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep03-1000-years-past"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/medieval-village-ambience-loop",
+      "type": "sfx",
+      "file": "sfx/ambience/medieval-village-ambience-loop.mp3",
+      "category": "ambience",
+      "tags": [
+        "medieval",
+        "village",
+        "ambience",
+        "rooster",
+        "morning",
+        "loop"
+      ],
+      "duration_s": 15.0,
+      "prompt": "medieval village morning ambience, rooster, distant chickens, light wind, faint murmurs, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep03-1000-years-past"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/night-crickets-ambience-loop",
+      "type": "sfx",
+      "file": "sfx/ambience/night-crickets-ambience-loop.mp3",
+      "category": "ambience",
+      "tags": [
+        "night",
+        "crickets",
+        "ambience",
+        "calm",
+        "loop",
+        "dogs"
+      ],
+      "duration_s": 15.0,
+      "prompt": "quiet night ambience, crickets, faint distant dogs, calm, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep02-bin-laden-neighbor"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/magic-shimmer-sparkle",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/magic-shimmer-sparkle.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "magic",
+        "shimmer",
+        "sparkle",
+        "whimsical",
+        "wizard"
+      ],
+      "duration_s": 1.5,
+      "prompt": "short magical shimmer sparkle chime, whimsical, cartoon",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep03-1000-years-past"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/transitions/time-warp-whoosh",
+      "type": "sfx",
+      "file": "sfx/transitions/time-warp-whoosh.mp3",
+      "category": "transitions",
+      "tags": [
+        "time-travel",
+        "warp",
+        "whoosh",
+        "sci-fi",
+        "reverse",
+        "impact"
+      ],
+      "duration_s": 2.5,
+      "prompt": "sci-fi time travel warp whoosh with reverse swell into soft impact",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep03-1000-years-past"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/crowd-murmur-tv-news",
+      "type": "sfx",
+      "file": "sfx/ambience/crowd-murmur-tv-news.mp3",
+      "category": "ambience",
+      "tags": [
+        "crowd",
+        "murmur",
+        "reporters",
+        "news",
+        "cameras",
+        "outdoor"
+      ],
+      "duration_s": 8.0,
+      "prompt": "busy outdoor crowd murmur with reporters, cameras clicking, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep02-bin-laden-neighbor"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "music/comedic-documentary/medieval-folk-tavern-comedy-a",
+      "type": "music",
+      "file": "music/comedic-documentary/medieval-folk-tavern-comedy-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "medieval",
+        "folk",
+        "lute",
+        "recorder",
+        "hurdy-gurdy",
+        "hand-drum",
+        "comedic",
+        "documentary",
+        "village",
+        "tavern",
+        "playful"
+      ],
+      "duration_s": 172.5,
+      "prompt": "comedic medieval folk documentary underscore, lute, recorder, hurdy-gurdy, hand drum, tambourine, playful bouncy village tavern feel, light and curious, instrumental, intro build and lively climax",
+      "generator": "Suno via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep03-1000-years-past"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/medieval-folk-tavern-comedy-b",
+      "type": "music",
+      "file": "music/comedic-documentary/medieval-folk-tavern-comedy-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "medieval",
+        "folk",
+        "lute",
+        "recorder",
+        "hurdy-gurdy",
+        "hand-drum",
+        "comedic",
+        "documentary",
+        "village",
+        "tavern",
+        "playful"
+      ],
+      "duration_s": 187.7,
+      "prompt": "comedic medieval folk documentary underscore, lute, recorder, hurdy-gurdy, hand drum, tambourine, playful bouncy village tavern feel, light and curious, instrumental, intro build and lively climax",
+      "generator": "Suno via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep03-1000-years-past"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
     }
   ]
 }

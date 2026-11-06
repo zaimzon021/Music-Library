@@ -6,6 +6,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 |---|---|---|---|---|
 | music | comedic-documentary | `music/comedic-documentary/havana-mambo-sneaky-a.mp3` | 168.5s | latin, mambo, cuba, havana, congas, bongos, muted-trumpet, comedic, documentary, sneaky, 1950s |
 | music | comedic-documentary | `music/comedic-documentary/havana-mambo-sneaky-b.mp3` | 163.9s | latin, mambo, cuba, havana, congas, bongos, muted-trumpet, comedic, documentary, sneaky, 1950s |
+| music | comedic-documentary | `music/comedic-documentary/medieval-folk-tavern-comedy-a.mp3` | 172.5s | medieval, folk, lute, recorder, hurdy-gurdy, hand-drum, comedic, documentary, village, tavern, playful |
+| music | comedic-documentary | `music/comedic-documentary/medieval-folk-tavern-comedy-b.mp3` | 187.7s | medieval, folk, lute, recorder, hurdy-gurdy, hand-drum, comedic, documentary, village, tavern, playful |
 | music | comedic-documentary | `music/comedic-documentary/middle-eastern-sneaky-oud-a.mp3` | 146.1s | comedic, documentary, middle-eastern, oud, darbuka, pizzicato, sneaky, quirky, underscore |
 | music | comedic-documentary | `music/comedic-documentary/middle-eastern-sneaky-oud-b.mp3` | 158.0s | comedic, documentary, middle-eastern, oud, darbuka, pizzicato, sneaky, quirky, underscore |
 | music | comedic-documentary | `music/comedic-documentary/pompous-ancient-empire-comedy-march-a.mp3` | 133.5s | comedic, documentary, ancient, roman, empire, fanfare, brass, harp, pizzicato, bassoon, march, mock-heroic, narration-bed |
@@ -114,12 +116,19 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | true-crime | `music/true-crime/true-crime-trailer-pulse-b.mp3` | 180.0s | true-crime, trailer, synth-bass, taiko, brass, ticking, build |
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-a.mp3` | 240.0s | wonder, ancient, discovery, choir, awe, reveal |
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-b.mp3` | 234.8s | wonder, ancient, discovery, choir, awe, reveal |
+| sfx | ambience | `sfx/ambience/crowd-murmur-tv-news.mp3` | 8.0s | crowd, murmur, reporters, news, cameras, outdoor |
+| sfx | ambience | `sfx/ambience/medieval-village-ambience-loop.mp3` | 15.0s | medieval, village, ambience, rooster, morning, loop |
+| sfx | ambience | `sfx/ambience/night-crickets-ambience-loop.mp3` | 15.0s | night, crickets, ambience, calm, loop, dogs |
+| sfx | creatures | `sfx/creatures/chickens-clucking-yard.mp3` | 5.0s | chicken, cluck, farm, yard, animals |
 | sfx | creatures | `sfx/creatures/corgi-happy-bark-double.mp3` | 1.5s | dog, corgi, bark, happy, excited, small-dog, cartoon |
+| sfx | creatures | `sfx/creatures/cow-moo-single.mp3` | 2.5s | cow, moo, farm, animal |
 | sfx | creatures | `sfx/creatures/fox-snarl-snap.mp3` | 1.5s | fox, snarl, growl, bite, snap, predator |
 | sfx | creatures | `sfx/creatures/goose-panicked-honk.mp3` | 1.5s | goose, honk, bird, panic, farm, cartoon |
+| sfx | creatures | `sfx/creatures/pig-oink-grunt.mp3` | 2.5s | pig, oink, grunt, farm, animal, comedic |
 | sfx | creatures | `sfx/creatures/roar.mp3` | 2.5s | roar, monster, kaiju, creature, distorted |
 | sfx | creatures | `sfx/creatures/small-dog-scared-whimper.mp3` | 1.5s | dog, whimper, whine, scared, small-dog, sad |
 | sfx | explosions | `sfx/explosions/boom.mp3` | 3.0s | explosion, boom, sub-bass, nuclear, huge |
+| sfx | foley | `sfx/foley/church-bell-distant-medieval.mp3` | 5.0s | bell, church, medieval, distant, village |
 | sfx | foley | `sfx/foley/keys-jingle-ring.mp3` | 1.5s | keys, jingle, keyring, metal, foley |
 | sfx | foley | `sfx/foley/running-through-corn.mp3` | 3.0s | corn, cornfield, running, rustle, foliage, foley |
 | sfx | foley | `sfx/foley/ship-bell-three.mp3` | 3.0s | bell, ship, brass, ring, three, alarm, lookout |
@@ -148,14 +157,17 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | transitions | `sfx/transitions/air-whoosh-clean.mp3` | 1.2s | air, whoosh, clean |
 | sfx | transitions | `sfx/transitions/deep-swoosh-rumble.mp3` | 1.5s | deep, swoosh, rumble |
 | sfx | transitions | `sfx/transitions/digital-glitch-stutter.mp3` | 0.8s | digital, glitch, stutter |
+| sfx | transitions | `sfx/transitions/time-warp-whoosh.mp3` | 2.5s | time-travel, warp, whoosh, sci-fi, reverse, impact |
 | sfx | transitions | `sfx/transitions/vhs-rewind.mp3` | 1.5s | vhs, rewind |
 | sfx | transitions | `sfx/transitions/whoosh.mp3` | 1.0s | whoosh, swoosh, transition, fast |
 | sfx | ui | `sfx/ui/camera-shutter-freeze.mp3` | 1.0s | camera, shutter, freeze |
 | sfx | ui | `sfx/ui/digital-typing-terminal.mp3` | 2.5s | digital, typing, terminal |
 | sfx | ui | `sfx/ui/digital-ui-blip.mp3` | 0.5s | digital, ui, blip |
+| sfx | ui | `sfx/ui/phone-notification-chime.mp3` | 1.0s | phone, notification, chime, smartphone, message |
 | sfx | ui | `sfx/ui/tv-static-burst.mp3` | 1.5s | static, tv, crt, noise, hiss, broadcast |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cash-register-ching.mp3` | 1.5s | cash-register, cha-ching, money, price, comedic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/comedic-ding.mp3` | 1.5s | ding, bell, comedic, reveal, hit |
+| sfx | ui-cartoon | `sfx/ui-cartoon/magic-shimmer-sparkle.mp3` | 1.5s | magic, shimmer, sparkle, whimsical, wizard |
 | sfx | ui-cartoon | `sfx/ui-cartoon/pop.mp3` | 0.5s | pop, cartoon, ui, light, comedic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/radar-ping.mp3` | 2.0s | radar, sonar, ping, ui, electronic, scan, hud |
 | sfx | ui-cartoon | `sfx/ui-cartoon/sad-trombone-wah-wah.mp3` | 3.0s | sad, trombone, fail, wah-wah, comedic, loser |
@@ -166,6 +178,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | vehicles | `sfx/vehicles/car-horn-double-honk.mp3` | 1.2s | car, horn, honk, beep, comedic |
 | sfx | vehicles | `sfx/vehicles/car-power-window-down.mp3` | 2.5s | car, power, window, motor, rolling |
 | sfx | vehicles | `sfx/vehicles/engine-rev-high-speed.mp3` | 4.0s | engine, rev, car, speed, interior |
+| sfx | vehicles | `sfx/vehicles/helicopter-rotor-hover-loop.mp3` | 8.0s | helicopter, rotor, hover, loop, military, night |
 | sfx | vehicles | `sfx/vehicles/quadcopter-drone-hover.mp3` | 6.0s | quadcopter, drone, hover |
 | sfx | vehicles | `sfx/vehicles/ship-horn.mp3` | 4.0s | ship, horn, foghorn, steamship, harbour, low |
 | sfx | vehicles | `sfx/vehicles/spike-strip-tire-pop.mp3` | 2.0s | spike-strip, stop-sticks, tire, pop, hiss, pursuit |
