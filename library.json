@@ -3970,6 +3970,136 @@
       "added": "2026-11-06",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "sfx/foley/steel-door-wheel-turn",
+      "type": "sfx",
+      "file": "sfx/foley/steel-door-wheel-turn.mp3",
+      "category": "foley",
+      "tags": [
+        "metal",
+        "door",
+        "wheel",
+        "bunker",
+        "ratchet",
+        "grind"
+      ],
+      "duration_s": 3.0,
+      "prompt": "heavy steel bunker blast door wheel being turned, metal grinding and ratcheting",
+      "generator": "eleven_text_to_sound_v3",
+      "added_by": "animation-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/explosions/distant-blast-underground-rumble",
+      "type": "sfx",
+      "file": "sfx/explosions/distant-blast-underground-rumble.mp3",
+      "category": "explosions",
+      "tags": [
+        "explosion",
+        "nuclear",
+        "rumble",
+        "shaking",
+        "debris",
+        "bunker",
+        "underground"
+      ],
+      "duration_s": 7.0,
+      "prompt": "massive distant explosion felt from underground bunker, deep low rumble, walls shaking, dust and debris falling",
+      "generator": "eleven_text_to_sound_v3",
+      "added_by": "animation-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/machines/light-bulb-flicker-off",
+      "type": "sfx",
+      "file": "sfx/machines/light-bulb-flicker-off.mp3",
+      "category": "machines",
+      "tags": [
+        "light",
+        "bulb",
+        "flicker",
+        "buzz",
+        "electrical",
+        "power-out"
+      ],
+      "duration_s": 2.5,
+      "prompt": "old light bulb electrical buzz flickering then popping off",
+      "generator": "eleven_text_to_sound_v3",
+      "added_by": "animation-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/empty-city-eerie-wind",
+      "type": "sfx",
+      "file": "sfx/ambience/empty-city-eerie-wind.mp3",
+      "category": "ambience",
+      "tags": [
+        "ambience",
+        "wind",
+        "empty",
+        "city",
+        "eerie",
+        "aftermath",
+        "quiet"
+      ],
+      "duration_s": 10.0,
+      "prompt": "quiet empty city after disaster, soft eerie wind ambience, no voices",
+      "generator": "eleven_text_to_sound_v3",
+      "added_by": "animation-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/distant-truck-convoy",
+      "type": "sfx",
+      "file": "sfx/vehicles/distant-truck-convoy.mp3",
+      "category": "vehicles",
+      "tags": [
+        "truck",
+        "convoy",
+        "military",
+        "engine",
+        "diesel",
+        "distant",
+        "rescue"
+      ],
+      "duration_s": 8.0,
+      "prompt": "distant convoy of heavy military trucks driving past, diesel engines rumbling",
+      "generator": "eleven_text_to_sound_v3",
+      "added_by": "animation-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/steel-door-creak-open",
+      "type": "sfx",
+      "file": "sfx/foley/steel-door-creak-open.mp3",
+      "category": "foley",
+      "tags": [
+        "metal",
+        "door",
+        "creak",
+        "open",
+        "groan",
+        "bunker",
+        "steel"
+      ],
+      "duration_s": 4.0,
+      "prompt": "heavy steel bunker door slowly creaking open, long metal groan",
+      "generator": "eleven_text_to_sound_v3",
+      "added_by": "animation-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }

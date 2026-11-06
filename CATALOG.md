@@ -113,13 +113,17 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-a.mp3` | 240.0s | wonder, ancient, discovery, choir, awe, reveal |
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-b.mp3` | 234.8s | wonder, ancient, discovery, choir, awe, reveal |
 | sfx | alarms | `sfx/alarms/air-raid-siren-city-night.mp3` | 10.0s | siren, air-raid, civil-defense, alarm, city, night, emergency |
+| sfx | ambience | `sfx/ambience/empty-city-eerie-wind.mp3` | 10.0s | ambience, wind, empty, city, eerie, aftermath, quiet |
 | sfx | creatures | `sfx/creatures/roar.mp3` | 2.5s | roar, monster, kaiju, creature, distorted |
 | sfx | explosions | `sfx/explosions/boom.mp3` | 3.0s | explosion, boom, sub-bass, nuclear, huge |
+| sfx | explosions | `sfx/explosions/distant-blast-underground-rumble.mp3` | 7.0s | explosion, nuclear, rumble, shaking, debris, bunker, underground |
 | sfx | foley | `sfx/foley/door-pound-fist.mp3` | 3.0s | door, knock, pounding, fist, urgent, banging |
 | sfx | foley | `sfx/foley/footsteps-running-concrete-stairs.mp3` | 4.0s | footsteps, running, stairs, concrete, sneakers, echo |
 | sfx | foley | `sfx/foley/marker-draw-circle-squeak.mp3` | 2.0s | marker, pen, drawing, circle, squeak, paper |
 | sfx | foley | `sfx/foley/running-through-corn.mp3` | 3.0s | corn, cornfield, running, rustle, foliage, foley |
 | sfx | foley | `sfx/foley/ship-bell-three.mp3` | 3.0s | bell, ship, brass, ring, three, alarm, lookout |
+| sfx | foley | `sfx/foley/steel-door-creak-open.mp3` | 4.0s | metal, door, creak, open, groan, bunker, steel |
+| sfx | foley | `sfx/foley/steel-door-wheel-turn.mp3` | 3.0s | metal, door, wheel, bunker, ratchet, grind |
 | sfx | impacts | `sfx/impacts/distant-single-gunshot.mp3` | 2.5s | gunshot, distant, single, echo, rural |
 | sfx | impacts | `sfx/impacts/hull-ice-scrape.mp3` | 5.0s | ship, hull, ice, scrape, grind, metal, groan, crack |
 | sfx | impacts | `sfx/impacts/impact.mp3` | 1.2s | impact, hit, metal, heavy, stinger |
@@ -131,6 +135,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | machines | `sfx/machines/clock-tick-loop.mp3` | 6.0s | clock, tick, timer, countdown, loop, tension |
 | sfx | machines | `sfx/machines/crt-tv-power-on-static.mp3` | 2.0s | tv, crt, static, power-on, whine, television |
 | sfx | machines | `sfx/machines/drone-hover-buzz.mp3` | 6.0s | drone, quadcopter, propeller, buzz, hover, loop, surveillance |
+| sfx | machines | `sfx/machines/light-bulb-flicker-off.mp3` | 2.5s | light, bulb, flicker, buzz, electrical, power-out |
 | sfx | police | `sfx/police/handcuffs-ratchet-click.mp3` | 2.0s | handcuffs, metal, click, ratchet, arrest |
 | sfx | police | `sfx/police/police-dog-barking.mp3` | 3.0s | dog, k9, bark, police, outdoors |
 | sfx | police | `sfx/police/police-pa-feedback-click.mp3` | 1.5s | police, pa, loudspeaker, feedback, click |
@@ -161,6 +166,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/thermal-camera-zoom.mp3` | 1.5s | thermal, camera, zoom, servo, whir, chirp, ui, hud, infrared |
 | sfx | vehicles | `sfx/vehicles/car-horn-double-honk.mp3` | 1.2s | car, horn, honk, beep, comedic |
 | sfx | vehicles | `sfx/vehicles/car-power-window-down.mp3` | 2.5s | car, power, window, motor, rolling |
+| sfx | vehicles | `sfx/vehicles/distant-truck-convoy.mp3` | 8.0s | truck, convoy, military, engine, diesel, distant, rescue |
 | sfx | vehicles | `sfx/vehicles/engine-rev-high-speed.mp3` | 4.0s | engine, rev, car, speed, interior |
 | sfx | vehicles | `sfx/vehicles/quadcopter-drone-hover.mp3` | 6.0s | quadcopter, drone, hover |
 | sfx | vehicles | `sfx/vehicles/ship-horn.mp3` | 4.0s | ship, horn, foghorn, steamship, harbour, low |
