@@ -20,6 +20,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | epic-cinematic | `music/epic-cinematic/highway-chase-hybrid-drums-b.mp3` | 194.1s | chase, action, taiko, electronic-drums, bass-ostinato, distorted, relentless, 140bpm |
 | music | epic-cinematic | `music/epic-cinematic/kaiju-trailer-taiko-brass-a.mp3` | 179.6s | epic, trailer, taiko, brass, suspense, heroic, drops |
 | music | epic-cinematic | `music/epic-cinematic/kaiju-trailer-taiko-brass-b.mp3` | 180.0s | epic, trailer, taiko, brass, suspense, heroic, drops |
+| music | epic-cinematic | `music/epic-cinematic/pursuit-action-brass-strings-a.mp3` | 176.8s | action, orchestral, percussion, brass-stabs, strings, urgent, pursuit, 130bpm |
 | music | epic-rock | `music/epic-rock/rock-orchestra-battle-a.mp3` | 234.7s | battle, rock, guitars, orchestra, relentless, showdown |
 | music | epic-rock | `music/epic-rock/rock-orchestra-battle-b.mp3` | 238.7s | battle, rock, guitars, orchestra, relentless, showdown |
 | music | horror | `music/horror/jungle-creature-chase-a.mp3` | 186.9s | horror, creepy, drones, scare-hits, chase, jungle |
