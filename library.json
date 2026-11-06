@@ -1607,6 +1607,52 @@
       "notes": "",
       "energy": "low",
       "instrumental": true
+    },
+    {
+      "id": "sfx/water/pool-splash",
+      "type": "sfx",
+      "file": "sfx/water/pool-splash.mp3",
+      "category": "water",
+      "tags": [
+        "splash",
+        "water",
+        "pool",
+        "drop",
+        "body",
+        "drips"
+      ],
+      "duration_s": 2.5,
+      "prompt": "large water splash, person dropping into a backyard swimming pool, single clean splash with drips, no music",
+      "generator": "ElevenLabs text-to-sound v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "V7 Hot Spot in the Pool"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/machines/clock-tick-loop",
+      "type": "sfx",
+      "file": "sfx/machines/clock-tick-loop.mp3",
+      "category": "machines",
+      "tags": [
+        "clock",
+        "tick",
+        "timer",
+        "countdown",
+        "loop",
+        "tension"
+      ],
+      "duration_s": 6.0,
+      "prompt": "mechanical clock ticking, steady second-hand tick, close and dry, loopable, no music",
+      "generator": "ElevenLabs text-to-sound v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "V7 Hot Spot in the Pool"
+      ],
+      "notes": ""
     }
   ]
 }
