@@ -123,6 +123,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ambience | `sfx/ambience/city-street-ambience-loop.mp3` | 22.0s | city, street, traffic, crowd, murmur, ambience, loop |
 | sfx | ambience | `sfx/ambience/crowd-murmur-outdoor.mp3` | 15.0s | crowd, murmur, outdoor, ambience, loop, anxious |
 | sfx | ambience | `sfx/ambience/crowd-murmur-tv-news.mp3` | 8.0s | crowd, murmur, reporters, news, cameras, outdoor |
+| sfx | ambience | `sfx/ambience/howling-wind-gorge.mp3` | 6.0s | wind, howling, gorge, chasm, night, eerie, ambience, mountain |
 | sfx | ambience | `sfx/ambience/jungle-ambience-loop.mp3` | 22.0s | jungle, tropical, ambience, insects, birds, loop, humid |
 | sfx | ambience | `sfx/ambience/medieval-village-ambience-loop.mp3` | 15.0s | medieval, village, ambience, rooster, morning, loop |
 | sfx | ambience | `sfx/ambience/night-crickets-ambience-loop.mp3` | 15.0s | night, crickets, ambience, calm, loop, dogs |
@@ -145,15 +146,18 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/boots-on-stone-footsteps.mp3` | 2.0s | footsteps, boots, stone, walking, castle, guard |
 | sfx | foley | `sfx/foley/church-bell-distant-medieval.mp3` | 5.0s | bell, church, medieval, distant, village |
 | sfx | foley | `sfx/foley/crowd-cheer-joyful.mp3` | 6.0s | crowd, cheer, applause, joy, celebration, outdoor |
+| sfx | foley | `sfx/foley/hourglass-flip-thunk.mp3` | 1.5s | hourglass, flip, wood, thunk, glass, clink, table |
 | sfx | foley | `sfx/foley/hourglass-sand-trickle.mp3` | 4.0s | sand, hourglass, trickle, grains, timer, soft |
 | sfx | foley | `sfx/foley/keys-jingle-ring.mp3` | 1.5s | keys, jingle, keyring, metal, foley |
 | sfx | foley | `sfx/foley/money-counter-riffle.mp3` | 2.5s | money, cash, banknotes, counter, riffle, bills |
 | sfx | foley | `sfx/foley/morning-birds-loop.mp3` | 20.0s | birds, morning, outdoors, nature, breeze, loop, ambience |
 | sfx | foley | `sfx/foley/office-desk-phone-ring.mp3` | 4.0s | phone, telephone, ring, office, corded, landline, 2000s |
 | sfx | foley | `sfx/foley/paper-leaflets-flutter.mp3` | 4.0s | paper, leaflets, flutter, falling, flyers |
+| sfx | foley | `sfx/foley/rope-bridge-creak.mp3` | 3.0s | rope, bridge, creak, strain, planks, sway, tense |
 | sfx | foley | `sfx/foley/rotary-phone-ring.mp3` | 4.0s | phone, telephone, rotary, landline, ring, vintage |
 | sfx | foley | `sfx/foley/running-through-corn.mp3` | 3.0s | corn, cornfield, running, rustle, foliage, foley |
 | sfx | foley | `sfx/foley/ship-bell-three.mp3` | 3.0s | bell, ship, brass, ring, three, alarm, lookout |
+| sfx | foley | `sfx/foley/wooden-chest-lid-creak.mp3` | 2.0s | chest, lid, creak, hinge, open, wood, treasure |
 | sfx | foley | `sfx/foley/wooden-chest-rattle.mp3` | 2.0s | chest, wood, lid, rattle, knock, box, something-inside |
 | sfx | impacts | `sfx/impacts/car-window-glass-smash.mp3` | 2.0s | glass, smash, shatter, window, car, break-in |
 | sfx | impacts | `sfx/impacts/distant-single-gunshot.mp3` | 2.5s | gunshot, distant, single, echo, rural |

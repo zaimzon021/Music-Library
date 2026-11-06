@@ -5460,6 +5460,95 @@
         "Day 21"
       ],
       "notes": ""
+    },
+    {
+      "id": "sfx/foley/hourglass-flip-thunk",
+      "type": "sfx",
+      "file": "sfx/foley/hourglass-flip-thunk.mp3",
+      "category": "foley",
+      "tags": [
+        "hourglass",
+        "flip",
+        "wood",
+        "thunk",
+        "glass",
+        "clink",
+        "table"
+      ],
+      "duration_s": 1.5,
+      "prompt": "Heavy wooden hourglass flipped over and set down on a stone table, single solid wooden thunk with a soft glass clink, close foley, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/wooden-chest-lid-creak",
+      "type": "sfx",
+      "file": "sfx/foley/wooden-chest-lid-creak.mp3",
+      "category": "foley",
+      "tags": [
+        "chest",
+        "lid",
+        "creak",
+        "hinge",
+        "open",
+        "wood",
+        "treasure"
+      ],
+      "duration_s": 2.0,
+      "prompt": "Old wooden treasure chest lid slowly creaking open, rusty iron hinges squeak, single clean foley sound, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/rope-bridge-creak",
+      "type": "sfx",
+      "file": "sfx/foley/rope-bridge-creak.mp3",
+      "category": "foley",
+      "tags": [
+        "rope",
+        "bridge",
+        "creak",
+        "strain",
+        "planks",
+        "sway",
+        "tense"
+      ],
+      "duration_s": 3.0,
+      "prompt": "Old rope bridge swaying, thick ropes straining and creaking, loose wooden planks knocking, tense, single clean sound, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/howling-wind-gorge",
+      "type": "sfx",
+      "file": "sfx/ambience/howling-wind-gorge.mp3",
+      "category": "ambience",
+      "tags": [
+        "wind",
+        "howling",
+        "gorge",
+        "chasm",
+        "night",
+        "eerie",
+        "ambience",
+        "mountain"
+      ],
+      "duration_s": 6.0,
+      "prompt": "Cold howling wind blowing through a deep mountain gorge at night, eerie low gusts, seamless ambience, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }
