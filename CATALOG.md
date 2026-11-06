@@ -58,6 +58,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | true-crime | `music/true-crime/heartbeat-search-suspense-b.mp3` | 199.3s | suspense, search, heartbeat, ambient, waiting, restrained |
 | music | true-crime | `music/true-crime/investigative-revelation-pulse-a.mp3` | 190.0s | brooding, tension, dissonant, synth-pulse, unease |
 | music | true-crime | `music/true-crime/investigative-revelation-pulse-b.mp3` | 193.9s | brooding, tension, dissonant, synth-pulse, unease |
+| music | true-crime | `music/true-crime/night-pursuit-synthwave-a.mp3` | 237.7s | night, pursuit, chase, synthwave, neon, driving, build, climax |
+| music | true-crime | `music/true-crime/night-pursuit-synthwave-b.mp3` | 240.0s | night, pursuit, chase, synthwave, neon, driving, build, climax |
 | music | true-crime | `music/true-crime/peak-chase-braams-a.mp3` | 183.2s | chase, action, braams, percussion, adrenaline, climax |
 | music | true-crime | `music/true-crime/peak-chase-braams-b.mp3` | 185.3s | chase, action, braams, percussion, adrenaline, climax |
 | music | true-crime | `music/true-crime/pursuit-cellos-arpeggio-a.mp3` | 184.8s | pursuit, chase, cellos, arpeggio, driving, tension |
@@ -77,11 +79,13 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | creatures | `sfx/creatures/roar.mp3` | 2.5s | roar, monster, kaiju, creature, distorted |
 | sfx | explosions | `sfx/explosions/boom.mp3` | 3.0s | explosion, boom, sub-bass, nuclear, huge |
 | sfx | impacts | `sfx/impacts/impact.mp3` | 1.2s | impact, hit, metal, heavy, stinger |
+| sfx | impacts | `sfx/impacts/mechanical-net-launch-thunk.mp3` | 1.5s | mechanical, launch, thunk, net, whip, spring |
 | sfx | impacts | `sfx/impacts/metallic-title-boom.mp3` | 3.0s | metallic, title, boom |
 | sfx | impacts | `sfx/impacts/rubber-stamp-slam.mp3` | 1.0s | rubber, stamp, slam |
 | sfx | impacts | `sfx/impacts/sub-bass-drop.mp3` | 2.0s | sub, bass, drop |
 | sfx | impacts | `sfx/impacts/trailer-impact-sub-boom.mp3` | 3.0s | trailer, impact, sub, boom |
 | sfx | police | `sfx/police/police-radio-squelch.mp3` | 1.5s | police, radio, squelch |
+| sfx | police | `sfx/police/siren-wail-passing.mp3` | 4.0s | siren, police, wail, passing, emergency |
 | sfx | risers | `sfx/risers/cinematic-riser-abrupt.mp3` | 4.0s | cinematic, riser, abrupt |
 | sfx | risers | `sfx/risers/riser.mp3` | 2.5s | riser, tension, build, transition |
 | sfx | tension | `sfx/tension/slow-heavy-heartbeat.mp3` | 4.0s | slow, heavy, heartbeat |
@@ -96,4 +100,6 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui | `sfx/ui/digital-ui-blip.mp3` | 0.5s | digital, ui, blip |
 | sfx | ui-cartoon | `sfx/ui-cartoon/pop.mp3` | 0.5s | pop, cartoon, ui, light, comedic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/scratch.mp3` | 1.0s | record-scratch, vinyl, comedic, stop, twist |
+| sfx | vehicles | `sfx/vehicles/engine-rev-high-speed.mp3` | 4.0s | engine, rev, car, speed, interior |
 | sfx | vehicles | `sfx/vehicles/quadcopter-drone-hover.mp3` | 6.0s | quadcopter, drone, hover |
+| sfx | vehicles | `sfx/vehicles/tire-screech-skid.mp3` | 2.5s | tires, screech, skid, brakes, car |

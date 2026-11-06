@@ -2239,6 +2239,141 @@
         "police-video-series v4,v5"
       ],
       "notes": ""
+    },
+    {
+      "id": "music/true-crime/night-pursuit-synthwave-a",
+      "type": "music",
+      "file": "music/true-crime/night-pursuit-synthwave-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "night",
+        "pursuit",
+        "chase",
+        "synthwave",
+        "neon",
+        "driving",
+        "build",
+        "climax"
+      ],
+      "duration_s": 237.7,
+      "prompt": "Instrumental night pursuit score: dark driving synthwave bass, steady pounding kick, cold neon arpeggios, rising tension, long build to a huge climax, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v6"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/night-pursuit-synthwave-b",
+      "type": "music",
+      "file": "music/true-crime/night-pursuit-synthwave-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "night",
+        "pursuit",
+        "chase",
+        "synthwave",
+        "neon",
+        "driving",
+        "build",
+        "climax"
+      ],
+      "duration_s": 240.0,
+      "prompt": "Instrumental night pursuit score: dark driving synthwave bass, steady pounding kick, cold neon arpeggios, rising tension, long build to a huge climax, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v6"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/police/siren-wail-passing",
+      "type": "sfx",
+      "file": "sfx/police/siren-wail-passing.mp3",
+      "category": "police",
+      "tags": [
+        "siren",
+        "police",
+        "wail",
+        "passing",
+        "emergency"
+      ],
+      "duration_s": 4.0,
+      "prompt": "american police siren wailing, passing by close",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/engine-rev-high-speed",
+      "type": "sfx",
+      "file": "sfx/vehicles/engine-rev-high-speed.mp3",
+      "category": "vehicles",
+      "tags": [
+        "engine",
+        "rev",
+        "car",
+        "speed",
+        "interior"
+      ],
+      "duration_s": 4.0,
+      "prompt": "car engine revving hard at high speed, interior",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/tire-screech-skid",
+      "type": "sfx",
+      "file": "sfx/vehicles/tire-screech-skid.mp3",
+      "category": "vehicles",
+      "tags": [
+        "tires",
+        "screech",
+        "skid",
+        "brakes",
+        "car"
+      ],
+      "duration_s": 2.5,
+      "prompt": "tires screeching skid on asphalt",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/mechanical-net-launch-thunk",
+      "type": "sfx",
+      "file": "sfx/impacts/mechanical-net-launch-thunk.mp3",
+      "category": "impacts",
+      "tags": [
+        "mechanical",
+        "launch",
+        "thunk",
+        "net",
+        "whip",
+        "spring"
+      ],
+      "duration_s": 1.5,
+      "prompt": "heavy mechanical spring launch thunk with nylon net whip",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }
