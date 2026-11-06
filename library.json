@@ -2374,6 +2374,140 @@
       "added": "2026-11-06",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "music/true-crime/forest-manhunt-strings-a",
+      "type": "music",
+      "file": "music/true-crime/forest-manhunt-strings-a.mp3",
+      "category": "true-crime",
+      "tags": [
+        "forest",
+        "manhunt",
+        "search",
+        "strings",
+        "eerie",
+        "heartbeat",
+        "build",
+        "tension"
+      ],
+      "duration_s": 215.2,
+      "prompt": "Instrumental dark forest manhunt score: tense low strings, eerie woodland atmosphere, sparse metallic percussion, pulsing heartbeat bass, slow relentless build, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v7"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/true-crime/forest-manhunt-strings-b",
+      "type": "music",
+      "file": "music/true-crime/forest-manhunt-strings-b.mp3",
+      "category": "true-crime",
+      "tags": [
+        "forest",
+        "manhunt",
+        "search",
+        "strings",
+        "eerie",
+        "heartbeat",
+        "build",
+        "tension"
+      ],
+      "duration_s": 220.1,
+      "prompt": "Instrumental dark forest manhunt score: tense low strings, eerie woodland atmosphere, sparse metallic percussion, pulsing heartbeat bass, slow relentless build, no vocals",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [
+        "police-video-series v7"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/police/handcuffs-ratchet-click",
+      "type": "sfx",
+      "file": "sfx/police/handcuffs-ratchet-click.mp3",
+      "category": "police",
+      "tags": [
+        "handcuffs",
+        "metal",
+        "click",
+        "ratchet",
+        "arrest"
+      ],
+      "duration_s": 2.0,
+      "prompt": "metal handcuffs clicking and ratcheting closed, close up",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/car-power-window-down",
+      "type": "sfx",
+      "file": "sfx/vehicles/car-power-window-down.mp3",
+      "category": "vehicles",
+      "tags": [
+        "car",
+        "power",
+        "window",
+        "motor",
+        "rolling"
+      ],
+      "duration_s": 2.5,
+      "prompt": "car power window motor rolling down",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/distant-single-gunshot",
+      "type": "sfx",
+      "file": "sfx/impacts/distant-single-gunshot.mp3",
+      "category": "impacts",
+      "tags": [
+        "gunshot",
+        "distant",
+        "single",
+        "echo",
+        "rural"
+      ],
+      "duration_s": 2.5,
+      "prompt": "single distant gunshot echoing across a rural neighborhood",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/police/police-dog-barking",
+      "type": "sfx",
+      "file": "sfx/police/police-dog-barking.mp3",
+      "category": "police",
+      "tags": [
+        "dog",
+        "k9",
+        "bark",
+        "police",
+        "outdoors"
+      ],
+      "duration_s": 3.0,
+      "prompt": "police dog barking aggressively, outdoors",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }
