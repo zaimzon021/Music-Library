@@ -138,11 +138,15 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui | `sfx/ui/camera-shutter-freeze.mp3` | 1.0s | camera, shutter, freeze |
 | sfx | ui | `sfx/ui/digital-typing-terminal.mp3` | 2.5s | digital, typing, terminal |
 | sfx | ui | `sfx/ui/digital-ui-blip.mp3` | 0.5s | digital, ui, blip |
+| sfx | ui | `sfx/ui/tv-static-burst.mp3` | 1.5s | static, tv, crt, noise, hiss, broadcast |
+| sfx | ui-cartoon | `sfx/ui-cartoon/cash-register-ching.mp3` | 1.5s | cash-register, cha-ching, money, price, comedic |
+| sfx | ui-cartoon | `sfx/ui-cartoon/comedic-ding.mp3` | 1.5s | ding, bell, comedic, reveal, hit |
 | sfx | ui-cartoon | `sfx/ui-cartoon/pop.mp3` | 0.5s | pop, cartoon, ui, light, comedic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/radar-ping.mp3` | 2.0s | radar, sonar, ping, ui, electronic, scan, hud |
 | sfx | ui-cartoon | `sfx/ui-cartoon/scratch.mp3` | 1.0s | record-scratch, vinyl, comedic, stop, twist |
 | sfx | ui-cartoon | `sfx/ui-cartoon/target-lock-beeps.mp3` | 1.5s | ui, beep, target, lock-on, hud, electronic, confirm |
 | sfx | ui-cartoon | `sfx/ui-cartoon/thermal-camera-zoom.mp3` | 1.5s | thermal, camera, zoom, servo, whir, chirp, ui, hud, infrared |
+| sfx | vehicles | `sfx/vehicles/car-horn-double-honk.mp3` | 1.2s | car, horn, honk, beep, comedic |
 | sfx | vehicles | `sfx/vehicles/car-power-window-down.mp3` | 2.5s | car, power, window, motor, rolling |
 | sfx | vehicles | `sfx/vehicles/engine-rev-high-speed.mp3` | 4.0s | engine, rev, car, speed, interior |
 | sfx | vehicles | `sfx/vehicles/quadcopter-drone-hover.mp3` | 6.0s | quadcopter, drone, hover |

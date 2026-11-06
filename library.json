@@ -3561,6 +3561,87 @@
         "cars-history ep10"
       ],
       "notes": ""
+    },
+    {
+      "id": "sfx/ui/tv-static-burst",
+      "type": "sfx",
+      "file": "sfx/ui/tv-static-burst.mp3",
+      "category": "ui",
+      "tags": [
+        "static",
+        "tv",
+        "crt",
+        "noise",
+        "hiss",
+        "broadcast"
+      ],
+      "duration_s": 1.5,
+      "prompt": "old CRT television static noise burst, white noise hiss",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/comedic-ding",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/comedic-ding.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "ding",
+        "bell",
+        "comedic",
+        "reveal",
+        "hit"
+      ],
+      "duration_s": 1.5,
+      "prompt": "comedic bright bell ding, single clean hit",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/cash-register-ching",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/cash-register-ching.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "cash-register",
+        "cha-ching",
+        "money",
+        "price",
+        "comedic"
+      ],
+      "duration_s": 1.5,
+      "prompt": "vintage cash register cha-ching with drawer open",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/car-horn-double-honk",
+      "type": "sfx",
+      "file": "sfx/vehicles/car-horn-double-honk.mp3",
+      "category": "vehicles",
+      "tags": [
+        "car",
+        "horn",
+        "honk",
+        "beep",
+        "comedic"
+      ],
+      "duration_s": 1.2,
+      "prompt": "comedic car horn double honk, short beep beep",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }
