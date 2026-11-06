@@ -4444,172 +4444,199 @@
       "instrumental": true
     },
     {
-      "id": "sfx/machines/dialup-modem-handshake",
+      "id": "sfx/crowds/crowd-cheer-applause",
       "type": "sfx",
-      "file": "sfx/machines/dialup-modem-handshake.mp3",
-      "category": "machines",
+      "file": "sfx/crowds/crowd-cheer-applause.mp3",
+      "category": "crowds",
       "tags": [
-        "dial-up",
-        "modem",
-        "internet",
-        "1990s",
-        "2000s",
-        "retro",
-        "screech",
-        "computer"
-      ],
-      "duration_s": 6.0,
-      "prompt": "1990s dial-up modem connecting handshake screech, clean, no music",
-      "generator": "ElevenLabs SFX v3 via AI33",
-      "added_by": "survive-this",
-      "added": "2026-11-06",
-      "used_in": [
-        "What If You Knew About 9/11 the Day Before?"
-      ],
-      "notes": ""
-    },
-    {
-      "id": "sfx/machines/fax-machine-printing",
-      "type": "sfx",
-      "file": "sfx/machines/fax-machine-printing.mp3",
-      "category": "machines",
-      "tags": [
-        "fax",
-        "office",
-        "printer",
-        "paper",
-        "machine",
-        "beeps",
-        "retro"
-      ],
-      "duration_s": 5.0,
-      "prompt": "old office fax machine receiving and printing paper, mechanical whir and beeps",
-      "generator": "ElevenLabs SFX v3 via AI33",
-      "added_by": "survive-this",
-      "added": "2026-11-06",
-      "used_in": [
-        "What If You Knew About 9/11 the Day Before?"
-      ],
-      "notes": ""
-    },
-    {
-      "id": "sfx/foley/office-desk-phone-ring",
-      "type": "sfx",
-      "file": "sfx/foley/office-desk-phone-ring.mp3",
-      "category": "foley",
-      "tags": [
-        "phone",
-        "telephone",
-        "ring",
-        "office",
-        "corded",
-        "landline",
-        "2000s"
+        "crowd",
+        "cheer",
+        "applause",
+        "celebration",
+        "outdoor"
       ],
       "duration_s": 4.0,
-      "prompt": "old corded office desk telephone ringing twice, early 2000s",
+      "prompt": "Large crowd cheering and applauding outdoors, enthusiastic, short burst",
       "generator": "ElevenLabs SFX v3 via AI33",
       "added_by": "survive-this",
       "added": "2026-11-06",
       "used_in": [
-        "What If You Knew About 9/11 the Day Before?"
+        "survive-this #4"
       ],
       "notes": ""
     },
     {
-      "id": "sfx/water/underwater-ambience-bubbles",
+      "id": "sfx/impacts/car-window-glass-smash",
       "type": "sfx",
-      "file": "sfx/water/underwater-ambience-bubbles.mp3",
-      "category": "water",
+      "file": "sfx/impacts/car-window-glass-smash.mp3",
+      "category": "impacts",
       "tags": [
-        "underwater",
-        "ocean",
-        "ambience",
-        "bubbles",
-        "deep",
-        "muffled",
-        "loop"
+        "glass",
+        "smash",
+        "shatter",
+        "window",
+        "car",
+        "break-in"
       ],
-      "duration_s": 12.0,
-      "prompt": "underwater ambience, deep ocean, gentle bubbles and muffled water, seamless",
+      "duration_s": 2.0,
+      "prompt": "Car side window glass smashing and shattering, single hit",
       "generator": "ElevenLabs SFX v3 via AI33",
       "added_by": "survive-this",
       "added": "2026-11-06",
       "used_in": [
-        "What If You Were Swallowed by a Whale?"
+        "survive-this #5"
       ],
       "notes": ""
     },
     {
-      "id": "sfx/creatures/humpback-whale-call",
+      "id": "sfx/ui/phone-notification-two-tone",
       "type": "sfx",
-      "file": "sfx/creatures/humpback-whale-call.mp3",
-      "category": "creatures",
+      "file": "sfx/ui/phone-notification-two-tone.mp3",
+      "category": "ui",
       "tags": [
-        "whale",
-        "humpback",
-        "whale-song",
-        "call",
-        "moan",
-        "underwater",
-        "ocean"
+        "phone",
+        "notification",
+        "chime",
+        "alert",
+        "message",
+        "app",
+        "two-tone"
       ],
-      "duration_s": 5.0,
-      "prompt": "humpback whale song call underwater, long low moan, clean single call",
+      "duration_s": 1.2,
+      "prompt": "Bright smartphone notification chime, two soft tones",
       "generator": "ElevenLabs SFX v3 via AI33",
       "added_by": "survive-this",
       "added": "2026-11-06",
       "used_in": [
-        "What If You Were Swallowed by a Whale?"
+        "survive-this #5"
       ],
       "notes": ""
     },
     {
-      "id": "sfx/water/giant-underwater-gulp",
+      "id": "sfx/ui-cartoon/cartoon-smoke-poof",
       "type": "sfx",
-      "file": "sfx/water/giant-underwater-gulp.mp3",
-      "category": "water",
+      "file": "sfx/ui-cartoon/cartoon-smoke-poof.mp3",
+      "category": "ui-cartoon",
       "tags": [
-        "gulp",
-        "swallow",
-        "whale",
-        "mouth",
-        "underwater",
-        "wet",
-        "deep"
+        "poof",
+        "smoke",
+        "vanish",
+        "disappear",
+        "cartoon",
+        "puff"
       ],
-      "duration_s": 3.0,
-      "prompt": "huge underwater gulp, giant mouth closing, deep wet muffled swallow",
+      "duration_s": 1.2,
+      "prompt": "Cartoon smoke poof, quick puff of air disappearance",
       "generator": "ElevenLabs SFX v3 via AI33",
       "added_by": "survive-this",
       "added": "2026-11-06",
       "used_in": [
-        "What If You Were Swallowed by a Whale?"
+        "survive-this #4"
       ],
       "notes": ""
     },
     {
-      "id": "sfx/water/scuba-regulator-breathing",
+      "id": "sfx/foley/money-counter-riffle",
       "type": "sfx",
-      "file": "sfx/water/scuba-regulator-breathing.mp3",
-      "category": "water",
+      "file": "sfx/foley/money-counter-riffle.mp3",
+      "category": "foley",
       "tags": [
-        "scuba",
-        "diver",
-        "regulator",
-        "breathing",
-        "bubbles",
-        "underwater"
+        "money",
+        "cash",
+        "banknotes",
+        "counter",
+        "riffle",
+        "bills"
       ],
-      "duration_s": 6.0,
-      "prompt": "scuba diver breathing through regulator underwater, inhale and bubbly exhale, two breaths",
+      "duration_s": 2.5,
+      "prompt": "Fast money bill counter machine riffling banknotes",
       "generator": "ElevenLabs SFX v3 via AI33",
       "added_by": "survive-this",
       "added": "2026-11-06",
       "used_in": [
-        "What If You Were Swallowed by a Whale?"
+        "survive-this #4, #5"
       ],
       "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/coin-cascade-clink",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/coin-cascade-clink.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "coins",
+        "gold",
+        "cascade",
+        "clink",
+        "money",
+        "reward",
+        "cartoon"
+      ],
+      "duration_s": 2.5,
+      "prompt": "Cartoon coin cascade, many gold coins clinking and pouring",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "music/funk-lounge/funky-luxury-lounge-a",
+      "type": "music",
+      "file": "music/funk-lounge/funky-luxury-lounge-a.mp3",
+      "category": "funk-lounge",
+      "tags": [
+        "funk",
+        "lounge",
+        "slap-bass",
+        "brass",
+        "wah-guitar",
+        "upbeat",
+        "luxury",
+        "money",
+        "playful"
+      ],
+      "duration_s": 234.4,
+      "prompt": "Upbeat funky lounge groove, slap bass, bright brass stabs, wah guitar, playful luxurious rich-lifestyle vibe, intro, build, big confident climax, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #5"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/funk-lounge/funky-luxury-lounge-b",
+      "type": "music",
+      "file": "music/funk-lounge/funky-luxury-lounge-b.mp3",
+      "category": "funk-lounge",
+      "tags": [
+        "funk",
+        "lounge",
+        "slap-bass",
+        "brass",
+        "wah-guitar",
+        "upbeat",
+        "luxury",
+        "money",
+        "playful"
+      ],
+      "duration_s": 222.7,
+      "prompt": "Upbeat funky lounge groove, slap bass, bright brass stabs, wah guitar, playful luxurious rich-lifestyle vibe, intro, build, big confident climax, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #5"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
     }
   ]
 }

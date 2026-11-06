@@ -46,6 +46,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | epic-cinematic | `music/epic-cinematic/reactor-hum-science-reveal-b.mp3` | 199.3s | sci-fi, reactor, drone, ticking, electric, explosion, science-reveal, heroic |
 | music | epic-rock | `music/epic-rock/rock-orchestra-battle-a.mp3` | 234.7s | battle, rock, guitars, orchestra, relentless, showdown |
 | music | epic-rock | `music/epic-rock/rock-orchestra-battle-b.mp3` | 238.7s | battle, rock, guitars, orchestra, relentless, showdown |
+| music | funk-lounge | `music/funk-lounge/funky-luxury-lounge-a.mp3` | 234.4s | funk, lounge, slap-bass, brass, wah-guitar, upbeat, luxury, money, playful |
+| music | funk-lounge | `music/funk-lounge/funky-luxury-lounge-b.mp3` | 222.7s | funk, lounge, slap-bass, brass, wah-guitar, upbeat, luxury, money, playful |
 | music | horror | `music/horror/jungle-creature-chase-a.mp3` | 186.9s | horror, creepy, drones, scare-hits, chase, jungle |
 | music | horror | `music/horror/jungle-creature-chase-b.mp3` | 184.8s | horror, creepy, drones, scare-hits, chase, jungle |
 | music | horror | `music/horror/music-box-horror-trailer-a.mp3` | 170.0s | horror, trailer, music-box, stingers, dread, terrifying |
@@ -124,16 +126,17 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | creatures | `sfx/creatures/cow-moo-single.mp3` | 2.5s | cow, moo, farm, animal |
 | sfx | creatures | `sfx/creatures/fox-snarl-snap.mp3` | 1.5s | fox, snarl, growl, bite, snap, predator |
 | sfx | creatures | `sfx/creatures/goose-panicked-honk.mp3` | 1.5s | goose, honk, bird, panic, farm, cartoon |
-| sfx | creatures | `sfx/creatures/humpback-whale-call.mp3` | 5.0s | whale, humpback, whale-song, call, moan, underwater, ocean |
 | sfx | creatures | `sfx/creatures/pig-oink-grunt.mp3` | 2.5s | pig, oink, grunt, farm, animal, comedic |
 | sfx | creatures | `sfx/creatures/roar.mp3` | 2.5s | roar, monster, kaiju, creature, distorted |
 | sfx | creatures | `sfx/creatures/small-dog-scared-whimper.mp3` | 1.5s | dog, whimper, whine, scared, small-dog, sad |
+| sfx | crowds | `sfx/crowds/crowd-cheer-applause.mp3` | 4.0s | crowd, cheer, applause, celebration, outdoor |
 | sfx | explosions | `sfx/explosions/boom.mp3` | 3.0s | explosion, boom, sub-bass, nuclear, huge |
 | sfx | foley | `sfx/foley/church-bell-distant-medieval.mp3` | 5.0s | bell, church, medieval, distant, village |
 | sfx | foley | `sfx/foley/keys-jingle-ring.mp3` | 1.5s | keys, jingle, keyring, metal, foley |
-| sfx | foley | `sfx/foley/office-desk-phone-ring.mp3` | 4.0s | phone, telephone, ring, office, corded, landline, 2000s |
+| sfx | foley | `sfx/foley/money-counter-riffle.mp3` | 2.5s | money, cash, banknotes, counter, riffle, bills |
 | sfx | foley | `sfx/foley/running-through-corn.mp3` | 3.0s | corn, cornfield, running, rustle, foliage, foley |
 | sfx | foley | `sfx/foley/ship-bell-three.mp3` | 3.0s | bell, ship, brass, ring, three, alarm, lookout |
+| sfx | impacts | `sfx/impacts/car-window-glass-smash.mp3` | 2.0s | glass, smash, shatter, window, car, break-in |
 | sfx | impacts | `sfx/impacts/distant-single-gunshot.mp3` | 2.5s | gunshot, distant, single, echo, rural |
 | sfx | impacts | `sfx/impacts/hull-ice-scrape.mp3` | 5.0s | ship, hull, ice, scrape, grind, metal, groan, crack |
 | sfx | impacts | `sfx/impacts/impact.mp3` | 1.2s | impact, hit, metal, heavy, stinger |
@@ -144,9 +147,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | impacts | `sfx/impacts/sub-bass-drop.mp3` | 2.0s | sub, bass, drop |
 | sfx | impacts | `sfx/impacts/trailer-impact-sub-boom.mp3` | 3.0s | trailer, impact, sub, boom |
 | sfx | machines | `sfx/machines/clock-tick-loop.mp3` | 6.0s | clock, tick, timer, countdown, loop, tension |
-| sfx | machines | `sfx/machines/dialup-modem-handshake.mp3` | 6.0s | dial-up, modem, internet, 1990s, 2000s, retro, screech, computer |
 | sfx | machines | `sfx/machines/drone-hover-buzz.mp3` | 6.0s | drone, quadcopter, propeller, buzz, hover, loop, surveillance |
-| sfx | machines | `sfx/machines/fax-machine-printing.mp3` | 5.0s | fax, office, printer, paper, machine, beeps, retro |
 | sfx | machines | `sfx/machines/iron-portcullis-grinding-down.mp3` | 4.0s | portcullis, gate, iron, grinding, chains, castle, medieval |
 | sfx | police | `sfx/police/handcuffs-ratchet-click.mp3` | 2.0s | handcuffs, metal, click, ratchet, arrest |
 | sfx | police | `sfx/police/police-dog-barking.mp3` | 3.0s | dog, k9, bark, police, outdoors |
@@ -168,8 +169,11 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui | `sfx/ui/digital-typing-terminal.mp3` | 2.5s | digital, typing, terminal |
 | sfx | ui | `sfx/ui/digital-ui-blip.mp3` | 0.5s | digital, ui, blip |
 | sfx | ui | `sfx/ui/phone-notification-chime.mp3` | 1.0s | phone, notification, chime, smartphone, message |
+| sfx | ui | `sfx/ui/phone-notification-two-tone.mp3` | 1.2s | phone, notification, chime, alert, message, app, two-tone |
 | sfx | ui | `sfx/ui/tv-static-burst.mp3` | 1.5s | static, tv, crt, noise, hiss, broadcast |
+| sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-smoke-poof.mp3` | 1.2s | poof, smoke, vanish, disappear, cartoon, puff |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cash-register-ching.mp3` | 1.5s | cash-register, cha-ching, money, price, comedic |
+| sfx | ui-cartoon | `sfx/ui-cartoon/coin-cascade-clink.mp3` | 2.5s | coins, gold, cascade, clink, money, reward, cartoon |
 | sfx | ui-cartoon | `sfx/ui-cartoon/comedic-ding.mp3` | 1.5s | ding, bell, comedic, reveal, hit |
 | sfx | ui-cartoon | `sfx/ui-cartoon/magic-shimmer-sparkle.mp3` | 1.5s | magic, shimmer, sparkle, whimsical, wizard |
 | sfx | ui-cartoon | `sfx/ui-cartoon/pop.mp3` | 0.5s | pop, cartoon, ui, light, comedic |
@@ -189,8 +193,5 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | vehicles | `sfx/vehicles/tire-screech-skid.mp3` | 2.5s | tires, screech, skid, brakes, car |
 | sfx | vehicles | `sfx/vehicles/tow-truck-winch-chain-ratchet.mp3` | 2.5s | tow-truck, winch, chain, ratchet, clank, mechanical, repo |
 | sfx | water | `sfx/water/gentle-water-lapping.mp3` | 5.0s | water, lapping, waves, moat, calm, night, ambience |
-| sfx | water | `sfx/water/giant-underwater-gulp.mp3` | 3.0s | gulp, swallow, whale, mouth, underwater, wet, deep |
 | sfx | water | `sfx/water/pool-splash.mp3` | 2.5s | splash, water, pool, drop, body, drips |
-| sfx | water | `sfx/water/scuba-regulator-breathing.mp3` | 6.0s | scuba, diver, regulator, breathing, bubbles, underwater |
-| sfx | water | `sfx/water/underwater-ambience-bubbles.mp3` | 12.0s | underwater, ocean, ambience, bubbles, deep, muffled, loop |
 | sfx | water | `sfx/water/wooden-rowboat-creak.mp3` | 2.5s | boat, rowboat, wood, creak, rocking, water |
