@@ -3884,6 +3884,66 @@
         "The Tower Part 2"
       ],
       "notes": "leading silence trimmed"
+    },
+    {
+      "id": "music/comedic-documentary/pompous-ancient-empire-comedy-march-a",
+      "type": "music",
+      "file": "music/comedic-documentary/pompous-ancient-empire-comedy-march-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "comedic",
+        "documentary",
+        "ancient",
+        "roman",
+        "empire",
+        "fanfare",
+        "brass",
+        "harp",
+        "pizzicato",
+        "bassoon",
+        "march",
+        "mock-heroic",
+        "narration-bed"
+      ],
+      "duration_s": 133.5,
+      "prompt": "Pompous mock-heroic ancient empire comedy underscore, regal fanfare trumpets, harp and lyre glissandos, pizzicato strings, bumbling bassoon and tuba, timpani rolls, playful self-important march, medium tempo, documentary narration bed, instrumental",
+      "generator": "Suno via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/pompous-ancient-empire-comedy-march-b",
+      "type": "music",
+      "file": "music/comedic-documentary/pompous-ancient-empire-comedy-march-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "comedic",
+        "documentary",
+        "ancient",
+        "roman",
+        "empire",
+        "fanfare",
+        "brass",
+        "harp",
+        "pizzicato",
+        "bassoon",
+        "march",
+        "mock-heroic",
+        "narration-bed"
+      ],
+      "duration_s": 104.7,
+      "prompt": "Pompous mock-heroic ancient empire comedy underscore, regal fanfare trumpets, harp and lyre glissandos, pizzicato strings, bumbling bassoon and tuba, timpani rolls, playful self-important march, medium tempo, documentary narration bed, instrumental",
+      "generator": "Suno via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
     }
   ]
 }

@@ -8,6 +8,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | comedic-documentary | `music/comedic-documentary/havana-mambo-sneaky-b.mp3` | 163.9s | latin, mambo, cuba, havana, congas, bongos, muted-trumpet, comedic, documentary, sneaky, 1950s |
 | music | comedic-documentary | `music/comedic-documentary/middle-eastern-sneaky-oud-a.mp3` | 146.1s | comedic, documentary, middle-eastern, oud, darbuka, pizzicato, sneaky, quirky, underscore |
 | music | comedic-documentary | `music/comedic-documentary/middle-eastern-sneaky-oud-b.mp3` | 158.0s | comedic, documentary, middle-eastern, oud, darbuka, pizzicato, sneaky, quirky, underscore |
+| music | comedic-documentary | `music/comedic-documentary/pompous-ancient-empire-comedy-march-a.mp3` | 133.5s | comedic, documentary, ancient, roman, empire, fanfare, brass, harp, pizzicato, bassoon, march, mock-heroic, narration-bed |
+| music | comedic-documentary | `music/comedic-documentary/pompous-ancient-empire-comedy-march-b.mp3` | 104.7s | comedic, documentary, ancient, roman, empire, fanfare, brass, harp, pizzicato, bassoon, march, mock-heroic, narration-bed |
 | music | comedic-documentary | `music/comedic-documentary/ragtime-comedy-documentary-bed-a.mp3` | 182.4s | comedy, documentary, ragtime, piano, pizzicato, tuba, quirky, period, silent-film |
 | music | comedic-documentary | `music/comedic-documentary/ragtime-comedy-documentary-bed-b.mp3` | 176.6s | comedy, documentary, ragtime, piano, pizzicato, tuba, quirky, period, silent-film |
 | music | comedic-menace | `music/comedic-menace/three-headed-sneaky-wink-a.mp3` | 173.9s | menacing, comedic, choir, sneaky, dragon, epic |
