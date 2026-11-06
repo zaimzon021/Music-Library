@@ -118,6 +118,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | creatures | `sfx/creatures/roar.mp3` | 2.5s | roar, monster, kaiju, creature, distorted |
 | sfx | creatures | `sfx/creatures/small-dog-scared-whimper.mp3` | 1.5s | dog, whimper, whine, scared, small-dog, sad |
 | sfx | explosions | `sfx/explosions/boom.mp3` | 3.0s | explosion, boom, sub-bass, nuclear, huge |
+| sfx | foley | `sfx/foley/keys-jingle-ring.mp3` | 1.5s | keys, jingle, keyring, metal, foley |
 | sfx | foley | `sfx/foley/running-through-corn.mp3` | 3.0s | corn, cornfield, running, rustle, foliage, foley |
 | sfx | foley | `sfx/foley/ship-bell-three.mp3` | 3.0s | bell, ship, brass, ring, three, alarm, lookout |
 | sfx | impacts | `sfx/impacts/distant-single-gunshot.mp3` | 2.5s | gunshot, distant, single, echo, rural |
@@ -154,9 +155,11 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/comedic-ding.mp3` | 1.5s | ding, bell, comedic, reveal, hit |
 | sfx | ui-cartoon | `sfx/ui-cartoon/pop.mp3` | 0.5s | pop, cartoon, ui, light, comedic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/radar-ping.mp3` | 2.0s | radar, sonar, ping, ui, electronic, scan, hud |
+| sfx | ui-cartoon | `sfx/ui-cartoon/sad-trombone-wah-wah.mp3` | 3.0s | sad, trombone, fail, wah-wah, comedic, loser |
 | sfx | ui-cartoon | `sfx/ui-cartoon/scratch.mp3` | 1.0s | record-scratch, vinyl, comedic, stop, twist |
 | sfx | ui-cartoon | `sfx/ui-cartoon/target-lock-beeps.mp3` | 1.5s | ui, beep, target, lock-on, hud, electronic, confirm |
 | sfx | ui-cartoon | `sfx/ui-cartoon/thermal-camera-zoom.mp3` | 1.5s | thermal, camera, zoom, servo, whir, chirp, ui, hud, infrared |
+| sfx | vehicles | `sfx/vehicles/car-alarm-siren-burst.mp3` | 2.5s | car, alarm, siren, whoop, wail, comedic |
 | sfx | vehicles | `sfx/vehicles/car-horn-double-honk.mp3` | 1.2s | car, horn, honk, beep, comedic |
 | sfx | vehicles | `sfx/vehicles/car-power-window-down.mp3` | 2.5s | car, power, window, motor, rolling |
 | sfx | vehicles | `sfx/vehicles/engine-rev-high-speed.mp3` | 4.0s | engine, rev, car, speed, interior |
@@ -164,4 +167,5 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | vehicles | `sfx/vehicles/ship-horn.mp3` | 4.0s | ship, horn, foghorn, steamship, harbour, low |
 | sfx | vehicles | `sfx/vehicles/spike-strip-tire-pop.mp3` | 2.0s | spike-strip, stop-sticks, tire, pop, hiss, pursuit |
 | sfx | vehicles | `sfx/vehicles/tire-screech-skid.mp3` | 2.5s | tires, screech, skid, brakes, car |
+| sfx | vehicles | `sfx/vehicles/tow-truck-winch-chain-ratchet.mp3` | 2.5s | tow-truck, winch, chain, ratchet, clank, mechanical, repo |
 | sfx | water | `sfx/water/pool-splash.mp3` | 2.5s | splash, water, pool, drop, body, drips |

@@ -3944,6 +3944,90 @@
       "notes": "",
       "energy": "medium",
       "instrumental": true
+    },
+    {
+      "id": "sfx/vehicles/car-alarm-siren-burst",
+      "type": "sfx",
+      "file": "sfx/vehicles/car-alarm-siren-burst.mp3",
+      "category": "vehicles",
+      "tags": [
+        "car",
+        "alarm",
+        "siren",
+        "whoop",
+        "wail",
+        "comedic"
+      ],
+      "duration_s": 2.5,
+      "prompt": "classic car alarm siren whooping wail, short burst, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/sad-trombone-wah-wah",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/sad-trombone-wah-wah.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "sad",
+        "trombone",
+        "fail",
+        "wah-wah",
+        "comedic",
+        "loser"
+      ],
+      "duration_s": 3.0,
+      "prompt": "sad trombone wah wah wah waaah, comedic fail, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/keys-jingle-ring",
+      "type": "sfx",
+      "file": "sfx/foley/keys-jingle-ring.mp3",
+      "category": "foley",
+      "tags": [
+        "keys",
+        "jingle",
+        "keyring",
+        "metal",
+        "foley"
+      ],
+      "duration_s": 1.5,
+      "prompt": "keys jingling on a metal key ring, close up, short",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/tow-truck-winch-chain-ratchet",
+      "type": "sfx",
+      "file": "sfx/vehicles/tow-truck-winch-chain-ratchet.mp3",
+      "category": "vehicles",
+      "tags": [
+        "tow-truck",
+        "winch",
+        "chain",
+        "ratchet",
+        "clank",
+        "mechanical",
+        "repo"
+      ],
+      "duration_s": 2.5,
+      "prompt": "tow truck winch chain ratcheting and clanking, mechanical, short",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }
