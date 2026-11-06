@@ -113,6 +113,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | police | `sfx/police/police-pa-feedback-click.mp3` | 1.5s | police, pa, loudspeaker, feedback, click |
 | sfx | police | `sfx/police/police-radio-squelch.mp3` | 1.5s | police, radio, squelch |
 | sfx | police | `sfx/police/siren-wail-passing.mp3` | 4.0s | siren, police, wail, passing, emergency |
+| sfx | radio | `sfx/radio/police-radio-squelch.mp3` | 1.0s | police, radio, squelch, static, dispatch, bodycam |
 | sfx | risers | `sfx/risers/cinematic-riser-abrupt.mp3` | 4.0s | cinematic, riser, abrupt |
 | sfx | risers | `sfx/risers/riser.mp3` | 2.5s | riser, tension, build, transition |
 | sfx | tension | `sfx/tension/slow-heavy-heartbeat.mp3` | 4.0s | slow, heavy, heartbeat |
