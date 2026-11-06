@@ -4,8 +4,12 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 
 | Type | Category | File | Length | Tags |
 |---|---|---|---|---|
+| music | comedic-documentary | `music/comedic-documentary/ragtime-comedy-documentary-bed-a.mp3` | 182.4s | comedy, documentary, ragtime, piano, pizzicato, tuba, quirky, period, silent-film |
+| music | comedic-documentary | `music/comedic-documentary/ragtime-comedy-documentary-bed-b.mp3` | 176.6s | comedy, documentary, ragtime, piano, pizzicato, tuba, quirky, period, silent-film |
 | music | comedic-menace | `music/comedic-menace/three-headed-sneaky-wink-a.mp3` | 173.9s | menacing, comedic, choir, sneaky, dragon, epic |
 | music | comedic-menace | `music/comedic-menace/three-headed-sneaky-wink-b.mp3` | 164.0s | menacing, comedic, choir, sneaky, dragon, epic |
+| music | comedic-trailer | `music/comedic-trailer/silent-film-comedy-trailer-hook-a.mp3` | 47.2s | comedy, trailer, hook, xylophone, brass, timpani, ticking, stinger, silent-film |
+| music | comedic-trailer | `music/comedic-trailer/silent-film-comedy-trailer-hook-b.mp3` | 48.2s | comedy, trailer, hook, xylophone, brass, timpani, ticking, stinger, silent-film |
 | music | dark-electronic | `music/dark-electronic/crime-doc-suspense-underscore-a.mp3` | 154.9s | suspense, underscore, drones, ticking, documentary, crime, tension, 90bpm |
 | music | dark-electronic | `music/dark-electronic/crime-doc-suspense-underscore-b.mp3` | 165.1s | suspense, underscore, drones, ticking, documentary, crime, tension, 90bpm |
 | music | dark-electronic | `music/dark-electronic/police-trailer-hook-subbass-a.mp3` | 190.0s | trailer, hook, sub-bass, ticking, tense, synth, big-hit, crime |
@@ -105,7 +109,9 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | creatures | `sfx/creatures/roar.mp3` | 2.5s | roar, monster, kaiju, creature, distorted |
 | sfx | explosions | `sfx/explosions/boom.mp3` | 3.0s | explosion, boom, sub-bass, nuclear, huge |
 | sfx | foley | `sfx/foley/running-through-corn.mp3` | 3.0s | corn, cornfield, running, rustle, foliage, foley |
+| sfx | foley | `sfx/foley/ship-bell-three.mp3` | 3.0s | bell, ship, brass, ring, three, alarm, lookout |
 | sfx | impacts | `sfx/impacts/distant-single-gunshot.mp3` | 2.5s | gunshot, distant, single, echo, rural |
+| sfx | impacts | `sfx/impacts/hull-ice-scrape.mp3` | 5.0s | ship, hull, ice, scrape, grind, metal, groan, crack |
 | sfx | impacts | `sfx/impacts/impact.mp3` | 1.2s | impact, hit, metal, heavy, stinger |
 | sfx | impacts | `sfx/impacts/mechanical-net-launch-thunk.mp3` | 1.5s | mechanical, launch, thunk, net, whip, spring |
 | sfx | impacts | `sfx/impacts/metallic-title-boom.mp3` | 3.0s | metallic, title, boom |
@@ -140,6 +146,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | vehicles | `sfx/vehicles/car-power-window-down.mp3` | 2.5s | car, power, window, motor, rolling |
 | sfx | vehicles | `sfx/vehicles/engine-rev-high-speed.mp3` | 4.0s | engine, rev, car, speed, interior |
 | sfx | vehicles | `sfx/vehicles/quadcopter-drone-hover.mp3` | 6.0s | quadcopter, drone, hover |
+| sfx | vehicles | `sfx/vehicles/ship-horn.mp3` | 4.0s | ship, horn, foghorn, steamship, harbour, low |
 | sfx | vehicles | `sfx/vehicles/spike-strip-tire-pop.mp3` | 2.0s | spike-strip, stop-sticks, tire, pop, hiss, pursuit |
 | sfx | vehicles | `sfx/vehicles/tire-screech-skid.mp3` | 2.5s | tires, screech, skid, brakes, car |
 | sfx | water | `sfx/water/pool-splash.mp3` | 2.5s | splash, water, pool, drop, body, drips |

@@ -3381,6 +3381,186 @@
       "notes": "",
       "energy": "high",
       "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/ragtime-comedy-documentary-bed-a",
+      "type": "music",
+      "file": "music/comedic-documentary/ragtime-comedy-documentary-bed-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "comedy",
+        "documentary",
+        "ragtime",
+        "piano",
+        "pizzicato",
+        "tuba",
+        "quirky",
+        "period",
+        "silent-film"
+      ],
+      "duration_s": 182.4,
+      "prompt": "Quirky comedic history documentary underscore, playful ragtime piano, pizzicato strings, tuba and clarinet, tiptoeing mischievous suspense, light and bouncy, medium tempo, early 1900s silent-film flavour, builds to a cheeky climax, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "cars-history",
+      "added": "2026-11-06",
+      "used_in": [
+        "cars-history ep10"
+      ],
+      "notes": "Main bed under narration; steady, loops well.",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/ragtime-comedy-documentary-bed-b",
+      "type": "music",
+      "file": "music/comedic-documentary/ragtime-comedy-documentary-bed-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "comedy",
+        "documentary",
+        "ragtime",
+        "piano",
+        "pizzicato",
+        "tuba",
+        "quirky",
+        "period",
+        "silent-film"
+      ],
+      "duration_s": 176.6,
+      "prompt": "Quirky comedic history documentary underscore, playful ragtime piano, pizzicato strings, tuba and clarinet, tiptoeing mischievous suspense, light and bouncy, medium tempo, early 1900s silent-film flavour, builds to a cheeky climax, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "cars-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-trailer/silent-film-comedy-trailer-hook-a",
+      "type": "music",
+      "file": "music/comedic-trailer/silent-film-comedy-trailer-hook-a.mp3",
+      "category": "comedic-trailer",
+      "tags": [
+        "comedy",
+        "trailer",
+        "hook",
+        "xylophone",
+        "brass",
+        "timpani",
+        "ticking",
+        "stinger",
+        "silent-film"
+      ],
+      "duration_s": 47.2,
+      "prompt": "High-energy comedic cinematic trailer cue, galloping silent-film orchestra, rapid xylophone runs, punchy brass stabs, timpani hits, ticking clock tension, quick builds and stops, playful and dramatic, ends on a big stinger, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "cars-history",
+      "added": "2026-11-06",
+      "used_in": [
+        "cars-history ep10"
+      ],
+      "notes": "Cold-open hook cue, big stinger near 40-45 s.",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-trailer/silent-film-comedy-trailer-hook-b",
+      "type": "music",
+      "file": "music/comedic-trailer/silent-film-comedy-trailer-hook-b.mp3",
+      "category": "comedic-trailer",
+      "tags": [
+        "comedy",
+        "trailer",
+        "hook",
+        "xylophone",
+        "brass",
+        "timpani",
+        "ticking",
+        "stinger",
+        "silent-film"
+      ],
+      "duration_s": 48.2,
+      "prompt": "High-energy comedic cinematic trailer cue, galloping silent-film orchestra, rapid xylophone runs, punchy brass stabs, timpani hits, ticking clock tension, quick builds and stops, playful and dramatic, ends on a big stinger, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "cars-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/vehicles/ship-horn",
+      "type": "sfx",
+      "file": "sfx/vehicles/ship-horn.mp3",
+      "category": "vehicles",
+      "tags": [
+        "ship",
+        "horn",
+        "foghorn",
+        "steamship",
+        "harbour",
+        "low"
+      ],
+      "duration_s": 4.0,
+      "prompt": "deep old steamship horn blast, single long low foghorn, distant harbour, clean, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-history",
+      "added": "2026-11-06",
+      "used_in": [
+        "cars-history ep10"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/hull-ice-scrape",
+      "type": "sfx",
+      "file": "sfx/impacts/hull-ice-scrape.mp3",
+      "category": "impacts",
+      "tags": [
+        "ship",
+        "hull",
+        "ice",
+        "scrape",
+        "grind",
+        "metal",
+        "groan",
+        "crack"
+      ],
+      "duration_s": 5.0,
+      "prompt": "large ship hull grinding and scraping against ice, deep metal groan and ice cracking, clean, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-history",
+      "added": "2026-11-06",
+      "used_in": [
+        "cars-history ep10"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/ship-bell-three",
+      "type": "sfx",
+      "file": "sfx/foley/ship-bell-three.mp3",
+      "category": "foley",
+      "tags": [
+        "bell",
+        "ship",
+        "brass",
+        "ring",
+        "three",
+        "alarm",
+        "lookout"
+      ],
+      "duration_s": 3.0,
+      "prompt": "brass ship bell rung three quick times, clear ringing, outdoors, clean, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-history",
+      "added": "2026-11-06",
+      "used_in": [
+        "cars-history ep10"
+      ],
+      "notes": ""
     }
   ]
 }
