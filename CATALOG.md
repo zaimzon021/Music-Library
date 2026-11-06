@@ -14,6 +14,32 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | comedic-trailer | `music/comedic-trailer/90s-news-desert-comedy-hook-b.mp3` | 58.9s | comedic, trailer, hook, 1990s, news, desert, darbuka, brass, energetic, stinger |
 | music | comedic-trailer | `music/comedic-trailer/silent-film-comedy-trailer-hook-a.mp3` | 47.2s | comedy, trailer, hook, xylophone, brass, timpani, ticking, stinger, silent-film |
 | music | comedic-trailer | `music/comedic-trailer/silent-film-comedy-trailer-hook-b.mp3` | 48.2s | comedy, trailer, hook, xylophone, brass, timpani, ticking, stinger, silent-film |
+| music | crime-thriller | `music/crime-thriller/breathing-drones-searching-dark-a.mp3` | 232.4s | dark-ambient, drones, rustling, piano-hits, uneasy, search |
+| music | crime-thriller | `music/crime-thriller/breathing-drones-searching-dark-b.mp3` | 213.7s | dark-ambient, drones, rustling, piano-hits, uneasy, search |
+| music | crime-thriller | `music/crime-thriller/felt-piano-warm-strings-outro-a.mp3` | 168.5s | outro, reflective, felt-piano, strings, resolve, documentary |
+| music | crime-thriller | `music/crime-thriller/felt-piano-warm-strings-outro-b.mp3` | 175.0s | outro, reflective, felt-piano, strings, resolve, documentary |
+| music | crime-thriller | `music/crime-thriller/fire-crackle-brass-ominous-build-a.mp3` | 144.8s | ominous, brass, fire-texture, sub-bass, hi-hat, build, hook |
+| music | crime-thriller | `music/crime-thriller/fire-crackle-brass-ominous-build-b.mp3` | 164.8s | ominous, brass, fire-texture, sub-bass, hi-hat, build, hook |
+| music | crime-thriller | `music/crime-thriller/heartbeat-ticking-thriller-hook-a.mp3` | 153.6s | thriller, heartbeat, ticking, strings, sub-bass, tension, hook |
+| music | crime-thriller | `music/crime-thriller/heartbeat-ticking-thriller-hook-b.mp3` | 137.7s | thriller, heartbeat, ticking, strings, sub-bass, tension, hook |
+| music | crime-thriller | `music/crime-thriller/industrial-metallic-grind-thriller-a.mp3` | 201.6s | industrial, metallic, glitch, synth-bass, gritty, thriller, night |
+| music | crime-thriller | `music/crime-thriller/industrial-metallic-grind-thriller-b.mp3` | 180.0s | industrial, metallic, glitch, synth-bass, gritty, thriller, night |
+| music | crime-thriller | `music/crime-thriller/night-pursuit-hybrid-action-a.mp3` | 199.0s | action, pursuit, driving, bass-synth, percussion, staccato-strings, night |
+| music | crime-thriller | `music/crime-thriller/night-pursuit-hybrid-action-b.mp3` | 188.0s | action, pursuit, driving, bass-synth, percussion, staccato-strings, night |
+| music | crime-thriller | `music/crime-thriller/reflective-strings-piano-outro-a.mp3` | 166.9s | outro, reflective, strings, piano, hopeful, documentary |
+| music | crime-thriller | `music/crime-thriller/reflective-strings-piano-outro-b.mp3` | 169.7s | outro, reflective, strings, piano, hopeful, documentary |
+| music | crime-thriller | `music/crime-thriller/rolling-toms-cello-night-chase-a.mp3` | 178.1s | chase, toms, cellos, analog-synth, urgent, action, night |
+| music | crime-thriller | `music/crime-thriller/rolling-toms-cello-night-chase-b.mp3` | 183.1s | chase, toms, cellos, analog-synth, urgent, action, night |
+| music | crime-thriller | `music/crime-thriller/searchlight-gated-synth-surveillance-a.mp3` | 196.4s | surveillance, electronic, rotor-pulse, gated-synth, pads, hunter |
+| music | crime-thriller | `music/crime-thriller/searchlight-gated-synth-surveillance-b.mp3` | 214.4s | surveillance, electronic, rotor-pulse, gated-synth, pads, hunter |
+| music | crime-thriller | `music/crime-thriller/sparse-piano-ticking-suspense-a.mp3` | 158.9s | suspense, minimal, piano, cello-drone, ticking, quiet |
+| music | crime-thriller | `music/crime-thriller/sparse-piano-ticking-suspense-b.mp3` | 178.9s | suspense, minimal, piano, cello-drone, ticking, quiet |
+| music | crime-thriller | `music/crime-thriller/surveillance-rotor-pulse-a.mp3` | 184.8s | surveillance, electronic, rotor-pulse, drones, glitch, thermal, tension |
+| music | crime-thriller | `music/crime-thriller/surveillance-rotor-pulse-b.mp3` | 182.5s | surveillance, electronic, rotor-pulse, drones, glitch, thermal, tension |
+| music | crime-thriller | `music/crime-thriller/taiko-brass-frantic-chase-a.mp3` | 139.3s | chase, taiko, brass, rising-strings, frantic, trailer |
+| music | crime-thriller | `music/crime-thriller/taiko-brass-frantic-chase-b.mp3` | 123.7s | chase, taiko, brass, rising-strings, frantic, trailer |
+| music | crime-thriller | `music/crime-thriller/tremolo-heartbeat-standoff-crescendo-a.mp3` | 130.0s | standoff, ticking, tremolo-strings, heartbeat, crescendo, suspense |
+| music | crime-thriller | `music/crime-thriller/tremolo-heartbeat-standoff-crescendo-b.mp3` | 138.5s | standoff, ticking, tremolo-strings, heartbeat, crescendo, suspense |
 | music | dark-electronic | `music/dark-electronic/crime-doc-suspense-underscore-a.mp3` | 154.9s | suspense, underscore, drones, ticking, documentary, crime, tension, 90bpm |
 | music | dark-electronic | `music/dark-electronic/crime-doc-suspense-underscore-b.mp3` | 165.1s | suspense, underscore, drones, ticking, documentary, crime, tension, 90bpm |
 | music | dark-electronic | `music/dark-electronic/police-trailer-hook-subbass-a.mp3` | 190.0s | trailer, hook, sub-bass, ticking, tense, synth, big-hit, crime |
