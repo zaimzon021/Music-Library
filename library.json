@@ -5549,6 +5549,197 @@
       "added": "2026-11-06",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "sfx/ambience/mountain-wind-howl-loop",
+      "type": "sfx",
+      "file": "sfx/ambience/mountain-wind-howl-loop.mp3",
+      "category": "ambience",
+      "tags": [
+        "wind",
+        "mountain",
+        "howling",
+        "gusts",
+        "snow",
+        "cold",
+        "ambience",
+        "loop"
+      ],
+      "duration_s": 20.0,
+      "prompt": "cold high mountain wind ambience, steady howling gusts over snowy peaks, no music, seamless loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #8"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/camel-grunt-comedic",
+      "type": "sfx",
+      "file": "sfx/creatures/camel-grunt-comedic.mp3",
+      "category": "creatures",
+      "tags": [
+        "camel",
+        "grunt",
+        "groan",
+        "animal",
+        "comedic"
+      ],
+      "duration_s": 2.0,
+      "prompt": "single camel grunt groan, comedic animal vocal, clean, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #8"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/weather/polar-blizzard-wind-loop",
+      "type": "sfx",
+      "file": "sfx/weather/polar-blizzard-wind-loop.mp3",
+      "category": "weather",
+      "tags": [
+        "wind",
+        "blizzard",
+        "polar",
+        "antarctic",
+        "ambience",
+        "loop",
+        "snow"
+      ],
+      "duration_s": 22.0,
+      "prompt": "howling polar blizzard wind ambience, steady gusts and blowing snow, seamless loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #9"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/prop-cargo-plane-takeoff",
+      "type": "sfx",
+      "file": "sfx/vehicles/prop-cargo-plane-takeoff.mp3",
+      "category": "vehicles",
+      "tags": [
+        "plane",
+        "propeller",
+        "cargo",
+        "takeoff",
+        "flyby",
+        "aircraft",
+        "engine"
+      ],
+      "duration_s": 9.0,
+      "prompt": "four-engine propeller cargo plane taking off on snow and flying away into the distance",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #9"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/magic/magical-shimmer-swell",
+      "type": "sfx",
+      "file": "sfx/magic/magical-shimmer-swell.mp3",
+      "category": "magic",
+      "tags": [
+        "shimmer",
+        "chimes",
+        "sparkle",
+        "magical",
+        "wonder",
+        "ethereal",
+        "swell",
+        "reveal"
+      ],
+      "duration_s": 5.0,
+      "prompt": "magical shimmering chime swell, glassy sparkles, soft ethereal wonder",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #9"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/calendar-page-flip",
+      "type": "sfx",
+      "file": "sfx/foley/calendar-page-flip.mp3",
+      "category": "foley",
+      "tags": [
+        "paper",
+        "page",
+        "flip",
+        "calendar",
+        "tear",
+        "time-jump"
+      ],
+      "duration_s": 1.5,
+      "prompt": "single paper calendar page flip and tear",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #9"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/heavy-door-icy-wind",
+      "type": "sfx",
+      "file": "sfx/foley/heavy-door-icy-wind.mp3",
+      "category": "foley",
+      "tags": [
+        "door",
+        "heavy",
+        "metal",
+        "open",
+        "wind",
+        "cold",
+        "gust"
+      ],
+      "duration_s": 3.0,
+      "prompt": "heavy insulated metal door opening with a rush of icy wind",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #9"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/station-interior-hum-loop",
+      "type": "sfx",
+      "file": "sfx/ambience/station-interior-hum-loop.mp3",
+      "category": "ambience",
+      "tags": [
+        "room-tone",
+        "hum",
+        "ventilation",
+        "interior",
+        "station",
+        "ambience",
+        "loop"
+      ],
+      "duration_s": 20.0,
+      "prompt": "low indoor ventilation hum, research station interior room tone, loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #9"
+      ],
+      "notes": ""
     }
   ]
 }

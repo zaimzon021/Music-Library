@@ -126,8 +126,11 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ambience | `sfx/ambience/howling-wind-gorge.mp3` | 6.0s | wind, howling, gorge, chasm, night, eerie, ambience, mountain |
 | sfx | ambience | `sfx/ambience/jungle-ambience-loop.mp3` | 22.0s | jungle, tropical, ambience, insects, birds, loop, humid |
 | sfx | ambience | `sfx/ambience/medieval-village-ambience-loop.mp3` | 15.0s | medieval, village, ambience, rooster, morning, loop |
+| sfx | ambience | `sfx/ambience/mountain-wind-howl-loop.mp3` | 20.0s | wind, mountain, howling, gusts, snow, cold, ambience, loop |
 | sfx | ambience | `sfx/ambience/night-crickets-ambience-loop.mp3` | 15.0s | night, crickets, ambience, calm, loop, dogs |
+| sfx | ambience | `sfx/ambience/station-interior-hum-loop.mp3` | 20.0s | room-tone, hum, ventilation, interior, station, ambience, loop |
 | sfx | ambience | `sfx/ambience/underwater-ambience.mp3` | 15.0s | underwater, ocean, bubbles, ambience, loop |
+| sfx | creatures | `sfx/creatures/camel-grunt-comedic.mp3` | 2.0s | camel, grunt, groan, animal, comedic |
 | sfx | creatures | `sfx/creatures/chickens-clucking-yard.mp3` | 5.0s | chicken, cluck, farm, yard, animals |
 | sfx | creatures | `sfx/creatures/corgi-happy-bark-double.mp3` | 1.5s | dog, corgi, bark, happy, excited, small-dog, cartoon |
 | sfx | creatures | `sfx/creatures/cow-moo-single.mp3` | 2.5s | cow, moo, farm, animal |
@@ -144,8 +147,10 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | crowds | `sfx/crowds/press-crowd-camera-flashes.mp3` | 6.0s | crowd, reporters, press, camera, shutter, flash, murmur |
 | sfx | explosions | `sfx/explosions/boom.mp3` | 3.0s | explosion, boom, sub-bass, nuclear, huge |
 | sfx | foley | `sfx/foley/boots-on-stone-footsteps.mp3` | 2.0s | footsteps, boots, stone, walking, castle, guard |
+| sfx | foley | `sfx/foley/calendar-page-flip.mp3` | 1.5s | paper, page, flip, calendar, tear, time-jump |
 | sfx | foley | `sfx/foley/church-bell-distant-medieval.mp3` | 5.0s | bell, church, medieval, distant, village |
 | sfx | foley | `sfx/foley/crowd-cheer-joyful.mp3` | 6.0s | crowd, cheer, applause, joy, celebration, outdoor |
+| sfx | foley | `sfx/foley/heavy-door-icy-wind.mp3` | 3.0s | door, heavy, metal, open, wind, cold, gust |
 | sfx | foley | `sfx/foley/hourglass-flip-thunk.mp3` | 1.5s | hourglass, flip, wood, thunk, glass, clink, table |
 | sfx | foley | `sfx/foley/hourglass-sand-trickle.mp3` | 4.0s | sand, hourglass, trickle, grains, timer, soft |
 | sfx | foley | `sfx/foley/keys-jingle-ring.mp3` | 1.5s | keys, jingle, keyring, metal, foley |
@@ -176,6 +181,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | machines | `sfx/machines/drone-hover-buzz.mp3` | 6.0s | drone, quadcopter, propeller, buzz, hover, loop, surveillance |
 | sfx | machines | `sfx/machines/fax-machine-printing.mp3` | 5.0s | fax, office, printer, paper, machine, beeps, retro |
 | sfx | machines | `sfx/machines/iron-portcullis-grinding-down.mp3` | 4.0s | portcullis, gate, iron, grinding, chains, castle, medieval |
+| sfx | magic | `sfx/magic/magical-shimmer-swell.mp3` | 5.0s | shimmer, chimes, sparkle, magical, wonder, ethereal, swell, reveal |
 | sfx | police | `sfx/police/handcuffs-ratchet-click.mp3` | 2.0s | handcuffs, metal, click, ratchet, arrest |
 | sfx | police | `sfx/police/police-dog-barking.mp3` | 3.0s | dog, k9, bark, police, outdoors |
 | sfx | police | `sfx/police/police-pa-feedback-click.mp3` | 1.5s | police, pa, loudspeaker, feedback, click |
@@ -217,6 +223,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | vehicles | `sfx/vehicles/engine-rev-high-speed.mp3` | 4.0s | engine, rev, car, speed, interior |
 | sfx | vehicles | `sfx/vehicles/helicopter-rotor-hover-loop.mp3` | 8.0s | helicopter, rotor, hover, loop, military, night |
 | sfx | vehicles | `sfx/vehicles/jet-takeoff-roar.mp3` | 7.0s | jet, plane, takeoff, engine, roar, military, cargo |
+| sfx | vehicles | `sfx/vehicles/prop-cargo-plane-takeoff.mp3` | 9.0s | plane, propeller, cargo, takeoff, flyby, aircraft, engine |
 | sfx | vehicles | `sfx/vehicles/propeller-plane-flyby.mp3` | 6.0s | plane, propeller, vintage, aircraft, flyby, overhead |
 | sfx | vehicles | `sfx/vehicles/quadcopter-drone-hover.mp3` | 6.0s | quadcopter, drone, hover |
 | sfx | vehicles | `sfx/vehicles/ship-horn.mp3` | 4.0s | ship, horn, foghorn, steamship, harbour, low |
@@ -233,3 +240,4 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | water | `sfx/water/scuba-regulator-breathing.mp3` | 6.0s | scuba, diver, regulator, breathing, bubbles, underwater |
 | sfx | water | `sfx/water/underwater-ambience-bubbles.mp3` | 12.0s | underwater, ocean, ambience, bubbles, deep, muffled, loop |
 | sfx | water | `sfx/water/wooden-rowboat-creak.mp3` | 2.5s | boat, rowboat, wood, creak, rocking, water |
+| sfx | weather | `sfx/weather/polar-blizzard-wind-loop.mp3` | 22.0s | wind, blizzard, polar, antarctic, ambience, loop, snow |
