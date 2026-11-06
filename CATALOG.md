@@ -7,6 +7,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | comedic-menace | `music/comedic-menace/three-headed-sneaky-wink-a.mp3` | 173.9s | menacing, comedic, choir, sneaky, dragon, epic |
 | music | comedic-menace | `music/comedic-menace/three-headed-sneaky-wink-b.mp3` | 164.0s | menacing, comedic, choir, sneaky, dragon, epic |
 | music | dark-electronic | `music/dark-electronic/surveillance-synth-pulse-a.mp3` | 209.7s | surveillance, thriller, synth-bass, ticking, tension, build, reveal, drone, crime |
+| music | dark-electronic | `music/dark-electronic/surveillance-synth-pulse-b.mp3` | 219.8s | surveillance, thriller, synth-bass, ticking, tension, build, reveal, drone, crime |
 | music | dark-electronic | `music/dark-electronic/toxic-hazard-pulse-a.mp3` | 203.7s | toxic, electronic, bass, alarm, gritty, ominous |
 | music | dark-electronic | `music/dark-electronic/toxic-hazard-pulse-b.mp3` | 204.0s | toxic, electronic, bass, alarm, gritty, ominous |
 | music | epic-cinematic | `music/epic-cinematic/choir-clicking-battle-a.mp3` | 218.0s | ominous, choir, brass, dread, battle, monster |
