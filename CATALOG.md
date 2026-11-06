@@ -46,6 +46,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | ocean-deep | `music/ocean-deep/deep-sea-sonar-mystery-b.mp3` | 228.6s | ocean, underwater, sonar, mysterious, ambient, reveal |
 | music | ocean-deep | `music/ocean-deep/ocean-predator-heartbeat-a.mp3` | 205.2s | ocean, underwater, heartbeat, suspense, splash, predator |
 | music | ocean-deep | `music/ocean-deep/ocean-predator-heartbeat-b.mp3` | 209.7s | ocean, underwater, heartbeat, suspense, splash, predator |
+| music | phonk-trap | `music/phonk-trap/drift-phonk-cowbell-808-a.mp3` | 180.8s | phonk, trap, drift, 808, cowbell, aggressive, gaming, montage, drops |
+| music | phonk-trap | `music/phonk-trap/drift-phonk-cowbell-808-b.mp3` | 176.7s | phonk, trap, drift, 808, cowbell, aggressive, gaming, montage, drops |
 | music | playful-heartfelt | `music/playful-heartfelt/playful-pizzicato-heroic-swell-a.mp3` | 174.9s | playful, heartfelt, pizzicato, strings, emotional, heroic |
 | music | playful-heartfelt | `music/playful-heartfelt/playful-pizzicato-heroic-swell-b.mp3` | 174.9s | playful, heartfelt, pizzicato, strings, emotional, heroic |
 | music | retro-japanese | `music/retro-japanese/1960s-monster-march-a.mp3` | 152.2s | retro, japanese, march, brass, playful, heroic, triumphant |

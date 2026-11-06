@@ -3146,6 +3146,58 @@
         "V7 Hot Spot in the Pool"
       ],
       "notes": ""
+    },
+    {
+      "id": "music/phonk-trap/drift-phonk-cowbell-808-a",
+      "type": "music",
+      "file": "music/phonk-trap/drift-phonk-cowbell-808-a.mp3",
+      "category": "phonk-trap",
+      "tags": [
+        "phonk",
+        "trap",
+        "drift",
+        "808",
+        "cowbell",
+        "aggressive",
+        "gaming",
+        "montage",
+        "drops"
+      ],
+      "duration_s": 180.8,
+      "prompt": "dark drift phonk trap gaming montage beat, hard distorted 808s, cowbell melody, aggressive, punchy drops, instrumental, intro build drop climax",
+      "generator": "Suno via AI33",
+      "added_by": "zaim-codm",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/phonk-trap/drift-phonk-cowbell-808-b",
+      "type": "music",
+      "file": "music/phonk-trap/drift-phonk-cowbell-808-b.mp3",
+      "category": "phonk-trap",
+      "tags": [
+        "phonk",
+        "trap",
+        "drift",
+        "808",
+        "cowbell",
+        "aggressive",
+        "gaming",
+        "montage",
+        "drops"
+      ],
+      "duration_s": 176.7,
+      "prompt": "dark drift phonk trap gaming montage beat, hard distorted 808s, cowbell melody, aggressive, punchy drops, instrumental, intro build drop climax",
+      "generator": "Suno via AI33",
+      "added_by": "zaim-codm",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
     }
   ]
 }
