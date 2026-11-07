@@ -6024,6 +6024,31 @@
       "added": "2026-11-07",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "sfx/foley/tape-measure-pull-retract-snap",
+      "type": "sfx",
+      "file": "sfx/foley/tape-measure-pull-retract-snap.mp3",
+      "category": "foley",
+      "tags": [
+        "tape-measure",
+        "measuring",
+        "zip",
+        "retract",
+        "snap",
+        "click",
+        "foley",
+        "height"
+      ],
+      "duration_s": 2.5,
+      "prompt": "metal tape measure pulled out fast then retracting with a quick zip and snap click, clean single foley sound, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-history-channel",
+      "added": "2026-11-07",
+      "used_in": [
+        "EP09 Napoleon height"
+      ],
+      "notes": ""
     }
   ]
 }

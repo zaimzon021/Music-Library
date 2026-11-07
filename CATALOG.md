@@ -166,6 +166,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/rotary-phone-ring.mp3` | 4.0s | phone, telephone, rotary, landline, ring, vintage |
 | sfx | foley | `sfx/foley/running-through-corn.mp3` | 3.0s | corn, cornfield, running, rustle, foliage, foley |
 | sfx | foley | `sfx/foley/ship-bell-three.mp3` | 3.0s | bell, ship, brass, ring, three, alarm, lookout |
+| sfx | foley | `sfx/foley/tape-measure-pull-retract-snap.mp3` | 2.5s | tape-measure, measuring, zip, retract, snap, click, foley, height |
 | sfx | foley | `sfx/foley/torch-extinguish-fizzle.mp3` | 1.5s | fire, torch, extinguish, fizzle, hiss, snuff, smoke |
 | sfx | foley | `sfx/foley/torch-fire-crackle.mp3` | 4.0s | fire, torch, flame, crackle, burning, medieval, loop |
 | sfx | foley | `sfx/foley/wooden-chest-lid-creak.mp3` | 2.0s | chest, lid, creak, hinge, open, wood, treasure |
