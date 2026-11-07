@@ -224,6 +224,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/target-lock-beeps.mp3` | 1.5s | ui, beep, target, lock-on, hud, electronic, confirm |
 | sfx | ui-cartoon | `sfx/ui-cartoon/thermal-camera-zoom.mp3` | 1.5s | thermal, camera, zoom, servo, whir, chirp, ui, hud, infrared |
 | sfx | vehicles | `sfx/vehicles/car-alarm-siren-burst.mp3` | 2.5s | car, alarm, siren, whoop, wail, comedic |
+| sfx | vehicles | `sfx/vehicles/car-hood-flap-slam.mp3` | 3.0s | car, hood, flap, slam, bang, windshield, wind, metal |
 | sfx | vehicles | `sfx/vehicles/car-horn-double-honk.mp3` | 1.2s | car, horn, honk, beep, comedic |
 | sfx | vehicles | `sfx/vehicles/car-power-window-down.mp3` | 2.5s | car, power, window, motor, rolling |
 | sfx | vehicles | `sfx/vehicles/cargo-plane-cabin-rumble.mp3` | 15.0s | plane, cabin, interior, drone, rumble, loop, military |
@@ -238,6 +239,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | vehicles | `sfx/vehicles/spike-strip-tire-pop.mp3` | 2.0s | spike-strip, stop-sticks, tire, pop, hiss, pursuit |
 | sfx | vehicles | `sfx/vehicles/tire-screech-skid.mp3` | 2.5s | tires, screech, skid, brakes, car |
 | sfx | vehicles | `sfx/vehicles/tow-truck-winch-chain-ratchet.mp3` | 2.5s | tow-truck, winch, chain, ratchet, clank, mechanical, repo |
+| sfx | vehicles | `sfx/vehicles/undercarriage-scrape-sparks.mp3` | 4.0s | metal, scrape, grind, sparks, asphalt, car, drag, crash |
 | sfx | water | `sfx/water/cave-water-drips.mp3` | 20.0s | cave, drips, water, echo, cavern, ambience, loop, dark |
 | sfx | water | `sfx/water/flood-water-rush-loop.mp3` | 20.0s | flood, water, rushing, tunnel, cave, river, loop |
 | sfx | water | `sfx/water/gentle-water-lapping.mp3` | 5.0s | water, lapping, waves, moat, calm, night, ambience |

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "items": [
     {
       "id": "music/epic-cinematic/kaiju-trailer-taiko-brass-a",
@@ -5930,6 +5930,52 @@
       "generator": "ElevenLabs SFX via AI33",
       "added_by": "The Tower",
       "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/car-hood-flap-slam",
+      "type": "sfx",
+      "file": "sfx/vehicles/car-hood-flap-slam.mp3",
+      "category": "vehicles",
+      "tags": [
+        "car",
+        "hood",
+        "flap",
+        "slam",
+        "bang",
+        "windshield",
+        "wind",
+        "metal"
+      ],
+      "duration_s": 3.0,
+      "prompt": "loose car hood flapping up and slamming against the windshield while driving, metal bang and rattle, road wind, no music",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-07",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/undercarriage-scrape-sparks",
+      "type": "sfx",
+      "file": "sfx/vehicles/undercarriage-scrape-sparks.mp3",
+      "category": "vehicles",
+      "tags": [
+        "metal",
+        "scrape",
+        "grind",
+        "sparks",
+        "asphalt",
+        "car",
+        "drag",
+        "crash"
+      ],
+      "duration_s": 4.0,
+      "prompt": "metal car undercarriage scraping and grinding on asphalt road, sparks, dragging metal, no music",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-07",
       "used_in": [],
       "notes": ""
     }
