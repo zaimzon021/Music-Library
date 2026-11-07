@@ -6049,6 +6049,75 @@
         "EP09 Napoleon height"
       ],
       "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/vehicle-collision-metal-crunch",
+      "type": "sfx",
+      "file": "sfx/vehicles/vehicle-collision-metal-crunch.mp3",
+      "category": "vehicles",
+      "tags": [
+        "crash",
+        "collision",
+        "car",
+        "metal",
+        "crunch",
+        "impact",
+        "debris",
+        "pursuit"
+      ],
+      "duration_s": 2.5,
+      "prompt": "two vehicles colliding, heavy metal crunch and bang, short car crash impact with light debris, outdoors, no music",
+      "generator": "ElevenLabs sound v3 via AI33",
+      "added_by": "Police Video Series",
+      "added": "2026-11-07",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/box-truck-rollover-side-slam",
+      "type": "sfx",
+      "file": "sfx/vehicles/box-truck-rollover-side-slam.mp3",
+      "category": "vehicles",
+      "tags": [
+        "truck",
+        "rollover",
+        "crash",
+        "metal",
+        "crunch",
+        "scrape",
+        "slide",
+        "debris"
+      ],
+      "duration_s": 4.0,
+      "prompt": "heavy box truck tipping over and slamming onto its side on pavement, deep metal crunch, scraping slide, debris settling, no music",
+      "generator": "ElevenLabs sound v3 via AI33",
+      "added_by": "Police Video Series",
+      "added": "2026-11-07",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/patrol-car-engine-acceleration-road",
+      "type": "sfx",
+      "file": "sfx/vehicles/patrol-car-engine-acceleration-road.mp3",
+      "category": "vehicles",
+      "tags": [
+        "engine",
+        "police",
+        "car",
+        "acceleration",
+        "road-noise",
+        "pursuit",
+        "exterior",
+        "loop"
+      ],
+      "duration_s": 8.0,
+      "prompt": "police patrol car engine accelerating hard on a city road, steady engine roar and tire road noise, exterior, no siren, no music",
+      "generator": "ElevenLabs sound v3 via AI33",
+      "added_by": "Police Video Series",
+      "added": "2026-11-07",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }

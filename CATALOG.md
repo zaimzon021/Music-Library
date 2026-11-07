@@ -224,6 +224,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/scratch.mp3` | 1.0s | record-scratch, vinyl, comedic, stop, twist |
 | sfx | ui-cartoon | `sfx/ui-cartoon/target-lock-beeps.mp3` | 1.5s | ui, beep, target, lock-on, hud, electronic, confirm |
 | sfx | ui-cartoon | `sfx/ui-cartoon/thermal-camera-zoom.mp3` | 1.5s | thermal, camera, zoom, servo, whir, chirp, ui, hud, infrared |
+| sfx | vehicles | `sfx/vehicles/box-truck-rollover-side-slam.mp3` | 4.0s | truck, rollover, crash, metal, crunch, scrape, slide, debris |
 | sfx | vehicles | `sfx/vehicles/car-alarm-siren-burst.mp3` | 2.5s | car, alarm, siren, whoop, wail, comedic |
 | sfx | vehicles | `sfx/vehicles/car-hood-flap-slam.mp3` | 3.0s | car, hood, flap, slam, bang, windshield, wind, metal |
 | sfx | vehicles | `sfx/vehicles/car-horn-double-honk.mp3` | 1.2s | car, horn, honk, beep, comedic |
@@ -233,6 +234,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | vehicles | `sfx/vehicles/engine-sputter-out-of-fuel.mp3` | 3.0s | engine, sputter, cough, stall, out-of-gas, fuel, dying, car, comedic |
 | sfx | vehicles | `sfx/vehicles/helicopter-rotor-hover-loop.mp3` | 8.0s | helicopter, rotor, hover, loop, military, night |
 | sfx | vehicles | `sfx/vehicles/jet-takeoff-roar.mp3` | 7.0s | jet, plane, takeoff, engine, roar, military, cargo |
+| sfx | vehicles | `sfx/vehicles/patrol-car-engine-acceleration-road.mp3` | 8.0s | engine, police, car, acceleration, road-noise, pursuit, exterior, loop |
 | sfx | vehicles | `sfx/vehicles/prop-cargo-plane-takeoff.mp3` | 9.0s | plane, propeller, cargo, takeoff, flyby, aircraft, engine |
 | sfx | vehicles | `sfx/vehicles/propeller-plane-flyby.mp3` | 6.0s | plane, propeller, vintage, aircraft, flyby, overhead |
 | sfx | vehicles | `sfx/vehicles/quadcopter-drone-hover.mp3` | 6.0s | quadcopter, drone, hover |
@@ -243,6 +245,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | vehicles | `sfx/vehicles/tow-truck-winch-chain-ratchet.mp3` | 2.5s | tow-truck, winch, chain, ratchet, clank, mechanical, repo |
 | sfx | vehicles | `sfx/vehicles/turn-signal-blinker-ticking.mp3` | 3.0s | turn-signal, blinker, indicator, ticking, click, dashboard, car |
 | sfx | vehicles | `sfx/vehicles/undercarriage-scrape-sparks.mp3` | 4.0s | metal, scrape, grind, sparks, asphalt, car, drag, crash |
+| sfx | vehicles | `sfx/vehicles/vehicle-collision-metal-crunch.mp3` | 2.5s | crash, collision, car, metal, crunch, impact, debris, pursuit |
 | sfx | water | `sfx/water/cave-water-drips.mp3` | 20.0s | cave, drips, water, echo, cavern, ambience, loop, dark |
 | sfx | water | `sfx/water/flood-water-rush-loop.mp3` | 20.0s | flood, water, rushing, tunnel, cave, river, loop |
 | sfx | water | `sfx/water/gentle-water-lapping.mp3` | 5.0s | water, lapping, waves, moat, calm, night, ambience |
