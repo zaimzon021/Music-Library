@@ -6227,6 +6227,27 @@
       "added": "2026-11-10",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "sfx/creatures/cartoon-duck-quack",
+      "type": "sfx",
+      "file": "sfx/creatures/cartoon-duck-quack.mp3",
+      "category": "creatures",
+      "tags": [
+        "duck",
+        "quack",
+        "cartoon",
+        "comedic",
+        "bird",
+        "silly"
+      ],
+      "duration_s": 1.0,
+      "prompt": "Single comedic duck quack, clear and close, cartoon timing, dry, no music",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-10",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }

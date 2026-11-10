@@ -133,6 +133,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ambience | `sfx/ambience/station-interior-hum-loop.mp3` | 20.0s | room-tone, hum, ventilation, interior, station, ambience, loop |
 | sfx | ambience | `sfx/ambience/underwater-ambience.mp3` | 15.0s | underwater, ocean, bubbles, ambience, loop |
 | sfx | creatures | `sfx/creatures/camel-grunt-comedic.mp3` | 2.0s | camel, grunt, groan, animal, comedic |
+| sfx | creatures | `sfx/creatures/cartoon-duck-quack.mp3` | 1.0s | duck, quack, cartoon, comedic, bird, silly |
 | sfx | creatures | `sfx/creatures/chickens-clucking-yard.mp3` | 5.0s | chicken, cluck, farm, yard, animals |
 | sfx | creatures | `sfx/creatures/corgi-happy-bark-double.mp3` | 1.5s | dog, corgi, bark, happy, excited, small-dog, cartoon |
 | sfx | creatures | `sfx/creatures/cow-moo-single.mp3` | 2.5s | cow, moo, farm, animal |
@@ -198,6 +199,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | police | `sfx/police/police-pa-feedback-click.mp3` | 1.5s | police, pa, loudspeaker, feedback, click |
 | sfx | police | `sfx/police/police-radio-squelch.mp3` | 1.5s | police, radio, squelch |
 | sfx | police | `sfx/police/siren-wail-passing.mp3` | 4.0s | siren, police, wail, passing, emergency |
+| sfx | police | `sfx/police/traffic-police-whistle-double-blast.mp3` | 2.0s | whistle, police, traffic, referee, blast, comedic |
 | sfx | radio | `sfx/radio/police-radio-squelch.mp3` | 1.0s | police, radio, squelch, static, dispatch, bodycam |
 | sfx | risers | `sfx/risers/cinematic-riser-abrupt.mp3` | 4.0s | cinematic, riser, abrupt |
 | sfx | risers | `sfx/risers/riser.mp3` | 2.5s | riser, tension, build, transition |
@@ -246,6 +248,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | vehicles | `sfx/vehicles/straight-pipe-exhaust-rev-backfire.mp3` | 4.0s | exhaust, muffler, rev, v8, rumble, backfire, pops, loud, car |
 | sfx | vehicles | `sfx/vehicles/tire-screech-skid.mp3` | 2.5s | tires, screech, skid, brakes, car |
 | sfx | vehicles | `sfx/vehicles/tow-truck-winch-chain-ratchet.mp3` | 2.5s | tow-truck, winch, chain, ratchet, clank, mechanical, repo |
+| sfx | vehicles | `sfx/vehicles/traffic-jam-many-horns-honking.mp3` | 4.0s | traffic-jam, horns, honking, gridlock, city, cars, impatient |
 | sfx | vehicles | `sfx/vehicles/turn-signal-blinker-ticking.mp3` | 3.0s | turn-signal, blinker, indicator, ticking, click, dashboard, car |
 | sfx | vehicles | `sfx/vehicles/undercarriage-scrape-sparks.mp3` | 4.0s | metal, scrape, grind, sparks, asphalt, car, drag, crash |
 | sfx | vehicles | `sfx/vehicles/vehicle-collision-metal-crunch.mp3` | 2.5s | crash, collision, car, metal, crunch, impact, debris, pursuit |
