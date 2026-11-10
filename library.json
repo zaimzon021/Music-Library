@@ -6184,6 +6184,49 @@
       "added": "2026-11-10",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "sfx/police/traffic-police-whistle-double-blast",
+      "type": "sfx",
+      "file": "sfx/police/traffic-police-whistle-double-blast.mp3",
+      "category": "police",
+      "tags": [
+        "whistle",
+        "police",
+        "traffic",
+        "referee",
+        "blast",
+        "comedic"
+      ],
+      "duration_s": 2.0,
+      "prompt": "traffic police whistle, two sharp short blasts, clean, no other sounds",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-history-channel EP24",
+      "added": "2026-11-10",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/traffic-jam-many-horns-honking",
+      "type": "sfx",
+      "file": "sfx/vehicles/traffic-jam-many-horns-honking.mp3",
+      "category": "vehicles",
+      "tags": [
+        "traffic-jam",
+        "horns",
+        "honking",
+        "gridlock",
+        "city",
+        "cars",
+        "impatient"
+      ],
+      "duration_s": 4.0,
+      "prompt": "traffic jam, many car horns honking at once, impatient city gridlock, short burst",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-history-channel EP24",
+      "added": "2026-11-10",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }
