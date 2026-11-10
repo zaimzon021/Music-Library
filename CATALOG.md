@@ -162,6 +162,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/hourglass-sand-trickle.mp3` | 4.0s | sand, hourglass, trickle, grains, timer, soft |
 | sfx | foley | `sfx/foley/jester-bells-jingle.mp3` | 1.5s | bells, jester, jingle, tinkle, playful, medieval |
 | sfx | foley | `sfx/foley/keys-jingle-ring.mp3` | 1.5s | keys, jingle, keyring, metal, foley |
+| sfx | foley | `sfx/foley/match-strike-ignite.mp3` | 2.0s | match, strike, ignite, flame, fire, scratch, foley |
 | sfx | foley | `sfx/foley/money-counter-riffle.mp3` | 2.5s | money, cash, banknotes, counter, riffle, bills |
 | sfx | foley | `sfx/foley/morning-birds-loop.mp3` | 20.0s | birds, morning, outdoors, nature, breeze, loop, ambience |
 | sfx | foley | `sfx/foley/office-desk-phone-ring.mp3` | 4.0s | phone, telephone, ring, office, corded, landline, 2000s |

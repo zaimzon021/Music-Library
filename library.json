@@ -6248,6 +6248,28 @@
       "added": "2026-11-10",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "sfx/foley/match-strike-ignite",
+      "type": "sfx",
+      "file": "sfx/foley/match-strike-ignite.mp3",
+      "category": "foley",
+      "tags": [
+        "match",
+        "strike",
+        "ignite",
+        "flame",
+        "fire",
+        "scratch",
+        "foley"
+      ],
+      "duration_s": 2.0,
+      "prompt": "Single wooden match strike on a matchbox, scratch then a soft flare ignition whoosh, clean, close-up, no music",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-10",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }
