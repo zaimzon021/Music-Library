@@ -147,11 +147,14 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | creatures | `sfx/creatures/snake-hiss.mp3` | 2.0s | snake, hiss, serpent, danger, creepy |
 | sfx | crowds | `sfx/crowds/crowd-cheer-applause.mp3` | 4.0s | crowd, cheer, applause, celebration, outdoor |
 | sfx | crowds | `sfx/crowds/press-crowd-camera-flashes.mp3` | 6.0s | crowd, reporters, press, camera, shutter, flash, murmur |
+| sfx | crowds | `sfx/crowds/small-crowd-shocked-gasp.mp3` | 1.5s | crowd, gasp, shock, breath, reaction, group |
 | sfx | explosions | `sfx/explosions/boom.mp3` | 3.0s | explosion, boom, sub-bass, nuclear, huge |
+| sfx | foley | `sfx/foley/axe-drag-on-stone.mp3` | 2.5s | axe, metal, scrape, drag, stone, executioner, menacing, dungeon |
 | sfx | foley | `sfx/foley/boots-on-stone-footsteps.mp3` | 2.0s | footsteps, boots, stone, walking, castle, guard |
 | sfx | foley | `sfx/foley/calendar-page-flip.mp3` | 1.5s | paper, page, flip, calendar, tear, time-jump |
 | sfx | foley | `sfx/foley/church-bell-distant-medieval.mp3` | 5.0s | bell, church, medieval, distant, village |
 | sfx | foley | `sfx/foley/crowd-cheer-joyful.mp3` | 6.0s | crowd, cheer, applause, joy, celebration, outdoor |
+| sfx | foley | `sfx/foley/gallows-rope-creak.mp3` | 3.0s | rope, creak, gallows, noose, beam, sway, eerie |
 | sfx | foley | `sfx/foley/heavy-door-icy-wind.mp3` | 3.0s | door, heavy, metal, open, wind, cold, gust |
 | sfx | foley | `sfx/foley/heavy-executioner-footsteps.mp3` | 2.5s | footsteps, heavy, boots, stone, executioner, menacing, dungeon |
 | sfx | foley | `sfx/foley/hourglass-flip-thunk.mp3` | 1.5s | hourglass, flip, wood, thunk, glass, clink, table |

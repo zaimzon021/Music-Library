@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-07",
+  "updated": "2026-11-10",
   "items": [
     {
       "id": "music/epic-cinematic/kaiju-trailer-taiko-brass-a",
@@ -6116,6 +6116,72 @@
       "generator": "ElevenLabs sound v3 via AI33",
       "added_by": "Police Video Series",
       "added": "2026-11-07",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/axe-drag-on-stone",
+      "type": "sfx",
+      "file": "sfx/foley/axe-drag-on-stone.mp3",
+      "category": "foley",
+      "tags": [
+        "axe",
+        "metal",
+        "scrape",
+        "drag",
+        "stone",
+        "executioner",
+        "menacing",
+        "dungeon"
+      ],
+      "duration_s": 2.5,
+      "prompt": "Heavy iron axe blade dragged slowly across a stone floor, menacing metal scrape and grind, dungeon, dry, no music",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-10",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/gallows-rope-creak",
+      "type": "sfx",
+      "file": "sfx/foley/gallows-rope-creak.mp3",
+      "category": "foley",
+      "tags": [
+        "rope",
+        "creak",
+        "gallows",
+        "noose",
+        "beam",
+        "sway",
+        "eerie"
+      ],
+      "duration_s": 3.0,
+      "prompt": "Thick hemp rope creaking under tension as it slowly sways from an old wooden beam, eerie, sparse, dry, no music",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-10",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/crowds/small-crowd-shocked-gasp",
+      "type": "sfx",
+      "file": "sfx/crowds/small-crowd-shocked-gasp.mp3",
+      "category": "crowds",
+      "tags": [
+        "crowd",
+        "gasp",
+        "shock",
+        "breath",
+        "reaction",
+        "group"
+      ],
+      "duration_s": 1.5,
+      "prompt": "Small group of people gasp in shock at the same moment, sharp intake of breath, close, dry, no music",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-10",
       "used_in": [],
       "notes": ""
     }
