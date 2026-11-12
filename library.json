@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-10",
+  "updated": "2026-11-12",
   "items": [
     {
       "id": "music/epic-cinematic/kaiju-trailer-taiko-brass-a",
@@ -6270,6 +6270,58 @@
       "added": "2026-11-10",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "music/cute-family/soft-music-box-lullaby-a",
+      "type": "music",
+      "file": "music/cute-family/soft-music-box-lullaby-a.mp3",
+      "category": "cute-family",
+      "tags": [
+        "cute",
+        "family",
+        "lullaby",
+        "music-box",
+        "piano",
+        "soft",
+        "subtle",
+        "baby",
+        "warm"
+      ],
+      "duration_s": 169.6,
+      "prompt": "Soft gentle instrumental lullaby, music box and light felt piano with soft glockenspiel and warm pads, cute, tender, cozy family morning, very subtle, slow 80 bpm, background underscore",
+      "generator": "Suno via AI33",
+      "added_by": "AI Family Shorts",
+      "added": "2026-11-12",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/cute-family/soft-music-box-lullaby-b",
+      "type": "music",
+      "file": "music/cute-family/soft-music-box-lullaby-b.mp3",
+      "category": "cute-family",
+      "tags": [
+        "cute",
+        "family",
+        "lullaby",
+        "music-box",
+        "piano",
+        "soft",
+        "subtle",
+        "baby",
+        "warm"
+      ],
+      "duration_s": 165.3,
+      "prompt": "Soft gentle instrumental lullaby, music box and light felt piano with soft glockenspiel and warm pads, cute, tender, cozy family morning, very subtle, slow 80 bpm, background underscore",
+      "generator": "Suno via AI33",
+      "added_by": "AI Family Shorts",
+      "added": "2026-11-12",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
     }
   ]
 }
