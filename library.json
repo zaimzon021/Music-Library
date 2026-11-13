@@ -8156,6 +8156,219 @@
       "notes": "",
       "energy": "high",
       "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/dark-japanese-taiko-shamisen-choir-a",
+      "type": "music",
+      "file": "music/epic-cinematic/dark-japanese-taiko-shamisen-choir-a.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "epic",
+        "japanese",
+        "taiko",
+        "shamisen",
+        "shakuhachi",
+        "choir",
+        "dark",
+        "villain",
+        "anime",
+        "build",
+        "climax"
+      ],
+      "duration_s": 234.2,
+      "prompt": "Dark Japanese epic orchestral: taiko drums, shamisen, shakuhachi flute and deep male choir, ominous slow intro, rising tension build, huge thunderous climax, menacing villain power, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked #5 anime villains"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/divine-dark-choir-final-boss-a",
+      "type": "music",
+      "file": "music/epic-cinematic/divine-dark-choir-final-boss-a.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "choir",
+        "divine",
+        "sacred",
+        "organ",
+        "strings",
+        "soprano",
+        "dark",
+        "final-boss",
+        "godlike",
+        "epic",
+        "climax"
+      ],
+      "duration_s": 244.1,
+      "prompt": "Divine dark ethereal choir and strings, sacred cathedral menace, slow hypnotic intro with solo soprano, steady build with organ and timpani, overwhelming godlike climax, untouchable final boss aura, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked #5 anime villains"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/dark-japanese-taiko-shamisen-choir-b",
+      "type": "music",
+      "file": "music/epic-cinematic/dark-japanese-taiko-shamisen-choir-b.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "epic",
+        "japanese",
+        "taiko",
+        "shamisen",
+        "shakuhachi",
+        "choir",
+        "dark",
+        "villain",
+        "anime",
+        "build",
+        "climax"
+      ],
+      "duration_s": 224.3,
+      "prompt": "Dark Japanese epic orchestral: taiko drums, shamisen, shakuhachi flute and deep male choir, ominous slow intro, rising tension build, huge thunderous climax, menacing villain power, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked #5 anime villains"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/divine-dark-choir-final-boss-b",
+      "type": "music",
+      "file": "music/epic-cinematic/divine-dark-choir-final-boss-b.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "choir",
+        "divine",
+        "sacred",
+        "organ",
+        "strings",
+        "soprano",
+        "dark",
+        "final-boss",
+        "godlike",
+        "epic",
+        "climax"
+      ],
+      "duration_s": 254.5,
+      "prompt": "Divine dark ethereal choir and strings, sacred cathedral menace, slow hypnotic intro with solo soprano, steady build with organ and timpani, overwhelming godlike climax, untouchable final boss aura, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked #5 anime villains"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/magic/angelic-choir-ahh-stinger",
+      "type": "sfx",
+      "file": "sfx/magic/angelic-choir-ahh-stinger.mp3",
+      "category": "magic",
+      "tags": [
+        "choir",
+        "ahh",
+        "angelic",
+        "heavenly",
+        "stinger",
+        "positive",
+        "verdict"
+      ],
+      "duration_s": 2.5,
+      "prompt": "Short angelic choir ahh stinger, bright heavenly vocal chord, clean, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked #5 anime villains"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/brass-win-sting",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/brass-win-sting.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "win",
+        "victory",
+        "sting",
+        "brass",
+        "fanfare",
+        "positive"
+      ],
+      "duration_s": 2.0,
+      "prompt": "Short triumphant win sting, brass and cymbal fanfare hit, clean",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked #5 anime villains"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/magic/full-choir-divine-swell",
+      "type": "sfx",
+      "file": "sfx/magic/full-choir-divine-swell.mp3",
+      "category": "magic",
+      "tags": [
+        "choir",
+        "swell",
+        "divine",
+        "epic",
+        "climax",
+        "reveal"
+      ],
+      "duration_s": 5.0,
+      "prompt": "Massive full choir swell to a huge sustained chord, epic divine climax, clean",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked #5 anime villains"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/fail-piano-chord-slam",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/fail-piano-chord-slam.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "fail",
+        "piano",
+        "lose",
+        "sting",
+        "comedic",
+        "dissonant"
+      ],
+      "duration_s": 2.0,
+      "prompt": "Comedic fail piano, descending dissonant piano chord slam, lose sting",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked #5 anime villains"
+      ],
+      "notes": ""
     }
   ]
 }

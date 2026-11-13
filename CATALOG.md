@@ -50,8 +50,12 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | epic-cinematic | `music/epic-cinematic/choir-clicking-battle-b.mp3` | 203.7s | ominous, choir, brass, dread, battle, monster |
 | music | epic-cinematic | `music/epic-cinematic/cosmic-crystal-kaiju-trailer-a.mp3` | 174.9s | sci-fi, cosmic, crystal, chimes, taiko, choir, brass, epic |
 | music | epic-cinematic | `music/epic-cinematic/cosmic-crystal-kaiju-trailer-b.mp3` | 178.8s | sci-fi, cosmic, crystal, chimes, taiko, choir, brass, epic |
+| music | epic-cinematic | `music/epic-cinematic/dark-japanese-taiko-shamisen-choir-a.mp3` | 234.2s | epic, japanese, taiko, shamisen, shakuhachi, choir, dark, villain, anime, build, climax |
+| music | epic-cinematic | `music/epic-cinematic/dark-japanese-taiko-shamisen-choir-b.mp3` | 224.3s | epic, japanese, taiko, shamisen, shakuhachi, choir, dark, villain, anime, build, climax |
 | music | epic-cinematic | `music/epic-cinematic/dark-western-whistle-choir-a.mp3` | 227.1s | dark, western, spaghetti-western, whistle, flamenco-guitar, choir, menacing, villain, build, epic, climax |
 | music | epic-cinematic | `music/epic-cinematic/dark-western-whistle-choir-b.mp3` | 228.4s | dark, western, spaghetti-western, whistle, flamenco-guitar, choir, menacing, villain, build, epic, climax |
+| music | epic-cinematic | `music/epic-cinematic/divine-dark-choir-final-boss-a.mp3` | 244.1s | choir, divine, sacred, organ, strings, soprano, dark, final-boss, godlike, epic, climax |
+| music | epic-cinematic | `music/epic-cinematic/divine-dark-choir-final-boss-b.mp3` | 254.5s | choir, divine, sacred, organ, strings, soprano, dark, final-boss, godlike, epic, climax |
 | music | epic-cinematic | `music/epic-cinematic/escalating-size-build-a.mp3` | 203.7s | escalating, build, drums, brass, colossal, comparison |
 | music | epic-cinematic | `music/epic-cinematic/escalating-size-build-b.mp3` | 210.0s | escalating, build, drums, brass, colossal, comparison |
 | music | epic-cinematic | `music/epic-cinematic/highway-chase-hybrid-drums-a.mp3` | 194.8s | chase, action, taiko, electronic-drums, bass-ostinato, distorted, relentless, 140bpm |
@@ -252,6 +256,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | machines | `sfx/machines/milkshake-spindle-mixer-whir.mp3` | 5.0s | milkshake, mixer, blender, motor, whir, diner, 1950s, kitchen |
 | sfx | machines | `sfx/machines/steel-cable-tension-creak.mp3` | 3.0s | cable, steel, creak, groan, metal, elevator, shaft, tension |
 | sfx | machines | `sfx/machines/typewriter-line-bell.mp3` | 3.0s | typewriter, typing, keys, carriage-return, bell, vintage |
+| sfx | magic | `sfx/magic/angelic-choir-ahh-stinger.mp3` | 2.5s | choir, ahh, angelic, heavenly, stinger, positive, verdict |
+| sfx | magic | `sfx/magic/full-choir-divine-swell.mp3` | 5.0s | choir, swell, divine, epic, climax, reveal |
 | sfx | magic | `sfx/magic/heavenly-choir-ahh-stinger.mp3` | 2.5s | choir, ahh, angelic, heavenly, win, positive, stinger, reveal |
 | sfx | magic | `sfx/magic/magical-shimmer-swell.mp3` | 5.0s | shimmer, chimes, sparkle, magical, wonder, ethereal, swell, reveal |
 | sfx | police | `sfx/police/handcuffs-ratchet-click.mp3` | 2.0s | handcuffs, metal, click, ratchet, arrest |
@@ -283,6 +289,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui | `sfx/ui/soft-ding.mp3` | 1.0s | ding, notification, soft, bright, ui |
 | sfx | ui | `sfx/ui/soft-ui-tap.mp3` | 0.5s | tap, click, soft, ui, minimal |
 | sfx | ui | `sfx/ui/tv-static-burst.mp3` | 1.5s | static, tv, crt, noise, hiss, broadcast |
+| sfx | ui-cartoon | `sfx/ui-cartoon/brass-win-sting.mp3` | 2.0s | win, victory, sting, brass, fanfare, positive |
 | sfx | ui-cartoon | `sfx/ui-cartoon/calculator-button-beeps.mp3` | 2.0s | calculator, beep, buttons, math, counting, electronic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-nervous-gulp.mp3` | 1.0s | gulp, swallow, nervous, cartoon, comedic, reaction |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-smoke-poof.mp3` | 1.2s | poof, smoke, vanish, disappear, cartoon, puff |
@@ -292,6 +299,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/coin-cascade-clink.mp3` | 2.5s | coins, gold, cascade, clink, money, reward, cartoon |
 | sfx | ui-cartoon | `sfx/ui-cartoon/comedic-ding.mp3` | 1.5s | ding, bell, comedic, reveal, hit |
 | sfx | ui-cartoon | `sfx/ui-cartoon/dun-dun-dunnn-comedic-sting.mp3` | 3.0s | dun-dun-dun, dramatic, reveal, sting, comedic, brass, timpani, suspicion |
+| sfx | ui-cartoon | `sfx/ui-cartoon/fail-piano-chord-slam.mp3` | 2.0s | fail, piano, lose, sting, comedic, dissonant |
 | sfx | ui-cartoon | `sfx/ui-cartoon/fail-piano-lose-sting.mp3` | 2.5s | fail, piano, lose, sting, comedic, descending, sad, game-over |
 | sfx | ui-cartoon | `sfx/ui-cartoon/magic-shimmer-sparkle.mp3` | 1.5s | magic, shimmer, sparkle, whimsical, wizard |
 | sfx | ui-cartoon | `sfx/ui-cartoon/pop.mp3` | 0.5s | pop, cartoon, ui, light, comedic |
