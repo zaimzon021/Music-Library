@@ -50,6 +50,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | epic-cinematic | `music/epic-cinematic/choir-clicking-battle-b.mp3` | 203.7s | ominous, choir, brass, dread, battle, monster |
 | music | epic-cinematic | `music/epic-cinematic/cosmic-crystal-kaiju-trailer-a.mp3` | 174.9s | sci-fi, cosmic, crystal, chimes, taiko, choir, brass, epic |
 | music | epic-cinematic | `music/epic-cinematic/cosmic-crystal-kaiju-trailer-b.mp3` | 178.8s | sci-fi, cosmic, crystal, chimes, taiko, choir, brass, epic |
+| music | epic-cinematic | `music/epic-cinematic/dark-western-whistle-choir-a.mp3` | 227.1s | dark, western, spaghetti-western, whistle, flamenco-guitar, choir, menacing, villain, build, epic, climax |
+| music | epic-cinematic | `music/epic-cinematic/dark-western-whistle-choir-b.mp3` | 228.4s | dark, western, spaghetti-western, whistle, flamenco-guitar, choir, menacing, villain, build, epic, climax |
 | music | epic-cinematic | `music/epic-cinematic/escalating-size-build-a.mp3` | 203.7s | escalating, build, drums, brass, colossal, comparison |
 | music | epic-cinematic | `music/epic-cinematic/escalating-size-build-b.mp3` | 210.0s | escalating, build, drums, brass, colossal, comparison |
 | music | epic-cinematic | `music/epic-cinematic/highway-chase-hybrid-drums-a.mp3` | 194.8s | chase, action, taiko, electronic-drums, bass-ostinato, distorted, relentless, 140bpm |
@@ -229,6 +231,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | impacts | `sfx/impacts/car-window-glass-smash.mp3` | 2.0s | glass, smash, shatter, window, car, break-in |
 | sfx | impacts | `sfx/impacts/distant-single-gunshot.mp3` | 2.5s | gunshot, distant, single, echo, rural |
 | sfx | impacts | `sfx/impacts/epic-choir-orchestra-hit.mp3` | 3.5s | choir, orchestra, epic, hit, impact, sub-boom, trailer, finale, number-one |
+| sfx | impacts | `sfx/impacts/full-choir-orchestral-hit.mp3` | 3.5s | choir, orchestral, hit, impact, epic, reveal, stinger |
 | sfx | impacts | `sfx/impacts/hull-ice-scrape.mp3` | 5.0s | ship, hull, ice, scrape, grind, metal, groan, crack |
 | sfx | impacts | `sfx/impacts/impact.mp3` | 1.2s | impact, hit, metal, heavy, stinger |
 | sfx | impacts | `sfx/impacts/mechanical-net-launch-thunk.mp3` | 1.5s | mechanical, launch, thunk, net, whip, spring |
@@ -285,6 +288,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-smoke-poof.mp3` | 1.2s | poof, smoke, vanish, disappear, cartoon, puff |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-spring-boing.mp3` | 1.0s | boing, spring, cartoon, pop-up, comedy |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cash-register-ching.mp3` | 1.5s | cash-register, cha-ching, money, price, comedic |
+| sfx | ui-cartoon | `sfx/ui-cartoon/choir-ahh-win-sting.mp3` | 2.5s | choir, ahh, angelic, win, sting, positive, heavenly, verdict |
 | sfx | ui-cartoon | `sfx/ui-cartoon/coin-cascade-clink.mp3` | 2.5s | coins, gold, cascade, clink, money, reward, cartoon |
 | sfx | ui-cartoon | `sfx/ui-cartoon/comedic-ding.mp3` | 1.5s | ding, bell, comedic, reveal, hit |
 | sfx | ui-cartoon | `sfx/ui-cartoon/dun-dun-dunnn-comedic-sting.mp3` | 3.0s | dun-dun-dun, dramatic, reveal, sting, comedic, brass, timpani, suspicion |
