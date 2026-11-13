@@ -24,6 +24,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | comedic-trailer | `music/comedic-trailer/90s-news-desert-comedy-hook-b.mp3` | 58.9s | comedic, trailer, hook, 1990s, news, desert, darbuka, brass, energetic, stinger |
 | music | comedic-trailer | `music/comedic-trailer/silent-film-comedy-trailer-hook-a.mp3` | 47.2s | comedy, trailer, hook, xylophone, brass, timpani, ticking, stinger, silent-film |
 | music | comedic-trailer | `music/comedic-trailer/silent-film-comedy-trailer-hook-b.mp3` | 48.2s | comedy, trailer, hook, xylophone, brass, timpani, ticking, stinger, silent-film |
+| music | cute-family | `music/cute-family/kawaii-lofi-quiz-bed-a.mp3` | 146.9s | cute, kawaii, lofi, quiz, game-show, ukulele, glockenspiel, playful, cheerful, bouncy |
+| music | cute-family | `music/cute-family/kawaii-lofi-quiz-bed-b.mp3` | 141.7s | cute, kawaii, lofi, quiz, game-show, ukulele, glockenspiel, playful, cheerful, bouncy |
 | music | cute-family | `music/cute-family/soft-music-box-lullaby-a.mp3` | 169.6s | cute, family, lullaby, music-box, piano, soft, subtle, baby, warm |
 | music | cute-family | `music/cute-family/soft-music-box-lullaby-b.mp3` | 165.3s | cute, family, lullaby, music-box, piano, soft, subtle, baby, warm |
 | music | dark-electronic | `music/dark-electronic/crime-doc-suspense-underscore-a.mp3` | 154.9s | suspense, underscore, drones, ticking, documentary, crime, tension, 90bpm |

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "items": [
     {
       "id": "music/epic-cinematic/kaiju-trailer-taiko-brass-a",
@@ -6318,6 +6318,60 @@
       "generator": "Suno via AI33",
       "added_by": "AI Family Shorts",
       "added": "2026-11-12",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/cute-family/kawaii-lofi-quiz-bed-a",
+      "type": "music",
+      "file": "music/cute-family/kawaii-lofi-quiz-bed-a.mp3",
+      "category": "cute-family",
+      "tags": [
+        "cute",
+        "kawaii",
+        "lofi",
+        "quiz",
+        "game-show",
+        "ukulele",
+        "glockenspiel",
+        "playful",
+        "cheerful",
+        "bouncy"
+      ],
+      "duration_s": 146.9,
+      "prompt": "cute bouncy kawaii lofi quiz show bed, light ukulele, glockenspiel, soft claps and finger snaps, playful and cheerful, gentle hip-hop groove, instrumental, loopable",
+      "generator": "Suno via AI33",
+      "added_by": "Zhai Lian Lian",
+      "added": "2026-11-13",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/cute-family/kawaii-lofi-quiz-bed-b",
+      "type": "music",
+      "file": "music/cute-family/kawaii-lofi-quiz-bed-b.mp3",
+      "category": "cute-family",
+      "tags": [
+        "cute",
+        "kawaii",
+        "lofi",
+        "quiz",
+        "game-show",
+        "ukulele",
+        "glockenspiel",
+        "playful",
+        "cheerful",
+        "bouncy"
+      ],
+      "duration_s": 141.7,
+      "prompt": "cute bouncy kawaii lofi quiz show bed, light ukulele, glockenspiel, soft claps and finger snaps, playful and cheerful, gentle hip-hop groove, instrumental, loopable",
+      "generator": "Suno via AI33",
+      "added_by": "Zhai Lian Lian",
+      "added": "2026-11-13",
       "used_in": [],
       "notes": "",
       "energy": "medium",
