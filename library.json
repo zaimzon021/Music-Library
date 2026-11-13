@@ -6733,6 +6733,76 @@
         "Doodle History v21/v22"
       ],
       "notes": ""
+    },
+    {
+      "id": "sfx/magic/heavenly-choir-ahh-stinger",
+      "type": "sfx",
+      "file": "sfx/magic/heavenly-choir-ahh-stinger.mp3",
+      "category": "magic",
+      "tags": [
+        "choir",
+        "ahh",
+        "angelic",
+        "heavenly",
+        "win",
+        "positive",
+        "stinger",
+        "reveal"
+      ],
+      "duration_s": 2.5,
+      "prompt": "heavenly angelic choir ahh stinger, bright major chord swell and release, clean one-shot, no instruments",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/epic-choir-orchestra-hit",
+      "type": "sfx",
+      "file": "sfx/impacts/epic-choir-orchestra-hit.mp3",
+      "category": "impacts",
+      "tags": [
+        "choir",
+        "orchestra",
+        "epic",
+        "hit",
+        "impact",
+        "sub-boom",
+        "trailer",
+        "finale",
+        "number-one"
+      ],
+      "duration_s": 3.5,
+      "prompt": "massive epic choir and full orchestra hit with deep sub boom, dramatic cinematic one-shot",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/score-counter-tick-up-ding",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/score-counter-tick-up-ding.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "counter",
+        "score",
+        "ticking",
+        "count-up",
+        "ding",
+        "game",
+        "ui",
+        "points"
+      ],
+      "duration_s": 1.2,
+      "prompt": "fast score counter ticking up, rapid digital clicks accelerating then a bright ding, game UI one-shot",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }
