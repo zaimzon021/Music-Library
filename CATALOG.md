@@ -66,10 +66,14 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | mech-industrial | `music/mech-industrial/industrial-mech-stomp-b.mp3` | 204.5s | mech, robot, industrial, synth, metallic, heroic |
 | music | military-disaster | `music/military-disaster/military-siren-disaster-a.mp3` | 193.6s | military, snare, sirens, disaster, explosions, action |
 | music | military-disaster | `music/military-disaster/military-siren-disaster-b.mp3` | 194.8s | military, snare, sirens, disaster, explosions, action |
+| music | military-disaster | `music/military-disaster/ww1-solemn-strings-elegy-a.mp3` | 204.6s | ww1, elegy, strings, snare, brass, somber, documentary, war |
+| music | military-disaster | `music/military-disaster/ww1-solemn-strings-elegy-b.mp3` | 197.2s | ww1, elegy, strings, snare, brass, somber, documentary, war |
 | music | modern-epic | `music/modern-epic/anime-rock-transformation-drop-a.mp3` | 183.2s | anime, rock, guitars, taiko, transformation, playful, heroic |
 | music | modern-epic | `music/modern-epic/anime-rock-transformation-drop-b.mp3` | 183.8s | anime, rock, guitars, taiko, transformation, playful, heroic |
 | music | modern-epic | `music/modern-epic/neon-synth-power-up-a.mp3` | 225.3s | modern, synth, orchestra, power-up, drops, electrifying |
 | music | modern-epic | `music/modern-epic/neon-synth-power-up-b.mp3` | 214.9s | modern, synth, orchestra, power-up, drops, electrifying |
+| music | noir-suspense | `music/noir-suspense/cold-war-spy-jazz-a.mp3` | 177.3s | spy, jazz, vibraphone, upright-bass, surf-guitar, sneaky, 60s, cold-war |
+| music | noir-suspense | `music/noir-suspense/cold-war-spy-jazz-b.mp3` | 188.9s | spy, jazz, vibraphone, upright-bass, surf-guitar, sneaky, 60s, cold-war |
 | music | noir-suspense | `music/noir-suspense/sly-noir-pizzicato-a.mp3` | 197.3s | noir, suspense, pizzicato, upright-bass, jazz, comedic, sly, late-night |
 | music | noir-suspense | `music/noir-suspense/sly-noir-pizzicato-b.mp3` | 194.4s | noir, suspense, pizzicato, upright-bass, jazz, comedic, sly, late-night |
 | music | ocean-deep | `music/ocean-deep/deep-sea-sonar-mystery-a.mp3` | 274.4s | ocean, underwater, sonar, mysterious, ambient, reveal |
@@ -136,15 +140,18 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ambience | `sfx/ambience/night-crickets-ambience-loop.mp3` | 15.0s | night, crickets, ambience, calm, loop, dogs |
 | sfx | ambience | `sfx/ambience/station-interior-hum-loop.mp3` | 20.0s | room-tone, hum, ventilation, interior, station, ambience, loop |
 | sfx | ambience | `sfx/ambience/underwater-ambience.mp3` | 15.0s | underwater, ocean, bubbles, ambience, loop |
+| sfx | ambience | `sfx/ambience/ww1-trench-night-loop.mp3` | 15.0s | night, war, front-line, wind, distant-rifle, ambience, loop, ww1 |
 | sfx | creatures | `sfx/creatures/camel-grunt-comedic.mp3` | 2.0s | camel, grunt, groan, animal, comedic |
 | sfx | creatures | `sfx/creatures/cartoon-duck-quack.mp3` | 1.0s | duck, quack, cartoon, comedic, bird, silly |
 | sfx | creatures | `sfx/creatures/chickens-clucking-yard.mp3` | 5.0s | chicken, cluck, farm, yard, animals |
 | sfx | creatures | `sfx/creatures/corgi-happy-bark-double.mp3` | 1.5s | dog, corgi, bark, happy, excited, small-dog, cartoon |
 | sfx | creatures | `sfx/creatures/cow-moo-single.mp3` | 2.5s | cow, moo, farm, animal |
+| sfx | creatures | `sfx/creatures/crow-caw-distant.mp3` | 2.5s | crow, caw, bird, distant, morning |
 | sfx | creatures | `sfx/creatures/fox-snarl-snap.mp3` | 1.5s | fox, snarl, growl, bite, snap, predator |
 | sfx | creatures | `sfx/creatures/goose-panicked-honk.mp3` | 1.5s | goose, honk, bird, panic, farm, cartoon |
 | sfx | creatures | `sfx/creatures/humpback-whale-call.mp3` | 5.0s | whale, humpback, whale-song, call, moan, underwater, ocean |
 | sfx | creatures | `sfx/creatures/pig-oink-grunt.mp3` | 2.5s | pig, oink, grunt, farm, animal, comedic |
+| sfx | creatures | `sfx/creatures/rat-squeak.mp3` | 1.5s | rat, squeak, rodent, small |
 | sfx | creatures | `sfx/creatures/roar.mp3` | 2.5s | roar, monster, kaiju, creature, distorted |
 | sfx | creatures | `sfx/creatures/seagull-squawk.mp3` | 1.5s | seagull, gull, bird, squawk, beach, sea, harbour, comedic |
 | sfx | creatures | `sfx/creatures/small-dog-scared-whimper.mp3` | 1.5s | dog, whimper, whine, scared, small-dog, sad |
@@ -154,9 +161,11 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | crowds | `sfx/crowds/press-crowd-camera-flashes.mp3` | 6.0s | crowd, reporters, press, camera, shutter, flash, murmur |
 | sfx | crowds | `sfx/crowds/small-crowd-shocked-gasp.mp3` | 1.5s | crowd, gasp, shock, breath, reaction, group |
 | sfx | explosions | `sfx/explosions/boom.mp3` | 3.0s | explosion, boom, sub-bass, nuclear, huge |
+| sfx | explosions | `sfx/explosions/distant-artillery-barrage.mp3` | 6.0s | artillery, barrage, distant, rumble, war, ww1, booms |
 | sfx | foley | `sfx/foley/axe-drag-on-stone.mp3` | 2.5s | axe, metal, scrape, drag, stone, executioner, menacing, dungeon |
 | sfx | foley | `sfx/foley/boots-on-stone-footsteps.mp3` | 2.0s | footsteps, boots, stone, walking, castle, guard |
 | sfx | foley | `sfx/foley/calendar-page-flip.mp3` | 1.5s | paper, page, flip, calendar, tear, time-jump |
+| sfx | foley | `sfx/foley/chalk-mark-scrape.mp3` | 1.0s | chalk, scrape, mark, line |
 | sfx | foley | `sfx/foley/church-bell-distant-medieval.mp3` | 5.0s | bell, church, medieval, distant, village |
 | sfx | foley | `sfx/foley/crowd-cheer-joyful.mp3` | 6.0s | crowd, cheer, applause, joy, celebration, outdoor |
 | sfx | foley | `sfx/foley/gallows-rope-creak.mp3` | 3.0s | rope, creak, gallows, noose, beam, sway, eerie |
@@ -169,8 +178,10 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/match-strike-ignite.mp3` | 2.0s | match, strike, ignite, flame, fire, scratch, foley |
 | sfx | foley | `sfx/foley/money-counter-riffle.mp3` | 2.5s | money, cash, banknotes, counter, riffle, bills |
 | sfx | foley | `sfx/foley/morning-birds-loop.mp3` | 20.0s | birds, morning, outdoors, nature, breeze, loop, ambience |
+| sfx | foley | `sfx/foley/mud-squelch.mp3` | 1.5s | mud, squelch, boot, wet, step |
 | sfx | foley | `sfx/foley/office-desk-phone-ring.mp3` | 4.0s | phone, telephone, ring, office, corded, landline, 2000s |
 | sfx | foley | `sfx/foley/paper-leaflets-flutter.mp3` | 4.0s | paper, leaflets, flutter, falling, flyers |
+| sfx | foley | `sfx/foley/pencil-scribble.mp3` | 2.0s | pencil, sketch, scribble, paper, writing |
 | sfx | foley | `sfx/foley/rope-bridge-creak.mp3` | 3.0s | rope, bridge, creak, strain, planks, sway, tense |
 | sfx | foley | `sfx/foley/rotary-phone-ring.mp3` | 4.0s | phone, telephone, rotary, landline, ring, vintage |
 | sfx | foley | `sfx/foley/running-through-corn.mp3` | 3.0s | corn, cornfield, running, rustle, foliage, foley |
@@ -187,6 +198,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | impacts | `sfx/impacts/mechanical-net-launch-thunk.mp3` | 1.5s | mechanical, launch, thunk, net, whip, spring |
 | sfx | impacts | `sfx/impacts/metallic-title-boom.mp3` | 3.0s | metallic, title, boom |
 | sfx | impacts | `sfx/impacts/rubber-stamp-slam.mp3` | 1.0s | rubber, stamp, slam |
+| sfx | impacts | `sfx/impacts/shell-casing-alarm-gong.mp3` | 3.0s | gong, metal, alarm, brass, shell, ringing, ww1 |
 | sfx | impacts | `sfx/impacts/stone-floor-crumble-collapse.mp3` | 2.5s | stone, rock, crumble, collapse, floor, debris, rubble, cave-in |
 | sfx | impacts | `sfx/impacts/sub-bass-drop.mp3` | 2.0s | sub, bass, drop |
 | sfx | impacts | `sfx/impacts/trailer-impact-sub-boom.mp3` | 3.0s | trailer, impact, sub, boom |
@@ -198,6 +210,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | machines | `sfx/machines/drone-hover-buzz.mp3` | 6.0s | drone, quadcopter, propeller, buzz, hover, loop, surveillance |
 | sfx | machines | `sfx/machines/fax-machine-printing.mp3` | 5.0s | fax, office, printer, paper, machine, beeps, retro |
 | sfx | machines | `sfx/machines/iron-portcullis-grinding-down.mp3` | 4.0s | portcullis, gate, iron, grinding, chains, castle, medieval |
+| sfx | machines | `sfx/machines/typewriter-line-bell.mp3` | 3.0s | typewriter, typing, keys, carriage-return, bell, vintage |
 | sfx | magic | `sfx/magic/magical-shimmer-swell.mp3` | 5.0s | shimmer, chimes, sparkle, magical, wonder, ethereal, swell, reveal |
 | sfx | police | `sfx/police/handcuffs-ratchet-click.mp3` | 2.0s | handcuffs, metal, click, ratchet, arrest |
 | sfx | police | `sfx/police/police-dog-barking.mp3` | 3.0s | dog, k9, bark, police, outdoors |
@@ -224,6 +237,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui | `sfx/ui/phone-notification-two-tone.mp3` | 1.2s | phone, notification, chime, alert, message, app, two-tone |
 | sfx | ui | `sfx/ui/tv-static-burst.mp3` | 1.5s | static, tv, crt, noise, hiss, broadcast |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-smoke-poof.mp3` | 1.2s | poof, smoke, vanish, disappear, cartoon, puff |
+| sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-spring-boing.mp3` | 1.0s | boing, spring, cartoon, pop-up, comedy |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cash-register-ching.mp3` | 1.5s | cash-register, cha-ching, money, price, comedic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/coin-cascade-clink.mp3` | 2.5s | coins, gold, cascade, clink, money, reward, cartoon |
 | sfx | ui-cartoon | `sfx/ui-cartoon/comedic-ding.mp3` | 1.5s | ding, bell, comedic, reveal, hit |
@@ -268,3 +282,4 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | water | `sfx/water/underwater-ambience-bubbles.mp3` | 12.0s | underwater, ocean, ambience, bubbles, deep, muffled, loop |
 | sfx | water | `sfx/water/wooden-rowboat-creak.mp3` | 2.5s | boat, rowboat, wood, creak, rocking, water |
 | sfx | weather | `sfx/weather/polar-blizzard-wind-loop.mp3` | 22.0s | wind, blizzard, polar, antarctic, ambience, loop, snow |
+| sfx | weather | `sfx/weather/rain-on-mud-loop.mp3` | 12.0s | rain, mud, puddles, dripping, loop, ambience |

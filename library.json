@@ -6376,6 +6376,363 @@
       "notes": "",
       "energy": "medium",
       "instrumental": true
+    },
+    {
+      "id": "music/military-disaster/ww1-solemn-strings-elegy-a",
+      "type": "music",
+      "file": "music/military-disaster/ww1-solemn-strings-elegy-a.mp3",
+      "category": "military-disaster",
+      "tags": [
+        "ww1",
+        "elegy",
+        "strings",
+        "snare",
+        "brass",
+        "somber",
+        "documentary",
+        "war"
+      ],
+      "duration_s": 204.6,
+      "prompt": "solemn First World War era instrumental elegy, slow mournful string orchestra, soft muffled snare drum rolls, a distant lone brass horn, melancholic but dignified, quiet intro, gradual swell, restrained climax, gentle fade, cinematic documentary underscore",
+      "generator": "suno",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/military-disaster/ww1-solemn-strings-elegy-b",
+      "type": "music",
+      "file": "music/military-disaster/ww1-solemn-strings-elegy-b.mp3",
+      "category": "military-disaster",
+      "tags": [
+        "ww1",
+        "elegy",
+        "strings",
+        "snare",
+        "brass",
+        "somber",
+        "documentary",
+        "war"
+      ],
+      "duration_s": 197.2,
+      "prompt": "solemn First World War era instrumental elegy, slow mournful string orchestra, soft muffled snare drum rolls, a distant lone brass horn, melancholic but dignified, quiet intro, gradual swell, restrained climax, gentle fade, cinematic documentary underscore",
+      "generator": "suno",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/noir-suspense/cold-war-spy-jazz-a",
+      "type": "music",
+      "file": "music/noir-suspense/cold-war-spy-jazz-a.mp3",
+      "category": "noir-suspense",
+      "tags": [
+        "spy",
+        "jazz",
+        "vibraphone",
+        "upright-bass",
+        "surf-guitar",
+        "sneaky",
+        "60s",
+        "cold-war"
+      ],
+      "duration_s": 177.3,
+      "prompt": "1960s Cold War spy jazz instrumental, walking upright bass, vibraphone melody, muted trumpet stabs, brushed drums, twangy baritone surf guitar, cool sneaky and playful, intro, build with brass hits, confident climax, documentary underscore",
+      "generator": "suno",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/noir-suspense/cold-war-spy-jazz-b",
+      "type": "music",
+      "file": "music/noir-suspense/cold-war-spy-jazz-b.mp3",
+      "category": "noir-suspense",
+      "tags": [
+        "spy",
+        "jazz",
+        "vibraphone",
+        "upright-bass",
+        "surf-guitar",
+        "sneaky",
+        "60s",
+        "cold-war"
+      ],
+      "duration_s": 188.9,
+      "prompt": "1960s Cold War spy jazz instrumental, walking upright bass, vibraphone melody, muted trumpet stabs, brushed drums, twangy baritone surf guitar, cool sneaky and playful, intro, build with brass hits, confident climax, documentary underscore",
+      "generator": "suno",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/creatures/rat-squeak",
+      "type": "sfx",
+      "file": "sfx/creatures/rat-squeak.mp3",
+      "category": "creatures",
+      "tags": [
+        "rat",
+        "squeak",
+        "rodent",
+        "small"
+      ],
+      "duration_s": 1.5,
+      "prompt": "small rat squeaking twice, close, single clean sound, no music",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/weather/rain-on-mud-loop",
+      "type": "sfx",
+      "file": "sfx/weather/rain-on-mud-loop.mp3",
+      "category": "weather",
+      "tags": [
+        "rain",
+        "mud",
+        "puddles",
+        "dripping",
+        "loop",
+        "ambience"
+      ],
+      "duration_s": 12.0,
+      "prompt": "steady cold rain falling on mud and puddles with water dripping off sandbags, ambience loop, no thunder, no music",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/mud-squelch",
+      "type": "sfx",
+      "file": "sfx/foley/mud-squelch.mp3",
+      "category": "foley",
+      "tags": [
+        "mud",
+        "squelch",
+        "boot",
+        "wet",
+        "step"
+      ],
+      "duration_s": 1.5,
+      "prompt": "boot pulling out of deep thick mud, wet squelch, single clean sound",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/crow-caw-distant",
+      "type": "sfx",
+      "file": "sfx/creatures/crow-caw-distant.mp3",
+      "category": "creatures",
+      "tags": [
+        "crow",
+        "caw",
+        "bird",
+        "distant",
+        "morning"
+      ],
+      "duration_s": 2.5,
+      "prompt": "single crow cawing twice in the distance, cold morning, clean",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/shell-casing-alarm-gong",
+      "type": "sfx",
+      "file": "sfx/impacts/shell-casing-alarm-gong.mp3",
+      "category": "impacts",
+      "tags": [
+        "gong",
+        "metal",
+        "alarm",
+        "brass",
+        "shell",
+        "ringing",
+        "ww1"
+      ],
+      "duration_s": 3.0,
+      "prompt": "empty brass artillery shell casing hanging on wire struck repeatedly with a stick like an alarm gong, metallic ringing",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/cartoon-spring-boing",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/cartoon-spring-boing.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "boing",
+        "spring",
+        "cartoon",
+        "pop-up",
+        "comedy"
+      ],
+      "duration_s": 1.0,
+      "prompt": "cartoon spring boing as something pops up, bouncy, single clean sound",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/chalk-mark-scrape",
+      "type": "sfx",
+      "file": "sfx/foley/chalk-mark-scrape.mp3",
+      "category": "foley",
+      "tags": [
+        "chalk",
+        "scrape",
+        "mark",
+        "line"
+      ],
+      "duration_s": 1.0,
+      "prompt": "piece of chalk drawing one short line on metal, single clean scrape",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/machines/typewriter-line-bell",
+      "type": "sfx",
+      "file": "sfx/machines/typewriter-line-bell.mp3",
+      "category": "machines",
+      "tags": [
+        "typewriter",
+        "typing",
+        "keys",
+        "carriage-return",
+        "bell",
+        "vintage"
+      ],
+      "duration_s": 3.0,
+      "prompt": "vintage manual typewriter typing a short line of keys then a carriage return bell ding",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/pencil-scribble",
+      "type": "sfx",
+      "file": "sfx/foley/pencil-scribble.mp3",
+      "category": "foley",
+      "tags": [
+        "pencil",
+        "sketch",
+        "scribble",
+        "paper",
+        "writing"
+      ],
+      "duration_s": 2.0,
+      "prompt": "pencil quickly sketching lines on paper, close, dry",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/explosions/distant-artillery-barrage",
+      "type": "sfx",
+      "file": "sfx/explosions/distant-artillery-barrage.mp3",
+      "category": "explosions",
+      "tags": [
+        "artillery",
+        "barrage",
+        "distant",
+        "rumble",
+        "war",
+        "ww1",
+        "booms"
+      ],
+      "duration_s": 6.0,
+      "prompt": "distant WW1 artillery barrage, muffled booms rolling across the horizon, low rumble, no music",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/ww1-trench-night-loop",
+      "type": "sfx",
+      "file": "sfx/ambience/ww1-trench-night-loop.mp3",
+      "category": "ambience",
+      "tags": [
+        "night",
+        "war",
+        "front-line",
+        "wind",
+        "distant-rifle",
+        "ambience",
+        "loop",
+        "ww1"
+      ],
+      "duration_s": 15.0,
+      "prompt": "quiet night on a First World War front line: cold wind, occasional very distant rifle crack, faint distant thud, ambience loop, no music",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
     }
   ]
 }
