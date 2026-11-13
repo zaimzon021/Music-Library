@@ -46,6 +46,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | epic-cinematic | `music/epic-cinematic/highway-chase-hybrid-drums-b.mp3` | 194.1s | chase, action, taiko, electronic-drums, bass-ostinato, distorted, relentless, 140bpm |
 | music | epic-cinematic | `music/epic-cinematic/kaiju-trailer-taiko-brass-a.mp3` | 179.6s | epic, trailer, taiko, brass, suspense, heroic, drops |
 | music | epic-cinematic | `music/epic-cinematic/kaiju-trailer-taiko-brass-b.mp3` | 180.0s | epic, trailer, taiko, brass, suspense, heroic, drops |
+| music | epic-cinematic | `music/epic-cinematic/legendary-hero-finale-a.mp3` | 192.9s | epic, heroic, triumphant, choir, brass, taiko, finale, number-one, legendary |
+| music | epic-cinematic | `music/epic-cinematic/legendary-hero-finale-b.mp3` | 190.0s | epic, heroic, triumphant, choir, brass, taiko, finale, number-one, legendary |
 | music | epic-cinematic | `music/epic-cinematic/post-chase-resolution-drums-a.mp3` | 187.6s | resolution, closure, drums, dark-pads, authority, cinematic, 95bpm |
 | music | epic-cinematic | `music/epic-cinematic/post-chase-resolution-drums-b.mp3` | 184.8s | resolution, closure, drums, dark-pads, authority, cinematic, 95bpm |
 | music | epic-cinematic | `music/epic-cinematic/pursuit-action-brass-strings-a.mp3` | 176.8s | action, orchestral, percussion, brass-stabs, strings, urgent, pursuit, 130bpm |
@@ -243,6 +245,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/cash-register-ching.mp3` | 1.5s | cash-register, cha-ching, money, price, comedic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/coin-cascade-clink.mp3` | 2.5s | coins, gold, cascade, clink, money, reward, cartoon |
 | sfx | ui-cartoon | `sfx/ui-cartoon/comedic-ding.mp3` | 1.5s | ding, bell, comedic, reveal, hit |
+| sfx | ui-cartoon | `sfx/ui-cartoon/fail-piano-lose-sting.mp3` | 2.5s | fail, piano, lose, sting, comedic, descending, sad, game-over |
 | sfx | ui-cartoon | `sfx/ui-cartoon/magic-shimmer-sparkle.mp3` | 1.5s | magic, shimmer, sparkle, whimsical, wizard |
 | sfx | ui-cartoon | `sfx/ui-cartoon/pop.mp3` | 0.5s | pop, cartoon, ui, light, comedic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/radar-ping.mp3` | 2.0s | radar, sonar, ping, ui, electronic, scan, hud |

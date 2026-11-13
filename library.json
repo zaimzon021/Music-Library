@@ -6803,6 +6803,87 @@
       "added": "2026-11-13",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "music/epic-cinematic/legendary-hero-finale-a",
+      "type": "music",
+      "file": "music/epic-cinematic/legendary-hero-finale-a.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "epic",
+        "heroic",
+        "triumphant",
+        "choir",
+        "brass",
+        "taiko",
+        "finale",
+        "number-one",
+        "legendary"
+      ],
+      "duration_s": 192.9,
+      "prompt": "Epic heroic orchestral finale for a legendary hero, triumphant brass fanfare, soaring strings, big choir, pounding taiko drums, builds fast to a glorious peak, cinematic movie trailer, instrumental",
+      "generator": "suno via ai33 (v1s music-generation, instrumental)",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked day13 dreamworks heroes #1"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/legendary-hero-finale-b",
+      "type": "music",
+      "file": "music/epic-cinematic/legendary-hero-finale-b.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "epic",
+        "heroic",
+        "triumphant",
+        "choir",
+        "brass",
+        "taiko",
+        "finale",
+        "number-one",
+        "legendary"
+      ],
+      "duration_s": 190.0,
+      "prompt": "Epic heroic orchestral finale for a legendary hero, triumphant brass fanfare, soaring strings, big choir, pounding taiko drums, builds fast to a glorious peak, cinematic movie trailer, instrumental",
+      "generator": "suno via ai33 (v1s music-generation, instrumental)",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked day13 dreamworks heroes #1"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/ui-cartoon/fail-piano-lose-sting",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/fail-piano-lose-sting.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "fail",
+        "piano",
+        "lose",
+        "sting",
+        "comedic",
+        "descending",
+        "sad",
+        "game-over"
+      ],
+      "duration_s": 2.5,
+      "prompt": "comedic fail piano lose sting, short descending honky-tonk piano notes ending on a sad low chord, cartoon failure, game over",
+      "generator": "elevenlabs sound effects v3 via ai33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked day12/13 sob emoji"
+      ],
+      "notes": ""
     }
   ]
 }
