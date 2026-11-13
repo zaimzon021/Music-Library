@@ -7993,6 +7993,60 @@
         "textstory-grandma-scam-v2"
       ],
       "notes": ""
+    },
+    {
+      "id": "music/epic-cinematic/superhero-triumphant-anthem-a",
+      "type": "music",
+      "file": "music/epic-cinematic/superhero-triumphant-anthem-a.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "heroic",
+        "triumphant",
+        "superhero",
+        "orchestral",
+        "brass",
+        "strings",
+        "anthem",
+        "climax"
+      ],
+      "duration_s": 200.0,
+      "prompt": "heroic triumphant orchestral superhero anthem, soaring french horns and brass fanfare over driving string ostinato, big snare and timpani, slow hopeful intro, rising build, huge triumphant climax, modern blockbuster film score",
+      "generator": "ai33 suno",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "marvel-heroes-aura-pt1"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/superhero-triumphant-anthem-b",
+      "type": "music",
+      "file": "music/epic-cinematic/superhero-triumphant-anthem-b.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "heroic",
+        "triumphant",
+        "superhero",
+        "orchestral",
+        "brass",
+        "strings",
+        "anthem",
+        "climax"
+      ],
+      "duration_s": 199.9,
+      "prompt": "heroic triumphant orchestral superhero anthem, soaring french horns and brass fanfare over driving string ostinato, big snare and timpani, slow hopeful intro, rising build, huge triumphant climax, modern blockbuster film score",
+      "generator": "ai33 suno",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "marvel-heroes-aura-pt1"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
     }
   ]
 }

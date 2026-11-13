@@ -66,6 +66,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | epic-cinematic | `music/epic-cinematic/reactor-hum-science-reveal-b.mp3` | 199.3s | sci-fi, reactor, drone, ticking, electric, explosion, science-reveal, heroic |
 | music | epic-cinematic | `music/epic-cinematic/steppe-cavalry-epic-a.mp3` | 199.9s | central-asia, steppe, mongol, cavalry, war-drums, taiko, throat-singing, brass, battle, epic, trailer |
 | music | epic-cinematic | `music/epic-cinematic/steppe-cavalry-epic-b.mp3` | 219.2s | central-asia, steppe, mongol, cavalry, war-drums, taiko, throat-singing, brass, battle, epic, trailer |
+| music | epic-cinematic | `music/epic-cinematic/superhero-triumphant-anthem-a.mp3` | 200.0s | heroic, triumphant, superhero, orchestral, brass, strings, anthem, climax |
+| music | epic-cinematic | `music/epic-cinematic/superhero-triumphant-anthem-b.mp3` | 199.9s | heroic, triumphant, superhero, orchestral, brass, strings, anthem, climax |
 | music | epic-rock | `music/epic-rock/rock-orchestra-battle-a.mp3` | 234.7s | battle, rock, guitars, orchestra, relentless, showdown |
 | music | epic-rock | `music/epic-rock/rock-orchestra-battle-b.mp3` | 238.7s | battle, rock, guitars, orchestra, relentless, showdown |
 | music | explainer | `music/explainer/minimal-explainer-pluck-bed-a.mp3` | 180.8s | explainer, minimal, ambient, electronic, plucks, marimba, calm, narration-bed, education |
@@ -188,6 +190,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | crowds | `sfx/crowds/crowd-cheer-applause.mp3` | 4.0s | crowd, cheer, applause, celebration, outdoor |
 | sfx | crowds | `sfx/crowds/crowd-panic-screaming.mp3` | 15.0s | crowd, screaming, panic, running, chaos, disaster |
 | sfx | crowds | `sfx/crowds/press-crowd-camera-flashes.mp3` | 6.0s | crowd, reporters, press, camera, shutter, flash, murmur |
+| sfx | crowds | `sfx/crowds/sitcom-audience-laughter.mp3` | 4.0s | laugh, laughter, sitcom, audience, crowd, comedy, reaction, funny |
 | sfx | crowds | `sfx/crowds/small-crowd-shocked-gasp.mp3` | 1.5s | crowd, gasp, shock, breath, reaction, group |
 | sfx | explosions | `sfx/explosions/boom.mp3` | 3.0s | explosion, boom, sub-bass, nuclear, huge |
 | sfx | explosions | `sfx/explosions/distant-artillery-barrage.mp3` | 6.0s | artillery, barrage, distant, rumble, war, ww1, booms |
@@ -243,8 +246,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | machines | `sfx/machines/drone-hover-buzz.mp3` | 6.0s | drone, quadcopter, propeller, buzz, hover, loop, surveillance |
 | sfx | machines | `sfx/machines/fax-machine-printing.mp3` | 5.0s | fax, office, printer, paper, machine, beeps, retro |
 | sfx | machines | `sfx/machines/iron-portcullis-grinding-down.mp3` | 4.0s | portcullis, gate, iron, grinding, chains, castle, medieval |
-| sfx | machines | `sfx/machines/steel-cable-tension-creak.mp3` | 3.0s | cable, steel, creak, groan, metal, elevator, shaft, tension |
 | sfx | machines | `sfx/machines/milkshake-spindle-mixer-whir.mp3` | 5.0s | milkshake, mixer, blender, motor, whir, diner, 1950s, kitchen |
+| sfx | machines | `sfx/machines/steel-cable-tension-creak.mp3` | 3.0s | cable, steel, creak, groan, metal, elevator, shaft, tension |
 | sfx | machines | `sfx/machines/typewriter-line-bell.mp3` | 3.0s | typewriter, typing, keys, carriage-return, bell, vintage |
 | sfx | magic | `sfx/magic/heavenly-choir-ahh-stinger.mp3` | 2.5s | choir, ahh, angelic, heavenly, win, positive, stinger, reveal |
 | sfx | magic | `sfx/magic/magical-shimmer-swell.mp3` | 5.0s | shimmer, chimes, sparkle, magical, wonder, ethereal, swell, reveal |
