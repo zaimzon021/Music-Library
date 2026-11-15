@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-13",
+  "updated": "2026-11-15",
   "items": [
     {
       "id": "music/epic-cinematic/kaiju-trailer-taiko-brass-a",
@@ -6884,6 +6884,52 @@
         "aura-ranked day12/13 sob emoji"
       ],
       "notes": ""
+    },
+    {
+      "id": "music/comedic-documentary/prehistoric-playful-marimba-a",
+      "type": "music",
+      "file": "music/comedic-documentary/prehistoric-playful-marimba-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "comedic",
+        "playful",
+        "prehistoric",
+        "stone age",
+        "marimba",
+        "documentary"
+      ],
+      "duration_s": 130.1,
+      "prompt": "playful comedic stone age prehistoric documentary bed, wooden marimba, hollow log drums, breathy bone flute, plucked pizzicato strings, quirky bouncy medium tempo, light and curious, instrumental, with intro, build and climax",
+      "generator": "ai33-suno",
+      "added_by": "Doodle History",
+      "added": "2026-11-15",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/prehistoric-playful-marimba-b",
+      "type": "music",
+      "file": "music/comedic-documentary/prehistoric-playful-marimba-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "comedic",
+        "playful",
+        "prehistoric",
+        "stone age",
+        "marimba",
+        "documentary"
+      ],
+      "duration_s": 152.1,
+      "prompt": "playful comedic stone age prehistoric documentary bed, wooden marimba, hollow log drums, breathy bone flute, plucked pizzicato strings, quirky bouncy medium tempo, light and curious, instrumental, with intro, build and climax",
+      "generator": "ai33-suno",
+      "added_by": "Doodle History",
+      "added": "2026-11-15",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
     }
   ]
 }
