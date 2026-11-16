@@ -18,8 +18,12 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | comedic-documentary | `music/comedic-documentary/pompous-ancient-empire-comedy-march-b.mp3` | 104.7s | comedic, documentary, ancient, roman, empire, fanfare, brass, harp, pizzicato, bassoon, march, mock-heroic, narration-bed |
 | music | comedic-documentary | `music/comedic-documentary/prehistoric-playful-marimba-a.mp3` | 130.1s | comedic, playful, prehistoric, stone age, marimba, documentary |
 | music | comedic-documentary | `music/comedic-documentary/prehistoric-playful-marimba-b.mp3` | 152.1s | comedic, playful, prehistoric, stone age, marimba, documentary |
+| music | comedic-documentary | `music/comedic-documentary/quirky-synth-curiosity-a.mp3` | 183.8s | quirky, synth, arpeggio, electronic, curious, what-if, explainer, comedic, documentary, narration-bed |
+| music | comedic-documentary | `music/comedic-documentary/quirky-synth-curiosity-b.mp3` | 182.2s | quirky, synth, arpeggio, electronic, curious, what-if, explainer, comedic, documentary, narration-bed |
 | music | comedic-documentary | `music/comedic-documentary/ragtime-comedy-documentary-bed-a.mp3` | 182.4s | comedy, documentary, ragtime, piano, pizzicato, tuba, quirky, period, silent-film |
 | music | comedic-documentary | `music/comedic-documentary/ragtime-comedy-documentary-bed-b.mp3` | 176.6s | comedy, documentary, ragtime, piano, pizzicato, tuba, quirky, period, silent-film |
+| music | comedic-documentary | `music/comedic-documentary/steppe-adventure-comedy-a.mp3` | 182.8s | central-asia, steppe, mongol, morin-khuur, throat-singing, frame-drum, comedic, documentary, adventure, narration-bed |
+| music | comedic-documentary | `music/comedic-documentary/steppe-adventure-comedy-b.mp3` | 178.9s | central-asia, steppe, mongol, morin-khuur, throat-singing, frame-drum, comedic, documentary, adventure, narration-bed |
 | music | comedic-menace | `music/comedic-menace/three-headed-sneaky-wink-a.mp3` | 173.9s | menacing, comedic, choir, sneaky, dragon, epic |
 | music | comedic-menace | `music/comedic-menace/three-headed-sneaky-wink-b.mp3` | 164.0s | menacing, comedic, choir, sneaky, dragon, epic |
 | music | comedic-trailer | `music/comedic-trailer/90s-news-desert-comedy-hook-a.mp3` | 86.9s | comedic, trailer, hook, 1990s, news, desert, darbuka, brass, energetic, stinger |
@@ -56,6 +60,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | epic-cinematic | `music/epic-cinematic/pursuit-action-brass-strings-b.mp3` | 168.3s | action, orchestral, percussion, brass-stabs, strings, urgent, pursuit, 130bpm |
 | music | epic-cinematic | `music/epic-cinematic/reactor-hum-science-reveal-a.mp3` | 193.3s | sci-fi, reactor, drone, ticking, electric, explosion, science-reveal, heroic |
 | music | epic-cinematic | `music/epic-cinematic/reactor-hum-science-reveal-b.mp3` | 199.3s | sci-fi, reactor, drone, ticking, electric, explosion, science-reveal, heroic |
+| music | epic-cinematic | `music/epic-cinematic/steppe-cavalry-epic-a.mp3` | 199.9s | central-asia, steppe, mongol, cavalry, war-drums, taiko, throat-singing, brass, battle, epic, trailer |
+| music | epic-cinematic | `music/epic-cinematic/steppe-cavalry-epic-b.mp3` | 219.2s | central-asia, steppe, mongol, cavalry, war-drums, taiko, throat-singing, brass, battle, epic, trailer |
 | music | epic-rock | `music/epic-rock/rock-orchestra-battle-a.mp3` | 234.7s | battle, rock, guitars, orchestra, relentless, showdown |
 | music | epic-rock | `music/epic-rock/rock-orchestra-battle-b.mp3` | 238.7s | battle, rock, guitars, orchestra, relentless, showdown |
 | music | explainer | `music/explainer/minimal-explainer-pluck-bed-a.mp3` | 180.8s | explainer, minimal, ambient, electronic, plucks, marimba, calm, narration-bed, education |
@@ -158,6 +164,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ambience | `sfx/ambience/ww1-trench-night-loop.mp3` | 15.0s | night, war, front-line, wind, distant-rifle, ambience, loop, ww1 |
 | sfx | creatures | `sfx/creatures/camel-grunt-comedic.mp3` | 2.0s | camel, grunt, groan, animal, comedic |
 | sfx | creatures | `sfx/creatures/cartoon-duck-quack.mp3` | 1.0s | duck, quack, cartoon, comedic, bird, silly |
+| sfx | creatures | `sfx/creatures/cartoon-man-snore.mp3` | 3.0s | snore, snoring, sleep, man, cartoon, comedic, bedtime |
 | sfx | creatures | `sfx/creatures/chickens-clucking-yard.mp3` | 5.0s | chicken, cluck, farm, yard, animals |
 | sfx | creatures | `sfx/creatures/corgi-happy-bark-double.mp3` | 1.5s | dog, corgi, bark, happy, excited, small-dog, cartoon |
 | sfx | creatures | `sfx/creatures/cow-moo-single.mp3` | 2.5s | cow, moo, farm, animal |
@@ -190,6 +197,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/hourglass-sand-trickle.mp3` | 4.0s | sand, hourglass, trickle, grains, timer, soft |
 | sfx | foley | `sfx/foley/jester-bells-jingle.mp3` | 1.5s | bells, jester, jingle, tinkle, playful, medieval |
 | sfx | foley | `sfx/foley/keys-jingle-ring.mp3` | 1.5s | keys, jingle, keyring, metal, foley |
+| sfx | foley | `sfx/foley/lamp-switch-click-off.mp3` | 0.7s | lamp, switch, click, light-off, bedroom, foley, night |
 | sfx | foley | `sfx/foley/match-strike-ignite.mp3` | 2.0s | match, strike, ignite, flame, fire, scratch, foley |
 | sfx | foley | `sfx/foley/money-counter-riffle.mp3` | 2.5s | money, cash, banknotes, counter, riffle, bills |
 | sfx | foley | `sfx/foley/morning-birds-loop.mp3` | 20.0s | birds, morning, outdoors, nature, breeze, loop, ambience |
@@ -262,6 +270,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/cash-register-ching.mp3` | 1.5s | cash-register, cha-ching, money, price, comedic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/coin-cascade-clink.mp3` | 2.5s | coins, gold, cascade, clink, money, reward, cartoon |
 | sfx | ui-cartoon | `sfx/ui-cartoon/comedic-ding.mp3` | 1.5s | ding, bell, comedic, reveal, hit |
+| sfx | ui-cartoon | `sfx/ui-cartoon/dun-dun-dunnn-comedic-sting.mp3` | 3.0s | dun-dun-dun, dramatic, reveal, sting, comedic, brass, timpani, suspicion |
 | sfx | ui-cartoon | `sfx/ui-cartoon/fail-piano-lose-sting.mp3` | 2.5s | fail, piano, lose, sting, comedic, descending, sad, game-over |
 | sfx | ui-cartoon | `sfx/ui-cartoon/magic-shimmer-sparkle.mp3` | 1.5s | magic, shimmer, sparkle, whimsical, wizard |
 | sfx | ui-cartoon | `sfx/ui-cartoon/pop.mp3` | 0.5s | pop, cartoon, ui, light, comedic |
