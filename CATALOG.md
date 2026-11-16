@@ -132,6 +132,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | true-crime | `music/true-crime/surveillance-thriller-arps-b.mp3` | 210.1s | surveillance, thriller, electronic, arpeggio, tracking, tension |
 | music | true-crime | `music/true-crime/true-crime-trailer-pulse-a.mp3` | 178.9s | true-crime, trailer, synth-bass, taiko, brass, ticking, build |
 | music | true-crime | `music/true-crime/true-crime-trailer-pulse-b.mp3` | 180.0s | true-crime, trailer, synth-bass, taiko, brass, ticking, build |
+| music | uplifting-corporate | `music/uplifting-corporate/edu-travel-uplift-pop-a.mp3` | 165.0s | uplifting, corporate, pop, motivational, education, travel, vlog, positive, guitar, piano, claps |
+| music | uplifting-corporate | `music/uplifting-corporate/edu-travel-uplift-pop-b.mp3` | 180.0s | uplifting, corporate, pop, motivational, education, travel, vlog, positive, guitar, piano, claps |
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-a.mp3` | 240.0s | wonder, ancient, discovery, choir, awe, reveal |
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-b.mp3` | 234.8s | wonder, ancient, discovery, choir, awe, reveal |
 | sfx | ambience | `sfx/ambience/city-street-ambience-loop.mp3` | 22.0s | city, street, traffic, crowd, murmur, ambience, loop |
