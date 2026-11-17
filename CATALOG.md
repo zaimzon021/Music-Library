@@ -68,6 +68,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | horror | `music/horror/music-box-horror-trailer-b.mp3` | 166.8s | horror, trailer, music-box, stingers, dread, terrifying |
 | music | jungle-prehistoric | `music/jungle-prehistoric/prehistoric-jungle-tribal-a.mp3` | 201.8s | jungle, prehistoric, tribal-drums, ominous, primal |
 | music | jungle-prehistoric | `music/jungle-prehistoric/prehistoric-jungle-tribal-b.mp3` | 196.9s | jungle, prehistoric, tribal-drums, ominous, primal |
+| music | lofi | `music/lofi/italian-touch-lofi-rhodes-mandolin-a.mp3` | 194.8s | lofi, chill, hip-hop, rhodes, mandolin, nylon-guitar, vinyl, warm, hopeful, explainer, vlog, background, 85bpm |
+| music | lofi | `music/lofi/italian-touch-lofi-rhodes-mandolin-b.mp3` | 189.6s | lofi, chill, hip-hop, rhodes, mandolin, nylon-guitar, vinyl, warm, hopeful, explainer, vlog, background, 85bpm |
 | music | mech-industrial | `music/mech-industrial/industrial-mech-stomp-a.mp3` | 195.3s | mech, robot, industrial, synth, metallic, heroic |
 | music | mech-industrial | `music/mech-industrial/industrial-mech-stomp-b.mp3` | 204.5s | mech, robot, industrial, synth, metallic, heroic |
 | music | military-disaster | `music/military-disaster/military-siren-disaster-a.mp3` | 193.6s | military, snare, sirens, disaster, explosions, action |
@@ -78,6 +80,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | modern-epic | `music/modern-epic/anime-rock-transformation-drop-b.mp3` | 183.8s | anime, rock, guitars, taiko, transformation, playful, heroic |
 | music | modern-epic | `music/modern-epic/neon-synth-power-up-a.mp3` | 225.3s | modern, synth, orchestra, power-up, drops, electrifying |
 | music | modern-epic | `music/modern-epic/neon-synth-power-up-b.mp3` | 214.9s | modern, synth, orchestra, power-up, drops, electrifying |
+| music | modern-pop | `music/modern-pop/cinematic-pluck-trap-intro-hook-a.mp3` | 143.2s | hook, intro, youtube, optimistic, pluck, arpeggio, piano, trap-lite, 808, build, drop, energetic |
+| music | modern-pop | `music/modern-pop/cinematic-pluck-trap-intro-hook-b.mp3` | 139.7s | hook, intro, youtube, optimistic, pluck, arpeggio, piano, trap-lite, 808, build, drop, energetic |
 | music | modern-pop | `music/modern-pop/energetic-hook-pop-hiphop-a.mp3` | 126.7s | hook, intro, energetic, pop, hip-hop, claps, synth, hopeful, youtube |
 | music | modern-pop | `music/modern-pop/energetic-hook-pop-hiphop-b.mp3` | 135.0s | hook, intro, energetic, pop, hip-hop, claps, synth, hopeful, youtube |
 | music | noir-suspense | `music/noir-suspense/cold-war-spy-jazz-a.mp3` | 177.3s | spy, jazz, vibraphone, upright-bass, surf-guitar, sneaky, 60s, cold-war |
