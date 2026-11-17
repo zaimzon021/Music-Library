@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "items": [
     {
       "id": "music/epic-cinematic/kaiju-trailer-taiko-brass-a",
@@ -6986,6 +6986,171 @@
       "notes": "",
       "energy": "medium",
       "instrumental": true
+    },
+    {
+      "id": "music/explainer/minimal-explainer-pluck-bed-a",
+      "type": "music",
+      "file": "music/explainer/minimal-explainer-pluck-bed-a.mp3",
+      "category": "explainer",
+      "tags": [
+        "explainer",
+        "minimal",
+        "ambient",
+        "electronic",
+        "plucks",
+        "marimba",
+        "calm",
+        "narration-bed",
+        "education"
+      ],
+      "duration_s": 180.8,
+      "prompt": "minimal ambient electronic explainer bed, soft plucks and marimba, warm pads, light gentle beat, curious calm and clear, documentary underscore for narration, instrumental",
+      "generator": "suno",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-17",
+      "used_in": [],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "music/explainer/minimal-explainer-pluck-bed-b",
+      "type": "music",
+      "file": "music/explainer/minimal-explainer-pluck-bed-b.mp3",
+      "category": "explainer",
+      "tags": [
+        "explainer",
+        "minimal",
+        "ambient",
+        "electronic",
+        "plucks",
+        "marimba",
+        "calm",
+        "narration-bed",
+        "education"
+      ],
+      "duration_s": 202.4,
+      "prompt": "minimal ambient electronic explainer bed, soft plucks and marimba, warm pads, light gentle beat, curious calm and clear, documentary underscore for narration, instrumental",
+      "generator": "suno",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-17",
+      "used_in": [],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "music/modern-pop/energetic-hook-pop-hiphop-a",
+      "type": "music",
+      "file": "music/modern-pop/energetic-hook-pop-hiphop-a.mp3",
+      "category": "modern-pop",
+      "tags": [
+        "hook",
+        "intro",
+        "energetic",
+        "pop",
+        "hip-hop",
+        "claps",
+        "synth",
+        "hopeful",
+        "youtube"
+      ],
+      "duration_s": 126.7,
+      "prompt": "modern energetic hook intro, punchy pop hip-hop drums, bright synth stabs and claps, confident hopeful mood, quick build and drop, instrumental",
+      "generator": "suno",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-17",
+      "used_in": [],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/modern-pop/energetic-hook-pop-hiphop-b",
+      "type": "music",
+      "file": "music/modern-pop/energetic-hook-pop-hiphop-b.mp3",
+      "category": "modern-pop",
+      "tags": [
+        "hook",
+        "intro",
+        "energetic",
+        "pop",
+        "hip-hop",
+        "claps",
+        "synth",
+        "hopeful",
+        "youtube"
+      ],
+      "duration_s": 135.0,
+      "prompt": "modern energetic hook intro, punchy pop hip-hop drums, bright synth stabs and claps, confident hopeful mood, quick build and drop, instrumental",
+      "generator": "suno",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-17",
+      "used_in": [],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/transitions/soft-ui-swipe",
+      "type": "sfx",
+      "file": "sfx/transitions/soft-ui-swipe.mp3",
+      "category": "transitions",
+      "tags": [
+        "swipe",
+        "whoosh",
+        "soft",
+        "ui",
+        "minimal",
+        "transition"
+      ],
+      "duration_s": 1.0,
+      "prompt": "soft minimal clean UI swipe whoosh, short, airy, modern",
+      "generator": "elevenlabs",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-17",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/soft-ui-tap",
+      "type": "sfx",
+      "file": "sfx/ui/soft-ui-tap.mp3",
+      "category": "ui",
+      "tags": [
+        "tap",
+        "click",
+        "soft",
+        "ui",
+        "minimal"
+      ],
+      "duration_s": 0.5,
+      "prompt": "soft subtle UI tap click, gentle, clean, minimal",
+      "generator": "elevenlabs",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-17",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/soft-ding",
+      "type": "sfx",
+      "file": "sfx/ui/soft-ding.mp3",
+      "category": "ui",
+      "tags": [
+        "ding",
+        "notification",
+        "soft",
+        "bright",
+        "ui"
+      ],
+      "duration_s": 1.0,
+      "prompt": "gentle bright soft notification ding, clean, single tone, pleasant",
+      "generator": "elevenlabs",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-17",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }

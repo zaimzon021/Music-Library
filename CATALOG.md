@@ -58,6 +58,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | epic-cinematic | `music/epic-cinematic/reactor-hum-science-reveal-b.mp3` | 199.3s | sci-fi, reactor, drone, ticking, electric, explosion, science-reveal, heroic |
 | music | epic-rock | `music/epic-rock/rock-orchestra-battle-a.mp3` | 234.7s | battle, rock, guitars, orchestra, relentless, showdown |
 | music | epic-rock | `music/epic-rock/rock-orchestra-battle-b.mp3` | 238.7s | battle, rock, guitars, orchestra, relentless, showdown |
+| music | explainer | `music/explainer/minimal-explainer-pluck-bed-a.mp3` | 180.8s | explainer, minimal, ambient, electronic, plucks, marimba, calm, narration-bed, education |
+| music | explainer | `music/explainer/minimal-explainer-pluck-bed-b.mp3` | 202.4s | explainer, minimal, ambient, electronic, plucks, marimba, calm, narration-bed, education |
 | music | funk-lounge | `music/funk-lounge/funky-luxury-lounge-a.mp3` | 234.4s | funk, lounge, slap-bass, brass, wah-guitar, upbeat, luxury, money, playful |
 | music | funk-lounge | `music/funk-lounge/funky-luxury-lounge-b.mp3` | 222.7s | funk, lounge, slap-bass, brass, wah-guitar, upbeat, luxury, money, playful |
 | music | horror | `music/horror/jungle-creature-chase-a.mp3` | 186.9s | horror, creepy, drones, scare-hits, chase, jungle |
@@ -76,6 +78,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | modern-epic | `music/modern-epic/anime-rock-transformation-drop-b.mp3` | 183.8s | anime, rock, guitars, taiko, transformation, playful, heroic |
 | music | modern-epic | `music/modern-epic/neon-synth-power-up-a.mp3` | 225.3s | modern, synth, orchestra, power-up, drops, electrifying |
 | music | modern-epic | `music/modern-epic/neon-synth-power-up-b.mp3` | 214.9s | modern, synth, orchestra, power-up, drops, electrifying |
+| music | modern-pop | `music/modern-pop/energetic-hook-pop-hiphop-a.mp3` | 126.7s | hook, intro, energetic, pop, hip-hop, claps, synth, hopeful, youtube |
+| music | modern-pop | `music/modern-pop/energetic-hook-pop-hiphop-b.mp3` | 135.0s | hook, intro, energetic, pop, hip-hop, claps, synth, hopeful, youtube |
 | music | noir-suspense | `music/noir-suspense/cold-war-spy-jazz-a.mp3` | 177.3s | spy, jazz, vibraphone, upright-bass, surf-guitar, sneaky, 60s, cold-war |
 | music | noir-suspense | `music/noir-suspense/cold-war-spy-jazz-b.mp3` | 188.9s | spy, jazz, vibraphone, upright-bass, surf-guitar, sneaky, 60s, cold-war |
 | music | noir-suspense | `music/noir-suspense/sly-noir-pizzicato-a.mp3` | 197.3s | noir, suspense, pizzicato, upright-bass, jazz, comedic, sly, late-night |
@@ -234,6 +238,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | transitions | `sfx/transitions/air-whoosh-clean.mp3` | 1.2s | air, whoosh, clean |
 | sfx | transitions | `sfx/transitions/deep-swoosh-rumble.mp3` | 1.5s | deep, swoosh, rumble |
 | sfx | transitions | `sfx/transitions/digital-glitch-stutter.mp3` | 0.8s | digital, glitch, stutter |
+| sfx | transitions | `sfx/transitions/soft-ui-swipe.mp3` | 1.0s | swipe, whoosh, soft, ui, minimal, transition |
 | sfx | transitions | `sfx/transitions/time-warp-whoosh.mp3` | 2.5s | time-travel, warp, whoosh, sci-fi, reverse, impact |
 | sfx | transitions | `sfx/transitions/vhs-rewind.mp3` | 1.5s | vhs, rewind |
 | sfx | transitions | `sfx/transitions/whoosh.mp3` | 1.0s | whoosh, swoosh, transition, fast |
@@ -243,6 +248,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui | `sfx/ui/gps-navigation-recalculating-chime.mp3` | 1.0s | gps, navigation, sat-nav, chime, dashboard, notification, recalculating, car, ui |
 | sfx | ui | `sfx/ui/phone-notification-chime.mp3` | 1.0s | phone, notification, chime, smartphone, message |
 | sfx | ui | `sfx/ui/phone-notification-two-tone.mp3` | 1.2s | phone, notification, chime, alert, message, app, two-tone |
+| sfx | ui | `sfx/ui/soft-ding.mp3` | 1.0s | ding, notification, soft, bright, ui |
+| sfx | ui | `sfx/ui/soft-ui-tap.mp3` | 0.5s | tap, click, soft, ui, minimal |
 | sfx | ui | `sfx/ui/tv-static-burst.mp3` | 1.5s | static, tv, crt, noise, hiss, broadcast |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-smoke-poof.mp3` | 1.2s | poof, smoke, vanish, disappear, cartoon, puff |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-spring-boing.mp3` | 1.0s | boing, spring, cartoon, pop-up, comedy |
