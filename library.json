@@ -7545,6 +7545,187 @@
       "added": "2026-11-16",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "sfx/machines/milkshake-spindle-mixer-whir",
+      "type": "sfx",
+      "file": "sfx/machines/milkshake-spindle-mixer-whir.mp3",
+      "category": "machines",
+      "tags": [
+        "milkshake",
+        "mixer",
+        "blender",
+        "motor",
+        "whir",
+        "diner",
+        "1950s",
+        "kitchen"
+      ],
+      "duration_s": 5.0,
+      "prompt": "vintage 1950s milkshake spindle mixer motor whirring and stirring a metal cup, steady electric whir with liquid swirl, then switches off",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-17",
+      "used_in": [
+        "mcdonalds-landlord-ep1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/griddle-burger-sizzle",
+      "type": "sfx",
+      "file": "sfx/foley/griddle-burger-sizzle.mp3",
+      "category": "foley",
+      "tags": [
+        "sizzle",
+        "grill",
+        "griddle",
+        "burger",
+        "cooking",
+        "kitchen",
+        "diner",
+        "frying"
+      ],
+      "duration_s": 6.0,
+      "prompt": "burger patties sizzling on a hot flat-top griddle, steady crackling sizzle, diner kitchen, no voices",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-17",
+      "used_in": [
+        "mcdonalds-landlord-ep1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/calculator-button-beeps",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/calculator-button-beeps.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "calculator",
+        "beep",
+        "buttons",
+        "math",
+        "counting",
+        "electronic"
+      ],
+      "duration_s": 2.0,
+      "prompt": "pressing buttons on an electronic pocket calculator, six quick small beeps",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-17",
+      "used_in": [
+        "mcdonalds-landlord-ep1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/cartoon-nervous-gulp",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/cartoon-nervous-gulp.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "gulp",
+        "swallow",
+        "nervous",
+        "cartoon",
+        "comedic",
+        "reaction"
+      ],
+      "duration_s": 1.0,
+      "prompt": "single loud cartoon nervous gulp swallow, comedic",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-17",
+      "used_in": [
+        "mcdonalds-landlord-ep1"
+      ],
+      "notes": "generated with check_prompt=False: similarity guard falsely matched cartoon-man-snore; only other gulp is a giant underwater whale gulp"
+    },
+    {
+      "id": "sfx/ui-cartoon/snare-drum-roll-crash",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/snare-drum-roll-crash.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "drumroll",
+        "snare",
+        "drum",
+        "roll",
+        "cymbal",
+        "crash",
+        "reveal",
+        "suspense"
+      ],
+      "duration_s": 4.0,
+      "prompt": "snare drum roll building for three seconds ending in a cymbal crash, reveal",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-17",
+      "used_in": [
+        "mcdonalds-landlord-ep1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "music/comedic-documentary/jukebox-diner-swing-a",
+      "type": "music",
+      "file": "music/comedic-documentary/jukebox-diner-swing-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "1950s",
+        "rock-and-roll",
+        "jukebox",
+        "diner",
+        "swing",
+        "boogie-woogie",
+        "saxophone",
+        "retro",
+        "americana",
+        "comedic",
+        "documentary"
+      ],
+      "duration_s": 182.9,
+      "prompt": "1950s rock and roll jukebox diner swing, upbeat walking upright bass, boogie-woogie piano, honking tenor saxophone, brushed drums, playful comedic retro americana, instrumental, intro build and big finish",
+      "generator": "Suno via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-17",
+      "used_in": [
+        "mcdonalds-landlord-ep1"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/jukebox-diner-swing-b",
+      "type": "music",
+      "file": "music/comedic-documentary/jukebox-diner-swing-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "1950s",
+        "rock-and-roll",
+        "jukebox",
+        "diner",
+        "swing",
+        "boogie-woogie",
+        "saxophone",
+        "retro",
+        "americana",
+        "comedic",
+        "documentary"
+      ],
+      "duration_s": 188.4,
+      "prompt": "1950s rock and roll jukebox diner swing, upbeat walking upright bass, boogie-woogie piano, honking tenor saxophone, brushed drums, playful comedic retro americana, instrumental, intro build and big finish",
+      "generator": "Suno via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-17",
+      "used_in": [
+        "mcdonalds-landlord-ep1"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
     }
   ]
 }

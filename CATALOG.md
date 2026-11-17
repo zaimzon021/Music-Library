@@ -10,6 +10,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | comedic-documentary | `music/comedic-documentary/comedic-soviet-balalaika-march-b.mp3` | 187.2s | comedic, documentary, soviet, russian, cold-war, march, balalaika, accordion, tuba, brass, mock-heroic, narration-bed |
 | music | comedic-documentary | `music/comedic-documentary/havana-mambo-sneaky-a.mp3` | 168.5s | latin, mambo, cuba, havana, congas, bongos, muted-trumpet, comedic, documentary, sneaky, 1950s |
 | music | comedic-documentary | `music/comedic-documentary/havana-mambo-sneaky-b.mp3` | 163.9s | latin, mambo, cuba, havana, congas, bongos, muted-trumpet, comedic, documentary, sneaky, 1950s |
+| music | comedic-documentary | `music/comedic-documentary/jukebox-diner-swing-a.mp3` | 182.9s | 1950s, rock-and-roll, jukebox, diner, swing, boogie-woogie, saxophone, retro, americana, comedic, documentary |
+| music | comedic-documentary | `music/comedic-documentary/jukebox-diner-swing-b.mp3` | 188.4s | 1950s, rock-and-roll, jukebox, diner, swing, boogie-woogie, saxophone, retro, americana, comedic, documentary |
 | music | comedic-documentary | `music/comedic-documentary/medieval-folk-tavern-comedy-a.mp3` | 172.5s | medieval, folk, lute, recorder, hurdy-gurdy, hand-drum, comedic, documentary, village, tavern, playful |
 | music | comedic-documentary | `music/comedic-documentary/medieval-folk-tavern-comedy-b.mp3` | 187.7s | medieval, folk, lute, recorder, hurdy-gurdy, hand-drum, comedic, documentary, village, tavern, playful |
 | music | comedic-documentary | `music/comedic-documentary/middle-eastern-sneaky-oud-a.mp3` | 146.1s | comedic, documentary, middle-eastern, oud, darbuka, pizzicato, sneaky, quirky, underscore |
@@ -191,6 +193,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/church-bell-distant-medieval.mp3` | 5.0s | bell, church, medieval, distant, village |
 | sfx | foley | `sfx/foley/crowd-cheer-joyful.mp3` | 6.0s | crowd, cheer, applause, joy, celebration, outdoor |
 | sfx | foley | `sfx/foley/gallows-rope-creak.mp3` | 3.0s | rope, creak, gallows, noose, beam, sway, eerie |
+| sfx | foley | `sfx/foley/griddle-burger-sizzle.mp3` | 6.0s | sizzle, grill, griddle, burger, cooking, kitchen, diner, frying |
 | sfx | foley | `sfx/foley/heavy-door-icy-wind.mp3` | 3.0s | door, heavy, metal, open, wind, cold, gust |
 | sfx | foley | `sfx/foley/heavy-executioner-footsteps.mp3` | 2.5s | footsteps, heavy, boots, stone, executioner, menacing, dungeon |
 | sfx | foley | `sfx/foley/hourglass-flip-thunk.mp3` | 1.5s | hourglass, flip, wood, thunk, glass, clink, table |
@@ -235,6 +238,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | machines | `sfx/machines/fax-machine-printing.mp3` | 5.0s | fax, office, printer, paper, machine, beeps, retro |
 | sfx | machines | `sfx/machines/iron-portcullis-grinding-down.mp3` | 4.0s | portcullis, gate, iron, grinding, chains, castle, medieval |
 | sfx | machines | `sfx/machines/steel-cable-tension-creak.mp3` | 3.0s | cable, steel, creak, groan, metal, elevator, shaft, tension |
+| sfx | machines | `sfx/machines/milkshake-spindle-mixer-whir.mp3` | 5.0s | milkshake, mixer, blender, motor, whir, diner, 1950s, kitchen |
 | sfx | machines | `sfx/machines/typewriter-line-bell.mp3` | 3.0s | typewriter, typing, keys, carriage-return, bell, vintage |
 | sfx | magic | `sfx/magic/heavenly-choir-ahh-stinger.mp3` | 2.5s | choir, ahh, angelic, heavenly, win, positive, stinger, reveal |
 | sfx | magic | `sfx/magic/magical-shimmer-swell.mp3` | 5.0s | shimmer, chimes, sparkle, magical, wonder, ethereal, swell, reveal |
@@ -265,6 +269,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui | `sfx/ui/soft-ding.mp3` | 1.0s | ding, notification, soft, bright, ui |
 | sfx | ui | `sfx/ui/soft-ui-tap.mp3` | 0.5s | tap, click, soft, ui, minimal |
 | sfx | ui | `sfx/ui/tv-static-burst.mp3` | 1.5s | static, tv, crt, noise, hiss, broadcast |
+| sfx | ui-cartoon | `sfx/ui-cartoon/calculator-button-beeps.mp3` | 2.0s | calculator, beep, buttons, math, counting, electronic |
+| sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-nervous-gulp.mp3` | 1.0s | gulp, swallow, nervous, cartoon, comedic, reaction |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-smoke-poof.mp3` | 1.2s | poof, smoke, vanish, disappear, cartoon, puff |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-spring-boing.mp3` | 1.0s | boing, spring, cartoon, pop-up, comedy |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cash-register-ching.mp3` | 1.5s | cash-register, cha-ching, money, price, comedic |
@@ -278,6 +284,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/sad-trombone-wah-wah.mp3` | 3.0s | sad, trombone, fail, wah-wah, comedic, loser |
 | sfx | ui-cartoon | `sfx/ui-cartoon/score-counter-tick-up-ding.mp3` | 1.2s | counter, score, ticking, count-up, ding, game, ui, points |
 | sfx | ui-cartoon | `sfx/ui-cartoon/scratch.mp3` | 1.0s | record-scratch, vinyl, comedic, stop, twist |
+| sfx | ui-cartoon | `sfx/ui-cartoon/snare-drum-roll-crash.mp3` | 4.0s | drumroll, snare, drum, roll, cymbal, crash, reveal, suspense |
 | sfx | ui-cartoon | `sfx/ui-cartoon/target-lock-beeps.mp3` | 1.5s | ui, beep, target, lock-on, hud, electronic, confirm |
 | sfx | ui-cartoon | `sfx/ui-cartoon/thermal-camera-zoom.mp3` | 1.5s | thermal, camera, zoom, servo, whir, chirp, ui, hud, infrared |
 | sfx | vehicles | `sfx/vehicles/box-truck-rollover-side-slam.mp3` | 4.0s | truck, rollover, crash, metal, crunch, scrape, slide, debris |
