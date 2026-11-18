@@ -7968,6 +7968,31 @@
       "notes": "",
       "energy": "medium",
       "instrumental": true
+    },
+    {
+      "id": "sfx/crowds/sitcom-audience-laughter",
+      "type": "sfx",
+      "file": "sfx/crowds/sitcom-audience-laughter.mp3",
+      "category": "crowds",
+      "tags": [
+        "laugh",
+        "laughter",
+        "sitcom",
+        "audience",
+        "crowd",
+        "comedy",
+        "reaction",
+        "funny"
+      ],
+      "duration_s": 4.0,
+      "prompt": "sitcom studio audience big laughter, live crowd laughing out loud, no music",
+      "generator": "elevenlabs eleven_text_to_sound_v3 via ai33",
+      "added_by": "hark",
+      "added": "2026-11-18",
+      "used_in": [
+        "textstory-grandma-scam-v2"
+      ],
+      "notes": ""
     }
   ]
 }
