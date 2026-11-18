@@ -44,6 +44,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | dark-electronic | `music/dark-electronic/surveillance-synth-pulse-b.mp3` | 219.8s | surveillance, thriller, synth-bass, ticking, tension, build, reveal, drone, crime |
 | music | dark-electronic | `music/dark-electronic/toxic-hazard-pulse-a.mp3` | 203.7s | toxic, electronic, bass, alarm, gritty, ominous |
 | music | dark-electronic | `music/dark-electronic/toxic-hazard-pulse-b.mp3` | 204.0s | toxic, electronic, bass, alarm, gritty, ominous |
+| music | disaster-thriller | `music/disaster-thriller/disaster-thriller-pulse-a.mp3` | 184.8s | disaster, thriller, pulse, synth-bass, ticking, strings, urgent, climax |
+| music | disaster-thriller | `music/disaster-thriller/disaster-thriller-pulse-b.mp3` | 187.2s | disaster, thriller, pulse, synth-bass, ticking, strings, urgent, climax |
 | music | epic-cinematic | `music/epic-cinematic/choir-clicking-battle-a.mp3` | 218.0s | ominous, choir, brass, dread, battle, monster |
 | music | epic-cinematic | `music/epic-cinematic/choir-clicking-battle-b.mp3` | 203.7s | ominous, choir, brass, dread, battle, monster |
 | music | epic-cinematic | `music/epic-cinematic/cosmic-crystal-kaiju-trailer-a.mp3` | 174.9s | sci-fi, cosmic, crystal, chimes, taiko, choir, brass, epic |
@@ -153,6 +155,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-a.mp3` | 240.0s | wonder, ancient, discovery, choir, awe, reveal |
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-b.mp3` | 234.8s | wonder, ancient, discovery, choir, awe, reveal |
 | sfx | alarms | `sfx/alarms/elevator-alarm-bell-ring.mp3` | 3.0s | alarm, bell, elevator, lift, emergency, ring, electric |
+| sfx | ambience | `sfx/ambience/beach-ambience-waves-gulls.mp3` | 20.0s | beach, waves, ocean, seagulls, chatter, summer, ambience, loop |
 | sfx | ambience | `sfx/ambience/city-street-ambience-loop.mp3` | 22.0s | city, street, traffic, crowd, murmur, ambience, loop |
 | sfx | ambience | `sfx/ambience/crowd-murmur-outdoor.mp3` | 15.0s | crowd, murmur, outdoor, ambience, loop, anxious |
 | sfx | ambience | `sfx/ambience/crowd-murmur-tv-news.mp3` | 8.0s | crowd, murmur, reporters, news, cameras, outdoor |
@@ -161,6 +164,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ambience | `sfx/ambience/medieval-village-ambience-loop.mp3` | 15.0s | medieval, village, ambience, rooster, morning, loop |
 | sfx | ambience | `sfx/ambience/mountain-wind-howl-loop.mp3` | 20.0s | wind, mountain, howling, gusts, snow, cold, ambience, loop |
 | sfx | ambience | `sfx/ambience/night-crickets-ambience-loop.mp3` | 15.0s | night, crickets, ambience, calm, loop, dogs |
+| sfx | ambience | `sfx/ambience/seagulls-calling.mp3` | 6.0s | seagull, gulls, birds, beach, coast |
 | sfx | ambience | `sfx/ambience/station-interior-hum-loop.mp3` | 20.0s | room-tone, hum, ventilation, interior, station, ambience, loop |
 | sfx | ambience | `sfx/ambience/underwater-ambience.mp3` | 15.0s | underwater, ocean, bubbles, ambience, loop |
 | sfx | ambience | `sfx/ambience/ww1-trench-night-loop.mp3` | 15.0s | night, war, front-line, wind, distant-rifle, ambience, loop, ww1 |
@@ -182,6 +186,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | creatures | `sfx/creatures/smug-man-chuckle.mp3` | 1.5s | chuckle, laugh, smug, man, villain, voice, mischievous |
 | sfx | creatures | `sfx/creatures/snake-hiss.mp3` | 2.0s | snake, hiss, serpent, danger, creepy |
 | sfx | crowds | `sfx/crowds/crowd-cheer-applause.mp3` | 4.0s | crowd, cheer, applause, celebration, outdoor |
+| sfx | crowds | `sfx/crowds/crowd-panic-screaming.mp3` | 15.0s | crowd, screaming, panic, running, chaos, disaster |
 | sfx | crowds | `sfx/crowds/press-crowd-camera-flashes.mp3` | 6.0s | crowd, reporters, press, camera, shutter, flash, murmur |
 | sfx | crowds | `sfx/crowds/small-crowd-shocked-gasp.mp3` | 1.5s | crowd, gasp, shock, breath, reaction, group |
 | sfx | explosions | `sfx/explosions/boom.mp3` | 3.0s | explosion, boom, sub-bass, nuclear, huge |
@@ -210,6 +215,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/pencil-scribble.mp3` | 2.0s | pencil, sketch, scribble, paper, writing |
 | sfx | foley | `sfx/foley/rope-bridge-creak.mp3` | 3.0s | rope, bridge, creak, strain, planks, sway, tense |
 | sfx | foley | `sfx/foley/rotary-phone-ring.mp3` | 4.0s | phone, telephone, rotary, landline, ring, vintage |
+| sfx | foley | `sfx/foley/running-sand-footsteps.mp3` | 8.0s | footsteps, running, sand, beach, foley |
 | sfx | foley | `sfx/foley/running-through-corn.mp3` | 3.0s | corn, cornfield, running, rustle, foliage, foley |
 | sfx | foley | `sfx/foley/ship-bell-three.mp3` | 3.0s | bell, ship, brass, ring, three, alarm, lookout |
 | sfx | foley | `sfx/foley/tape-measure-pull-retract-snap.mp3` | 2.5s | tape-measure, measuring, zip, retract, snap, click, foley, height |
@@ -248,6 +254,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | police | `sfx/police/police-radio-squelch.mp3` | 1.5s | police, radio, squelch |
 | sfx | police | `sfx/police/siren-wail-passing.mp3` | 4.0s | siren, police, wail, passing, emergency |
 | sfx | police | `sfx/police/traffic-police-whistle-double-blast.mp3` | 2.0s | whistle, police, traffic, referee, blast, comedic |
+| sfx | police | `sfx/police/tsunami-warning-siren.mp3` | 15.0s | siren, civil-defense, tsunami, warning, wail, city, emergency |
 | sfx | radio | `sfx/radio/police-radio-squelch.mp3` | 1.0s | police, radio, squelch, static, dispatch, bodycam |
 | sfx | risers | `sfx/risers/cinematic-riser-abrupt.mp3` | 4.0s | cinematic, riser, abrupt |
 | sfx | risers | `sfx/risers/riser.mp3` | 2.5s | riser, tension, build, transition |
@@ -263,6 +270,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui | `sfx/ui/camera-shutter-freeze.mp3` | 1.0s | camera, shutter, freeze |
 | sfx | ui | `sfx/ui/digital-typing-terminal.mp3` | 2.5s | digital, typing, terminal |
 | sfx | ui | `sfx/ui/digital-ui-blip.mp3` | 0.5s | digital, ui, blip |
+| sfx | ui | `sfx/ui/emergency-alert-tone.mp3` | 4.0s | emergency, alert, EAS, alarm, beep, broadcast, phone |
 | sfx | ui | `sfx/ui/gps-navigation-recalculating-chime.mp3` | 1.0s | gps, navigation, sat-nav, chime, dashboard, notification, recalculating, car, ui |
 | sfx | ui | `sfx/ui/phone-notification-chime.mp3` | 1.0s | phone, notification, chime, smartphone, message |
 | sfx | ui | `sfx/ui/phone-notification-two-tone.mp3` | 1.2s | phone, notification, chime, alert, message, app, two-tone |
@@ -318,7 +326,9 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | water | `sfx/water/pool-splash.mp3` | 2.5s | splash, water, pool, drop, body, drips |
 | sfx | water | `sfx/water/scuba-breathing-bubbles.mp3` | 6.0s | scuba, diver, underwater, breathing, regulator, bubbles |
 | sfx | water | `sfx/water/scuba-regulator-breathing.mp3` | 6.0s | scuba, diver, regulator, breathing, bubbles, underwater |
+| sfx | water | `sfx/water/tsunami-wave-roar.mp3` | 15.0s | tsunami, wave, roar, water, rumble, disaster, approaching |
 | sfx | water | `sfx/water/underwater-ambience-bubbles.mp3` | 12.0s | underwater, ocean, ambience, bubbles, deep, muffled, loop |
+| sfx | water | `sfx/water/wave-crash-impact-whiteout.mp3` | 4.0s | wave, crash, impact, water, explosion, whoosh, ending |
 | sfx | water | `sfx/water/wooden-rowboat-creak.mp3` | 2.5s | boat, rowboat, wood, creak, rocking, water |
 | sfx | weather | `sfx/weather/polar-blizzard-wind-loop.mp3` | 22.0s | wind, blizzard, polar, antarctic, ambience, loop, snow |
 | sfx | weather | `sfx/weather/rain-on-mud-loop.mp3` | 12.0s | rain, mud, puddles, dripping, loop, ambience |

@@ -7726,6 +7726,248 @@
       "notes": "",
       "energy": "medium",
       "instrumental": true
+    },
+    {
+      "id": "sfx/ambience/beach-ambience-waves-gulls",
+      "type": "sfx",
+      "file": "sfx/ambience/beach-ambience-waves-gulls.mp3",
+      "category": "ambience",
+      "tags": [
+        "beach",
+        "waves",
+        "ocean",
+        "seagulls",
+        "chatter",
+        "summer",
+        "ambience",
+        "loop"
+      ],
+      "duration_s": 20.0,
+      "prompt": "beach ambience, ocean waves breaking on shore, distant seagulls and relaxed people chatter, summer, loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/seagulls-calling",
+      "type": "sfx",
+      "file": "sfx/ambience/seagulls-calling.mp3",
+      "category": "ambience",
+      "tags": [
+        "seagull",
+        "gulls",
+        "birds",
+        "beach",
+        "coast"
+      ],
+      "duration_s": 6.0,
+      "prompt": "seagulls calling over a beach, several gulls, close and clear",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/police/tsunami-warning-siren",
+      "type": "sfx",
+      "file": "sfx/police/tsunami-warning-siren.mp3",
+      "category": "police",
+      "tags": [
+        "siren",
+        "civil-defense",
+        "tsunami",
+        "warning",
+        "wail",
+        "city",
+        "emergency"
+      ],
+      "duration_s": 15.0,
+      "prompt": "outdoor civil defense tsunami warning siren wailing, rising and falling tone, distant echo across a city",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/crowds/crowd-panic-screaming",
+      "type": "sfx",
+      "file": "sfx/crowds/crowd-panic-screaming.mp3",
+      "category": "crowds",
+      "tags": [
+        "crowd",
+        "screaming",
+        "panic",
+        "running",
+        "chaos",
+        "disaster"
+      ],
+      "duration_s": 15.0,
+      "prompt": "crowd of people screaming and running in panic outdoors, chaos, shouting",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/tsunami-wave-roar",
+      "type": "sfx",
+      "file": "sfx/water/tsunami-wave-roar.mp3",
+      "category": "water",
+      "tags": [
+        "tsunami",
+        "wave",
+        "roar",
+        "water",
+        "rumble",
+        "disaster",
+        "approaching"
+      ],
+      "duration_s": 15.0,
+      "prompt": "massive ocean tsunami wave roaring and approaching, deep rumbling crashing water, building intensity",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/running-sand-footsteps",
+      "type": "sfx",
+      "file": "sfx/foley/running-sand-footsteps.mp3",
+      "category": "foley",
+      "tags": [
+        "footsteps",
+        "running",
+        "sand",
+        "beach",
+        "foley"
+      ],
+      "duration_s": 8.0,
+      "prompt": "fast footsteps running on soft beach sand, one person, rhythmic",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/emergency-alert-tone",
+      "type": "sfx",
+      "file": "sfx/ui/emergency-alert-tone.mp3",
+      "category": "ui",
+      "tags": [
+        "emergency",
+        "alert",
+        "EAS",
+        "alarm",
+        "beep",
+        "broadcast",
+        "phone"
+      ],
+      "duration_s": 4.0,
+      "prompt": "emergency alert broadcast tone, harsh loud two-tone alarm beeps, phone and loudspeaker",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/wave-crash-impact-whiteout",
+      "type": "sfx",
+      "file": "sfx/water/wave-crash-impact-whiteout.mp3",
+      "category": "water",
+      "tags": [
+        "wave",
+        "crash",
+        "impact",
+        "water",
+        "explosion",
+        "whoosh",
+        "ending"
+      ],
+      "duration_s": 4.0,
+      "prompt": "huge wave crashing down impact, water explosion, whoosh into silence",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "music/disaster-thriller/disaster-thriller-pulse-a",
+      "type": "music",
+      "file": "music/disaster-thriller/disaster-thriller-pulse-a.mp3",
+      "category": "disaster-thriller",
+      "tags": [
+        "disaster",
+        "thriller",
+        "pulse",
+        "synth-bass",
+        "ticking",
+        "strings",
+        "urgent",
+        "climax"
+      ],
+      "duration_s": 184.8,
+      "prompt": "urgent cinematic disaster thriller, pulsing synth bass ostinato, ticking clock, rising tense strings, heavy hits, building to a huge climax",
+      "generator": "Suno via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/disaster-thriller/disaster-thriller-pulse-b",
+      "type": "music",
+      "file": "music/disaster-thriller/disaster-thriller-pulse-b.mp3",
+      "category": "disaster-thriller",
+      "tags": [
+        "disaster",
+        "thriller",
+        "pulse",
+        "synth-bass",
+        "ticking",
+        "strings",
+        "urgent",
+        "climax"
+      ],
+      "duration_s": 187.2,
+      "prompt": "urgent cinematic disaster thriller, pulsing synth bass ostinato, ticking clock, rising tense strings, heavy hits, building to a huge climax",
+      "generator": "Suno via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
     }
   ]
 }
