@@ -144,6 +144,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | uplifting-corporate | `music/uplifting-corporate/edu-travel-uplift-pop-b.mp3` | 180.0s | uplifting, corporate, pop, motivational, education, travel, vlog, positive, guitar, piano, claps |
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-a.mp3` | 240.0s | wonder, ancient, discovery, choir, awe, reveal |
 | music | wonder-mystery | `music/wonder-mystery/ancient-wonder-reveal-b.mp3` | 234.8s | wonder, ancient, discovery, choir, awe, reveal |
+| sfx | alarms | `sfx/alarms/elevator-alarm-bell-ring.mp3` | 3.0s | alarm, bell, elevator, lift, emergency, ring, electric |
 | sfx | ambience | `sfx/ambience/city-street-ambience-loop.mp3` | 22.0s | city, street, traffic, crowd, murmur, ambience, loop |
 | sfx | ambience | `sfx/ambience/crowd-murmur-outdoor.mp3` | 15.0s | crowd, murmur, outdoor, ambience, loop, anxious |
 | sfx | ambience | `sfx/ambience/crowd-murmur-tv-news.mp3` | 8.0s | crowd, murmur, reporters, news, cameras, outdoor |
@@ -225,6 +226,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | machines | `sfx/machines/drone-hover-buzz.mp3` | 6.0s | drone, quadcopter, propeller, buzz, hover, loop, surveillance |
 | sfx | machines | `sfx/machines/fax-machine-printing.mp3` | 5.0s | fax, office, printer, paper, machine, beeps, retro |
 | sfx | machines | `sfx/machines/iron-portcullis-grinding-down.mp3` | 4.0s | portcullis, gate, iron, grinding, chains, castle, medieval |
+| sfx | machines | `sfx/machines/steel-cable-tension-creak.mp3` | 3.0s | cable, steel, creak, groan, metal, elevator, shaft, tension |
 | sfx | machines | `sfx/machines/typewriter-line-bell.mp3` | 3.0s | typewriter, typing, keys, carriage-return, bell, vintage |
 | sfx | magic | `sfx/magic/heavenly-choir-ahh-stinger.mp3` | 2.5s | choir, ahh, angelic, heavenly, win, positive, stinger, reveal |
 | sfx | magic | `sfx/magic/magical-shimmer-swell.mp3` | 5.0s | shimmer, chimes, sparkle, magical, wonder, ethereal, swell, reveal |

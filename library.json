@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "items": [
     {
       "id": "music/epic-cinematic/kaiju-trailer-taiko-brass-a",
@@ -7269,6 +7269,51 @@
       "notes": "",
       "energy": "medium",
       "instrumental": true
+    },
+    {
+      "id": "sfx/alarms/elevator-alarm-bell-ring",
+      "type": "sfx",
+      "file": "sfx/alarms/elevator-alarm-bell-ring.mp3",
+      "category": "alarms",
+      "tags": [
+        "alarm",
+        "bell",
+        "elevator",
+        "lift",
+        "emergency",
+        "ring",
+        "electric"
+      ],
+      "duration_s": 3.0,
+      "prompt": "electric alarm bell ringing continuously, old metal elevator emergency alarm bell, clean single recording, no music",
+      "generator": "ai33 eleven_text_to_sound_v3",
+      "added_by": "Lift No. 4 (Hindi reels)",
+      "added": "2026-11-18",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/machines/steel-cable-tension-creak",
+      "type": "sfx",
+      "file": "sfx/machines/steel-cable-tension-creak.mp3",
+      "category": "machines",
+      "tags": [
+        "cable",
+        "steel",
+        "creak",
+        "groan",
+        "metal",
+        "elevator",
+        "shaft",
+        "tension"
+      ],
+      "duration_s": 3.0,
+      "prompt": "heavy steel cable creaking and groaning under tension, deep metal stress creak in a lift shaft, single clean sound",
+      "generator": "ai33 eleven_text_to_sound_v3",
+      "added_by": "Lift No. 4 (Hindi reels)",
+      "added": "2026-11-18",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }
