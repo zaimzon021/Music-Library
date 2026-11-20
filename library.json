@@ -9059,6 +9059,156 @@
       "notes": "",
       "energy": "medium",
       "instrumental": true
+    },
+    {
+      "id": "sfx/machines/casino-slot-lever-reels-spin",
+      "type": "sfx",
+      "file": "sfx/machines/casino-slot-lever-reels-spin.mp3",
+      "category": "machines",
+      "tags": [
+        "slot-machine",
+        "casino",
+        "lever",
+        "reels",
+        "spin",
+        "gambling",
+        "jackpot"
+      ],
+      "duration_s": 3.0,
+      "prompt": "slot machine lever pull, mechanical reels spinning and clicking to a stop, casino",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/phone-vibrate-table-double-buzz",
+      "type": "sfx",
+      "file": "sfx/ui/phone-vibrate-table-double-buzz.mp3",
+      "category": "ui",
+      "tags": [
+        "phone",
+        "vibrate",
+        "buzz",
+        "vibration",
+        "notification",
+        "table"
+      ],
+      "duration_s": 1.5,
+      "prompt": "smartphone vibrating on a wooden table, two short buzzes",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/judge-gavel-double-strike",
+      "type": "sfx",
+      "file": "sfx/foley/judge-gavel-double-strike.mp3",
+      "category": "foley",
+      "tags": [
+        "gavel",
+        "court",
+        "judge",
+        "courtroom",
+        "order",
+        "strike",
+        "law"
+      ],
+      "duration_s": 1.5,
+      "prompt": "wooden judge gavel striking twice on a sound block, courtroom",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/game-show-wrong-buzzer",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/game-show-wrong-buzzer.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "buzzer",
+        "wrong",
+        "error",
+        "fail",
+        "game-show",
+        "incorrect"
+      ],
+      "duration_s": 1.0,
+      "prompt": "game show wrong answer buzzer, short harsh electronic buzz",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/electric-car-pass-by-whine",
+      "type": "sfx",
+      "file": "sfx/vehicles/electric-car-pass-by-whine.mp3",
+      "category": "vehicles",
+      "tags": [
+        "electric-car",
+        "ev",
+        "pass-by",
+        "whine",
+        "motor",
+        "futuristic",
+        "whoosh"
+      ],
+      "duration_s": 3.0,
+      "prompt": "modern electric car passing by fast, futuristic electric motor whine and tyre whoosh, no combustion engine",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/cartoon-head-bonk",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/cartoon-head-bonk.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "bonk",
+        "hit",
+        "head",
+        "cartoon",
+        "comedic",
+        "hollow"
+      ],
+      "duration_s": 1.0,
+      "prompt": "cartoon bonk on the head, hollow comedic hit",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/paper-rip-in-half",
+      "type": "sfx",
+      "file": "sfx/foley/paper-rip-in-half.mp3",
+      "category": "foley",
+      "tags": [
+        "paper",
+        "rip",
+        "tear",
+        "document",
+        "certificate",
+        "ripping"
+      ],
+      "duration_s": 1.0,
+      "prompt": "sheet of paper ripped in half quickly",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }

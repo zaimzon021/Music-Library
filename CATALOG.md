@@ -226,6 +226,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/hourglass-sand-trickle.mp3` | 4.0s | sand, hourglass, trickle, grains, timer, soft |
 | sfx | foley | `sfx/foley/jaunty-innocent-whistle.mp3` | 4.0s | whistle, whistling, innocent, sneaky, carefree, comedic, nothing-to-see-here |
 | sfx | foley | `sfx/foley/jester-bells-jingle.mp3` | 1.5s | bells, jester, jingle, tinkle, playful, medieval |
+| sfx | foley | `sfx/foley/judge-gavel-double-strike.mp3` | 1.5s | gavel, court, judge, courtroom, order, strike, law |
 | sfx | foley | `sfx/foley/keys-jingle-ring.mp3` | 1.5s | keys, jingle, keyring, metal, foley |
 | sfx | foley | `sfx/foley/lamp-switch-click-off.mp3` | 0.7s | lamp, switch, click, light-off, bedroom, foley, night |
 | sfx | foley | `sfx/foley/match-strike-ignite.mp3` | 2.0s | match, strike, ignite, flame, fire, scratch, foley |
@@ -234,6 +235,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/mud-squelch.mp3` | 1.5s | mud, squelch, boot, wet, step |
 | sfx | foley | `sfx/foley/office-desk-phone-ring.mp3` | 4.0s | phone, telephone, ring, office, corded, landline, 2000s |
 | sfx | foley | `sfx/foley/paper-leaflets-flutter.mp3` | 4.0s | paper, leaflets, flutter, falling, flyers |
+| sfx | foley | `sfx/foley/paper-rip-in-half.mp3` | 1.0s | paper, rip, tear, document, certificate, ripping |
 | sfx | foley | `sfx/foley/pencil-scribble.mp3` | 2.0s | pencil, sketch, scribble, paper, writing |
 | sfx | foley | `sfx/foley/rope-bridge-creak.mp3` | 3.0s | rope, bridge, creak, strain, planks, sway, tense |
 | sfx | foley | `sfx/foley/rotary-phone-ring.mp3` | 4.0s | phone, telephone, rotary, landline, ring, vintage |
@@ -264,6 +266,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | impacts | `sfx/impacts/vault-door-slam-bolts.mp3` | 5.0s | vault, door, blast-door, bunker, slam, bolts, metal, lock |
 | sfx | impacts | `sfx/impacts/wooden-plank-snap-fall.mp3` | 2.5s | wood, plank, snap, crack, break, fall, bridge, chasm |
 | sfx | machines | `sfx/machines/bunker-ventilation-hum.mp3` | 20.0s | ventilation, fan, hum, bunker, air, underground, loop, ambience |
+| sfx | machines | `sfx/machines/casino-slot-lever-reels-spin.mp3` | 3.0s | slot-machine, casino, lever, reels, spin, gambling, jackpot |
 | sfx | machines | `sfx/machines/clock-tick-loop.mp3` | 6.0s | clock, tick, timer, countdown, loop, tension |
 | sfx | machines | `sfx/machines/dialup-modem-handshake.mp3` | 6.0s | dial-up, modem, internet, 1990s, 2000s, retro, screech, computer |
 | sfx | machines | `sfx/machines/drone-hover-buzz.mp3` | 6.0s | drone, quadcopter, propeller, buzz, hover, loop, surveillance |
@@ -308,6 +311,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui | `sfx/ui/gps-navigation-recalculating-chime.mp3` | 1.0s | gps, navigation, sat-nav, chime, dashboard, notification, recalculating, car, ui |
 | sfx | ui | `sfx/ui/phone-notification-chime.mp3` | 1.0s | phone, notification, chime, smartphone, message |
 | sfx | ui | `sfx/ui/phone-notification-two-tone.mp3` | 1.2s | phone, notification, chime, alert, message, app, two-tone |
+| sfx | ui | `sfx/ui/phone-vibrate-table-double-buzz.mp3` | 1.5s | phone, vibrate, buzz, vibration, notification, table |
 | sfx | ui | `sfx/ui/retro-monophonic-ringtone.mp3` | 3.0s | ringtone, phone, retro, monophonic, 2000s, mobile, beeps |
 | sfx | ui | `sfx/ui/soft-ding.mp3` | 1.0s | ding, notification, soft, bright, ui |
 | sfx | ui | `sfx/ui/soft-ui-tap.mp3` | 0.5s | tap, click, soft, ui, minimal |
@@ -315,6 +319,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/brass-win-sting.mp3` | 2.0s | win, victory, sting, brass, fanfare, positive |
 | sfx | ui-cartoon | `sfx/ui-cartoon/calculator-button-beeps.mp3` | 2.0s | calculator, beep, buttons, math, counting, electronic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-electric-zap.mp3` | 1.2s | zap, electric, lightning, crackle, cartoon, shock |
+| sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-head-bonk.mp3` | 1.0s | bonk, hit, head, cartoon, comedic, hollow |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-nervous-gulp.mp3` | 1.0s | gulp, swallow, nervous, cartoon, comedic, reaction |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-smoke-poof.mp3` | 1.2s | poof, smoke, vanish, disappear, cartoon, puff |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-spring-boing.mp3` | 1.0s | boing, spring, cartoon, pop-up, comedy |
@@ -327,6 +332,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/dun-dun-dunnn-comedic-sting.mp3` | 3.0s | dun-dun-dun, dramatic, reveal, sting, comedic, brass, timpani, suspicion |
 | sfx | ui-cartoon | `sfx/ui-cartoon/fail-piano-chord-slam.mp3` | 2.0s | fail, piano, lose, sting, comedic, dissonant |
 | sfx | ui-cartoon | `sfx/ui-cartoon/fail-piano-lose-sting.mp3` | 2.5s | fail, piano, lose, sting, comedic, descending, sad, game-over |
+| sfx | ui-cartoon | `sfx/ui-cartoon/game-show-wrong-buzzer.mp3` | 1.0s | buzzer, wrong, error, fail, game-show, incorrect |
 | sfx | ui-cartoon | `sfx/ui-cartoon/magic-shimmer-sparkle.mp3` | 1.5s | magic, shimmer, sparkle, whimsical, wizard |
 | sfx | ui-cartoon | `sfx/ui-cartoon/pop.mp3` | 0.5s | pop, cartoon, ui, light, comedic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/radar-ping.mp3` | 2.0s | radar, sonar, ping, ui, electronic, scan, hud |
@@ -344,6 +350,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | vehicles | `sfx/vehicles/car-horn-double-honk.mp3` | 1.2s | car, horn, honk, beep, comedic |
 | sfx | vehicles | `sfx/vehicles/car-power-window-down.mp3` | 2.5s | car, power, window, motor, rolling |
 | sfx | vehicles | `sfx/vehicles/cargo-plane-cabin-rumble.mp3` | 15.0s | plane, cabin, interior, drone, rumble, loop, military |
+| sfx | vehicles | `sfx/vehicles/electric-car-pass-by-whine.mp3` | 3.0s | electric-car, ev, pass-by, whine, motor, futuristic, whoosh |
 | sfx | vehicles | `sfx/vehicles/engine-rev-high-speed.mp3` | 4.0s | engine, rev, car, speed, interior |
 | sfx | vehicles | `sfx/vehicles/engine-sputter-out-of-fuel.mp3` | 3.0s | engine, sputter, cough, stall, out-of-gas, fuel, dying, car, comedic |
 | sfx | vehicles | `sfx/vehicles/helicopter-rotor-hover-loop.mp3` | 8.0s | helicopter, rotor, hover, loop, military, night |
