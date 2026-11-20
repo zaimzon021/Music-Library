@@ -88,6 +88,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | funk-lounge | `music/funk-lounge/elevator-bossa-waiting-room-muzak-b.mp3` | 194.9s | elevator, muzak, bossa-nova, waiting-room, lounge, vibraphone, nylon-guitar, deadpan, comedic, on-hold |
 | music | funk-lounge | `music/funk-lounge/funky-luxury-lounge-a.mp3` | 234.4s | funk, lounge, slap-bass, brass, wah-guitar, upbeat, luxury, money, playful |
 | music | funk-lounge | `music/funk-lounge/funky-luxury-lounge-b.mp3` | 222.7s | funk, lounge, slap-bass, brass, wah-guitar, upbeat, luxury, money, playful |
+| music | funk-lounge | `music/funk-lounge/vegas-lounge-swing-a.mp3` | 185.0s | las-vegas, lounge, swing, big-band, brass, finger-snaps, upright-bass, vibraphone, rat-pack, casino, glamour, comedic, documentary, narration-bed |
+| music | funk-lounge | `music/funk-lounge/vegas-lounge-swing-b.mp3` | 187.7s | las-vegas, lounge, swing, big-band, brass, finger-snaps, upright-bass, vibraphone, rat-pack, casino, glamour, comedic, documentary, narration-bed |
 | music | hip-hop | `music/hip-hop/90s-boom-bap-streetwear-swagger-a.mp3` | 196.3s | hip-hop, boom-bap, 90s, new-york, vinyl, scratches, jazzy, swagger, streetwear, instrumental |
 | music | hip-hop | `music/hip-hop/90s-boom-bap-streetwear-swagger-b.mp3` | 190.0s | hip-hop, boom-bap, 90s, new-york, vinyl, scratches, jazzy, swagger, streetwear, instrumental |
 | music | horror | `music/horror/jungle-creature-chase-a.mp3` | 186.9s | horror, creepy, drones, scare-hits, chase, jungle |
@@ -220,6 +222,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/boots-on-stone-footsteps.mp3` | 2.0s | footsteps, boots, stone, walking, castle, guard |
 | sfx | foley | `sfx/foley/calendar-page-flip.mp3` | 1.5s | paper, page, flip, calendar, tear, time-jump |
 | sfx | foley | `sfx/foley/cardboard-box-drop-thud.mp3` | 1.5s | cardboard, box, drop, thud, floor, package, delivery, flat-pack |
+| sfx | foley | `sfx/foley/cardboard-box-open.mp3` | 1.2s | cardboard, box, parcel, open, rustle, delivery, package |
 | sfx | foley | `sfx/foley/cartoon-body-thud.mp3` | 1.0s | thud, body, fall, collapse, faint, floor, impact, cartoon |
 | sfx | foley | `sfx/foley/chalk-mark-scrape.mp3` | 1.0s | chalk, scrape, mark, line |
 | sfx | foley | `sfx/foley/chocolate-bar-snap.mp3` | 1.0s | chocolate, snap, crack, break, candy, crisp, food |
@@ -248,8 +251,10 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/parcel-box-doorstep-thud.mp3` | 1.0s | parcel, package, box, cardboard, delivery, doorstep, thud, drop |
 | sfx | foley | `sfx/foley/pencil-scribble.mp3` | 2.0s | pencil, sketch, scribble, paper, writing |
 | sfx | foley | `sfx/foley/plastic-brick-snap-click.mp3` | 1.0s | plastic, toy, brick, snap, click, lego, build |
+| sfx | foley | `sfx/foley/poker-chips-clatter.mp3` | 1.5s | casino, poker, chips, clatter, gambling, table |
 | sfx | foley | `sfx/foley/rope-bridge-creak.mp3` | 3.0s | rope, bridge, creak, strain, planks, sway, tense |
 | sfx | foley | `sfx/foley/rotary-phone-ring.mp3` | 4.0s | phone, telephone, rotary, landline, ring, vintage |
+| sfx | foley | `sfx/foley/roulette-ball-spin-drop.mp3` | 4.0s | casino, roulette, wheel, ball, rattle, gambling |
 | sfx | foley | `sfx/foley/running-sand-footsteps.mp3` | 8.0s | footsteps, running, sand, beach, foley |
 | sfx | foley | `sfx/foley/running-through-corn.mp3` | 3.0s | corn, cornfield, running, rustle, foliage, foley |
 | sfx | foley | `sfx/foley/ship-bell-three.mp3` | 3.0s | bell, ship, brass, ring, three, alarm, lookout |
@@ -290,6 +295,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | machines | `sfx/machines/iron-portcullis-grinding-down.mp3` | 4.0s | portcullis, gate, iron, grinding, chains, castle, medieval |
 | sfx | machines | `sfx/machines/milkshake-spindle-mixer-whir.mp3` | 5.0s | milkshake, mixer, blender, motor, whir, diner, 1950s, kitchen |
 | sfx | machines | `sfx/machines/sewing-machine-burst.mp3` | 2.0s | sewing-machine, stitching, factory, garment, fashion, textile, fast |
+| sfx | machines | `sfx/machines/slot-reels-spin-stop.mp3` | 3.0s | slot-machine, reels, spin, clunk, casino, gambling |
 | sfx | machines | `sfx/machines/steel-cable-tension-creak.mp3` | 3.0s | cable, steel, creak, groan, metal, elevator, shaft, tension |
 | sfx | machines | `sfx/machines/typewriter-line-bell.mp3` | 3.0s | typewriter, typing, keys, carriage-return, bell, vintage |
 | sfx | magic | `sfx/magic/angelic-choir-ahh-hit.mp3` | 2.5s | choir, ahh, angelic, heavenly, vocal, positive, reveal |
@@ -359,6 +365,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/score-counter-tick-up-ding.mp3` | 1.2s | counter, score, ticking, count-up, ding, game, ui, points |
 | sfx | ui-cartoon | `sfx/ui-cartoon/scratch.mp3` | 1.0s | record-scratch, vinyl, comedic, stop, twist |
 | sfx | ui-cartoon | `sfx/ui-cartoon/slide-whistle-down.mp3` | 1.5s | slide-whistle, cartoon, fall, descending, comedic, fail |
+| sfx | ui-cartoon | `sfx/ui-cartoon/slot-win-bells-jingle.mp3` | 2.5s | slot-machine, win, jingle, bells, casino, celebration, electronic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/snare-drum-roll-crash.mp3` | 4.0s | drumroll, snare, drum, roll, cymbal, crash, reveal, suspense |
 | sfx | ui-cartoon | `sfx/ui-cartoon/target-lock-beeps.mp3` | 1.5s | ui, beep, target, lock-on, hud, electronic, confirm |
 | sfx | ui-cartoon | `sfx/ui-cartoon/thermal-camera-zoom.mp3` | 1.5s | thermal, camera, zoom, servo, whir, chirp, ui, hud, infrared |
