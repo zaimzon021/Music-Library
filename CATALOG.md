@@ -58,6 +58,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | epic-cinematic | `music/epic-cinematic/cosmic-crystal-kaiju-trailer-b.mp3` | 178.8s | sci-fi, cosmic, crystal, chimes, taiko, choir, brass, epic |
 | music | epic-cinematic | `music/epic-cinematic/dark-japanese-taiko-shamisen-choir-a.mp3` | 234.2s | epic, japanese, taiko, shamisen, shakuhachi, choir, dark, villain, anime, build, climax |
 | music | epic-cinematic | `music/epic-cinematic/dark-japanese-taiko-shamisen-choir-b.mp3` | 224.3s | epic, japanese, taiko, shamisen, shakuhachi, choir, dark, villain, anime, build, climax |
+| music | epic-cinematic | `music/epic-cinematic/dark-villain-anthem-a.mp3` | 213.6s | dark, epic, villain, anthem, choir, taiko, brass, regal, menacing, climax |
+| music | epic-cinematic | `music/epic-cinematic/dark-villain-anthem-b.mp3` | 204.8s | dark, epic, villain, anthem, choir, taiko, brass, regal, menacing, climax |
 | music | epic-cinematic | `music/epic-cinematic/dark-western-whistle-choir-a.mp3` | 227.1s | dark, western, spaghetti-western, whistle, flamenco-guitar, choir, menacing, villain, build, epic, climax |
 | music | epic-cinematic | `music/epic-cinematic/dark-western-whistle-choir-b.mp3` | 228.4s | dark, western, spaghetti-western, whistle, flamenco-guitar, choir, menacing, villain, build, epic, climax |
 | music | epic-cinematic | `music/epic-cinematic/divine-dark-choir-final-boss-a.mp3` | 244.1s | choir, divine, sacred, organ, strings, soprano, dark, final-boss, godlike, epic, climax |
@@ -221,8 +223,10 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | explosions | `sfx/explosions/boom.mp3` | 3.0s | explosion, boom, sub-bass, nuclear, huge |
 | sfx | explosions | `sfx/explosions/distant-artillery-barrage.mp3` | 6.0s | artillery, barrage, distant, rumble, war, ww1, booms |
 | sfx | explosions | `sfx/explosions/distant-blast-underground-rumble.mp3` | 7.0s | explosion, nuclear, rumble, shaking, debris, bunker, underground |
+| sfx | explosions | `sfx/explosions/distant-cannon-boom.mp3` | 3.0s | cannon, boom, distant, echo, ceremonial, deep, outdoor |
 | sfx | foley | `sfx/foley/axe-drag-on-stone.mp3` | 2.5s | axe, metal, scrape, drag, stone, executioner, menacing, dungeon |
 | sfx | foley | `sfx/foley/boots-on-stone-footsteps.mp3` | 2.0s | footsteps, boots, stone, walking, castle, guard |
+| sfx | foley | `sfx/foley/bow-arrow-release-thwip.mp3` | 1.5s | bow, arrow, release, twang, whoosh, thwip, archery |
 | sfx | foley | `sfx/foley/calendar-page-flip.mp3` | 1.5s | paper, page, flip, calendar, tear, time-jump |
 | sfx | foley | `sfx/foley/cardboard-box-drop-thud.mp3` | 1.5s | cardboard, box, drop, thud, floor, package, delivery, flat-pack |
 | sfx | foley | `sfx/foley/cardboard-box-open.mp3` | 1.2s | cardboard, box, parcel, open, rustle, delivery, package |
@@ -278,6 +282,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | impacts | `sfx/impacts/distant-single-gunshot.mp3` | 2.5s | gunshot, distant, single, echo, rural |
 | sfx | impacts | `sfx/impacts/epic-choir-orchestra-hit.mp3` | 3.5s | choir, orchestra, epic, hit, impact, sub-boom, trailer, finale, number-one |
 | sfx | impacts | `sfx/impacts/epic-full-choir-orchestra-hit.mp3` | 4.0s | choir, epic, orchestra, timpani, divine, reveal, huge, cinematic, hit |
+| sfx | impacts | `sfx/impacts/epic-full-choir-orchestra-hit-alt.mp3` | 4.0s | choir, orchestra, epic, hit, slam, cinematic, dark, triumphant, reveal |
 | sfx | impacts | `sfx/impacts/full-choir-orchestral-hit.mp3` | 3.5s | choir, orchestral, hit, impact, epic, reveal, stinger |
 | sfx | impacts | `sfx/impacts/hammer-plastic-clonk.mp3` | 1.0s | hammer, smash, plastic, clonk, hit, heavy |
 | sfx | impacts | `sfx/impacts/hull-ice-scrape.mp3` | 5.0s | ship, hull, ice, scrape, grind, metal, groan, crack |
@@ -310,6 +315,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | machines | `sfx/machines/typewriter-line-bell.mp3` | 3.0s | typewriter, typing, keys, carriage-return, bell, vintage |
 | sfx | magic | `sfx/magic/angelic-choir-ahh-hit.mp3` | 2.5s | choir, ahh, angelic, heavenly, vocal, positive, reveal |
 | sfx | magic | `sfx/magic/angelic-choir-ahh-stinger.mp3` | 2.5s | choir, ahh, angelic, heavenly, stinger, positive, verdict |
+| sfx | magic | `sfx/magic/angelic-choir-ahh-win-sting.mp3` | 3.0s | choir, ahh, angelic, heavenly, win, sting, reveal, positive |
 | sfx | magic | `sfx/magic/full-choir-divine-swell.mp3` | 5.0s | choir, swell, divine, epic, climax, reveal |
 | sfx | magic | `sfx/magic/heavenly-choir-ahh-stinger.mp3` | 2.5s | choir, ahh, angelic, heavenly, win, positive, stinger, reveal |
 | sfx | magic | `sfx/magic/magical-shimmer-swell.mp3` | 5.0s | shimmer, chimes, sparkle, magical, wonder, ethereal, swell, reveal |
@@ -369,6 +375,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/dun-dun-dunnn-comedic-sting.mp3` | 3.0s | dun-dun-dun, dramatic, reveal, sting, comedic, brass, timpani, suspicion |
 | sfx | ui-cartoon | `sfx/ui-cartoon/fail-piano-chord-slam.mp3` | 2.0s | fail, piano, lose, sting, comedic, dissonant |
 | sfx | ui-cartoon | `sfx/ui-cartoon/fail-piano-lose-sting.mp3` | 2.5s | fail, piano, lose, sting, comedic, descending, sad, game-over |
+| sfx | ui-cartoon | `sfx/ui-cartoon/fail-piano-lose-sting-alt.mp3` | 2.5s | fail, piano, lose, sting, comedic, game-over, descending |
 | sfx | ui-cartoon | `sfx/ui-cartoon/game-show-wrong-buzzer.mp3` | 1.0s | buzzer, wrong, error, fail, game-show, incorrect |
 | sfx | ui-cartoon | `sfx/ui-cartoon/magic-shimmer-sparkle.mp3` | 1.5s | magic, shimmer, sparkle, whimsical, wizard |
 | sfx | ui-cartoon | `sfx/ui-cartoon/pop.mp3` | 0.5s | pop, cartoon, ui, light, comedic |
