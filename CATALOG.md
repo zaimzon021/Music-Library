@@ -10,6 +10,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | comedic-documentary | `music/comedic-documentary/comedic-sea-shanty-voyage-bed-b.mp3` | 155.1s | comedic, documentary, sea-shanty, nautical, pirate, accordion, fiddle, concertina, 6-8, stomp-clap, age-of-exploration, narration-bed |
 | music | comedic-documentary | `music/comedic-documentary/comedic-soviet-balalaika-march-a.mp3` | 154.3s | comedic, documentary, soviet, russian, cold-war, march, balalaika, accordion, tuba, brass, mock-heroic, narration-bed |
 | music | comedic-documentary | `music/comedic-documentary/comedic-soviet-balalaika-march-b.mp3` | 187.2s | comedic, documentary, soviet, russian, cold-war, march, balalaika, accordion, tuba, brass, mock-heroic, narration-bed |
+| music | comedic-documentary | `music/comedic-documentary/gameday-marching-drumline-brass-a.mp3` | 144.6s | sports, football, game-day, stadium, marching-band, drumline, brass, tuba, comedic, documentary, upbeat |
+| music | comedic-documentary | `music/comedic-documentary/gameday-marching-drumline-brass-b.mp3` | 153.3s | sports, football, game-day, stadium, marching-band, drumline, brass, tuba, comedic, documentary, upbeat |
 | music | comedic-documentary | `music/comedic-documentary/havana-mambo-sneaky-a.mp3` | 168.5s | latin, mambo, cuba, havana, congas, bongos, muted-trumpet, comedic, documentary, sneaky, 1950s |
 | music | comedic-documentary | `music/comedic-documentary/havana-mambo-sneaky-b.mp3` | 163.9s | latin, mambo, cuba, havana, congas, bongos, muted-trumpet, comedic, documentary, sneaky, 1950s |
 | music | comedic-documentary | `music/comedic-documentary/jukebox-diner-swing-a.mp3` | 182.9s | 1950s, rock-and-roll, jukebox, diner, swing, boogie-woogie, saxophone, retro, americana, comedic, documentary |
@@ -28,6 +30,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | comedic-documentary | `music/comedic-documentary/ragtime-comedy-documentary-bed-b.mp3` | 176.6s | comedy, documentary, ragtime, piano, pizzicato, tuba, quirky, period, silent-film |
 | music | comedic-documentary | `music/comedic-documentary/steppe-adventure-comedy-a.mp3` | 182.8s | central-asia, steppe, mongol, morin-khuur, throat-singing, frame-drum, comedic, documentary, adventure, narration-bed |
 | music | comedic-documentary | `music/comedic-documentary/steppe-adventure-comedy-b.mp3` | 178.9s | central-asia, steppe, mongol, morin-khuur, throat-singing, frame-drum, comedic, documentary, adventure, narration-bed |
+| music | comedic-documentary | `music/comedic-documentary/swiss-luxury-harpsichord-clockwork-a.mp3` | 122.9s | luxury, elegant, harpsichord, string-quartet, pizzicato, clockwork, ticking, swiss, watch, sly, comedic, documentary |
+| music | comedic-documentary | `music/comedic-documentary/swiss-luxury-harpsichord-clockwork-b.mp3` | 137.2s | luxury, elegant, harpsichord, string-quartet, pizzicato, clockwork, ticking, swiss, watch, sly, comedic, documentary |
 | music | comedic-menace | `music/comedic-menace/three-headed-sneaky-wink-a.mp3` | 173.9s | menacing, comedic, choir, sneaky, dragon, epic |
 | music | comedic-menace | `music/comedic-menace/three-headed-sneaky-wink-b.mp3` | 164.0s | menacing, comedic, choir, sneaky, dragon, epic |
 | music | comedic-trailer | `music/comedic-trailer/90s-news-desert-comedy-hook-a.mp3` | 86.9s | comedic, trailer, hook, 1990s, news, desert, darbuka, brass, energetic, stinger |
@@ -209,6 +213,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/church-bell-distant-medieval.mp3` | 5.0s | bell, church, medieval, distant, village |
 | sfx | foley | `sfx/foley/crowd-cheer-joyful.mp3` | 6.0s | crowd, cheer, applause, joy, celebration, outdoor |
 | sfx | foley | `sfx/foley/espresso-steam-wand-hiss.mp3` | 3.0s | espresso, coffee, cafe, steam, milk-frothing, barista |
+| sfx | foley | `sfx/foley/football-punt-kick-thump.mp3` | 1.0s | football, kick, punt, thump, ball, sports, leather |
 | sfx | foley | `sfx/foley/gallows-rope-creak.mp3` | 3.0s | rope, creak, gallows, noose, beam, sway, eerie |
 | sfx | foley | `sfx/foley/griddle-burger-sizzle.mp3` | 6.0s | sizzle, grill, griddle, burger, cooking, kitchen, diner, frying |
 | sfx | foley | `sfx/foley/heavy-door-icy-wind.mp3` | 3.0s | door, heavy, metal, open, wind, cold, gust |
@@ -289,6 +294,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | transitions | `sfx/transitions/whoosh.mp3` | 1.0s | whoosh, swoosh, transition, fast |
 | sfx | ui | `sfx/ui/airplane-cabin-pa-chime.mp3` | 2.5s | airplane, cabin, chime, ding-dong, announcement, pilot, airport |
 | sfx | ui | `sfx/ui/arcade-score-counter-tick-up.mp3` | 1.5s | score, counter, tick, arcade, points, ding, game, ui |
+| sfx | ui | `sfx/ui/boutique-door-chime-ding-dong.mp3` | 2.0s | door, chime, shop, boutique, bell, ding-dong, luxury, store |
 | sfx | ui | `sfx/ui/camera-shutter-freeze.mp3` | 1.0s | camera, shutter, freeze |
 | sfx | ui | `sfx/ui/contactless-card-tap-beep.mp3` | 1.5s | payment, card, contactless, terminal, beep, approved, checkout |
 | sfx | ui | `sfx/ui/contactless-payment-beep.mp3` | 1.0s | payment, card, contactless, beep, terminal, tap, checkout |

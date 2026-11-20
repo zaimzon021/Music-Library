@@ -8772,6 +8772,177 @@
       "notes": "",
       "energy": "medium",
       "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/gameday-marching-drumline-brass-a",
+      "type": "music",
+      "file": "music/comedic-documentary/gameday-marching-drumline-brass-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "sports",
+        "football",
+        "game-day",
+        "stadium",
+        "marching-band",
+        "drumline",
+        "brass",
+        "tuba",
+        "comedic",
+        "documentary",
+        "upbeat"
+      ],
+      "duration_s": 144.6,
+      "prompt": "Comedic American football game-day stadium bed: snappy marching drumline snares, tubas and bright brass stabs, cheerleader energy, playful and confident, instrumental, intro, build and big touchdown climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [
+        "explained-like-5 #23"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/swiss-luxury-harpsichord-clockwork-a",
+      "type": "music",
+      "file": "music/comedic-documentary/swiss-luxury-harpsichord-clockwork-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "luxury",
+        "elegant",
+        "harpsichord",
+        "string-quartet",
+        "pizzicato",
+        "clockwork",
+        "ticking",
+        "swiss",
+        "watch",
+        "sly",
+        "comedic",
+        "documentary"
+      ],
+      "duration_s": 122.9,
+      "prompt": "Elegant comedic luxury documentary bed: sly harpsichord and string quartet pizzicato over a ticking clockwork percussion pulse, refined Swiss sophistication with a wink, instrumental, quiet intro, build and grand climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [
+        "explained-like-5 #24"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/gameday-marching-drumline-brass-b",
+      "type": "music",
+      "file": "music/comedic-documentary/gameday-marching-drumline-brass-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "sports",
+        "football",
+        "game-day",
+        "stadium",
+        "marching-band",
+        "drumline",
+        "brass",
+        "tuba",
+        "comedic",
+        "documentary",
+        "upbeat"
+      ],
+      "duration_s": 153.3,
+      "prompt": "Comedic American football game-day stadium bed: snappy marching drumline snares, tubas and bright brass stabs, cheerleader energy, playful and confident, instrumental, intro, build and big touchdown climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [
+        "explained-like-5 #23"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/swiss-luxury-harpsichord-clockwork-b",
+      "type": "music",
+      "file": "music/comedic-documentary/swiss-luxury-harpsichord-clockwork-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "luxury",
+        "elegant",
+        "harpsichord",
+        "string-quartet",
+        "pizzicato",
+        "clockwork",
+        "ticking",
+        "swiss",
+        "watch",
+        "sly",
+        "comedic",
+        "documentary"
+      ],
+      "duration_s": 137.2,
+      "prompt": "Elegant comedic luxury documentary bed: sly harpsichord and string quartet pizzicato over a ticking clockwork percussion pulse, refined Swiss sophistication with a wink, instrumental, quiet intro, build and grand climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [
+        "explained-like-5 #24"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/foley/football-punt-kick-thump",
+      "type": "sfx",
+      "file": "sfx/foley/football-punt-kick-thump.mp3",
+      "category": "foley",
+      "tags": [
+        "football",
+        "kick",
+        "punt",
+        "thump",
+        "ball",
+        "sports",
+        "leather"
+      ],
+      "duration_s": 1.0,
+      "prompt": "single leather football punt kick, sharp hollow thump, clean, no crowd",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [
+        "explained-like-5 #23"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/boutique-door-chime-ding-dong",
+      "type": "sfx",
+      "file": "sfx/ui/boutique-door-chime-ding-dong.mp3",
+      "category": "ui",
+      "tags": [
+        "door",
+        "chime",
+        "shop",
+        "boutique",
+        "bell",
+        "ding-dong",
+        "luxury",
+        "store"
+      ],
+      "duration_s": 2.0,
+      "prompt": "elegant luxury boutique door chime, soft bright bell ding-dong as a shop door opens",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [
+        "explained-like-5 #24"
+      ],
+      "notes": ""
     }
   ]
 }
