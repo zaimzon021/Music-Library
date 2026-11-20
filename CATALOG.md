@@ -12,6 +12,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | comedic-documentary | `music/comedic-documentary/comedic-soviet-balalaika-march-b.mp3` | 187.2s | comedic, documentary, soviet, russian, cold-war, march, balalaika, accordion, tuba, brass, mock-heroic, narration-bed |
 | music | comedic-documentary | `music/comedic-documentary/gameday-marching-drumline-brass-a.mp3` | 144.6s | sports, football, game-day, stadium, marching-band, drumline, brass, tuba, comedic, documentary, upbeat |
 | music | comedic-documentary | `music/comedic-documentary/gameday-marching-drumline-brass-b.mp3` | 153.3s | sports, football, game-day, stadium, marching-band, drumline, brass, tuba, comedic, documentary, upbeat |
+| music | comedic-documentary | `music/comedic-documentary/goofy-whistling-ukulele-kazoo-a.mp3` | 146.1s | comedy, goofy, ukulele, whistle, kazoo, silly, bouncy, cartoon, fail, meme |
+| music | comedic-documentary | `music/comedic-documentary/goofy-whistling-ukulele-kazoo-b.mp3` | 148.8s | comedy, goofy, ukulele, whistle, kazoo, silly, bouncy, cartoon, fail, meme |
 | music | comedic-documentary | `music/comedic-documentary/havana-mambo-sneaky-a.mp3` | 168.5s | latin, mambo, cuba, havana, congas, bongos, muted-trumpet, comedic, documentary, sneaky, 1950s |
 | music | comedic-documentary | `music/comedic-documentary/havana-mambo-sneaky-b.mp3` | 163.9s | latin, mambo, cuba, havana, congas, bongos, muted-trumpet, comedic, documentary, sneaky, 1950s |
 | music | comedic-documentary | `music/comedic-documentary/jukebox-diner-swing-a.mp3` | 182.9s | 1950s, rock-and-roll, jukebox, diner, swing, boogie-woogie, saxophone, retro, americana, comedic, documentary |
