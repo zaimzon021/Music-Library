@@ -30,6 +30,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | comedic-documentary | `music/comedic-documentary/quirky-synth-curiosity-b.mp3` | 182.2s | quirky, synth, arpeggio, electronic, curious, what-if, explainer, comedic, documentary, narration-bed |
 | music | comedic-documentary | `music/comedic-documentary/ragtime-comedy-documentary-bed-a.mp3` | 182.4s | comedy, documentary, ragtime, piano, pizzicato, tuba, quirky, period, silent-film |
 | music | comedic-documentary | `music/comedic-documentary/ragtime-comedy-documentary-bed-b.mp3` | 176.6s | comedy, documentary, ragtime, piano, pizzicato, tuba, quirky, period, silent-film |
+| music | comedic-documentary | `music/comedic-documentary/sneaky-bassoon-prankster-a.mp3` | 120.0s | sneaky, mischievous, comedic, cartoon, bassoon, tuba, pizzicato, tiptoe, prankster, playful, meme, shorts |
+| music | comedic-documentary | `music/comedic-documentary/sneaky-bassoon-prankster-b.mp3` | 106.7s | sneaky, mischievous, comedic, cartoon, bassoon, tuba, pizzicato, tiptoe, prankster, playful, meme, shorts |
 | music | comedic-documentary | `music/comedic-documentary/steppe-adventure-comedy-a.mp3` | 182.8s | central-asia, steppe, mongol, morin-khuur, throat-singing, frame-drum, comedic, documentary, adventure, narration-bed |
 | music | comedic-documentary | `music/comedic-documentary/steppe-adventure-comedy-b.mp3` | 178.9s | central-asia, steppe, mongol, morin-khuur, throat-singing, frame-drum, comedic, documentary, adventure, narration-bed |
 | music | comedic-documentary | `music/comedic-documentary/swiss-luxury-harpsichord-clockwork-a.mp3` | 122.9s | luxury, elegant, harpsichord, string-quartet, pizzicato, clockwork, ticking, swiss, watch, sly, comedic, documentary |

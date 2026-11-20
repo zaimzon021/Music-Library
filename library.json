@@ -10728,6 +10728,68 @@
         "Emu War short (ES history shorts)"
       ],
       "notes": ""
+    },
+    {
+      "id": "music/comedic-documentary/sneaky-bassoon-prankster-a",
+      "type": "music",
+      "file": "music/comedic-documentary/sneaky-bassoon-prankster-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "sneaky",
+        "mischievous",
+        "comedic",
+        "cartoon",
+        "bassoon",
+        "tuba",
+        "pizzicato",
+        "tiptoe",
+        "prankster",
+        "playful",
+        "meme",
+        "shorts"
+      ],
+      "duration_s": 120.0,
+      "prompt": "Sneaky mischievous comedic cartoon underscore, staccato bassoon and tuba melody over plucky pizzicato strings and light snare brushes, tiptoeing prankster mood, playful and bouncy, short phrases with stops for punchlines, intro, build and silly climax, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "Grading Shorts",
+      "added": "2026-11-20",
+      "used_in": [
+        "Grading Shorts days 25-32"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/sneaky-bassoon-prankster-b",
+      "type": "music",
+      "file": "music/comedic-documentary/sneaky-bassoon-prankster-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "sneaky",
+        "mischievous",
+        "comedic",
+        "cartoon",
+        "bassoon",
+        "tuba",
+        "pizzicato",
+        "tiptoe",
+        "prankster",
+        "playful",
+        "meme",
+        "shorts"
+      ],
+      "duration_s": 106.7,
+      "prompt": "Sneaky mischievous comedic cartoon underscore, staccato bassoon and tuba melody over plucky pizzicato strings and light snare brushes, tiptoeing prankster mood, playful and bouncy, short phrases with stops for punchlines, intro, build and silly climax, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "Grading Shorts",
+      "added": "2026-11-20",
+      "used_in": [
+        "Grading Shorts days 25-32"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
     }
   ]
 }
