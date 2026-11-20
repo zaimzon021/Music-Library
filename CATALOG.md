@@ -32,6 +32,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | comedic-documentary | `music/comedic-documentary/steppe-adventure-comedy-b.mp3` | 178.9s | central-asia, steppe, mongol, morin-khuur, throat-singing, frame-drum, comedic, documentary, adventure, narration-bed |
 | music | comedic-documentary | `music/comedic-documentary/swiss-luxury-harpsichord-clockwork-a.mp3` | 122.9s | luxury, elegant, harpsichord, string-quartet, pizzicato, clockwork, ticking, swiss, watch, sly, comedic, documentary |
 | music | comedic-documentary | `music/comedic-documentary/swiss-luxury-harpsichord-clockwork-b.mp3` | 137.2s | luxury, elegant, harpsichord, string-quartet, pizzicato, clockwork, ticking, swiss, watch, sly, comedic, documentary |
+| music | comedic-documentary | `music/comedic-documentary/wild-west-gold-rush-banjo-a.mp3` | 184.0s | western, gold-rush, banjo, fiddle, honky-tonk, piano, harmonica, comedic, playful, narration-bed |
+| music | comedic-documentary | `music/comedic-documentary/wild-west-gold-rush-banjo-b.mp3` | 183.8s | western, gold-rush, banjo, fiddle, honky-tonk, piano, harmonica, comedic, playful, narration-bed |
 | music | comedic-menace | `music/comedic-menace/three-headed-sneaky-wink-a.mp3` | 173.9s | menacing, comedic, choir, sneaky, dragon, epic |
 | music | comedic-menace | `music/comedic-menace/three-headed-sneaky-wink-b.mp3` | 164.0s | menacing, comedic, choir, sneaky, dragon, epic |
 | music | comedic-trailer | `music/comedic-trailer/90s-news-desert-comedy-hook-a.mp3` | 86.9s | comedic, trailer, hook, 1990s, news, desert, darbuka, brass, energetic, stinger |
@@ -126,6 +128,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | retro-japanese | `music/retro-japanese/1960s-monster-march-b.mp3` | 146.3s | retro, japanese, march, brass, playful, heroic, triumphant |
 | music | retro-japanese | `music/retro-japanese/hero-vs-monster-showdown-a.mp3` | 184.8s | retro, japanese, hero, showdown, brass, fast-drums, triumphant |
 | music | retro-japanese | `music/retro-japanese/hero-vs-monster-showdown-b.mp3` | 179.0s | retro, japanese, hero, showdown, brass, fast-drums, triumphant |
+| music | synth-retro | `music/synth-retro/90s-arcade-chiptune-bed-a.mp3` | 192.7s | chiptune, 8-bit, retro, video-game, arcade, 1990s, nostalgic, playful, narration-bed |
+| music | synth-retro | `music/synth-retro/90s-arcade-chiptune-bed-b.mp3` | 192.0s | chiptune, 8-bit, retro, video-game, arcade, 1990s, nostalgic, playful, narration-bed |
 | music | synth-retro | `music/synth-retro/optimistic-night-drive-synthwave-a.mp3` | 229.9s | synthwave, retro, night-drive, neon, optimistic, tech, startup, arpeggio, driving, instrumental |
 | music | synth-retro | `music/synth-retro/optimistic-night-drive-synthwave-b.mp3` | 219.7s | synthwave, retro, night-drive, neon, optimistic, tech, startup, arpeggio, driving, instrumental |
 | music | synth-retro | `music/synth-retro/psychedelic-70s-sludge-a.mp3` | 219.8s | psychedelic, 1970s, synth, eerie, weird, dark |
@@ -258,6 +262,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | impacts | `sfx/impacts/mechanical-net-launch-thunk.mp3` | 1.5s | mechanical, launch, thunk, net, whip, spring |
 | sfx | impacts | `sfx/impacts/metallic-title-boom.mp3` | 3.0s | metallic, title, boom |
 | sfx | impacts | `sfx/impacts/phone-screen-glass-crack.mp3` | 1.0s | glass, crack, phone, screen, break, sharp |
+| sfx | impacts | `sfx/impacts/pickaxe-rock-clink.mp3` | 1.5s | pickaxe, mining, rock, metal, clink, dig, gold-rush |
 | sfx | impacts | `sfx/impacts/rubber-stamp-slam.mp3` | 1.0s | rubber, stamp, slam |
 | sfx | impacts | `sfx/impacts/shell-casing-alarm-gong.mp3` | 3.0s | gong, metal, alarm, brass, shell, ringing, ww1 |
 | sfx | impacts | `sfx/impacts/stone-floor-crumble-collapse.mp3` | 2.5s | stone, rock, crumble, collapse, floor, debris, rubble, cave-in |
@@ -318,6 +323,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui | `sfx/ui/tv-static-burst.mp3` | 1.5s | static, tv, crt, noise, hiss, broadcast |
 | sfx | ui-cartoon | `sfx/ui-cartoon/brass-win-sting.mp3` | 2.0s | win, victory, sting, brass, fanfare, positive |
 | sfx | ui-cartoon | `sfx/ui-cartoon/calculator-button-beeps.mp3` | 2.0s | calculator, beep, buttons, math, counting, electronic |
+| sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-brawl-dust-cloud.mp3` | 3.0s | cartoon, brawl, fight, scuffle, dust-cloud, thumps, bonks, comedic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-electric-zap.mp3` | 1.2s | zap, electric, lightning, crackle, cartoon, shock |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-head-bonk.mp3` | 1.0s | bonk, hit, head, cartoon, comedic, hollow |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-nervous-gulp.mp3` | 1.0s | gulp, swallow, nervous, cartoon, comedic, reaction |
