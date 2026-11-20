@@ -11061,6 +11061,71 @@
       "notes": "Over-the-top sad violin for emotional-damage / bad-grade beats.",
       "energy": "low",
       "instrumental": true
+    },
+    {
+      "id": "sfx/creatures/cat-meow-curious",
+      "type": "sfx",
+      "file": "sfx/creatures/cat-meow-curious.mp3",
+      "category": "creatures",
+      "tags": [
+        "cat",
+        "meow",
+        "kitten",
+        "pet",
+        "curious",
+        "animal"
+      ],
+      "duration_s": 1.5,
+      "prompt": "single domestic cat meow, curious short meow, clean, close mic",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Historias Oscuras ES",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/bats-wings-flutter-burst",
+      "type": "sfx",
+      "file": "sfx/creatures/bats-wings-flutter-burst.mp3",
+      "category": "creatures",
+      "tags": [
+        "bats",
+        "wings",
+        "flutter",
+        "flapping",
+        "swarm",
+        "cave",
+        "animal"
+      ],
+      "duration_s": 2.5,
+      "prompt": "flock of bats wings fluttering burst, leathery wing flaps, short",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Historias Oscuras ES",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/pigeon-wings-takeoff-coo",
+      "type": "sfx",
+      "file": "sfx/creatures/pigeon-wings-takeoff-coo.mp3",
+      "category": "creatures",
+      "tags": [
+        "pigeon",
+        "dove",
+        "bird",
+        "wings",
+        "flapping",
+        "takeoff",
+        "coo"
+      ],
+      "duration_s": 2.0,
+      "prompt": "pigeon wings flapping takeoff with a soft coo, clean",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Historias Oscuras ES",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }

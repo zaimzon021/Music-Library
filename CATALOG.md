@@ -216,9 +216,11 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ambience | `sfx/ambience/station-interior-hum-loop.mp3` | 20.0s | room-tone, hum, ventilation, interior, station, ambience, loop |
 | sfx | ambience | `sfx/ambience/underwater-ambience.mp3` | 15.0s | underwater, ocean, bubbles, ambience, loop |
 | sfx | ambience | `sfx/ambience/ww1-trench-night-loop.mp3` | 15.0s | night, war, front-line, wind, distant-rifle, ambience, loop, ww1 |
+| sfx | creatures | `sfx/creatures/bats-wings-flutter-burst.mp3` | 2.5s | bats, wings, flutter, flapping, swarm, cave, animal |
 | sfx | creatures | `sfx/creatures/camel-grunt-comedic.mp3` | 2.0s | camel, grunt, groan, animal, comedic |
 | sfx | creatures | `sfx/creatures/cartoon-duck-quack.mp3` | 1.0s | duck, quack, cartoon, comedic, bird, silly |
 | sfx | creatures | `sfx/creatures/cartoon-man-snore.mp3` | 3.0s | snore, snoring, sleep, man, cartoon, comedic, bedtime |
+| sfx | creatures | `sfx/creatures/cat-meow-curious.mp3` | 1.5s | cat, meow, kitten, pet, curious, animal |
 | sfx | creatures | `sfx/creatures/chickens-clucking-yard.mp3` | 5.0s | chicken, cluck, farm, yard, animals |
 | sfx | creatures | `sfx/creatures/corgi-happy-bark-double.mp3` | 1.5s | dog, corgi, bark, happy, excited, small-dog, cartoon |
 | sfx | creatures | `sfx/creatures/cow-moo-single.mp3` | 2.5s | cow, moo, farm, animal |
@@ -227,6 +229,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | creatures | `sfx/creatures/goose-panicked-honk.mp3` | 1.5s | goose, honk, bird, panic, farm, cartoon |
 | sfx | creatures | `sfx/creatures/humpback-whale-call.mp3` | 5.0s | whale, humpback, whale-song, call, moan, underwater, ocean |
 | sfx | creatures | `sfx/creatures/pig-oink-grunt.mp3` | 2.5s | pig, oink, grunt, farm, animal, comedic |
+| sfx | creatures | `sfx/creatures/pigeon-wings-takeoff-coo.mp3` | 2.0s | pigeon, dove, bird, wings, flapping, takeoff, coo |
 | sfx | creatures | `sfx/creatures/racehorse-gallop-pass-by.mp3` | 4.0s | horse, gallop, hooves, racehorse, race, pass-by, thundering |
 | sfx | creatures | `sfx/creatures/rat-squeak.mp3` | 1.5s | rat, squeak, rodent, small |
 | sfx | creatures | `sfx/creatures/roar.mp3` | 2.5s | roar, monster, kaiju, creature, distorted |
