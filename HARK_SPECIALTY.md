@@ -10,7 +10,7 @@ SHARED SOUND LIBRARY + AI33 RULES (mandatory for every video)
 
 Repo: https://github.com/zaimzon021/Music-Library  (clone it into the workspace, run `git pull` before each video)
 Full rules: RULES.md in the repo. Read it on first use.
-PUSH ACCESS: no GitHub login is needed. Use the Music-Library push token saved in my vault. Connect it once as a service for host github.com with Basic auth, username "x-access-token" and the token as the password (identity URL: https://github.com/zaimzon021/Music-Library.git/info/refs?service=git-receive-pack). Then plain git pull/push over HTTPS works. Never print, echo, log or commit the token. If a push is rejected, ask me; never force-push, and never delete or rename other people's files.
+PUSH ACCESS: no GitHub login is needed. Use the Music-Library push token saved in my vault. Connect it once as a service for host github.com with Basic auth (NOT Bearer: git on github.com ignores Bearer and pushes get refused), username "x-access-token" and the token as the password (identity URL: https://github.com/zaimzon021/Music-Library.git/info/refs?service=git-receive-pack). Then plain git pull/push over HTTPS works. Never print, echo, log or commit the token. If a push is rejected, ask me; never force-push, and never delete or rename other people's files.
 
 1. LIBRARY FIRST. Before generating any music or sound effect, search the repo:
    python3 tools/lib.py search "<mood/sound words>" --type music|sfx
