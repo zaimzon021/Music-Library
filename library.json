@@ -8943,6 +8943,122 @@
         "explained-like-5 #24"
       ],
       "notes": ""
+    },
+    {
+      "id": "music/hip-hop/90s-boom-bap-streetwear-swagger-a",
+      "type": "music",
+      "file": "music/hip-hop/90s-boom-bap-streetwear-swagger-a.mp3",
+      "category": "hip-hop",
+      "tags": [
+        "hip-hop",
+        "boom-bap",
+        "90s",
+        "new-york",
+        "vinyl",
+        "scratches",
+        "jazzy",
+        "swagger",
+        "streetwear",
+        "instrumental"
+      ],
+      "duration_s": 196.3,
+      "prompt": "90s New York boom-bap hip hop instrumental, dusty vinyl drums, upright bass sample, jazzy piano and horn stabs, record scratches, confident streetwear skate-shop swagger, head-nodding mid tempo, intro, build and full climax",
+      "generator": "Suno via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [
+        "ELI5 #21 Supreme"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/synth-retro/optimistic-night-drive-synthwave-a",
+      "type": "music",
+      "file": "music/synth-retro/optimistic-night-drive-synthwave-a.mp3",
+      "category": "synth-retro",
+      "tags": [
+        "synthwave",
+        "retro",
+        "night-drive",
+        "neon",
+        "optimistic",
+        "tech",
+        "startup",
+        "arpeggio",
+        "driving",
+        "instrumental"
+      ],
+      "duration_s": 229.9,
+      "prompt": "Retro night-drive synthwave instrumental, pulsing analog bass, gated drums, shimmering arpeggios, neon city lights cruising energy, optimistic tech-startup momentum, intro, build and soaring climax",
+      "generator": "Suno via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [
+        "ELI5 #22 Uber"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/hip-hop/90s-boom-bap-streetwear-swagger-b",
+      "type": "music",
+      "file": "music/hip-hop/90s-boom-bap-streetwear-swagger-b.mp3",
+      "category": "hip-hop",
+      "tags": [
+        "hip-hop",
+        "boom-bap",
+        "90s",
+        "new-york",
+        "vinyl",
+        "scratches",
+        "jazzy",
+        "swagger",
+        "streetwear",
+        "instrumental"
+      ],
+      "duration_s": 190.0,
+      "prompt": "90s New York boom-bap hip hop instrumental, dusty vinyl drums, upright bass sample, jazzy piano and horn stabs, record scratches, confident streetwear skate-shop swagger, head-nodding mid tempo, intro, build and full climax",
+      "generator": "Suno via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [
+        "ELI5 #21 Supreme"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/synth-retro/optimistic-night-drive-synthwave-b",
+      "type": "music",
+      "file": "music/synth-retro/optimistic-night-drive-synthwave-b.mp3",
+      "category": "synth-retro",
+      "tags": [
+        "synthwave",
+        "retro",
+        "night-drive",
+        "neon",
+        "optimistic",
+        "tech",
+        "startup",
+        "arpeggio",
+        "driving",
+        "instrumental"
+      ],
+      "duration_s": 219.7,
+      "prompt": "Retro night-drive synthwave instrumental, pulsing analog bass, gated drums, shimmering arpeggios, neon city lights cruising energy, optimistic tech-startup momentum, intro, build and soaring climax",
+      "generator": "Suno via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [
+        "ELI5 #22 Uber"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
     }
   ]
 }

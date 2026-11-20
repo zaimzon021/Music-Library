@@ -86,6 +86,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | explainer | `music/explainer/minimal-explainer-pluck-bed-b.mp3` | 202.4s | explainer, minimal, ambient, electronic, plucks, marimba, calm, narration-bed, education |
 | music | funk-lounge | `music/funk-lounge/funky-luxury-lounge-a.mp3` | 234.4s | funk, lounge, slap-bass, brass, wah-guitar, upbeat, luxury, money, playful |
 | music | funk-lounge | `music/funk-lounge/funky-luxury-lounge-b.mp3` | 222.7s | funk, lounge, slap-bass, brass, wah-guitar, upbeat, luxury, money, playful |
+| music | hip-hop | `music/hip-hop/90s-boom-bap-streetwear-swagger-a.mp3` | 196.3s | hip-hop, boom-bap, 90s, new-york, vinyl, scratches, jazzy, swagger, streetwear, instrumental |
+| music | hip-hop | `music/hip-hop/90s-boom-bap-streetwear-swagger-b.mp3` | 190.0s | hip-hop, boom-bap, 90s, new-york, vinyl, scratches, jazzy, swagger, streetwear, instrumental |
 | music | horror | `music/horror/jungle-creature-chase-a.mp3` | 186.9s | horror, creepy, drones, scare-hits, chase, jungle |
 | music | horror | `music/horror/jungle-creature-chase-b.mp3` | 184.8s | horror, creepy, drones, scare-hits, chase, jungle |
 | music | horror | `music/horror/music-box-horror-trailer-a.mp3` | 170.0s | horror, trailer, music-box, stingers, dread, terrifying |
@@ -124,6 +126,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | retro-japanese | `music/retro-japanese/1960s-monster-march-b.mp3` | 146.3s | retro, japanese, march, brass, playful, heroic, triumphant |
 | music | retro-japanese | `music/retro-japanese/hero-vs-monster-showdown-a.mp3` | 184.8s | retro, japanese, hero, showdown, brass, fast-drums, triumphant |
 | music | retro-japanese | `music/retro-japanese/hero-vs-monster-showdown-b.mp3` | 179.0s | retro, japanese, hero, showdown, brass, fast-drums, triumphant |
+| music | synth-retro | `music/synth-retro/optimistic-night-drive-synthwave-a.mp3` | 229.9s | synthwave, retro, night-drive, neon, optimistic, tech, startup, arpeggio, driving, instrumental |
+| music | synth-retro | `music/synth-retro/optimistic-night-drive-synthwave-b.mp3` | 219.7s | synthwave, retro, night-drive, neon, optimistic, tech, startup, arpeggio, driving, instrumental |
 | music | synth-retro | `music/synth-retro/psychedelic-70s-sludge-a.mp3` | 219.8s | psychedelic, 1970s, synth, eerie, weird, dark |
 | music | synth-retro | `music/synth-retro/psychedelic-70s-sludge-b.mp3` | 240.1s | psychedelic, 1970s, synth, eerie, weird, dark |
 | music | tragic-dramatic | `music/tragic-dramatic/meltdown-choir-tragic-a.mp3` | 208.4s | tragic, choir, ticking, dread, explosive, sad-ending |
