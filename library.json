@@ -10337,6 +10337,197 @@
       "notes": "",
       "energy": "medium",
       "instrumental": true
+    },
+    {
+      "id": "music/holiday-comedy/xmas-elf-caper-a",
+      "type": "music",
+      "file": "music/holiday-comedy/xmas-elf-caper-a.mp3",
+      "category": "holiday-comedy",
+      "tags": [
+        "christmas",
+        "holiday",
+        "sleigh-bells",
+        "celesta",
+        "pizzicato",
+        "bassoon",
+        "sneaky",
+        "mischievous",
+        "comedic",
+        "playful"
+      ],
+      "duration_s": 133.9,
+      "prompt": "Christmas holiday cartoon caper: sleigh bells, celesta, glockenspiel, plucky strings and bassoon, mischievous elf tiptoe, building to a joyful jingle-bell climax, instrumental",
+      "generator": "suno",
+      "added_by": "grading-shorts",
+      "added": "2026-11-20",
+      "used_in": [
+        "grading shorts days 33-40"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/phonk-trap/xmas-phonk-sleigh-808-a",
+      "type": "music",
+      "file": "music/phonk-trap/xmas-phonk-sleigh-808-a.mp3",
+      "category": "phonk-trap",
+      "tags": [
+        "phonk",
+        "trap",
+        "christmas",
+        "holiday",
+        "sleigh-bells",
+        "cowbell",
+        "808",
+        "drops",
+        "swagger",
+        "hype"
+      ],
+      "duration_s": 163.6,
+      "prompt": "festive Christmas phonk trap: sleigh bells, cowbell melody, heavy 808 bass, hard drops, swagger, energetic holiday hype, instrumental",
+      "generator": "suno",
+      "added_by": "grading-shorts",
+      "added": "2026-11-20",
+      "used_in": [
+        "grading shorts days 33-40"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-sad/sad-violin-parody-a",
+      "type": "music",
+      "file": "music/comedic-sad/sad-violin-parody-a.mp3",
+      "category": "comedic-sad",
+      "tags": [
+        "sad",
+        "violin",
+        "melodramatic",
+        "parody",
+        "comedic",
+        "tearjerker",
+        "strings",
+        "fail"
+      ],
+      "duration_s": 188.8,
+      "prompt": "over-the-top melodramatic sad violin solo, comedic tearjerker parody, slow sobbing strings, instrumental",
+      "generator": "suno",
+      "added_by": "grading-shorts",
+      "added": "2026-11-20",
+      "used_in": [
+        "grading shorts days 33-40"
+      ],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "music/holiday-comedy/xmas-elf-caper-b",
+      "type": "music",
+      "file": "music/holiday-comedy/xmas-elf-caper-b.mp3",
+      "category": "holiday-comedy",
+      "tags": [
+        "christmas",
+        "holiday",
+        "sleigh-bells",
+        "celesta",
+        "pizzicato",
+        "bassoon",
+        "sneaky",
+        "mischievous",
+        "comedic",
+        "playful"
+      ],
+      "duration_s": 140.0,
+      "prompt": "Christmas holiday cartoon caper: sleigh bells, celesta, glockenspiel, plucky strings and bassoon, mischievous elf tiptoe, building to a joyful jingle-bell climax, instrumental",
+      "generator": "suno",
+      "added_by": "grading-shorts",
+      "added": "2026-11-20",
+      "used_in": [
+        "grading shorts days 33-40"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/phonk-trap/xmas-phonk-sleigh-808-b",
+      "type": "music",
+      "file": "music/phonk-trap/xmas-phonk-sleigh-808-b.mp3",
+      "category": "phonk-trap",
+      "tags": [
+        "phonk",
+        "trap",
+        "christmas",
+        "holiday",
+        "sleigh-bells",
+        "cowbell",
+        "808",
+        "drops",
+        "swagger",
+        "hype"
+      ],
+      "duration_s": 156.5,
+      "prompt": "festive Christmas phonk trap: sleigh bells, cowbell melody, heavy 808 bass, hard drops, swagger, energetic holiday hype, instrumental",
+      "generator": "suno",
+      "added_by": "grading-shorts",
+      "added": "2026-11-20",
+      "used_in": [
+        "grading shorts days 33-40"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-sad/sad-violin-parody-b",
+      "type": "music",
+      "file": "music/comedic-sad/sad-violin-parody-b.mp3",
+      "category": "comedic-sad",
+      "tags": [
+        "sad",
+        "violin",
+        "melodramatic",
+        "parody",
+        "comedic",
+        "tearjerker",
+        "strings",
+        "fail"
+      ],
+      "duration_s": 182.7,
+      "prompt": "over-the-top melodramatic sad violin solo, comedic tearjerker parody, slow sobbing strings, instrumental",
+      "generator": "suno",
+      "added_by": "grading-shorts",
+      "added": "2026-11-20",
+      "used_in": [
+        "grading shorts days 33-40"
+      ],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/ui-cartoon/sleigh-bells-accent",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/sleigh-bells-accent.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "sleigh-bells",
+        "christmas",
+        "jingle",
+        "festive",
+        "accent",
+        "holiday"
+      ],
+      "duration_s": 1.5,
+      "prompt": "festive sleigh bells shake, short bright Christmas jingle accent",
+      "generator": "elevenlabs-sfx",
+      "added_by": "grading-shorts",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }

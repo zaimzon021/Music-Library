@@ -34,6 +34,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | comedic-documentary | `music/comedic-documentary/swiss-luxury-harpsichord-clockwork-b.mp3` | 137.2s | luxury, elegant, harpsichord, string-quartet, pizzicato, clockwork, ticking, swiss, watch, sly, comedic, documentary |
 | music | comedic-menace | `music/comedic-menace/three-headed-sneaky-wink-a.mp3` | 173.9s | menacing, comedic, choir, sneaky, dragon, epic |
 | music | comedic-menace | `music/comedic-menace/three-headed-sneaky-wink-b.mp3` | 164.0s | menacing, comedic, choir, sneaky, dragon, epic |
+| music | comedic-sad | `music/comedic-sad/sad-violin-parody-a.mp3` | 188.8s | sad, violin, melodramatic, parody, comedic, tearjerker, strings, fail |
+| music | comedic-sad | `music/comedic-sad/sad-violin-parody-b.mp3` | 182.7s | sad, violin, melodramatic, parody, comedic, tearjerker, strings, fail |
 | music | comedic-trailer | `music/comedic-trailer/90s-news-desert-comedy-hook-a.mp3` | 86.9s | comedic, trailer, hook, 1990s, news, desert, darbuka, brass, energetic, stinger |
 | music | comedic-trailer | `music/comedic-trailer/90s-news-desert-comedy-hook-b.mp3` | 58.9s | comedic, trailer, hook, 1990s, news, desert, darbuka, brass, energetic, stinger |
 | music | comedic-trailer | `music/comedic-trailer/silent-film-comedy-trailer-hook-a.mp3` | 47.2s | comedy, trailer, hook, xylophone, brass, timpani, ticking, stinger, silent-film |
@@ -94,6 +96,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | funk-lounge | `music/funk-lounge/vegas-lounge-swing-b.mp3` | 187.7s | las-vegas, lounge, swing, big-band, brass, finger-snaps, upright-bass, vibraphone, rat-pack, casino, glamour, comedic, documentary, narration-bed |
 | music | hip-hop | `music/hip-hop/90s-boom-bap-streetwear-swagger-a.mp3` | 196.3s | hip-hop, boom-bap, 90s, new-york, vinyl, scratches, jazzy, swagger, streetwear, instrumental |
 | music | hip-hop | `music/hip-hop/90s-boom-bap-streetwear-swagger-b.mp3` | 190.0s | hip-hop, boom-bap, 90s, new-york, vinyl, scratches, jazzy, swagger, streetwear, instrumental |
+| music | holiday-comedy | `music/holiday-comedy/xmas-elf-caper-a.mp3` | 133.9s | christmas, holiday, sleigh-bells, celesta, pizzicato, bassoon, sneaky, mischievous, comedic, playful |
+| music | holiday-comedy | `music/holiday-comedy/xmas-elf-caper-b.mp3` | 140.0s | christmas, holiday, sleigh-bells, celesta, pizzicato, bassoon, sneaky, mischievous, comedic, playful |
 | music | horror | `music/horror/jungle-creature-chase-a.mp3` | 186.9s | horror, creepy, drones, scare-hits, chase, jungle |
 | music | horror | `music/horror/jungle-creature-chase-b.mp3` | 184.8s | horror, creepy, drones, scare-hits, chase, jungle |
 | music | horror | `music/horror/music-box-horror-trailer-a.mp3` | 170.0s | horror, trailer, music-box, stingers, dread, terrifying |
@@ -126,6 +130,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | ocean-deep | `music/ocean-deep/ocean-predator-heartbeat-b.mp3` | 209.7s | ocean, underwater, heartbeat, suspense, splash, predator |
 | music | phonk-trap | `music/phonk-trap/drift-phonk-cowbell-808-a.mp3` | 180.8s | phonk, trap, drift, 808, cowbell, aggressive, gaming, montage, drops |
 | music | phonk-trap | `music/phonk-trap/drift-phonk-cowbell-808-b.mp3` | 176.7s | phonk, trap, drift, 808, cowbell, aggressive, gaming, montage, drops |
+| music | phonk-trap | `music/phonk-trap/xmas-phonk-sleigh-808-a.mp3` | 163.6s | phonk, trap, christmas, holiday, sleigh-bells, cowbell, 808, drops, swagger, hype |
+| music | phonk-trap | `music/phonk-trap/xmas-phonk-sleigh-808-b.mp3` | 156.5s | phonk, trap, christmas, holiday, sleigh-bells, cowbell, 808, drops, swagger, hype |
 | music | playful-heartfelt | `music/playful-heartfelt/nashville-country-pop-storytelling-a.mp3` | 192.4s | country, country-pop, nashville, acoustic-guitar, banjo, fiddle, claps, hopeful, storytelling, anthem |
 | music | playful-heartfelt | `music/playful-heartfelt/nashville-country-pop-storytelling-b.mp3` | 184.3s | country, country-pop, nashville, acoustic-guitar, banjo, fiddle, claps, hopeful, storytelling, anthem |
 | music | playful-heartfelt | `music/playful-heartfelt/playful-pizzicato-heroic-swell-a.mp3` | 174.9s | playful, heartfelt, pizzicato, strings, emotional, heroic |
@@ -383,6 +389,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/sad-trombone-wah-wah.mp3` | 3.0s | sad, trombone, fail, wah-wah, comedic, loser |
 | sfx | ui-cartoon | `sfx/ui-cartoon/score-counter-tick-up-ding.mp3` | 1.2s | counter, score, ticking, count-up, ding, game, ui, points |
 | sfx | ui-cartoon | `sfx/ui-cartoon/scratch.mp3` | 1.0s | record-scratch, vinyl, comedic, stop, twist |
+| sfx | ui-cartoon | `sfx/ui-cartoon/sleigh-bells-accent.mp3` | 1.5s | sleigh-bells, christmas, jingle, festive, accent, holiday |
 | sfx | ui-cartoon | `sfx/ui-cartoon/slide-whistle-down.mp3` | 1.5s | slide-whistle, cartoon, fall, descending, comedic, fail |
 | sfx | ui-cartoon | `sfx/ui-cartoon/slot-win-bells-jingle.mp3` | 2.5s | slot-machine, win, jingle, bells, casino, celebration, electronic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/snare-drum-roll-crash.mp3` | 4.0s | drumroll, snare, drum, roll, cymbal, crash, reveal, suspense |
