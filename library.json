@@ -8631,6 +8631,147 @@
       "added": "2026-11-20",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "sfx/ui/airplane-cabin-pa-chime",
+      "type": "sfx",
+      "file": "sfx/ui/airplane-cabin-pa-chime.mp3",
+      "category": "ui",
+      "tags": [
+        "airplane",
+        "cabin",
+        "chime",
+        "ding-dong",
+        "announcement",
+        "pilot",
+        "airport"
+      ],
+      "duration_s": 2.5,
+      "prompt": "airplane cabin PA chime, two-tone ding-dong before a pilot announcement, clean, no voice",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/espresso-steam-wand-hiss",
+      "type": "sfx",
+      "file": "sfx/foley/espresso-steam-wand-hiss.mp3",
+      "category": "foley",
+      "tags": [
+        "espresso",
+        "coffee",
+        "cafe",
+        "steam",
+        "milk-frothing",
+        "barista"
+      ],
+      "duration_s": 3.0,
+      "prompt": "espresso machine steam wand hiss and milk frothing, cafe, short, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/contactless-card-tap-beep",
+      "type": "sfx",
+      "file": "sfx/ui/contactless-card-tap-beep.mp3",
+      "category": "ui",
+      "tags": [
+        "payment",
+        "card",
+        "contactless",
+        "terminal",
+        "beep",
+        "approved",
+        "checkout"
+      ],
+      "duration_s": 1.5,
+      "prompt": "contactless card payment terminal tap, short approval beep",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/jaunty-innocent-whistle",
+      "type": "sfx",
+      "file": "sfx/foley/jaunty-innocent-whistle.mp3",
+      "category": "foley",
+      "tags": [
+        "whistle",
+        "whistling",
+        "innocent",
+        "sneaky",
+        "carefree",
+        "comedic",
+        "nothing-to-see-here"
+      ],
+      "duration_s": 4.0,
+      "prompt": "person whistling a short jaunty carefree tune, sneaky and innocent, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "music/cafe-jazz/cozy-coffee-shop-bossa-nova-a",
+      "type": "music",
+      "file": "music/cafe-jazz/cozy-coffee-shop-bossa-nova-a.mp3",
+      "category": "cafe-jazz",
+      "tags": [
+        "bossa-nova",
+        "jazz",
+        "cafe",
+        "coffee",
+        "nylon-guitar",
+        "brushed-drums",
+        "upright-bass",
+        "warm",
+        "playful",
+        "explainer"
+      ],
+      "duration_s": 206.3,
+      "prompt": "cozy coffee shop bossa nova jazz, nylon guitar, brushed drums, upright bass, warm and playful, instrumental",
+      "generator": "Suno via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/cafe-jazz/cozy-coffee-shop-bossa-nova-b",
+      "type": "music",
+      "file": "music/cafe-jazz/cozy-coffee-shop-bossa-nova-b.mp3",
+      "category": "cafe-jazz",
+      "tags": [
+        "bossa-nova",
+        "jazz",
+        "cafe",
+        "coffee",
+        "nylon-guitar",
+        "brushed-drums",
+        "upright-bass",
+        "warm",
+        "playful",
+        "explainer"
+      ],
+      "duration_s": 210.0,
+      "prompt": "cozy coffee shop bossa nova jazz, nylon guitar, brushed drums, upright bass, warm and playful, instrumental",
+      "generator": "Suno via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
     }
   ]
 }

@@ -4,6 +4,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 
 | Type | Category | File | Length | Tags |
 |---|---|---|---|---|
+| music | cafe-jazz | `music/cafe-jazz/cozy-coffee-shop-bossa-nova-a.mp3` | 206.3s | bossa-nova, jazz, cafe, coffee, nylon-guitar, brushed-drums, upright-bass, warm, playful, explainer |
+| music | cafe-jazz | `music/cafe-jazz/cozy-coffee-shop-bossa-nova-b.mp3` | 210.0s | bossa-nova, jazz, cafe, coffee, nylon-guitar, brushed-drums, upright-bass, warm, playful, explainer |
 | music | comedic-documentary | `music/comedic-documentary/comedic-sea-shanty-voyage-bed-a.mp3` | 152.0s | comedic, documentary, sea-shanty, nautical, pirate, accordion, fiddle, concertina, 6-8, stomp-clap, age-of-exploration, narration-bed |
 | music | comedic-documentary | `music/comedic-documentary/comedic-sea-shanty-voyage-bed-b.mp3` | 155.1s | comedic, documentary, sea-shanty, nautical, pirate, accordion, fiddle, concertina, 6-8, stomp-clap, age-of-exploration, narration-bed |
 | music | comedic-documentary | `music/comedic-documentary/comedic-soviet-balalaika-march-a.mp3` | 154.3s | comedic, documentary, soviet, russian, cold-war, march, balalaika, accordion, tuba, brass, mock-heroic, narration-bed |
@@ -206,12 +208,14 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/chalk-mark-scrape.mp3` | 1.0s | chalk, scrape, mark, line |
 | sfx | foley | `sfx/foley/church-bell-distant-medieval.mp3` | 5.0s | bell, church, medieval, distant, village |
 | sfx | foley | `sfx/foley/crowd-cheer-joyful.mp3` | 6.0s | crowd, cheer, applause, joy, celebration, outdoor |
+| sfx | foley | `sfx/foley/espresso-steam-wand-hiss.mp3` | 3.0s | espresso, coffee, cafe, steam, milk-frothing, barista |
 | sfx | foley | `sfx/foley/gallows-rope-creak.mp3` | 3.0s | rope, creak, gallows, noose, beam, sway, eerie |
 | sfx | foley | `sfx/foley/griddle-burger-sizzle.mp3` | 6.0s | sizzle, grill, griddle, burger, cooking, kitchen, diner, frying |
 | sfx | foley | `sfx/foley/heavy-door-icy-wind.mp3` | 3.0s | door, heavy, metal, open, wind, cold, gust |
 | sfx | foley | `sfx/foley/heavy-executioner-footsteps.mp3` | 2.5s | footsteps, heavy, boots, stone, executioner, menacing, dungeon |
 | sfx | foley | `sfx/foley/hourglass-flip-thunk.mp3` | 1.5s | hourglass, flip, wood, thunk, glass, clink, table |
 | sfx | foley | `sfx/foley/hourglass-sand-trickle.mp3` | 4.0s | sand, hourglass, trickle, grains, timer, soft |
+| sfx | foley | `sfx/foley/jaunty-innocent-whistle.mp3` | 4.0s | whistle, whistling, innocent, sneaky, carefree, comedic, nothing-to-see-here |
 | sfx | foley | `sfx/foley/jester-bells-jingle.mp3` | 1.5s | bells, jester, jingle, tinkle, playful, medieval |
 | sfx | foley | `sfx/foley/keys-jingle-ring.mp3` | 1.5s | keys, jingle, keyring, metal, foley |
 | sfx | foley | `sfx/foley/lamp-switch-click-off.mp3` | 0.7s | lamp, switch, click, light-off, bedroom, foley, night |
@@ -283,8 +287,10 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | transitions | `sfx/transitions/time-warp-whoosh.mp3` | 2.5s | time-travel, warp, whoosh, sci-fi, reverse, impact |
 | sfx | transitions | `sfx/transitions/vhs-rewind.mp3` | 1.5s | vhs, rewind |
 | sfx | transitions | `sfx/transitions/whoosh.mp3` | 1.0s | whoosh, swoosh, transition, fast |
+| sfx | ui | `sfx/ui/airplane-cabin-pa-chime.mp3` | 2.5s | airplane, cabin, chime, ding-dong, announcement, pilot, airport |
 | sfx | ui | `sfx/ui/arcade-score-counter-tick-up.mp3` | 1.5s | score, counter, tick, arcade, points, ding, game, ui |
 | sfx | ui | `sfx/ui/camera-shutter-freeze.mp3` | 1.0s | camera, shutter, freeze |
+| sfx | ui | `sfx/ui/contactless-card-tap-beep.mp3` | 1.5s | payment, card, contactless, terminal, beep, approved, checkout |
 | sfx | ui | `sfx/ui/contactless-payment-beep.mp3` | 1.0s | payment, card, contactless, beep, terminal, tap, checkout |
 | sfx | ui | `sfx/ui/digital-typing-terminal.mp3` | 2.5s | digital, typing, terminal |
 | sfx | ui | `sfx/ui/digital-ui-blip.mp3` | 0.5s | digital, ui, blip |
