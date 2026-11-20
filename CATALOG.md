@@ -40,6 +40,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | comedic-menace | `music/comedic-menace/three-headed-sneaky-wink-b.mp3` | 164.0s | menacing, comedic, choir, sneaky, dragon, epic |
 | music | comedic-sad | `music/comedic-sad/sad-violin-parody-a.mp3` | 188.8s | sad, violin, melodramatic, parody, comedic, tearjerker, strings, fail |
 | music | comedic-sad | `music/comedic-sad/sad-violin-parody-b.mp3` | 182.7s | sad, violin, melodramatic, parody, comedic, tearjerker, strings, fail |
+| music | comedic-sneaky | `music/comedic-sneaky/cartoon-sneaky-bassoon-pizzicato-a.mp3` | 126.9s | sneaky, comedic, cartoon, bassoon, pizzicato, tiptoe, mischievous, quiz, question |
+| music | comedic-sneaky | `music/comedic-sneaky/cartoon-sneaky-bassoon-pizzicato-b.mp3` | 108.5s | sneaky, comedic, cartoon, bassoon, pizzicato, tiptoe, mischievous, quiz, question |
 | music | comedic-trailer | `music/comedic-trailer/90s-news-desert-comedy-hook-a.mp3` | 86.9s | comedic, trailer, hook, 1990s, news, desert, darbuka, brass, energetic, stinger |
 | music | comedic-trailer | `music/comedic-trailer/90s-news-desert-comedy-hook-b.mp3` | 58.9s | comedic, trailer, hook, 1990s, news, desert, darbuka, brass, energetic, stinger |
 | music | comedic-trailer | `music/comedic-trailer/silent-film-comedy-trailer-hook-a.mp3` | 47.2s | comedy, trailer, hook, xylophone, brass, timpani, ticking, stinger, silent-film |
@@ -154,6 +156,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | synth-retro | `music/synth-retro/psychedelic-70s-sludge-b.mp3` | 240.1s | psychedelic, 1970s, synth, eerie, weird, dark |
 | music | synth-retro | `music/synth-retro/retro-future-synth-comedy-a.mp3` | 157.4s | synth, retro-futuristic, comedy, playful, arpeggio, upbeat, future, sci-fi |
 | music | synth-retro | `music/synth-retro/retro-future-synth-comedy-b.mp3` | 166.5s | synth, retro-futuristic, comedy, playful, arpeggio, upbeat, future, sci-fi |
+| music | tragic-dramatic | `music/tragic-dramatic/melodramatic-sad-violin-meme-a.mp3` | 207.5s | sad, violin, melodramatic, tragic, meme, emotional-damage, comedic-sadness |
+| music | tragic-dramatic | `music/tragic-dramatic/melodramatic-sad-violin-meme-b.mp3` | 199.6s | sad, violin, melodramatic, tragic, meme, emotional-damage, comedic-sadness |
 | music | tragic-dramatic | `music/tragic-dramatic/meltdown-choir-tragic-a.mp3` | 208.4s | tragic, choir, ticking, dread, explosive, sad-ending |
 | music | tragic-dramatic | `music/tragic-dramatic/meltdown-choir-tragic-b.mp3` | 204.8s | tragic, choir, ticking, dread, explosive, sad-ending |
 | music | tragic-dramatic | `music/tragic-dramatic/reflective-doc-outro-piano-a.mp3` | 220.0s | outro, reflective, ambient, pads, piano, documentary, ending, 80bpm |

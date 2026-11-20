@@ -10953,6 +10953,114 @@
       "added": "2026-11-20",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "music/comedic-sneaky/cartoon-sneaky-bassoon-pizzicato-a",
+      "type": "music",
+      "file": "music/comedic-sneaky/cartoon-sneaky-bassoon-pizzicato-a.mp3",
+      "category": "comedic-sneaky",
+      "tags": [
+        "sneaky",
+        "comedic",
+        "cartoon",
+        "bassoon",
+        "pizzicato",
+        "tiptoe",
+        "mischievous",
+        "quiz",
+        "question"
+      ],
+      "duration_s": 126.9,
+      "prompt": "sneaky comedic cartoon underscore, staccato bassoon and pizzicato strings, tiptoeing mischievous mood, light woodblock and soft snare, playful sly build with a cheeky ending, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "Grading Shorts",
+      "added": "2026-11-20",
+      "used_in": [
+        "Grading Shorts Day 9"
+      ],
+      "notes": "Question-beat sneak cue; distinct from the oud/darbuka sneaky cue (classic cartoon bassoon). Generated with the guard overridden on purpose: guard matched middle-eastern-sneaky-oud by words only.",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/tragic-dramatic/melodramatic-sad-violin-meme-a",
+      "type": "music",
+      "file": "music/tragic-dramatic/melodramatic-sad-violin-meme-a.mp3",
+      "category": "tragic-dramatic",
+      "tags": [
+        "sad",
+        "violin",
+        "melodramatic",
+        "tragic",
+        "meme",
+        "emotional-damage",
+        "comedic-sadness"
+      ],
+      "duration_s": 207.5,
+      "prompt": "melodramatic sad solo violin, tragic emotional meme mood, slow weeping vibrato melody over soft strings and gentle piano, over-the-top comedic sadness, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "Grading Shorts",
+      "added": "2026-11-20",
+      "used_in": [
+        "Grading Shorts Day 9"
+      ],
+      "notes": "Over-the-top sad violin for emotional-damage / bad-grade beats.",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-sneaky/cartoon-sneaky-bassoon-pizzicato-b",
+      "type": "music",
+      "file": "music/comedic-sneaky/cartoon-sneaky-bassoon-pizzicato-b.mp3",
+      "category": "comedic-sneaky",
+      "tags": [
+        "sneaky",
+        "comedic",
+        "cartoon",
+        "bassoon",
+        "pizzicato",
+        "tiptoe",
+        "mischievous",
+        "quiz",
+        "question"
+      ],
+      "duration_s": 108.5,
+      "prompt": "sneaky comedic cartoon underscore, staccato bassoon and pizzicato strings, tiptoeing mischievous mood, light woodblock and soft snare, playful sly build with a cheeky ending, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "Grading Shorts",
+      "added": "2026-11-20",
+      "used_in": [
+        "Grading Shorts Day 9"
+      ],
+      "notes": "Question-beat sneak cue; distinct from the oud/darbuka sneaky cue (classic cartoon bassoon). Generated with the guard overridden on purpose: guard matched middle-eastern-sneaky-oud by words only.",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/tragic-dramatic/melodramatic-sad-violin-meme-b",
+      "type": "music",
+      "file": "music/tragic-dramatic/melodramatic-sad-violin-meme-b.mp3",
+      "category": "tragic-dramatic",
+      "tags": [
+        "sad",
+        "violin",
+        "melodramatic",
+        "tragic",
+        "meme",
+        "emotional-damage",
+        "comedic-sadness"
+      ],
+      "duration_s": 199.6,
+      "prompt": "melodramatic sad solo violin, tragic emotional meme mood, slow weeping vibrato melody over soft strings and gentle piano, over-the-top comedic sadness, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "Grading Shorts",
+      "added": "2026-11-20",
+      "used_in": [
+        "Grading Shorts Day 9"
+      ],
+      "notes": "Over-the-top sad violin for emotional-damage / bad-grade beats.",
+      "energy": "low",
+      "instrumental": true
     }
   ]
 }
