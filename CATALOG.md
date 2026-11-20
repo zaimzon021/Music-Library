@@ -148,6 +148,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | synth-retro | `music/synth-retro/optimistic-night-drive-synthwave-b.mp3` | 219.7s | synthwave, retro, night-drive, neon, optimistic, tech, startup, arpeggio, driving, instrumental |
 | music | synth-retro | `music/synth-retro/psychedelic-70s-sludge-a.mp3` | 219.8s | psychedelic, 1970s, synth, eerie, weird, dark |
 | music | synth-retro | `music/synth-retro/psychedelic-70s-sludge-b.mp3` | 240.1s | psychedelic, 1970s, synth, eerie, weird, dark |
+| music | synth-retro | `music/synth-retro/retro-future-synth-comedy-a.mp3` | 157.4s | synth, retro-futuristic, comedy, playful, arpeggio, upbeat, future, sci-fi |
+| music | synth-retro | `music/synth-retro/retro-future-synth-comedy-b.mp3` | 166.5s | synth, retro-futuristic, comedy, playful, arpeggio, upbeat, future, sci-fi |
 | music | tragic-dramatic | `music/tragic-dramatic/meltdown-choir-tragic-a.mp3` | 208.4s | tragic, choir, ticking, dread, explosive, sad-ending |
 | music | tragic-dramatic | `music/tragic-dramatic/meltdown-choir-tragic-b.mp3` | 204.8s | tragic, choir, ticking, dread, explosive, sad-ending |
 | music | tragic-dramatic | `music/tragic-dramatic/reflective-doc-outro-piano-a.mp3` | 220.0s | outro, reflective, ambient, pads, piano, documentary, ending, 80bpm |
@@ -376,6 +378,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-smoke-poof.mp3` | 1.2s | poof, smoke, vanish, disappear, cartoon, puff |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-spring-boing.mp3` | 1.0s | boing, spring, cartoon, pop-up, comedy |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-spring-boing-short.mp3` | 1.2s | boing, spring, cartoon, comedic, bounce, clown |
+| sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-straw-slurp.mp3` | 1.5s | slurp, straw, drink, cartoon, comedic, wet |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cash-register-ching.mp3` | 1.5s | cash-register, cha-ching, money, price, comedic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/choir-ahh-win-sting.mp3` | 2.5s | choir, ahh, angelic, win, sting, positive, heavenly, verdict |
 | sfx | ui-cartoon | `sfx/ui-cartoon/coin-cascade-clink.mp3` | 2.5s | coins, gold, cascade, clink, money, reward, cartoon |

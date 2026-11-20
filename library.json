@@ -10625,6 +10625,83 @@
       "added": "2026-11-20",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "music/synth-retro/retro-future-synth-comedy-a",
+      "type": "music",
+      "file": "music/synth-retro/retro-future-synth-comedy-a.mp3",
+      "category": "synth-retro",
+      "tags": [
+        "synth",
+        "retro-futuristic",
+        "comedy",
+        "playful",
+        "arpeggio",
+        "upbeat",
+        "future",
+        "sci-fi"
+      ],
+      "duration_s": 157.4,
+      "prompt": "quirky playful retro-futuristic synth comedy bed, bouncy analog arpeggios, plucky bass, light electronic drums, curious and upbeat, instrumental, intro build and climax",
+      "generator": "ai33 suno",
+      "added_by": "Doodle History (Hark)",
+      "added": "2026-11-20",
+      "used_in": [
+        "Doodle History #30"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/synth-retro/retro-future-synth-comedy-b",
+      "type": "music",
+      "file": "music/synth-retro/retro-future-synth-comedy-b.mp3",
+      "category": "synth-retro",
+      "tags": [
+        "synth",
+        "retro-futuristic",
+        "comedy",
+        "playful",
+        "arpeggio",
+        "upbeat",
+        "future",
+        "sci-fi"
+      ],
+      "duration_s": 166.5,
+      "prompt": "quirky playful retro-futuristic synth comedy bed, bouncy analog arpeggios, plucky bass, light electronic drums, curious and upbeat, instrumental, intro build and climax",
+      "generator": "ai33 suno",
+      "added_by": "Doodle History (Hark)",
+      "added": "2026-11-20",
+      "used_in": [
+        "Doodle History #30"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/ui-cartoon/cartoon-straw-slurp",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/cartoon-straw-slurp.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "slurp",
+        "straw",
+        "drink",
+        "cartoon",
+        "comedic",
+        "wet"
+      ],
+      "duration_s": 1.5,
+      "prompt": "short comedic cartoon slurp, someone sucking up liquid through a straw, wet and silly",
+      "generator": "ai33 elevenlabs sfx",
+      "added_by": "Doodle History (Hark)",
+      "added": "2026-11-20",
+      "used_in": [
+        "Doodle History #29"
+      ],
+      "notes": ""
     }
   ]
 }
