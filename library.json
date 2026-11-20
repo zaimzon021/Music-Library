@@ -10702,6 +10702,32 @@
         "Doodle History #29"
       ],
       "notes": ""
+    },
+    {
+      "id": "sfx/weapons/machine-gun-burst-vintage",
+      "type": "sfx",
+      "file": "sfx/weapons/machine-gun-burst-vintage.mp3",
+      "category": "weapons",
+      "tags": [
+        "machine-gun",
+        "gun",
+        "burst",
+        "gunfire",
+        "war",
+        "vintage",
+        "ww1",
+        "military",
+        "rapid-fire"
+      ],
+      "duration_s": 2.0,
+      "prompt": "vintage WWI-era machine gun firing a short rapid burst of about ten rounds outdoors, dry, clean single burst, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "historia-shorts-es",
+      "added": "2026-11-20",
+      "used_in": [
+        "Emu War short (ES history shorts)"
+      ],
+      "notes": ""
     }
   ]
 }

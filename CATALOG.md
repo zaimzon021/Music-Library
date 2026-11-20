@@ -442,5 +442,6 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | water | `sfx/water/underwater-ambience-bubbles.mp3` | 12.0s | underwater, ocean, ambience, bubbles, deep, muffled, loop |
 | sfx | water | `sfx/water/wave-crash-impact-whiteout.mp3` | 4.0s | wave, crash, impact, water, explosion, whoosh, ending |
 | sfx | water | `sfx/water/wooden-rowboat-creak.mp3` | 2.5s | boat, rowboat, wood, creak, rocking, water |
+| sfx | weapons | `sfx/weapons/machine-gun-burst-vintage.mp3` | 2.0s | machine-gun, gun, burst, gunfire, war, vintage, ww1, military, rapid-fire |
 | sfx | weather | `sfx/weather/polar-blizzard-wind-loop.mp3` | 22.0s | wind, blizzard, polar, antarctic, ambience, loop, snow |
 | sfx | weather | `sfx/weather/rain-on-mud-loop.mp3` | 12.0s | rain, mud, puddles, dripping, loop, ambience |
