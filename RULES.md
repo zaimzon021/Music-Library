@@ -70,6 +70,10 @@ git push
 - Run `python3 tools/lib.py validate` before pushing.
 - Don't delete or rename other people's files. Fix tags if they're wrong.
 
+## Push access (shared token)
+
+Nobody needs the owner's GitHub login. Pushes use one shared fine-grained token that can only read and write this repo. Each person or Hark keeps it in its own vault and uses it as HTTPS Basic auth (username `x-access-token`, token as password). Never paste it into a file, commit, chat, or log. Never force-push. If the token leaks, the owner revokes it and shares a new one.
+
 ## Rule 6. Voiceovers: patch first, full re-voice only as a fallback
 
 1. **Lock the script before any TTS.** Fact-check it, finish the wording, check the length. Every re-voice costs credits.

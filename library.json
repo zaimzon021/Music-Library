@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-06",
+  "updated": "2026-11-20",
   "items": [
     {
       "id": "music/epic-cinematic/kaiju-trailer-taiko-brass-a",
@@ -3808,6 +3808,6076 @@
       "generator": "Suno via AI33",
       "added_by": "cars-history",
       "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/creatures/corgi-happy-bark-double",
+      "type": "sfx",
+      "file": "sfx/creatures/corgi-happy-bark-double.mp3",
+      "category": "creatures",
+      "tags": [
+        "dog",
+        "corgi",
+        "bark",
+        "happy",
+        "excited",
+        "small-dog",
+        "cartoon"
+      ],
+      "duration_s": 1.5,
+      "prompt": "small corgi dog two happy excited barks, close, clean, no background",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [
+        "The Tower Part 2"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/small-dog-scared-whimper",
+      "type": "sfx",
+      "file": "sfx/creatures/small-dog-scared-whimper.mp3",
+      "category": "creatures",
+      "tags": [
+        "dog",
+        "whimper",
+        "whine",
+        "scared",
+        "small-dog",
+        "sad"
+      ],
+      "duration_s": 1.5,
+      "prompt": "small dog scared whimper, short high whine, close, clean, no background",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [
+        "The Tower Part 2"
+      ],
+      "notes": "raw output was very quiet; normalized +27 dB"
+    },
+    {
+      "id": "sfx/impacts/stone-floor-crumble-collapse",
+      "type": "sfx",
+      "file": "sfx/impacts/stone-floor-crumble-collapse.mp3",
+      "category": "impacts",
+      "tags": [
+        "stone",
+        "rock",
+        "crumble",
+        "collapse",
+        "floor",
+        "debris",
+        "rubble",
+        "cave-in"
+      ],
+      "duration_s": 2.5,
+      "prompt": "stone floor cracking and crumbling, heavy rocks breaking and falling into a deep pit, close, clean, no background",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [
+        "The Tower Part 2"
+      ],
+      "notes": "leading silence trimmed"
+    },
+    {
+      "id": "music/comedic-documentary/pompous-ancient-empire-comedy-march-a",
+      "type": "music",
+      "file": "music/comedic-documentary/pompous-ancient-empire-comedy-march-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "comedic",
+        "documentary",
+        "ancient",
+        "roman",
+        "empire",
+        "fanfare",
+        "brass",
+        "harp",
+        "pizzicato",
+        "bassoon",
+        "march",
+        "mock-heroic",
+        "narration-bed"
+      ],
+      "duration_s": 133.5,
+      "prompt": "Pompous mock-heroic ancient empire comedy underscore, regal fanfare trumpets, harp and lyre glissandos, pizzicato strings, bumbling bassoon and tuba, timpani rolls, playful self-important march, medium tempo, documentary narration bed, instrumental",
+      "generator": "Suno via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/pompous-ancient-empire-comedy-march-b",
+      "type": "music",
+      "file": "music/comedic-documentary/pompous-ancient-empire-comedy-march-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "comedic",
+        "documentary",
+        "ancient",
+        "roman",
+        "empire",
+        "fanfare",
+        "brass",
+        "harp",
+        "pizzicato",
+        "bassoon",
+        "march",
+        "mock-heroic",
+        "narration-bed"
+      ],
+      "duration_s": 104.7,
+      "prompt": "Pompous mock-heroic ancient empire comedy underscore, regal fanfare trumpets, harp and lyre glissandos, pizzicato strings, bumbling bassoon and tuba, timpani rolls, playful self-important march, medium tempo, documentary narration bed, instrumental",
+      "generator": "Suno via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/vehicles/car-alarm-siren-burst",
+      "type": "sfx",
+      "file": "sfx/vehicles/car-alarm-siren-burst.mp3",
+      "category": "vehicles",
+      "tags": [
+        "car",
+        "alarm",
+        "siren",
+        "whoop",
+        "wail",
+        "comedic"
+      ],
+      "duration_s": 2.5,
+      "prompt": "classic car alarm siren whooping wail, short burst, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/sad-trombone-wah-wah",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/sad-trombone-wah-wah.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "sad",
+        "trombone",
+        "fail",
+        "wah-wah",
+        "comedic",
+        "loser"
+      ],
+      "duration_s": 3.0,
+      "prompt": "sad trombone wah wah wah waaah, comedic fail, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/keys-jingle-ring",
+      "type": "sfx",
+      "file": "sfx/foley/keys-jingle-ring.mp3",
+      "category": "foley",
+      "tags": [
+        "keys",
+        "jingle",
+        "keyring",
+        "metal",
+        "foley"
+      ],
+      "duration_s": 1.5,
+      "prompt": "keys jingling on a metal key ring, close up, short",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/tow-truck-winch-chain-ratchet",
+      "type": "sfx",
+      "file": "sfx/vehicles/tow-truck-winch-chain-ratchet.mp3",
+      "category": "vehicles",
+      "tags": [
+        "tow-truck",
+        "winch",
+        "chain",
+        "ratchet",
+        "clank",
+        "mechanical",
+        "repo"
+      ],
+      "duration_s": 2.5,
+      "prompt": "tow truck winch chain ratcheting and clanking, mechanical, short",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/goose-panicked-honk",
+      "type": "sfx",
+      "file": "sfx/creatures/goose-panicked-honk.mp3",
+      "category": "creatures",
+      "tags": [
+        "goose",
+        "honk",
+        "bird",
+        "panic",
+        "farm",
+        "cartoon"
+      ],
+      "duration_s": 1.5,
+      "prompt": "goose honking loudly in panic, two sharp honks, close, clean, no background",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/fox-snarl-snap",
+      "type": "sfx",
+      "file": "sfx/creatures/fox-snarl-snap.mp3",
+      "category": "creatures",
+      "tags": [
+        "fox",
+        "snarl",
+        "growl",
+        "bite",
+        "snap",
+        "predator"
+      ],
+      "duration_s": 1.5,
+      "prompt": "fox snarl and quick snapping bite, short, close, clean, no background",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/wooden-rowboat-creak",
+      "type": "sfx",
+      "file": "sfx/water/wooden-rowboat-creak.mp3",
+      "category": "water",
+      "tags": [
+        "boat",
+        "rowboat",
+        "wood",
+        "creak",
+        "rocking",
+        "water"
+      ],
+      "duration_s": 2.5,
+      "prompt": "small wooden rowing boat creaking as it rocks on water, close, clean, no background",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/gentle-water-lapping",
+      "type": "sfx",
+      "file": "sfx/water/gentle-water-lapping.mp3",
+      "category": "water",
+      "tags": [
+        "water",
+        "lapping",
+        "waves",
+        "moat",
+        "calm",
+        "night",
+        "ambience"
+      ],
+      "duration_s": 5.0,
+      "prompt": "gentle water lapping against a stone wall at night, calm, close, clean, no background",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/machines/iron-portcullis-grinding-down",
+      "type": "sfx",
+      "file": "sfx/machines/iron-portcullis-grinding-down.mp3",
+      "category": "machines",
+      "tags": [
+        "portcullis",
+        "gate",
+        "iron",
+        "grinding",
+        "chains",
+        "castle",
+        "medieval"
+      ],
+      "duration_s": 4.0,
+      "prompt": "heavy iron portcullis grinding down with rattling chains, castle gate, close, clean, no background",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/helicopter-rotor-hover-loop",
+      "type": "sfx",
+      "file": "sfx/vehicles/helicopter-rotor-hover-loop.mp3",
+      "category": "vehicles",
+      "tags": [
+        "helicopter",
+        "rotor",
+        "hover",
+        "loop",
+        "military",
+        "night"
+      ],
+      "duration_s": 8.0,
+      "prompt": "helicopter rotor blades thumping, steady hover, mid distance, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep02-bin-laden-neighbor"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/phone-notification-chime",
+      "type": "sfx",
+      "file": "sfx/ui/phone-notification-chime.mp3",
+      "category": "ui",
+      "tags": [
+        "phone",
+        "notification",
+        "chime",
+        "smartphone",
+        "message"
+      ],
+      "duration_s": 1.0,
+      "prompt": "single short modern smartphone notification chime, clean",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep02-bin-laden-neighbor"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/chickens-clucking-yard",
+      "type": "sfx",
+      "file": "sfx/creatures/chickens-clucking-yard.mp3",
+      "category": "creatures",
+      "tags": [
+        "chicken",
+        "cluck",
+        "farm",
+        "yard",
+        "animals"
+      ],
+      "duration_s": 5.0,
+      "prompt": "a few chickens clucking in a farmyard, close, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep02-bin-laden-neighbor,ep03-1000-years-past"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/cow-moo-single",
+      "type": "sfx",
+      "file": "sfx/creatures/cow-moo-single.mp3",
+      "category": "creatures",
+      "tags": [
+        "cow",
+        "moo",
+        "farm",
+        "animal"
+      ],
+      "duration_s": 2.5,
+      "prompt": "a single cow moo, clean, farm, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep02-bin-laden-neighbor"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/pig-oink-grunt",
+      "type": "sfx",
+      "file": "sfx/creatures/pig-oink-grunt.mp3",
+      "category": "creatures",
+      "tags": [
+        "pig",
+        "oink",
+        "grunt",
+        "farm",
+        "animal",
+        "comedic"
+      ],
+      "duration_s": 2.5,
+      "prompt": "a pig grunting and oinking curiously, close, single, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep03-1000-years-past"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/church-bell-distant-medieval",
+      "type": "sfx",
+      "file": "sfx/foley/church-bell-distant-medieval.mp3",
+      "category": "foley",
+      "tags": [
+        "bell",
+        "church",
+        "medieval",
+        "distant",
+        "village"
+      ],
+      "duration_s": 5.0,
+      "prompt": "a single old church bell ringing three times in the distance, medieval village, airy",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep03-1000-years-past"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/medieval-village-ambience-loop",
+      "type": "sfx",
+      "file": "sfx/ambience/medieval-village-ambience-loop.mp3",
+      "category": "ambience",
+      "tags": [
+        "medieval",
+        "village",
+        "ambience",
+        "rooster",
+        "morning",
+        "loop"
+      ],
+      "duration_s": 15.0,
+      "prompt": "medieval village morning ambience, rooster, distant chickens, light wind, faint murmurs, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep03-1000-years-past"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/night-crickets-ambience-loop",
+      "type": "sfx",
+      "file": "sfx/ambience/night-crickets-ambience-loop.mp3",
+      "category": "ambience",
+      "tags": [
+        "night",
+        "crickets",
+        "ambience",
+        "calm",
+        "loop",
+        "dogs"
+      ],
+      "duration_s": 15.0,
+      "prompt": "quiet night ambience, crickets, faint distant dogs, calm, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep02-bin-laden-neighbor"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/magic-shimmer-sparkle",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/magic-shimmer-sparkle.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "magic",
+        "shimmer",
+        "sparkle",
+        "whimsical",
+        "wizard"
+      ],
+      "duration_s": 1.5,
+      "prompt": "short magical shimmer sparkle chime, whimsical, cartoon",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep03-1000-years-past"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/transitions/time-warp-whoosh",
+      "type": "sfx",
+      "file": "sfx/transitions/time-warp-whoosh.mp3",
+      "category": "transitions",
+      "tags": [
+        "time-travel",
+        "warp",
+        "whoosh",
+        "sci-fi",
+        "reverse",
+        "impact"
+      ],
+      "duration_s": 2.5,
+      "prompt": "sci-fi time travel warp whoosh with reverse swell into soft impact",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep03-1000-years-past"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/crowd-murmur-tv-news",
+      "type": "sfx",
+      "file": "sfx/ambience/crowd-murmur-tv-news.mp3",
+      "category": "ambience",
+      "tags": [
+        "crowd",
+        "murmur",
+        "reporters",
+        "news",
+        "cameras",
+        "outdoor"
+      ],
+      "duration_s": 8.0,
+      "prompt": "busy outdoor crowd murmur with reporters, cameras clicking, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep02-bin-laden-neighbor"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "music/comedic-documentary/medieval-folk-tavern-comedy-a",
+      "type": "music",
+      "file": "music/comedic-documentary/medieval-folk-tavern-comedy-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "medieval",
+        "folk",
+        "lute",
+        "recorder",
+        "hurdy-gurdy",
+        "hand-drum",
+        "comedic",
+        "documentary",
+        "village",
+        "tavern",
+        "playful"
+      ],
+      "duration_s": 172.5,
+      "prompt": "comedic medieval folk documentary underscore, lute, recorder, hurdy-gurdy, hand drum, tambourine, playful bouncy village tavern feel, light and curious, instrumental, intro build and lively climax",
+      "generator": "Suno via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep03-1000-years-past"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/medieval-folk-tavern-comedy-b",
+      "type": "music",
+      "file": "music/comedic-documentary/medieval-folk-tavern-comedy-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "medieval",
+        "folk",
+        "lute",
+        "recorder",
+        "hurdy-gurdy",
+        "hand-drum",
+        "comedic",
+        "documentary",
+        "village",
+        "tavern",
+        "playful"
+      ],
+      "duration_s": 187.7,
+      "prompt": "comedic medieval folk documentary underscore, lute, recorder, hurdy-gurdy, hand drum, tambourine, playful bouncy village tavern feel, light and curious, instrumental, intro build and lively climax",
+      "generator": "Suno via AI33",
+      "added_by": "survive-this-channel",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep03-1000-years-past"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/crowds/crowd-cheer-applause",
+      "type": "sfx",
+      "file": "sfx/crowds/crowd-cheer-applause.mp3",
+      "category": "crowds",
+      "tags": [
+        "crowd",
+        "cheer",
+        "applause",
+        "celebration",
+        "outdoor"
+      ],
+      "duration_s": 4.0,
+      "prompt": "Large crowd cheering and applauding outdoors, enthusiastic, short burst",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #4"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/car-window-glass-smash",
+      "type": "sfx",
+      "file": "sfx/impacts/car-window-glass-smash.mp3",
+      "category": "impacts",
+      "tags": [
+        "glass",
+        "smash",
+        "shatter",
+        "window",
+        "car",
+        "break-in"
+      ],
+      "duration_s": 2.0,
+      "prompt": "Car side window glass smashing and shattering, single hit",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/phone-notification-two-tone",
+      "type": "sfx",
+      "file": "sfx/ui/phone-notification-two-tone.mp3",
+      "category": "ui",
+      "tags": [
+        "phone",
+        "notification",
+        "chime",
+        "alert",
+        "message",
+        "app",
+        "two-tone"
+      ],
+      "duration_s": 1.2,
+      "prompt": "Bright smartphone notification chime, two soft tones",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/cartoon-smoke-poof",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/cartoon-smoke-poof.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "poof",
+        "smoke",
+        "vanish",
+        "disappear",
+        "cartoon",
+        "puff"
+      ],
+      "duration_s": 1.2,
+      "prompt": "Cartoon smoke poof, quick puff of air disappearance",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #4"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/money-counter-riffle",
+      "type": "sfx",
+      "file": "sfx/foley/money-counter-riffle.mp3",
+      "category": "foley",
+      "tags": [
+        "money",
+        "cash",
+        "banknotes",
+        "counter",
+        "riffle",
+        "bills"
+      ],
+      "duration_s": 2.5,
+      "prompt": "Fast money bill counter machine riffling banknotes",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #4, #5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/coin-cascade-clink",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/coin-cascade-clink.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "coins",
+        "gold",
+        "cascade",
+        "clink",
+        "money",
+        "reward",
+        "cartoon"
+      ],
+      "duration_s": 2.5,
+      "prompt": "Cartoon coin cascade, many gold coins clinking and pouring",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "music/funk-lounge/funky-luxury-lounge-a",
+      "type": "music",
+      "file": "music/funk-lounge/funky-luxury-lounge-a.mp3",
+      "category": "funk-lounge",
+      "tags": [
+        "funk",
+        "lounge",
+        "slap-bass",
+        "brass",
+        "wah-guitar",
+        "upbeat",
+        "luxury",
+        "money",
+        "playful"
+      ],
+      "duration_s": 234.4,
+      "prompt": "Upbeat funky lounge groove, slap bass, bright brass stabs, wah guitar, playful luxurious rich-lifestyle vibe, intro, build, big confident climax, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #5"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/funk-lounge/funky-luxury-lounge-b",
+      "type": "music",
+      "file": "music/funk-lounge/funky-luxury-lounge-b.mp3",
+      "category": "funk-lounge",
+      "tags": [
+        "funk",
+        "lounge",
+        "slap-bass",
+        "brass",
+        "wah-guitar",
+        "upbeat",
+        "luxury",
+        "money",
+        "playful"
+      ],
+      "duration_s": 222.7,
+      "prompt": "Upbeat funky lounge groove, slap bass, bright brass stabs, wah guitar, playful luxurious rich-lifestyle vibe, intro, build, big confident climax, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #5"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/machines/dialup-modem-handshake",
+      "type": "sfx",
+      "file": "sfx/machines/dialup-modem-handshake.mp3",
+      "category": "machines",
+      "tags": [
+        "dial-up",
+        "modem",
+        "internet",
+        "1990s",
+        "2000s",
+        "retro",
+        "screech",
+        "computer"
+      ],
+      "duration_s": 6.0,
+      "prompt": "1990s dial-up modem connecting handshake screech, clean, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If You Knew About 9/11 the Day Before?"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/machines/fax-machine-printing",
+      "type": "sfx",
+      "file": "sfx/machines/fax-machine-printing.mp3",
+      "category": "machines",
+      "tags": [
+        "fax",
+        "office",
+        "printer",
+        "paper",
+        "machine",
+        "beeps",
+        "retro"
+      ],
+      "duration_s": 5.0,
+      "prompt": "old office fax machine receiving and printing paper, mechanical whir and beeps",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If You Knew About 9/11 the Day Before?"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/office-desk-phone-ring",
+      "type": "sfx",
+      "file": "sfx/foley/office-desk-phone-ring.mp3",
+      "category": "foley",
+      "tags": [
+        "phone",
+        "telephone",
+        "ring",
+        "office",
+        "corded",
+        "landline",
+        "2000s"
+      ],
+      "duration_s": 4.0,
+      "prompt": "old corded office desk telephone ringing twice, early 2000s",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If You Knew About 9/11 the Day Before?"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/underwater-ambience-bubbles",
+      "type": "sfx",
+      "file": "sfx/water/underwater-ambience-bubbles.mp3",
+      "category": "water",
+      "tags": [
+        "underwater",
+        "ocean",
+        "ambience",
+        "bubbles",
+        "deep",
+        "muffled",
+        "loop"
+      ],
+      "duration_s": 12.0,
+      "prompt": "underwater ambience, deep ocean, gentle bubbles and muffled water, seamless",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If You Were Swallowed by a Whale?"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/humpback-whale-call",
+      "type": "sfx",
+      "file": "sfx/creatures/humpback-whale-call.mp3",
+      "category": "creatures",
+      "tags": [
+        "whale",
+        "humpback",
+        "whale-song",
+        "call",
+        "moan",
+        "underwater",
+        "ocean"
+      ],
+      "duration_s": 5.0,
+      "prompt": "humpback whale song call underwater, long low moan, clean single call",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If You Were Swallowed by a Whale?"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/giant-underwater-gulp",
+      "type": "sfx",
+      "file": "sfx/water/giant-underwater-gulp.mp3",
+      "category": "water",
+      "tags": [
+        "gulp",
+        "swallow",
+        "whale",
+        "mouth",
+        "underwater",
+        "wet",
+        "deep"
+      ],
+      "duration_s": 3.0,
+      "prompt": "huge underwater gulp, giant mouth closing, deep wet muffled swallow",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If You Were Swallowed by a Whale?"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/scuba-regulator-breathing",
+      "type": "sfx",
+      "file": "sfx/water/scuba-regulator-breathing.mp3",
+      "category": "water",
+      "tags": [
+        "scuba",
+        "diver",
+        "regulator",
+        "breathing",
+        "bubbles",
+        "underwater"
+      ],
+      "duration_s": 6.0,
+      "prompt": "scuba diver breathing through regulator underwater, inhale and bubbly exhale, two breaths",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If You Were Swallowed by a Whale?"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/jet-takeoff-roar",
+      "type": "sfx",
+      "file": "sfx/vehicles/jet-takeoff-roar.mp3",
+      "category": "vehicles",
+      "tags": [
+        "jet",
+        "plane",
+        "takeoff",
+        "engine",
+        "roar",
+        "military",
+        "cargo"
+      ],
+      "duration_s": 7.0,
+      "prompt": "Large four-engine military cargo jet taking off, turbofan roar building and passing, no music",
+      "generator": "ai33-sfx",
+      "added_by": "hark",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If Ep6 Kabul"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/crowd-murmur-outdoor",
+      "type": "sfx",
+      "file": "sfx/ambience/crowd-murmur-outdoor.mp3",
+      "category": "ambience",
+      "tags": [
+        "crowd",
+        "murmur",
+        "outdoor",
+        "ambience",
+        "loop",
+        "anxious"
+      ],
+      "duration_s": 15.0,
+      "prompt": "Large anxious outdoor crowd murmur, many voices indistinct, distant, no clear words, ambience (loop)",
+      "generator": "ai33-sfx",
+      "added_by": "hark",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If Ep6 Kabul"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/underwater-ambience",
+      "type": "sfx",
+      "file": "sfx/ambience/underwater-ambience.mp3",
+      "category": "ambience",
+      "tags": [
+        "underwater",
+        "ocean",
+        "bubbles",
+        "ambience",
+        "loop"
+      ],
+      "duration_s": 15.0,
+      "prompt": "Calm underwater ambience, muffled ocean, gentle bubbles rising, soft low rumble (loop)",
+      "generator": "ai33-sfx",
+      "added_by": "hark",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If Ep7 Never Sleep"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/cargo-plane-cabin-rumble",
+      "type": "sfx",
+      "file": "sfx/vehicles/cargo-plane-cabin-rumble.mp3",
+      "category": "vehicles",
+      "tags": [
+        "plane",
+        "cabin",
+        "interior",
+        "drone",
+        "rumble",
+        "loop",
+        "military"
+      ],
+      "duration_s": 15.0,
+      "prompt": "Inside a military cargo plane in flight, steady deep engine drone and airframe rumble, ambience (loop)",
+      "generator": "ai33-sfx",
+      "added_by": "hark",
+      "added": "2026-11-06",
+      "used_in": [
+        "What If Ep6 Kabul"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/vault-door-slam-bolts",
+      "type": "sfx",
+      "file": "sfx/impacts/vault-door-slam-bolts.mp3",
+      "category": "impacts",
+      "tags": [
+        "vault",
+        "door",
+        "blast-door",
+        "bunker",
+        "slam",
+        "bolts",
+        "metal",
+        "lock"
+      ],
+      "duration_s": 5.0,
+      "prompt": "heavy steel vault blast door slamming shut, metal bolts locking, deep reverb",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep16 bunker"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/machines/bunker-ventilation-hum",
+      "type": "sfx",
+      "file": "sfx/machines/bunker-ventilation-hum.mp3",
+      "category": "machines",
+      "tags": [
+        "ventilation",
+        "fan",
+        "hum",
+        "bunker",
+        "air",
+        "underground",
+        "loop",
+        "ambience"
+      ],
+      "duration_s": 20.0,
+      "prompt": "ventilation fan steady hum, underground bunker air system, loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep16 bunker"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/cave-water-drips",
+      "type": "sfx",
+      "file": "sfx/water/cave-water-drips.mp3",
+      "category": "water",
+      "tags": [
+        "cave",
+        "drips",
+        "water",
+        "echo",
+        "cavern",
+        "ambience",
+        "loop",
+        "dark"
+      ],
+      "duration_s": 20.0,
+      "prompt": "cave ambience, slow water drips echoing in a dark cavern, loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep17 thai cave"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/monsoon-rain-loop",
+      "type": "sfx",
+      "file": "sfx/water/monsoon-rain-loop.mp3",
+      "category": "water",
+      "tags": [
+        "rain",
+        "monsoon",
+        "downpour",
+        "jungle",
+        "storm",
+        "loop",
+        "ambience"
+      ],
+      "duration_s": 20.0,
+      "prompt": "heavy monsoon rain pouring on jungle, steady downpour, loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep17 thai cave"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/scuba-breathing-bubbles",
+      "type": "sfx",
+      "file": "sfx/water/scuba-breathing-bubbles.mp3",
+      "category": "water",
+      "tags": [
+        "scuba",
+        "diver",
+        "underwater",
+        "breathing",
+        "regulator",
+        "bubbles"
+      ],
+      "duration_s": 6.0,
+      "prompt": "scuba diver breathing underwater, regulator bubbles",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep17 thai cave"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/crowd-cheer-joyful",
+      "type": "sfx",
+      "file": "sfx/foley/crowd-cheer-joyful.mp3",
+      "category": "foley",
+      "tags": [
+        "crowd",
+        "cheer",
+        "applause",
+        "joy",
+        "celebration",
+        "outdoor"
+      ],
+      "duration_s": 6.0,
+      "prompt": "large outdoor crowd cheering and applauding, joyful",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep17 thai cave"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/morning-birds-loop",
+      "type": "sfx",
+      "file": "sfx/foley/morning-birds-loop.mp3",
+      "category": "foley",
+      "tags": [
+        "birds",
+        "morning",
+        "outdoors",
+        "nature",
+        "breeze",
+        "loop",
+        "ambience"
+      ],
+      "duration_s": 20.0,
+      "prompt": "morning birds chirping outdoors, gentle breeze, loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep16 bunker"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/flood-water-rush-loop",
+      "type": "sfx",
+      "file": "sfx/water/flood-water-rush-loop.mp3",
+      "category": "water",
+      "tags": [
+        "flood",
+        "water",
+        "rushing",
+        "tunnel",
+        "cave",
+        "river",
+        "loop"
+      ],
+      "duration_s": 20.0,
+      "prompt": "rushing flood water through rock tunnel, loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "ep17 thai cave"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "music/comedic-documentary/comedic-sea-shanty-voyage-bed-a",
+      "type": "music",
+      "file": "music/comedic-documentary/comedic-sea-shanty-voyage-bed-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "comedic",
+        "documentary",
+        "sea-shanty",
+        "nautical",
+        "pirate",
+        "accordion",
+        "fiddle",
+        "concertina",
+        "6-8",
+        "stomp-clap",
+        "age-of-exploration",
+        "narration-bed"
+      ],
+      "duration_s": 152.0,
+      "prompt": "Comedic sea shanty documentary bed, bouncy 6/8 shanty groove, accordion, fiddle, concertina, plucky pizzicato strings, foot stomps and hand claps, tuba bass, playful swashbuckling mock-heroic adventure, lighthearted and cheeky, steady medium tempo, room for narration, instrumental",
+      "generator": "Suno via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [
+        "Cars Explains History V22 (Columbus)"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/comedic-sea-shanty-voyage-bed-b",
+      "type": "music",
+      "file": "music/comedic-documentary/comedic-sea-shanty-voyage-bed-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "comedic",
+        "documentary",
+        "sea-shanty",
+        "nautical",
+        "pirate",
+        "accordion",
+        "fiddle",
+        "concertina",
+        "6-8",
+        "stomp-clap",
+        "age-of-exploration",
+        "narration-bed"
+      ],
+      "duration_s": 155.1,
+      "prompt": "Comedic sea shanty documentary bed, bouncy 6/8 shanty groove, accordion, fiddle, concertina, plucky pizzicato strings, foot stomps and hand claps, tuba bass, playful swashbuckling mock-heroic adventure, lighthearted and cheeky, steady medium tempo, room for narration, instrumental",
+      "generator": "Suno via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [
+        "Cars Explains History V22 (Columbus)"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/creatures/seagull-squawk",
+      "type": "sfx",
+      "file": "sfx/creatures/seagull-squawk.mp3",
+      "category": "creatures",
+      "tags": [
+        "seagull",
+        "gull",
+        "bird",
+        "squawk",
+        "beach",
+        "sea",
+        "harbour",
+        "comedic"
+      ],
+      "duration_s": 1.5,
+      "prompt": "a single seagull squawk cry, comedic, close, by the sea, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [
+        "Cars Explains History V22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/gps-navigation-recalculating-chime",
+      "type": "sfx",
+      "file": "sfx/ui/gps-navigation-recalculating-chime.mp3",
+      "category": "ui",
+      "tags": [
+        "gps",
+        "navigation",
+        "sat-nav",
+        "chime",
+        "dashboard",
+        "notification",
+        "recalculating",
+        "car",
+        "ui"
+      ],
+      "duration_s": 1.0,
+      "prompt": "car GPS navigation recalculating chime, two-tone electronic dashboard notification ding, clean, no voice",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [
+        "Cars Explains History V22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/hourglass-sand-trickle",
+      "type": "sfx",
+      "file": "sfx/foley/hourglass-sand-trickle.mp3",
+      "category": "foley",
+      "tags": [
+        "sand",
+        "hourglass",
+        "trickle",
+        "grains",
+        "timer",
+        "soft"
+      ],
+      "duration_s": 4.0,
+      "prompt": "fine sand trickling steadily through an hourglass, soft continuous hiss of grains, close, clean, no background",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [
+        "The Tower Part 4"
+      ],
+      "notes": "very quiet master (peak -33.6 dBFS): add ~+10 dB in the mix"
+    },
+    {
+      "id": "sfx/creatures/snake-hiss",
+      "type": "sfx",
+      "file": "sfx/creatures/snake-hiss.mp3",
+      "category": "creatures",
+      "tags": [
+        "snake",
+        "hiss",
+        "serpent",
+        "danger",
+        "creepy"
+      ],
+      "duration_s": 2.0,
+      "prompt": "snake hissing menacingly, one long sharp hiss, close, clean, no background",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [
+        "The Tower Part 4"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/wooden-chest-rattle",
+      "type": "sfx",
+      "file": "sfx/foley/wooden-chest-rattle.mp3",
+      "category": "foley",
+      "tags": [
+        "chest",
+        "wood",
+        "lid",
+        "rattle",
+        "knock",
+        "box",
+        "something-inside"
+      ],
+      "duration_s": 2.0,
+      "prompt": "heavy wooden chest lid rattling and knocking as something moves inside, close, clean, no background",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [
+        "The Tower Part 4"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/boots-on-stone-footsteps",
+      "type": "sfx",
+      "file": "sfx/foley/boots-on-stone-footsteps.mp3",
+      "category": "foley",
+      "tags": [
+        "footsteps",
+        "boots",
+        "stone",
+        "walking",
+        "castle",
+        "guard"
+      ],
+      "duration_s": 2.0,
+      "prompt": "heavy boot footsteps walking on a stone floor, four steps, castle hall, close, clean, no background",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [
+        "The Tower Part 4"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/smug-man-chuckle",
+      "type": "sfx",
+      "file": "sfx/creatures/smug-man-chuckle.mp3",
+      "category": "creatures",
+      "tags": [
+        "chuckle",
+        "laugh",
+        "smug",
+        "man",
+        "villain",
+        "voice",
+        "mischievous"
+      ],
+      "duration_s": 1.5,
+      "prompt": "deep male voice smug low chuckle, short, mischievous, close, clean, no background",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "The Tower (Zaim)",
+      "added": "2026-11-06",
+      "used_in": [
+        "The Tower Part 4"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/jungle-ambience-loop",
+      "type": "sfx",
+      "file": "sfx/ambience/jungle-ambience-loop.mp3",
+      "category": "ambience",
+      "tags": [
+        "jungle",
+        "tropical",
+        "ambience",
+        "insects",
+        "birds",
+        "loop",
+        "humid"
+      ],
+      "duration_s": 22.0,
+      "prompt": "dense tropical jungle ambience, insects, distant birds, humid, seamless loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "what-if-survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "Day 21 Onoda"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/city-street-ambience-loop",
+      "type": "sfx",
+      "file": "sfx/ambience/city-street-ambience-loop.mp3",
+      "category": "ambience",
+      "tags": [
+        "city",
+        "street",
+        "traffic",
+        "crowd",
+        "murmur",
+        "ambience",
+        "loop"
+      ],
+      "duration_s": 22.0,
+      "prompt": "busy city street ambience, distant traffic and crowd murmur, loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "what-if-survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "Day 20 Only Person With Internet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/rotary-phone-ring",
+      "type": "sfx",
+      "file": "sfx/foley/rotary-phone-ring.mp3",
+      "category": "foley",
+      "tags": [
+        "phone",
+        "telephone",
+        "rotary",
+        "landline",
+        "ring",
+        "vintage"
+      ],
+      "duration_s": 4.0,
+      "prompt": "old rotary landline telephone ringing, two rings",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "what-if-survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "Day 20"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/paper-leaflets-flutter",
+      "type": "sfx",
+      "file": "sfx/foley/paper-leaflets-flutter.mp3",
+      "category": "foley",
+      "tags": [
+        "paper",
+        "leaflets",
+        "flutter",
+        "falling",
+        "flyers"
+      ],
+      "duration_s": 4.0,
+      "prompt": "stack of paper leaflets fluttering down through the air",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "what-if-survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "Day 21"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/propeller-plane-flyby",
+      "type": "sfx",
+      "file": "sfx/vehicles/propeller-plane-flyby.mp3",
+      "category": "vehicles",
+      "tags": [
+        "plane",
+        "propeller",
+        "vintage",
+        "aircraft",
+        "flyby",
+        "overhead"
+      ],
+      "duration_s": 6.0,
+      "prompt": "vintage propeller airplane flying overhead, flyby",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "what-if-survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "Day 21"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/crowds/press-crowd-camera-flashes",
+      "type": "sfx",
+      "file": "sfx/crowds/press-crowd-camera-flashes.mp3",
+      "category": "crowds",
+      "tags": [
+        "crowd",
+        "reporters",
+        "press",
+        "camera",
+        "shutter",
+        "flash",
+        "murmur"
+      ],
+      "duration_s": 6.0,
+      "prompt": "crowd of reporters, camera shutters and flashes, murmuring",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "what-if-survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "Day 21"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/hourglass-flip-thunk",
+      "type": "sfx",
+      "file": "sfx/foley/hourglass-flip-thunk.mp3",
+      "category": "foley",
+      "tags": [
+        "hourglass",
+        "flip",
+        "wood",
+        "thunk",
+        "glass",
+        "clink",
+        "table"
+      ],
+      "duration_s": 1.5,
+      "prompt": "Heavy wooden hourglass flipped over and set down on a stone table, single solid wooden thunk with a soft glass clink, close foley, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/wooden-chest-lid-creak",
+      "type": "sfx",
+      "file": "sfx/foley/wooden-chest-lid-creak.mp3",
+      "category": "foley",
+      "tags": [
+        "chest",
+        "lid",
+        "creak",
+        "hinge",
+        "open",
+        "wood",
+        "treasure"
+      ],
+      "duration_s": 2.0,
+      "prompt": "Old wooden treasure chest lid slowly creaking open, rusty iron hinges squeak, single clean foley sound, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/rope-bridge-creak",
+      "type": "sfx",
+      "file": "sfx/foley/rope-bridge-creak.mp3",
+      "category": "foley",
+      "tags": [
+        "rope",
+        "bridge",
+        "creak",
+        "strain",
+        "planks",
+        "sway",
+        "tense"
+      ],
+      "duration_s": 3.0,
+      "prompt": "Old rope bridge swaying, thick ropes straining and creaking, loose wooden planks knocking, tense, single clean sound, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/howling-wind-gorge",
+      "type": "sfx",
+      "file": "sfx/ambience/howling-wind-gorge.mp3",
+      "category": "ambience",
+      "tags": [
+        "wind",
+        "howling",
+        "gorge",
+        "chasm",
+        "night",
+        "eerie",
+        "ambience",
+        "mountain"
+      ],
+      "duration_s": 6.0,
+      "prompt": "Cold howling wind blowing through a deep mountain gorge at night, eerie low gusts, seamless ambience, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/mountain-wind-howl-loop",
+      "type": "sfx",
+      "file": "sfx/ambience/mountain-wind-howl-loop.mp3",
+      "category": "ambience",
+      "tags": [
+        "wind",
+        "mountain",
+        "howling",
+        "gusts",
+        "snow",
+        "cold",
+        "ambience",
+        "loop"
+      ],
+      "duration_s": 20.0,
+      "prompt": "cold high mountain wind ambience, steady howling gusts over snowy peaks, no music, seamless loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #8"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/camel-grunt-comedic",
+      "type": "sfx",
+      "file": "sfx/creatures/camel-grunt-comedic.mp3",
+      "category": "creatures",
+      "tags": [
+        "camel",
+        "grunt",
+        "groan",
+        "animal",
+        "comedic"
+      ],
+      "duration_s": 2.0,
+      "prompt": "single camel grunt groan, comedic animal vocal, clean, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #8"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/weather/polar-blizzard-wind-loop",
+      "type": "sfx",
+      "file": "sfx/weather/polar-blizzard-wind-loop.mp3",
+      "category": "weather",
+      "tags": [
+        "wind",
+        "blizzard",
+        "polar",
+        "antarctic",
+        "ambience",
+        "loop",
+        "snow"
+      ],
+      "duration_s": 22.0,
+      "prompt": "howling polar blizzard wind ambience, steady gusts and blowing snow, seamless loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #9"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/prop-cargo-plane-takeoff",
+      "type": "sfx",
+      "file": "sfx/vehicles/prop-cargo-plane-takeoff.mp3",
+      "category": "vehicles",
+      "tags": [
+        "plane",
+        "propeller",
+        "cargo",
+        "takeoff",
+        "flyby",
+        "aircraft",
+        "engine"
+      ],
+      "duration_s": 9.0,
+      "prompt": "four-engine propeller cargo plane taking off on snow and flying away into the distance",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #9"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/magic/magical-shimmer-swell",
+      "type": "sfx",
+      "file": "sfx/magic/magical-shimmer-swell.mp3",
+      "category": "magic",
+      "tags": [
+        "shimmer",
+        "chimes",
+        "sparkle",
+        "magical",
+        "wonder",
+        "ethereal",
+        "swell",
+        "reveal"
+      ],
+      "duration_s": 5.0,
+      "prompt": "magical shimmering chime swell, glassy sparkles, soft ethereal wonder",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #9"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/calendar-page-flip",
+      "type": "sfx",
+      "file": "sfx/foley/calendar-page-flip.mp3",
+      "category": "foley",
+      "tags": [
+        "paper",
+        "page",
+        "flip",
+        "calendar",
+        "tear",
+        "time-jump"
+      ],
+      "duration_s": 1.5,
+      "prompt": "single paper calendar page flip and tear",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #9"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/heavy-door-icy-wind",
+      "type": "sfx",
+      "file": "sfx/foley/heavy-door-icy-wind.mp3",
+      "category": "foley",
+      "tags": [
+        "door",
+        "heavy",
+        "metal",
+        "open",
+        "wind",
+        "cold",
+        "gust"
+      ],
+      "duration_s": 3.0,
+      "prompt": "heavy insulated metal door opening with a rush of icy wind",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #9"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/station-interior-hum-loop",
+      "type": "sfx",
+      "file": "sfx/ambience/station-interior-hum-loop.mp3",
+      "category": "ambience",
+      "tags": [
+        "room-tone",
+        "hum",
+        "ventilation",
+        "interior",
+        "station",
+        "ambience",
+        "loop"
+      ],
+      "duration_s": 20.0,
+      "prompt": "low indoor ventilation hum, research station interior room tone, loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "survive-this",
+      "added": "2026-11-06",
+      "used_in": [
+        "survive-this #9"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "music/comedic-documentary/comedic-soviet-balalaika-march-a",
+      "type": "music",
+      "file": "music/comedic-documentary/comedic-soviet-balalaika-march-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "comedic",
+        "documentary",
+        "soviet",
+        "russian",
+        "cold-war",
+        "march",
+        "balalaika",
+        "accordion",
+        "tuba",
+        "brass",
+        "mock-heroic",
+        "narration-bed"
+      ],
+      "duration_s": 154.3,
+      "prompt": "comedic mock-heroic Soviet-style military march, balalaika tremolo, accordion, oom-pah tuba, snare drum, pompous brass, Russian folk flavour, cheeky and deadpan, instrumental documentary narration bed with intro, build and big finish",
+      "generator": "Suno via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/comedic-soviet-balalaika-march-b",
+      "type": "music",
+      "file": "music/comedic-documentary/comedic-soviet-balalaika-march-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "comedic",
+        "documentary",
+        "soviet",
+        "russian",
+        "cold-war",
+        "march",
+        "balalaika",
+        "accordion",
+        "tuba",
+        "brass",
+        "mock-heroic",
+        "narration-bed"
+      ],
+      "duration_s": 187.2,
+      "prompt": "comedic mock-heroic Soviet-style military march, balalaika tremolo, accordion, oom-pah tuba, snare drum, pompous brass, Russian folk flavour, cheeky and deadpan, instrumental documentary narration bed with intro, build and big finish",
+      "generator": "Suno via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/vehicles/engine-sputter-out-of-fuel",
+      "type": "sfx",
+      "file": "sfx/vehicles/engine-sputter-out-of-fuel.mp3",
+      "category": "vehicles",
+      "tags": [
+        "engine",
+        "sputter",
+        "cough",
+        "stall",
+        "out-of-gas",
+        "fuel",
+        "dying",
+        "car",
+        "comedic"
+      ],
+      "duration_s": 3.0,
+      "prompt": "old car engine sputtering, coughing and dying as it runs out of fuel, then silence",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-explains-history",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/torch-fire-crackle",
+      "type": "sfx",
+      "file": "sfx/foley/torch-fire-crackle.mp3",
+      "category": "foley",
+      "tags": [
+        "fire",
+        "torch",
+        "flame",
+        "crackle",
+        "burning",
+        "medieval",
+        "loop"
+      ],
+      "duration_s": 4.0,
+      "prompt": "Close burning wooden torch flame, steady crackle and soft roar of fire, pops of embers, dry, no music",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/torch-extinguish-fizzle",
+      "type": "sfx",
+      "file": "sfx/foley/torch-extinguish-fizzle.mp3",
+      "category": "foley",
+      "tags": [
+        "fire",
+        "torch",
+        "extinguish",
+        "fizzle",
+        "hiss",
+        "snuff",
+        "smoke"
+      ],
+      "duration_s": 1.5,
+      "prompt": "A burning torch flame snuffed out, sharp fizzle and dying hiss then a puff of smoke, silence after, dry",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/wooden-plank-snap-fall",
+      "type": "sfx",
+      "file": "sfx/impacts/wooden-plank-snap-fall.mp3",
+      "category": "impacts",
+      "tags": [
+        "wood",
+        "plank",
+        "snap",
+        "crack",
+        "break",
+        "fall",
+        "bridge",
+        "chasm"
+      ],
+      "duration_s": 2.5,
+      "prompt": "Rotten wooden plank cracks and snaps, then the broken plank tumbles away falling down into a deep chasm, fading",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/jester-bells-jingle",
+      "type": "sfx",
+      "file": "sfx/foley/jester-bells-jingle.mp3",
+      "category": "foley",
+      "tags": [
+        "bells",
+        "jester",
+        "jingle",
+        "tinkle",
+        "playful",
+        "medieval"
+      ],
+      "duration_s": 1.5,
+      "prompt": "Jester hat with small brass bells jingling as he shakes his head, playful light tinkle, close, dry",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/heavy-executioner-footsteps",
+      "type": "sfx",
+      "file": "sfx/foley/heavy-executioner-footsteps.mp3",
+      "category": "foley",
+      "tags": [
+        "footsteps",
+        "heavy",
+        "boots",
+        "stone",
+        "executioner",
+        "menacing",
+        "dungeon"
+      ],
+      "duration_s": 2.5,
+      "prompt": "Three slow very heavy boot footsteps on stone floor, big menacing man walking, deep thuds with echo in a dungeon",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-06",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/car-hood-flap-slam",
+      "type": "sfx",
+      "file": "sfx/vehicles/car-hood-flap-slam.mp3",
+      "category": "vehicles",
+      "tags": [
+        "car",
+        "hood",
+        "flap",
+        "slam",
+        "bang",
+        "windshield",
+        "wind",
+        "metal"
+      ],
+      "duration_s": 3.0,
+      "prompt": "loose car hood flapping up and slamming against the windshield while driving, metal bang and rattle, road wind, no music",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-07",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/undercarriage-scrape-sparks",
+      "type": "sfx",
+      "file": "sfx/vehicles/undercarriage-scrape-sparks.mp3",
+      "category": "vehicles",
+      "tags": [
+        "metal",
+        "scrape",
+        "grind",
+        "sparks",
+        "asphalt",
+        "car",
+        "drag",
+        "crash"
+      ],
+      "duration_s": 4.0,
+      "prompt": "metal car undercarriage scraping and grinding on asphalt road, sparks, dragging metal, no music",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "police-video-series",
+      "added": "2026-11-07",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/straight-pipe-exhaust-rev-backfire",
+      "type": "sfx",
+      "file": "sfx/vehicles/straight-pipe-exhaust-rev-backfire.mp3",
+      "category": "vehicles",
+      "tags": [
+        "exhaust",
+        "muffler",
+        "rev",
+        "v8",
+        "rumble",
+        "backfire",
+        "pops",
+        "loud",
+        "car"
+      ],
+      "duration_s": 4.0,
+      "prompt": "Loud aftermarket straight-pipe car exhaust, deep menacing V8 rumble, two aggressive throttle revs, ending in a crackle of backfire pops, close-mic, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-history-channel",
+      "added": "2026-11-07",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/turn-signal-blinker-ticking",
+      "type": "sfx",
+      "file": "sfx/vehicles/turn-signal-blinker-ticking.mp3",
+      "category": "vehicles",
+      "tags": [
+        "turn-signal",
+        "blinker",
+        "indicator",
+        "ticking",
+        "click",
+        "dashboard",
+        "car"
+      ],
+      "duration_s": 3.0,
+      "prompt": "Car turn signal indicator ticking, clean dashboard blinker click-clack, steady rhythm, no engine, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-history-channel",
+      "added": "2026-11-07",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/tape-measure-pull-retract-snap",
+      "type": "sfx",
+      "file": "sfx/foley/tape-measure-pull-retract-snap.mp3",
+      "category": "foley",
+      "tags": [
+        "tape-measure",
+        "measuring",
+        "zip",
+        "retract",
+        "snap",
+        "click",
+        "foley",
+        "height"
+      ],
+      "duration_s": 2.5,
+      "prompt": "metal tape measure pulled out fast then retracting with a quick zip and snap click, clean single foley sound, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-history-channel",
+      "added": "2026-11-07",
+      "used_in": [
+        "EP09 Napoleon height"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/vehicle-collision-metal-crunch",
+      "type": "sfx",
+      "file": "sfx/vehicles/vehicle-collision-metal-crunch.mp3",
+      "category": "vehicles",
+      "tags": [
+        "crash",
+        "collision",
+        "car",
+        "metal",
+        "crunch",
+        "impact",
+        "debris",
+        "pursuit"
+      ],
+      "duration_s": 2.5,
+      "prompt": "two vehicles colliding, heavy metal crunch and bang, short car crash impact with light debris, outdoors, no music",
+      "generator": "ElevenLabs sound v3 via AI33",
+      "added_by": "Police Video Series",
+      "added": "2026-11-07",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/box-truck-rollover-side-slam",
+      "type": "sfx",
+      "file": "sfx/vehicles/box-truck-rollover-side-slam.mp3",
+      "category": "vehicles",
+      "tags": [
+        "truck",
+        "rollover",
+        "crash",
+        "metal",
+        "crunch",
+        "scrape",
+        "slide",
+        "debris"
+      ],
+      "duration_s": 4.0,
+      "prompt": "heavy box truck tipping over and slamming onto its side on pavement, deep metal crunch, scraping slide, debris settling, no music",
+      "generator": "ElevenLabs sound v3 via AI33",
+      "added_by": "Police Video Series",
+      "added": "2026-11-07",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/patrol-car-engine-acceleration-road",
+      "type": "sfx",
+      "file": "sfx/vehicles/patrol-car-engine-acceleration-road.mp3",
+      "category": "vehicles",
+      "tags": [
+        "engine",
+        "police",
+        "car",
+        "acceleration",
+        "road-noise",
+        "pursuit",
+        "exterior",
+        "loop"
+      ],
+      "duration_s": 8.0,
+      "prompt": "police patrol car engine accelerating hard on a city road, steady engine roar and tire road noise, exterior, no siren, no music",
+      "generator": "ElevenLabs sound v3 via AI33",
+      "added_by": "Police Video Series",
+      "added": "2026-11-07",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/axe-drag-on-stone",
+      "type": "sfx",
+      "file": "sfx/foley/axe-drag-on-stone.mp3",
+      "category": "foley",
+      "tags": [
+        "axe",
+        "metal",
+        "scrape",
+        "drag",
+        "stone",
+        "executioner",
+        "menacing",
+        "dungeon"
+      ],
+      "duration_s": 2.5,
+      "prompt": "Heavy iron axe blade dragged slowly across a stone floor, menacing metal scrape and grind, dungeon, dry, no music",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-10",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/gallows-rope-creak",
+      "type": "sfx",
+      "file": "sfx/foley/gallows-rope-creak.mp3",
+      "category": "foley",
+      "tags": [
+        "rope",
+        "creak",
+        "gallows",
+        "noose",
+        "beam",
+        "sway",
+        "eerie"
+      ],
+      "duration_s": 3.0,
+      "prompt": "Thick hemp rope creaking under tension as it slowly sways from an old wooden beam, eerie, sparse, dry, no music",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-10",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/crowds/small-crowd-shocked-gasp",
+      "type": "sfx",
+      "file": "sfx/crowds/small-crowd-shocked-gasp.mp3",
+      "category": "crowds",
+      "tags": [
+        "crowd",
+        "gasp",
+        "shock",
+        "breath",
+        "reaction",
+        "group"
+      ],
+      "duration_s": 1.5,
+      "prompt": "Small group of people gasp in shock at the same moment, sharp intake of breath, close, dry, no music",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-10",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/police/traffic-police-whistle-double-blast",
+      "type": "sfx",
+      "file": "sfx/police/traffic-police-whistle-double-blast.mp3",
+      "category": "police",
+      "tags": [
+        "whistle",
+        "police",
+        "traffic",
+        "referee",
+        "blast",
+        "comedic"
+      ],
+      "duration_s": 2.0,
+      "prompt": "traffic police whistle, two sharp short blasts, clean, no other sounds",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-history-channel EP24",
+      "added": "2026-11-10",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/traffic-jam-many-horns-honking",
+      "type": "sfx",
+      "file": "sfx/vehicles/traffic-jam-many-horns-honking.mp3",
+      "category": "vehicles",
+      "tags": [
+        "traffic-jam",
+        "horns",
+        "honking",
+        "gridlock",
+        "city",
+        "cars",
+        "impatient"
+      ],
+      "duration_s": 4.0,
+      "prompt": "traffic jam, many car horns honking at once, impatient city gridlock, short burst",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "cars-history-channel EP24",
+      "added": "2026-11-10",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/cartoon-duck-quack",
+      "type": "sfx",
+      "file": "sfx/creatures/cartoon-duck-quack.mp3",
+      "category": "creatures",
+      "tags": [
+        "duck",
+        "quack",
+        "cartoon",
+        "comedic",
+        "bird",
+        "silly"
+      ],
+      "duration_s": 1.0,
+      "prompt": "Single comedic duck quack, clear and close, cartoon timing, dry, no music",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-10",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/match-strike-ignite",
+      "type": "sfx",
+      "file": "sfx/foley/match-strike-ignite.mp3",
+      "category": "foley",
+      "tags": [
+        "match",
+        "strike",
+        "ignite",
+        "flame",
+        "fire",
+        "scratch",
+        "foley"
+      ],
+      "duration_s": 2.0,
+      "prompt": "Single wooden match strike on a matchbox, scratch then a soft flare ignition whoosh, clean, close-up, no music",
+      "generator": "ElevenLabs SFX via AI33",
+      "added_by": "The Tower",
+      "added": "2026-11-10",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "music/cute-family/soft-music-box-lullaby-a",
+      "type": "music",
+      "file": "music/cute-family/soft-music-box-lullaby-a.mp3",
+      "category": "cute-family",
+      "tags": [
+        "cute",
+        "family",
+        "lullaby",
+        "music-box",
+        "piano",
+        "soft",
+        "subtle",
+        "baby",
+        "warm"
+      ],
+      "duration_s": 169.6,
+      "prompt": "Soft gentle instrumental lullaby, music box and light felt piano with soft glockenspiel and warm pads, cute, tender, cozy family morning, very subtle, slow 80 bpm, background underscore",
+      "generator": "Suno via AI33",
+      "added_by": "AI Family Shorts",
+      "added": "2026-11-12",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/cute-family/soft-music-box-lullaby-b",
+      "type": "music",
+      "file": "music/cute-family/soft-music-box-lullaby-b.mp3",
+      "category": "cute-family",
+      "tags": [
+        "cute",
+        "family",
+        "lullaby",
+        "music-box",
+        "piano",
+        "soft",
+        "subtle",
+        "baby",
+        "warm"
+      ],
+      "duration_s": 165.3,
+      "prompt": "Soft gentle instrumental lullaby, music box and light felt piano with soft glockenspiel and warm pads, cute, tender, cozy family morning, very subtle, slow 80 bpm, background underscore",
+      "generator": "Suno via AI33",
+      "added_by": "AI Family Shorts",
+      "added": "2026-11-12",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/cute-family/kawaii-lofi-quiz-bed-a",
+      "type": "music",
+      "file": "music/cute-family/kawaii-lofi-quiz-bed-a.mp3",
+      "category": "cute-family",
+      "tags": [
+        "cute",
+        "kawaii",
+        "lofi",
+        "quiz",
+        "game-show",
+        "ukulele",
+        "glockenspiel",
+        "playful",
+        "cheerful",
+        "bouncy"
+      ],
+      "duration_s": 146.9,
+      "prompt": "cute bouncy kawaii lofi quiz show bed, light ukulele, glockenspiel, soft claps and finger snaps, playful and cheerful, gentle hip-hop groove, instrumental, loopable",
+      "generator": "Suno via AI33",
+      "added_by": "Zhai Lian Lian",
+      "added": "2026-11-13",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/cute-family/kawaii-lofi-quiz-bed-b",
+      "type": "music",
+      "file": "music/cute-family/kawaii-lofi-quiz-bed-b.mp3",
+      "category": "cute-family",
+      "tags": [
+        "cute",
+        "kawaii",
+        "lofi",
+        "quiz",
+        "game-show",
+        "ukulele",
+        "glockenspiel",
+        "playful",
+        "cheerful",
+        "bouncy"
+      ],
+      "duration_s": 141.7,
+      "prompt": "cute bouncy kawaii lofi quiz show bed, light ukulele, glockenspiel, soft claps and finger snaps, playful and cheerful, gentle hip-hop groove, instrumental, loopable",
+      "generator": "Suno via AI33",
+      "added_by": "Zhai Lian Lian",
+      "added": "2026-11-13",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/military-disaster/ww1-solemn-strings-elegy-a",
+      "type": "music",
+      "file": "music/military-disaster/ww1-solemn-strings-elegy-a.mp3",
+      "category": "military-disaster",
+      "tags": [
+        "ww1",
+        "elegy",
+        "strings",
+        "snare",
+        "brass",
+        "somber",
+        "documentary",
+        "war"
+      ],
+      "duration_s": 204.6,
+      "prompt": "solemn First World War era instrumental elegy, slow mournful string orchestra, soft muffled snare drum rolls, a distant lone brass horn, melancholic but dignified, quiet intro, gradual swell, restrained climax, gentle fade, cinematic documentary underscore",
+      "generator": "suno",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/military-disaster/ww1-solemn-strings-elegy-b",
+      "type": "music",
+      "file": "music/military-disaster/ww1-solemn-strings-elegy-b.mp3",
+      "category": "military-disaster",
+      "tags": [
+        "ww1",
+        "elegy",
+        "strings",
+        "snare",
+        "brass",
+        "somber",
+        "documentary",
+        "war"
+      ],
+      "duration_s": 197.2,
+      "prompt": "solemn First World War era instrumental elegy, slow mournful string orchestra, soft muffled snare drum rolls, a distant lone brass horn, melancholic but dignified, quiet intro, gradual swell, restrained climax, gentle fade, cinematic documentary underscore",
+      "generator": "suno",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/noir-suspense/cold-war-spy-jazz-a",
+      "type": "music",
+      "file": "music/noir-suspense/cold-war-spy-jazz-a.mp3",
+      "category": "noir-suspense",
+      "tags": [
+        "spy",
+        "jazz",
+        "vibraphone",
+        "upright-bass",
+        "surf-guitar",
+        "sneaky",
+        "60s",
+        "cold-war"
+      ],
+      "duration_s": 177.3,
+      "prompt": "1960s Cold War spy jazz instrumental, walking upright bass, vibraphone melody, muted trumpet stabs, brushed drums, twangy baritone surf guitar, cool sneaky and playful, intro, build with brass hits, confident climax, documentary underscore",
+      "generator": "suno",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/noir-suspense/cold-war-spy-jazz-b",
+      "type": "music",
+      "file": "music/noir-suspense/cold-war-spy-jazz-b.mp3",
+      "category": "noir-suspense",
+      "tags": [
+        "spy",
+        "jazz",
+        "vibraphone",
+        "upright-bass",
+        "surf-guitar",
+        "sneaky",
+        "60s",
+        "cold-war"
+      ],
+      "duration_s": 188.9,
+      "prompt": "1960s Cold War spy jazz instrumental, walking upright bass, vibraphone melody, muted trumpet stabs, brushed drums, twangy baritone surf guitar, cool sneaky and playful, intro, build with brass hits, confident climax, documentary underscore",
+      "generator": "suno",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/creatures/rat-squeak",
+      "type": "sfx",
+      "file": "sfx/creatures/rat-squeak.mp3",
+      "category": "creatures",
+      "tags": [
+        "rat",
+        "squeak",
+        "rodent",
+        "small"
+      ],
+      "duration_s": 1.5,
+      "prompt": "small rat squeaking twice, close, single clean sound, no music",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/weather/rain-on-mud-loop",
+      "type": "sfx",
+      "file": "sfx/weather/rain-on-mud-loop.mp3",
+      "category": "weather",
+      "tags": [
+        "rain",
+        "mud",
+        "puddles",
+        "dripping",
+        "loop",
+        "ambience"
+      ],
+      "duration_s": 12.0,
+      "prompt": "steady cold rain falling on mud and puddles with water dripping off sandbags, ambience loop, no thunder, no music",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/mud-squelch",
+      "type": "sfx",
+      "file": "sfx/foley/mud-squelch.mp3",
+      "category": "foley",
+      "tags": [
+        "mud",
+        "squelch",
+        "boot",
+        "wet",
+        "step"
+      ],
+      "duration_s": 1.5,
+      "prompt": "boot pulling out of deep thick mud, wet squelch, single clean sound",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/creatures/crow-caw-distant",
+      "type": "sfx",
+      "file": "sfx/creatures/crow-caw-distant.mp3",
+      "category": "creatures",
+      "tags": [
+        "crow",
+        "caw",
+        "bird",
+        "distant",
+        "morning"
+      ],
+      "duration_s": 2.5,
+      "prompt": "single crow cawing twice in the distance, cold morning, clean",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/shell-casing-alarm-gong",
+      "type": "sfx",
+      "file": "sfx/impacts/shell-casing-alarm-gong.mp3",
+      "category": "impacts",
+      "tags": [
+        "gong",
+        "metal",
+        "alarm",
+        "brass",
+        "shell",
+        "ringing",
+        "ww1"
+      ],
+      "duration_s": 3.0,
+      "prompt": "empty brass artillery shell casing hanging on wire struck repeatedly with a stick like an alarm gong, metallic ringing",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/cartoon-spring-boing",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/cartoon-spring-boing.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "boing",
+        "spring",
+        "cartoon",
+        "pop-up",
+        "comedy"
+      ],
+      "duration_s": 1.0,
+      "prompt": "cartoon spring boing as something pops up, bouncy, single clean sound",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/chalk-mark-scrape",
+      "type": "sfx",
+      "file": "sfx/foley/chalk-mark-scrape.mp3",
+      "category": "foley",
+      "tags": [
+        "chalk",
+        "scrape",
+        "mark",
+        "line"
+      ],
+      "duration_s": 1.0,
+      "prompt": "piece of chalk drawing one short line on metal, single clean scrape",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/machines/typewriter-line-bell",
+      "type": "sfx",
+      "file": "sfx/machines/typewriter-line-bell.mp3",
+      "category": "machines",
+      "tags": [
+        "typewriter",
+        "typing",
+        "keys",
+        "carriage-return",
+        "bell",
+        "vintage"
+      ],
+      "duration_s": 3.0,
+      "prompt": "vintage manual typewriter typing a short line of keys then a carriage return bell ding",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/pencil-scribble",
+      "type": "sfx",
+      "file": "sfx/foley/pencil-scribble.mp3",
+      "category": "foley",
+      "tags": [
+        "pencil",
+        "sketch",
+        "scribble",
+        "paper",
+        "writing"
+      ],
+      "duration_s": 2.0,
+      "prompt": "pencil quickly sketching lines on paper, close, dry",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/explosions/distant-artillery-barrage",
+      "type": "sfx",
+      "file": "sfx/explosions/distant-artillery-barrage.mp3",
+      "category": "explosions",
+      "tags": [
+        "artillery",
+        "barrage",
+        "distant",
+        "rumble",
+        "war",
+        "ww1",
+        "booms"
+      ],
+      "duration_s": 6.0,
+      "prompt": "distant WW1 artillery barrage, muffled booms rolling across the horizon, low rumble, no music",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/ww1-trench-night-loop",
+      "type": "sfx",
+      "file": "sfx/ambience/ww1-trench-night-loop.mp3",
+      "category": "ambience",
+      "tags": [
+        "night",
+        "war",
+        "front-line",
+        "wind",
+        "distant-rifle",
+        "ambience",
+        "loop",
+        "ww1"
+      ],
+      "duration_s": 15.0,
+      "prompt": "quiet night on a First World War front line: cold wind, occasional very distant rifle crack, faint distant thud, ambience loop, no music",
+      "generator": "elevenlabs-sfx-v3",
+      "added_by": "police-video-series",
+      "added": "2026-11-13",
+      "used_in": [
+        "Doodle History v21/v22"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/magic/heavenly-choir-ahh-stinger",
+      "type": "sfx",
+      "file": "sfx/magic/heavenly-choir-ahh-stinger.mp3",
+      "category": "magic",
+      "tags": [
+        "choir",
+        "ahh",
+        "angelic",
+        "heavenly",
+        "win",
+        "positive",
+        "stinger",
+        "reveal"
+      ],
+      "duration_s": 2.5,
+      "prompt": "heavenly angelic choir ahh stinger, bright major chord swell and release, clean one-shot, no instruments",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/epic-choir-orchestra-hit",
+      "type": "sfx",
+      "file": "sfx/impacts/epic-choir-orchestra-hit.mp3",
+      "category": "impacts",
+      "tags": [
+        "choir",
+        "orchestra",
+        "epic",
+        "hit",
+        "impact",
+        "sub-boom",
+        "trailer",
+        "finale",
+        "number-one"
+      ],
+      "duration_s": 3.5,
+      "prompt": "massive epic choir and full orchestra hit with deep sub boom, dramatic cinematic one-shot",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/score-counter-tick-up-ding",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/score-counter-tick-up-ding.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "counter",
+        "score",
+        "ticking",
+        "count-up",
+        "ding",
+        "game",
+        "ui",
+        "points"
+      ],
+      "duration_s": 1.2,
+      "prompt": "fast score counter ticking up, rapid digital clicks accelerating then a bright ding, game UI one-shot",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "music/epic-cinematic/legendary-hero-finale-a",
+      "type": "music",
+      "file": "music/epic-cinematic/legendary-hero-finale-a.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "epic",
+        "heroic",
+        "triumphant",
+        "choir",
+        "brass",
+        "taiko",
+        "finale",
+        "number-one",
+        "legendary"
+      ],
+      "duration_s": 192.9,
+      "prompt": "Epic heroic orchestral finale for a legendary hero, triumphant brass fanfare, soaring strings, big choir, pounding taiko drums, builds fast to a glorious peak, cinematic movie trailer, instrumental",
+      "generator": "suno via ai33 (v1s music-generation, instrumental)",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked day13 dreamworks heroes #1"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/legendary-hero-finale-b",
+      "type": "music",
+      "file": "music/epic-cinematic/legendary-hero-finale-b.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "epic",
+        "heroic",
+        "triumphant",
+        "choir",
+        "brass",
+        "taiko",
+        "finale",
+        "number-one",
+        "legendary"
+      ],
+      "duration_s": 190.0,
+      "prompt": "Epic heroic orchestral finale for a legendary hero, triumphant brass fanfare, soaring strings, big choir, pounding taiko drums, builds fast to a glorious peak, cinematic movie trailer, instrumental",
+      "generator": "suno via ai33 (v1s music-generation, instrumental)",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked day13 dreamworks heroes #1"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/ui-cartoon/fail-piano-lose-sting",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/fail-piano-lose-sting.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "fail",
+        "piano",
+        "lose",
+        "sting",
+        "comedic",
+        "descending",
+        "sad",
+        "game-over"
+      ],
+      "duration_s": 2.5,
+      "prompt": "comedic fail piano lose sting, short descending honky-tonk piano notes ending on a sad low chord, cartoon failure, game over",
+      "generator": "elevenlabs sound effects v3 via ai33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked day12/13 sob emoji"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "music/comedic-documentary/prehistoric-playful-marimba-a",
+      "type": "music",
+      "file": "music/comedic-documentary/prehistoric-playful-marimba-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "comedic",
+        "playful",
+        "prehistoric",
+        "stone age",
+        "marimba",
+        "documentary"
+      ],
+      "duration_s": 130.1,
+      "prompt": "playful comedic stone age prehistoric documentary bed, wooden marimba, hollow log drums, breathy bone flute, plucked pizzicato strings, quirky bouncy medium tempo, light and curious, instrumental, with intro, build and climax",
+      "generator": "ai33-suno",
+      "added_by": "Doodle History",
+      "added": "2026-11-15",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/prehistoric-playful-marimba-b",
+      "type": "music",
+      "file": "music/comedic-documentary/prehistoric-playful-marimba-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "comedic",
+        "playful",
+        "prehistoric",
+        "stone age",
+        "marimba",
+        "documentary"
+      ],
+      "duration_s": 152.1,
+      "prompt": "playful comedic stone age prehistoric documentary bed, wooden marimba, hollow log drums, breathy bone flute, plucked pizzicato strings, quirky bouncy medium tempo, light and curious, instrumental, with intro, build and climax",
+      "generator": "ai33-suno",
+      "added_by": "Doodle History",
+      "added": "2026-11-15",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/uplifting-corporate/edu-travel-uplift-pop-a",
+      "type": "music",
+      "file": "music/uplifting-corporate/edu-travel-uplift-pop-a.mp3",
+      "category": "uplifting-corporate",
+      "tags": [
+        "uplifting",
+        "corporate",
+        "pop",
+        "motivational",
+        "education",
+        "travel",
+        "vlog",
+        "positive",
+        "guitar",
+        "piano",
+        "claps"
+      ],
+      "duration_s": 165.0,
+      "prompt": "Uplifting modern corporate pop instrumental, bright guitar plucks, soft piano, warm synth pads, light claps and steady kick, positive motivational education and travel vlog energy, 110 bpm, no vocals, full cue with intro build and climax",
+      "generator": "suno",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-16",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/uplifting-corporate/edu-travel-uplift-pop-b",
+      "type": "music",
+      "file": "music/uplifting-corporate/edu-travel-uplift-pop-b.mp3",
+      "category": "uplifting-corporate",
+      "tags": [
+        "uplifting",
+        "corporate",
+        "pop",
+        "motivational",
+        "education",
+        "travel",
+        "vlog",
+        "positive",
+        "guitar",
+        "piano",
+        "claps"
+      ],
+      "duration_s": 180.0,
+      "prompt": "Uplifting modern corporate pop instrumental, bright guitar plucks, soft piano, warm synth pads, light claps and steady kick, positive motivational education and travel vlog energy, 110 bpm, no vocals, full cue with intro build and climax",
+      "generator": "suno",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-16",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/explainer/minimal-explainer-pluck-bed-a",
+      "type": "music",
+      "file": "music/explainer/minimal-explainer-pluck-bed-a.mp3",
+      "category": "explainer",
+      "tags": [
+        "explainer",
+        "minimal",
+        "ambient",
+        "electronic",
+        "plucks",
+        "marimba",
+        "calm",
+        "narration-bed",
+        "education"
+      ],
+      "duration_s": 180.8,
+      "prompt": "minimal ambient electronic explainer bed, soft plucks and marimba, warm pads, light gentle beat, curious calm and clear, documentary underscore for narration, instrumental",
+      "generator": "suno",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-17",
+      "used_in": [],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "music/explainer/minimal-explainer-pluck-bed-b",
+      "type": "music",
+      "file": "music/explainer/minimal-explainer-pluck-bed-b.mp3",
+      "category": "explainer",
+      "tags": [
+        "explainer",
+        "minimal",
+        "ambient",
+        "electronic",
+        "plucks",
+        "marimba",
+        "calm",
+        "narration-bed",
+        "education"
+      ],
+      "duration_s": 202.4,
+      "prompt": "minimal ambient electronic explainer bed, soft plucks and marimba, warm pads, light gentle beat, curious calm and clear, documentary underscore for narration, instrumental",
+      "generator": "suno",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-17",
+      "used_in": [],
+      "notes": "",
+      "energy": "low",
+      "instrumental": true
+    },
+    {
+      "id": "music/modern-pop/energetic-hook-pop-hiphop-a",
+      "type": "music",
+      "file": "music/modern-pop/energetic-hook-pop-hiphop-a.mp3",
+      "category": "modern-pop",
+      "tags": [
+        "hook",
+        "intro",
+        "energetic",
+        "pop",
+        "hip-hop",
+        "claps",
+        "synth",
+        "hopeful",
+        "youtube"
+      ],
+      "duration_s": 126.7,
+      "prompt": "modern energetic hook intro, punchy pop hip-hop drums, bright synth stabs and claps, confident hopeful mood, quick build and drop, instrumental",
+      "generator": "suno",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-17",
+      "used_in": [],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/modern-pop/energetic-hook-pop-hiphop-b",
+      "type": "music",
+      "file": "music/modern-pop/energetic-hook-pop-hiphop-b.mp3",
+      "category": "modern-pop",
+      "tags": [
+        "hook",
+        "intro",
+        "energetic",
+        "pop",
+        "hip-hop",
+        "claps",
+        "synth",
+        "hopeful",
+        "youtube"
+      ],
+      "duration_s": 135.0,
+      "prompt": "modern energetic hook intro, punchy pop hip-hop drums, bright synth stabs and claps, confident hopeful mood, quick build and drop, instrumental",
+      "generator": "suno",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-17",
+      "used_in": [],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/transitions/soft-ui-swipe",
+      "type": "sfx",
+      "file": "sfx/transitions/soft-ui-swipe.mp3",
+      "category": "transitions",
+      "tags": [
+        "swipe",
+        "whoosh",
+        "soft",
+        "ui",
+        "minimal",
+        "transition"
+      ],
+      "duration_s": 1.0,
+      "prompt": "soft minimal clean UI swipe whoosh, short, airy, modern",
+      "generator": "elevenlabs",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-17",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/soft-ui-tap",
+      "type": "sfx",
+      "file": "sfx/ui/soft-ui-tap.mp3",
+      "category": "ui",
+      "tags": [
+        "tap",
+        "click",
+        "soft",
+        "ui",
+        "minimal"
+      ],
+      "duration_s": 0.5,
+      "prompt": "soft subtle UI tap click, gentle, clean, minimal",
+      "generator": "elevenlabs",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-17",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/soft-ding",
+      "type": "sfx",
+      "file": "sfx/ui/soft-ding.mp3",
+      "category": "ui",
+      "tags": [
+        "ding",
+        "notification",
+        "soft",
+        "bright",
+        "ui"
+      ],
+      "duration_s": 1.0,
+      "prompt": "gentle bright soft notification ding, clean, single tone, pleasant",
+      "generator": "elevenlabs",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-17",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "music/lofi/italian-touch-lofi-rhodes-mandolin-a",
+      "type": "music",
+      "file": "music/lofi/italian-touch-lofi-rhodes-mandolin-a.mp3",
+      "category": "lofi",
+      "tags": [
+        "lofi",
+        "chill",
+        "hip-hop",
+        "rhodes",
+        "mandolin",
+        "nylon-guitar",
+        "vinyl",
+        "warm",
+        "hopeful",
+        "explainer",
+        "vlog",
+        "background",
+        "85bpm"
+      ],
+      "duration_s": 194.8,
+      "prompt": "Warm chill lofi hip hop with a light Italian Mediterranean touch: soft Rhodes piano chords, gentle mandolin and nylon guitar melody, vinyl texture, relaxed boom-bap drums, round bass, hopeful and friendly, 85 bpm, instrumental background for a calm explainer vlog, with soft intro, steady groove, small build and gentle outro",
+      "generator": "suno",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-17",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/modern-pop/cinematic-pluck-trap-intro-hook-a",
+      "type": "music",
+      "file": "music/modern-pop/cinematic-pluck-trap-intro-hook-a.mp3",
+      "category": "modern-pop",
+      "tags": [
+        "hook",
+        "intro",
+        "youtube",
+        "optimistic",
+        "pluck",
+        "arpeggio",
+        "piano",
+        "trap-lite",
+        "808",
+        "build",
+        "drop",
+        "energetic"
+      ],
+      "duration_s": 143.2,
+      "prompt": "Modern cinematic YouTube intro hook, curious and confident, bright plucky synth arpeggio over warm piano, ticking hi-hats, tight trap-lite drums with claps, deep 808, rising filter build into short catchy drops, energetic but clean, instrumental, full cue with intro build and climax",
+      "generator": "suno",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-17",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/lofi/italian-touch-lofi-rhodes-mandolin-b",
+      "type": "music",
+      "file": "music/lofi/italian-touch-lofi-rhodes-mandolin-b.mp3",
+      "category": "lofi",
+      "tags": [
+        "lofi",
+        "chill",
+        "hip-hop",
+        "rhodes",
+        "mandolin",
+        "nylon-guitar",
+        "vinyl",
+        "warm",
+        "hopeful",
+        "explainer",
+        "vlog",
+        "background",
+        "85bpm"
+      ],
+      "duration_s": 189.6,
+      "prompt": "Warm chill lofi hip hop with a light Italian Mediterranean touch: soft Rhodes piano chords, gentle mandolin and nylon guitar melody, vinyl texture, relaxed boom-bap drums, round bass, hopeful and friendly, 85 bpm, instrumental background for a calm explainer vlog, with soft intro, steady groove, small build and gentle outro",
+      "generator": "suno",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-17",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/modern-pop/cinematic-pluck-trap-intro-hook-b",
+      "type": "music",
+      "file": "music/modern-pop/cinematic-pluck-trap-intro-hook-b.mp3",
+      "category": "modern-pop",
+      "tags": [
+        "hook",
+        "intro",
+        "youtube",
+        "optimistic",
+        "pluck",
+        "arpeggio",
+        "piano",
+        "trap-lite",
+        "808",
+        "build",
+        "drop",
+        "energetic"
+      ],
+      "duration_s": 139.7,
+      "prompt": "Modern cinematic YouTube intro hook, curious and confident, bright plucky synth arpeggio over warm piano, ticking hi-hats, tight trap-lite drums with claps, deep 808, rising filter build into short catchy drops, energetic but clean, instrumental, full cue with intro build and climax",
+      "generator": "suno",
+      "added_by": "Euro Bridge Edu",
+      "added": "2026-11-17",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/alarms/elevator-alarm-bell-ring",
+      "type": "sfx",
+      "file": "sfx/alarms/elevator-alarm-bell-ring.mp3",
+      "category": "alarms",
+      "tags": [
+        "alarm",
+        "bell",
+        "elevator",
+        "lift",
+        "emergency",
+        "ring",
+        "electric"
+      ],
+      "duration_s": 3.0,
+      "prompt": "electric alarm bell ringing continuously, old metal elevator emergency alarm bell, clean single recording, no music",
+      "generator": "ai33 eleven_text_to_sound_v3",
+      "added_by": "Lift No. 4 (Hindi reels)",
+      "added": "2026-11-18",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/machines/steel-cable-tension-creak",
+      "type": "sfx",
+      "file": "sfx/machines/steel-cable-tension-creak.mp3",
+      "category": "machines",
+      "tags": [
+        "cable",
+        "steel",
+        "creak",
+        "groan",
+        "metal",
+        "elevator",
+        "shaft",
+        "tension"
+      ],
+      "duration_s": 3.0,
+      "prompt": "heavy steel cable creaking and groaning under tension, deep metal stress creak in a lift shaft, single clean sound",
+      "generator": "ai33 eleven_text_to_sound_v3",
+      "added_by": "Lift No. 4 (Hindi reels)",
+      "added": "2026-11-18",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "music/comedic-documentary/steppe-adventure-comedy-a",
+      "type": "music",
+      "file": "music/comedic-documentary/steppe-adventure-comedy-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "central-asia",
+        "steppe",
+        "mongol",
+        "morin-khuur",
+        "throat-singing",
+        "frame-drum",
+        "comedic",
+        "documentary",
+        "adventure",
+        "narration-bed"
+      ],
+      "duration_s": 182.8,
+      "prompt": "playful comedic documentary adventure bed, central asian steppe flavour, morin khuur horsehead fiddle melody, low throat-singing drone, galloping hand drums and frame drum, plucked tovshuur lute, light and mischievous, medium-fast tempo, instrumental, intro build and climax, narration friendly",
+      "generator": "Suno via AI33",
+      "added_by": "what-if-you-channel",
+      "added": "2026-11-16",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/steppe-adventure-comedy-b",
+      "type": "music",
+      "file": "music/comedic-documentary/steppe-adventure-comedy-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "central-asia",
+        "steppe",
+        "mongol",
+        "morin-khuur",
+        "throat-singing",
+        "frame-drum",
+        "comedic",
+        "documentary",
+        "adventure",
+        "narration-bed"
+      ],
+      "duration_s": 178.9,
+      "prompt": "playful comedic documentary adventure bed, central asian steppe flavour, morin khuur horsehead fiddle melody, low throat-singing drone, galloping hand drums and frame drum, plucked tovshuur lute, light and mischievous, medium-fast tempo, instrumental, intro build and climax, narration friendly",
+      "generator": "Suno via AI33",
+      "added_by": "what-if-you-channel",
+      "added": "2026-11-16",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/steppe-cavalry-epic-a",
+      "type": "music",
+      "file": "music/epic-cinematic/steppe-cavalry-epic-a.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "central-asia",
+        "steppe",
+        "mongol",
+        "cavalry",
+        "war-drums",
+        "taiko",
+        "throat-singing",
+        "brass",
+        "battle",
+        "epic",
+        "trailer"
+      ],
+      "duration_s": 199.9,
+      "prompt": "epic cinematic cavalry charge, thundering war drums and taiko, low throat singing chant, horsehead fiddle ostinato, deep brass, galloping rhythm, relentless build to a huge climax, instrumental, trailer energy",
+      "generator": "Suno via AI33",
+      "added_by": "what-if-you-channel",
+      "added": "2026-11-16",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/steppe-cavalry-epic-b",
+      "type": "music",
+      "file": "music/epic-cinematic/steppe-cavalry-epic-b.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "central-asia",
+        "steppe",
+        "mongol",
+        "cavalry",
+        "war-drums",
+        "taiko",
+        "throat-singing",
+        "brass",
+        "battle",
+        "epic",
+        "trailer"
+      ],
+      "duration_s": 219.2,
+      "prompt": "epic cinematic cavalry charge, thundering war drums and taiko, low throat singing chant, horsehead fiddle ostinato, deep brass, galloping rhythm, relentless build to a huge climax, instrumental, trailer energy",
+      "generator": "Suno via AI33",
+      "added_by": "what-if-you-channel",
+      "added": "2026-11-16",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/quirky-synth-curiosity-a",
+      "type": "music",
+      "file": "music/comedic-documentary/quirky-synth-curiosity-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "quirky",
+        "synth",
+        "arpeggio",
+        "electronic",
+        "curious",
+        "what-if",
+        "explainer",
+        "comedic",
+        "documentary",
+        "narration-bed"
+      ],
+      "duration_s": 183.8,
+      "prompt": "quirky curious comedy documentary bed, bubbly analog synth arpeggios, plucky synth bass, light electronic drums, glitchy blips, playful and inquisitive, modern what-if explainer mood, medium tempo, instrumental, intro build and climax",
+      "generator": "Suno via AI33",
+      "added_by": "what-if-you-channel",
+      "added": "2026-11-16",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/quirky-synth-curiosity-b",
+      "type": "music",
+      "file": "music/comedic-documentary/quirky-synth-curiosity-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "quirky",
+        "synth",
+        "arpeggio",
+        "electronic",
+        "curious",
+        "what-if",
+        "explainer",
+        "comedic",
+        "documentary",
+        "narration-bed"
+      ],
+      "duration_s": 182.2,
+      "prompt": "quirky curious comedy documentary bed, bubbly analog synth arpeggios, plucky synth bass, light electronic drums, glitchy blips, playful and inquisitive, modern what-if explainer mood, medium tempo, instrumental, intro build and climax",
+      "generator": "Suno via AI33",
+      "added_by": "what-if-you-channel",
+      "added": "2026-11-16",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/creatures/cartoon-man-snore",
+      "type": "sfx",
+      "file": "sfx/creatures/cartoon-man-snore.mp3",
+      "category": "creatures",
+      "tags": [
+        "snore",
+        "snoring",
+        "sleep",
+        "man",
+        "cartoon",
+        "comedic",
+        "bedtime"
+      ],
+      "duration_s": 3.0,
+      "prompt": "single loud comedic man snore, one long inhale snore and whistle exhale, cartoon style, dry, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "couple-skits",
+      "added": "2026-11-16",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/lamp-switch-click-off",
+      "type": "sfx",
+      "file": "sfx/foley/lamp-switch-click-off.mp3",
+      "category": "foley",
+      "tags": [
+        "lamp",
+        "switch",
+        "click",
+        "light-off",
+        "bedroom",
+        "foley",
+        "night"
+      ],
+      "duration_s": 0.7,
+      "prompt": "small lamp switch click off, single crisp plastic click, close mic, dry",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "couple-skits",
+      "added": "2026-11-16",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/dun-dun-dunnn-comedic-sting",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/dun-dun-dunnn-comedic-sting.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "dun-dun-dun",
+        "dramatic",
+        "reveal",
+        "sting",
+        "comedic",
+        "brass",
+        "timpani",
+        "suspicion"
+      ],
+      "duration_s": 3.0,
+      "prompt": "comedic dramatic suspense sting, three low orchestral brass and timpani hits dun dun DUNNN, short cartoon reveal, no voice",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "couple-skits",
+      "added": "2026-11-16",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/machines/milkshake-spindle-mixer-whir",
+      "type": "sfx",
+      "file": "sfx/machines/milkshake-spindle-mixer-whir.mp3",
+      "category": "machines",
+      "tags": [
+        "milkshake",
+        "mixer",
+        "blender",
+        "motor",
+        "whir",
+        "diner",
+        "1950s",
+        "kitchen"
+      ],
+      "duration_s": 5.0,
+      "prompt": "vintage 1950s milkshake spindle mixer motor whirring and stirring a metal cup, steady electric whir with liquid swirl, then switches off",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-17",
+      "used_in": [
+        "mcdonalds-landlord-ep1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/griddle-burger-sizzle",
+      "type": "sfx",
+      "file": "sfx/foley/griddle-burger-sizzle.mp3",
+      "category": "foley",
+      "tags": [
+        "sizzle",
+        "grill",
+        "griddle",
+        "burger",
+        "cooking",
+        "kitchen",
+        "diner",
+        "frying"
+      ],
+      "duration_s": 6.0,
+      "prompt": "burger patties sizzling on a hot flat-top griddle, steady crackling sizzle, diner kitchen, no voices",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-17",
+      "used_in": [
+        "mcdonalds-landlord-ep1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/calculator-button-beeps",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/calculator-button-beeps.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "calculator",
+        "beep",
+        "buttons",
+        "math",
+        "counting",
+        "electronic"
+      ],
+      "duration_s": 2.0,
+      "prompt": "pressing buttons on an electronic pocket calculator, six quick small beeps",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-17",
+      "used_in": [
+        "mcdonalds-landlord-ep1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/cartoon-nervous-gulp",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/cartoon-nervous-gulp.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "gulp",
+        "swallow",
+        "nervous",
+        "cartoon",
+        "comedic",
+        "reaction"
+      ],
+      "duration_s": 1.0,
+      "prompt": "single loud cartoon nervous gulp swallow, comedic",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-17",
+      "used_in": [
+        "mcdonalds-landlord-ep1"
+      ],
+      "notes": "generated with check_prompt=False: similarity guard falsely matched cartoon-man-snore; only other gulp is a giant underwater whale gulp"
+    },
+    {
+      "id": "sfx/ui-cartoon/snare-drum-roll-crash",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/snare-drum-roll-crash.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "drumroll",
+        "snare",
+        "drum",
+        "roll",
+        "cymbal",
+        "crash",
+        "reveal",
+        "suspense"
+      ],
+      "duration_s": 4.0,
+      "prompt": "snare drum roll building for three seconds ending in a cymbal crash, reveal",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-17",
+      "used_in": [
+        "mcdonalds-landlord-ep1"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "music/comedic-documentary/jukebox-diner-swing-a",
+      "type": "music",
+      "file": "music/comedic-documentary/jukebox-diner-swing-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "1950s",
+        "rock-and-roll",
+        "jukebox",
+        "diner",
+        "swing",
+        "boogie-woogie",
+        "saxophone",
+        "retro",
+        "americana",
+        "comedic",
+        "documentary"
+      ],
+      "duration_s": 182.9,
+      "prompt": "1950s rock and roll jukebox diner swing, upbeat walking upright bass, boogie-woogie piano, honking tenor saxophone, brushed drums, playful comedic retro americana, instrumental, intro build and big finish",
+      "generator": "Suno via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-17",
+      "used_in": [
+        "mcdonalds-landlord-ep1"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/jukebox-diner-swing-b",
+      "type": "music",
+      "file": "music/comedic-documentary/jukebox-diner-swing-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "1950s",
+        "rock-and-roll",
+        "jukebox",
+        "diner",
+        "swing",
+        "boogie-woogie",
+        "saxophone",
+        "retro",
+        "americana",
+        "comedic",
+        "documentary"
+      ],
+      "duration_s": 188.4,
+      "prompt": "1950s rock and roll jukebox diner swing, upbeat walking upright bass, boogie-woogie piano, honking tenor saxophone, brushed drums, playful comedic retro americana, instrumental, intro build and big finish",
+      "generator": "Suno via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-17",
+      "used_in": [
+        "mcdonalds-landlord-ep1"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/ambience/beach-ambience-waves-gulls",
+      "type": "sfx",
+      "file": "sfx/ambience/beach-ambience-waves-gulls.mp3",
+      "category": "ambience",
+      "tags": [
+        "beach",
+        "waves",
+        "ocean",
+        "seagulls",
+        "chatter",
+        "summer",
+        "ambience",
+        "loop"
+      ],
+      "duration_s": 20.0,
+      "prompt": "beach ambience, ocean waves breaking on shore, distant seagulls and relaxed people chatter, summer, loop",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ambience/seagulls-calling",
+      "type": "sfx",
+      "file": "sfx/ambience/seagulls-calling.mp3",
+      "category": "ambience",
+      "tags": [
+        "seagull",
+        "gulls",
+        "birds",
+        "beach",
+        "coast"
+      ],
+      "duration_s": 6.0,
+      "prompt": "seagulls calling over a beach, several gulls, close and clear",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/police/tsunami-warning-siren",
+      "type": "sfx",
+      "file": "sfx/police/tsunami-warning-siren.mp3",
+      "category": "police",
+      "tags": [
+        "siren",
+        "civil-defense",
+        "tsunami",
+        "warning",
+        "wail",
+        "city",
+        "emergency"
+      ],
+      "duration_s": 15.0,
+      "prompt": "outdoor civil defense tsunami warning siren wailing, rising and falling tone, distant echo across a city",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/crowds/crowd-panic-screaming",
+      "type": "sfx",
+      "file": "sfx/crowds/crowd-panic-screaming.mp3",
+      "category": "crowds",
+      "tags": [
+        "crowd",
+        "screaming",
+        "panic",
+        "running",
+        "chaos",
+        "disaster"
+      ],
+      "duration_s": 15.0,
+      "prompt": "crowd of people screaming and running in panic outdoors, chaos, shouting",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/tsunami-wave-roar",
+      "type": "sfx",
+      "file": "sfx/water/tsunami-wave-roar.mp3",
+      "category": "water",
+      "tags": [
+        "tsunami",
+        "wave",
+        "roar",
+        "water",
+        "rumble",
+        "disaster",
+        "approaching"
+      ],
+      "duration_s": 15.0,
+      "prompt": "massive ocean tsunami wave roaring and approaching, deep rumbling crashing water, building intensity",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/running-sand-footsteps",
+      "type": "sfx",
+      "file": "sfx/foley/running-sand-footsteps.mp3",
+      "category": "foley",
+      "tags": [
+        "footsteps",
+        "running",
+        "sand",
+        "beach",
+        "foley"
+      ],
+      "duration_s": 8.0,
+      "prompt": "fast footsteps running on soft beach sand, one person, rhythmic",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/emergency-alert-tone",
+      "type": "sfx",
+      "file": "sfx/ui/emergency-alert-tone.mp3",
+      "category": "ui",
+      "tags": [
+        "emergency",
+        "alert",
+        "EAS",
+        "alarm",
+        "beep",
+        "broadcast",
+        "phone"
+      ],
+      "duration_s": 4.0,
+      "prompt": "emergency alert broadcast tone, harsh loud two-tone alarm beeps, phone and loudspeaker",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/water/wave-crash-impact-whiteout",
+      "type": "sfx",
+      "file": "sfx/water/wave-crash-impact-whiteout.mp3",
+      "category": "water",
+      "tags": [
+        "wave",
+        "crash",
+        "impact",
+        "water",
+        "explosion",
+        "whoosh",
+        "ending"
+      ],
+      "duration_s": 4.0,
+      "prompt": "huge wave crashing down impact, water explosion, whoosh into silence",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "music/disaster-thriller/disaster-thriller-pulse-a",
+      "type": "music",
+      "file": "music/disaster-thriller/disaster-thriller-pulse-a.mp3",
+      "category": "disaster-thriller",
+      "tags": [
+        "disaster",
+        "thriller",
+        "pulse",
+        "synth-bass",
+        "ticking",
+        "strings",
+        "urgent",
+        "climax"
+      ],
+      "duration_s": 184.8,
+      "prompt": "urgent cinematic disaster thriller, pulsing synth bass ostinato, ticking clock, rising tense strings, heavy hits, building to a huge climax",
+      "generator": "Suno via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/disaster-thriller/disaster-thriller-pulse-b",
+      "type": "music",
+      "file": "music/disaster-thriller/disaster-thriller-pulse-b.mp3",
+      "category": "disaster-thriller",
+      "tags": [
+        "disaster",
+        "thriller",
+        "pulse",
+        "synth-bass",
+        "ticking",
+        "strings",
+        "urgent",
+        "climax"
+      ],
+      "duration_s": 187.2,
+      "prompt": "urgent cinematic disaster thriller, pulsing synth bass ostinato, ticking clock, rising tense strings, heavy hits, building to a huge climax",
+      "generator": "Suno via AI33",
+      "added_by": "insta-recreation",
+      "added": "2026-11-18",
+      "used_in": [
+        "insta-tsunami-pov"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/crowds/sitcom-audience-laughter",
+      "type": "sfx",
+      "file": "sfx/crowds/sitcom-audience-laughter.mp3",
+      "category": "crowds",
+      "tags": [
+        "laugh",
+        "laughter",
+        "sitcom",
+        "audience",
+        "crowd",
+        "comedy",
+        "reaction",
+        "funny"
+      ],
+      "duration_s": 4.0,
+      "prompt": "sitcom studio audience big laughter, live crowd laughing out loud, no music",
+      "generator": "elevenlabs eleven_text_to_sound_v3 via ai33",
+      "added_by": "hark",
+      "added": "2026-11-18",
+      "used_in": [
+        "textstory-grandma-scam-v2"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "music/epic-cinematic/superhero-triumphant-anthem-a",
+      "type": "music",
+      "file": "music/epic-cinematic/superhero-triumphant-anthem-a.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "heroic",
+        "triumphant",
+        "superhero",
+        "orchestral",
+        "brass",
+        "strings",
+        "anthem",
+        "climax"
+      ],
+      "duration_s": 200.0,
+      "prompt": "heroic triumphant orchestral superhero anthem, soaring french horns and brass fanfare over driving string ostinato, big snare and timpani, slow hopeful intro, rising build, huge triumphant climax, modern blockbuster film score",
+      "generator": "ai33 suno",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "marvel-heroes-aura-pt1"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/superhero-triumphant-anthem-b",
+      "type": "music",
+      "file": "music/epic-cinematic/superhero-triumphant-anthem-b.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "heroic",
+        "triumphant",
+        "superhero",
+        "orchestral",
+        "brass",
+        "strings",
+        "anthem",
+        "climax"
+      ],
+      "duration_s": 199.9,
+      "prompt": "heroic triumphant orchestral superhero anthem, soaring french horns and brass fanfare over driving string ostinato, big snare and timpani, slow hopeful intro, rising build, huge triumphant climax, modern blockbuster film score",
+      "generator": "ai33 suno",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "marvel-heroes-aura-pt1"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/ui-cartoon/choir-ahh-win-sting",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/choir-ahh-win-sting.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "choir",
+        "ahh",
+        "angelic",
+        "win",
+        "sting",
+        "positive",
+        "heavenly",
+        "verdict"
+      ],
+      "duration_s": 2.5,
+      "prompt": "angelic choir ahh swell, short heavenly win sting, clean, no music bed",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked day03"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/full-choir-orchestral-hit",
+      "type": "sfx",
+      "file": "sfx/impacts/full-choir-orchestral-hit.mp3",
+      "category": "impacts",
+      "tags": [
+        "choir",
+        "orchestral",
+        "hit",
+        "impact",
+        "epic",
+        "reveal",
+        "stinger"
+      ],
+      "duration_s": 3.5,
+      "prompt": "massive full choir hit with orchestral impact, epic reveal stinger, single hit",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked day03"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "music/epic-cinematic/dark-western-whistle-choir-a",
+      "type": "music",
+      "file": "music/epic-cinematic/dark-western-whistle-choir-a.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "dark",
+        "western",
+        "spaghetti-western",
+        "whistle",
+        "flamenco-guitar",
+        "choir",
+        "menacing",
+        "villain",
+        "build",
+        "epic",
+        "climax"
+      ],
+      "duration_s": 227.1,
+      "prompt": "dark spaghetti western villain theme, haunting lone whistle melody, flamenco nylon guitar, low strings and timpani, ominous male choir, slow menacing build to huge epic orchestral climax, instrumental",
+      "generator": "Suno via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked day03"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/dark-western-whistle-choir-b",
+      "type": "music",
+      "file": "music/epic-cinematic/dark-western-whistle-choir-b.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "dark",
+        "western",
+        "spaghetti-western",
+        "whistle",
+        "flamenco-guitar",
+        "choir",
+        "menacing",
+        "villain",
+        "build",
+        "epic",
+        "climax"
+      ],
+      "duration_s": 228.4,
+      "prompt": "dark spaghetti western villain theme, haunting lone whistle melody, flamenco nylon guitar, low strings and timpani, ominous male choir, slow menacing build to huge epic orchestral climax, instrumental",
+      "generator": "Suno via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked day03"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/dark-japanese-taiko-shamisen-choir-a",
+      "type": "music",
+      "file": "music/epic-cinematic/dark-japanese-taiko-shamisen-choir-a.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "epic",
+        "japanese",
+        "taiko",
+        "shamisen",
+        "shakuhachi",
+        "choir",
+        "dark",
+        "villain",
+        "anime",
+        "build",
+        "climax"
+      ],
+      "duration_s": 234.2,
+      "prompt": "Dark Japanese epic orchestral: taiko drums, shamisen, shakuhachi flute and deep male choir, ominous slow intro, rising tension build, huge thunderous climax, menacing villain power, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked #5 anime villains"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/divine-dark-choir-final-boss-a",
+      "type": "music",
+      "file": "music/epic-cinematic/divine-dark-choir-final-boss-a.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "choir",
+        "divine",
+        "sacred",
+        "organ",
+        "strings",
+        "soprano",
+        "dark",
+        "final-boss",
+        "godlike",
+        "epic",
+        "climax"
+      ],
+      "duration_s": 244.1,
+      "prompt": "Divine dark ethereal choir and strings, sacred cathedral menace, slow hypnotic intro with solo soprano, steady build with organ and timpani, overwhelming godlike climax, untouchable final boss aura, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked #5 anime villains"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/dark-japanese-taiko-shamisen-choir-b",
+      "type": "music",
+      "file": "music/epic-cinematic/dark-japanese-taiko-shamisen-choir-b.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "epic",
+        "japanese",
+        "taiko",
+        "shamisen",
+        "shakuhachi",
+        "choir",
+        "dark",
+        "villain",
+        "anime",
+        "build",
+        "climax"
+      ],
+      "duration_s": 224.3,
+      "prompt": "Dark Japanese epic orchestral: taiko drums, shamisen, shakuhachi flute and deep male choir, ominous slow intro, rising tension build, huge thunderous climax, menacing villain power, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked #5 anime villains"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/epic-cinematic/divine-dark-choir-final-boss-b",
+      "type": "music",
+      "file": "music/epic-cinematic/divine-dark-choir-final-boss-b.mp3",
+      "category": "epic-cinematic",
+      "tags": [
+        "choir",
+        "divine",
+        "sacred",
+        "organ",
+        "strings",
+        "soprano",
+        "dark",
+        "final-boss",
+        "godlike",
+        "epic",
+        "climax"
+      ],
+      "duration_s": 254.5,
+      "prompt": "Divine dark ethereal choir and strings, sacred cathedral menace, slow hypnotic intro with solo soprano, steady build with organ and timpani, overwhelming godlike climax, untouchable final boss aura, instrumental",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked #5 anime villains"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/magic/angelic-choir-ahh-stinger",
+      "type": "sfx",
+      "file": "sfx/magic/angelic-choir-ahh-stinger.mp3",
+      "category": "magic",
+      "tags": [
+        "choir",
+        "ahh",
+        "angelic",
+        "heavenly",
+        "stinger",
+        "positive",
+        "verdict"
+      ],
+      "duration_s": 2.5,
+      "prompt": "Short angelic choir ahh stinger, bright heavenly vocal chord, clean, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked #5 anime villains"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/brass-win-sting",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/brass-win-sting.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "win",
+        "victory",
+        "sting",
+        "brass",
+        "fanfare",
+        "positive"
+      ],
+      "duration_s": 2.0,
+      "prompt": "Short triumphant win sting, brass and cymbal fanfare hit, clean",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked #5 anime villains"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/magic/full-choir-divine-swell",
+      "type": "sfx",
+      "file": "sfx/magic/full-choir-divine-swell.mp3",
+      "category": "magic",
+      "tags": [
+        "choir",
+        "swell",
+        "divine",
+        "epic",
+        "climax",
+        "reveal"
+      ],
+      "duration_s": 5.0,
+      "prompt": "Massive full choir swell to a huge sustained chord, epic divine climax, clean",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked #5 anime villains"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/fail-piano-chord-slam",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/fail-piano-chord-slam.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "fail",
+        "piano",
+        "lose",
+        "sting",
+        "comedic",
+        "dissonant"
+      ],
+      "duration_s": 2.0,
+      "prompt": "Comedic fail piano, descending dissonant piano chord slam, lose sting",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-13",
+      "used_in": [
+        "aura-ranked #5 anime villains"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/cartoon-spring-boing-short",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/cartoon-spring-boing-short.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "boing",
+        "spring",
+        "cartoon",
+        "comedic",
+        "bounce",
+        "clown"
+      ],
+      "duration_s": 1.2,
+      "prompt": "cartoon spring boing, single bouncy comedic boing, clean, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/magic/angelic-choir-ahh-hit",
+      "type": "sfx",
+      "file": "sfx/magic/angelic-choir-ahh-hit.mp3",
+      "category": "magic",
+      "tags": [
+        "choir",
+        "ahh",
+        "angelic",
+        "heavenly",
+        "vocal",
+        "positive",
+        "reveal"
+      ],
+      "duration_s": 2.5,
+      "prompt": "short angelic choir ahh, heavenly vocal swell, single clean hit, no instruments",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/victory-win-sting-brass",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/victory-win-sting-brass.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "win",
+        "victory",
+        "sting",
+        "brass",
+        "fanfare",
+        "success",
+        "game-show"
+      ],
+      "duration_s": 2.0,
+      "prompt": "short victory win sting, bright brass and chime fanfare, game show success",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/epic-full-choir-orchestra-hit",
+      "type": "sfx",
+      "file": "sfx/impacts/epic-full-choir-orchestra-hit.mp3",
+      "category": "impacts",
+      "tags": [
+        "choir",
+        "epic",
+        "orchestra",
+        "timpani",
+        "divine",
+        "reveal",
+        "huge",
+        "cinematic",
+        "hit"
+      ],
+      "duration_s": 4.0,
+      "prompt": "massive epic full choir hit with orchestra and timpani, divine heavenly reveal, huge cinematic",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/comedic-fail-piano-sting",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/comedic-fail-piano-sting.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "fail",
+        "lose",
+        "piano",
+        "descending",
+        "comedic",
+        "cartoon",
+        "sting"
+      ],
+      "duration_s": 2.0,
+      "prompt": "comedic fail piano lose sting, descending clumsy piano notes, cartoon",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/arcade-score-counter-tick-up",
+      "type": "sfx",
+      "file": "sfx/ui/arcade-score-counter-tick-up.mp3",
+      "category": "ui",
+      "tags": [
+        "score",
+        "counter",
+        "tick",
+        "arcade",
+        "points",
+        "ding",
+        "game",
+        "ui"
+      ],
+      "duration_s": 1.5,
+      "prompt": "fast arcade score counter ticking up rapidly then a final ding, game UI",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/contactless-payment-beep",
+      "type": "sfx",
+      "file": "sfx/ui/contactless-payment-beep.mp3",
+      "category": "ui",
+      "tags": [
+        "payment",
+        "card",
+        "contactless",
+        "beep",
+        "terminal",
+        "tap",
+        "checkout"
+      ],
+      "duration_s": 1.0,
+      "prompt": "contactless card payment terminal success beep, single clean electronic beep",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/cartoon-electric-zap",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/cartoon-electric-zap.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "zap",
+        "electric",
+        "lightning",
+        "crackle",
+        "cartoon",
+        "shock"
+      ],
+      "duration_s": 1.2,
+      "prompt": "cartoon electric zap, short crackling lightning bolt",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/phone-screen-glass-crack",
+      "type": "sfx",
+      "file": "sfx/impacts/phone-screen-glass-crack.mp3",
+      "category": "impacts",
+      "tags": [
+        "glass",
+        "crack",
+        "phone",
+        "screen",
+        "break",
+        "sharp"
+      ],
+      "duration_s": 1.0,
+      "prompt": "phone screen glass cracking, sharp single crack",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/slide-whistle-down",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/slide-whistle-down.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "slide-whistle",
+        "cartoon",
+        "fall",
+        "descending",
+        "comedic",
+        "fail"
+      ],
+      "duration_s": 1.5,
+      "prompt": "cartoon slide whistle going down",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/retro-monophonic-ringtone",
+      "type": "sfx",
+      "file": "sfx/ui/retro-monophonic-ringtone.mp3",
+      "category": "ui",
+      "tags": [
+        "ringtone",
+        "phone",
+        "retro",
+        "monophonic",
+        "2000s",
+        "mobile",
+        "beeps"
+      ],
+      "duration_s": 3.0,
+      "prompt": "retro monophonic mobile phone ringtone, generic early 2000s beeps melody, 3 seconds",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/hammer-plastic-clonk",
+      "type": "sfx",
+      "file": "sfx/impacts/hammer-plastic-clonk.mp3",
+      "category": "impacts",
+      "tags": [
+        "hammer",
+        "smash",
+        "plastic",
+        "clonk",
+        "hit",
+        "heavy"
+      ],
+      "duration_s": 1.0,
+      "prompt": "hammer smashing down on hard plastic object, single heavy clonk",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/airplane-cabin-pa-chime",
+      "type": "sfx",
+      "file": "sfx/ui/airplane-cabin-pa-chime.mp3",
+      "category": "ui",
+      "tags": [
+        "airplane",
+        "cabin",
+        "chime",
+        "ding-dong",
+        "announcement",
+        "pilot",
+        "airport"
+      ],
+      "duration_s": 2.5,
+      "prompt": "airplane cabin PA chime, two-tone ding-dong before a pilot announcement, clean, no voice",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/espresso-steam-wand-hiss",
+      "type": "sfx",
+      "file": "sfx/foley/espresso-steam-wand-hiss.mp3",
+      "category": "foley",
+      "tags": [
+        "espresso",
+        "coffee",
+        "cafe",
+        "steam",
+        "milk-frothing",
+        "barista"
+      ],
+      "duration_s": 3.0,
+      "prompt": "espresso machine steam wand hiss and milk frothing, cafe, short, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/contactless-card-tap-beep",
+      "type": "sfx",
+      "file": "sfx/ui/contactless-card-tap-beep.mp3",
+      "category": "ui",
+      "tags": [
+        "payment",
+        "card",
+        "contactless",
+        "terminal",
+        "beep",
+        "approved",
+        "checkout"
+      ],
+      "duration_s": 1.5,
+      "prompt": "contactless card payment terminal tap, short approval beep",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/jaunty-innocent-whistle",
+      "type": "sfx",
+      "file": "sfx/foley/jaunty-innocent-whistle.mp3",
+      "category": "foley",
+      "tags": [
+        "whistle",
+        "whistling",
+        "innocent",
+        "sneaky",
+        "carefree",
+        "comedic",
+        "nothing-to-see-here"
+      ],
+      "duration_s": 4.0,
+      "prompt": "person whistling a short jaunty carefree tune, sneaky and innocent, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "music/cafe-jazz/cozy-coffee-shop-bossa-nova-a",
+      "type": "music",
+      "file": "music/cafe-jazz/cozy-coffee-shop-bossa-nova-a.mp3",
+      "category": "cafe-jazz",
+      "tags": [
+        "bossa-nova",
+        "jazz",
+        "cafe",
+        "coffee",
+        "nylon-guitar",
+        "brushed-drums",
+        "upright-bass",
+        "warm",
+        "playful",
+        "explainer"
+      ],
+      "duration_s": 206.3,
+      "prompt": "cozy coffee shop bossa nova jazz, nylon guitar, brushed drums, upright bass, warm and playful, instrumental",
+      "generator": "Suno via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/cafe-jazz/cozy-coffee-shop-bossa-nova-b",
+      "type": "music",
+      "file": "music/cafe-jazz/cozy-coffee-shop-bossa-nova-b.mp3",
+      "category": "cafe-jazz",
+      "tags": [
+        "bossa-nova",
+        "jazz",
+        "cafe",
+        "coffee",
+        "nylon-guitar",
+        "brushed-drums",
+        "upright-bass",
+        "warm",
+        "playful",
+        "explainer"
+      ],
+      "duration_s": 210.0,
+      "prompt": "cozy coffee shop bossa nova jazz, nylon guitar, brushed drums, upright bass, warm and playful, instrumental",
+      "generator": "Suno via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/gameday-marching-drumline-brass-a",
+      "type": "music",
+      "file": "music/comedic-documentary/gameday-marching-drumline-brass-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "sports",
+        "football",
+        "game-day",
+        "stadium",
+        "marching-band",
+        "drumline",
+        "brass",
+        "tuba",
+        "comedic",
+        "documentary",
+        "upbeat"
+      ],
+      "duration_s": 144.6,
+      "prompt": "Comedic American football game-day stadium bed: snappy marching drumline snares, tubas and bright brass stabs, cheerleader energy, playful and confident, instrumental, intro, build and big touchdown climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [
+        "explained-like-5 #23"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/swiss-luxury-harpsichord-clockwork-a",
+      "type": "music",
+      "file": "music/comedic-documentary/swiss-luxury-harpsichord-clockwork-a.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "luxury",
+        "elegant",
+        "harpsichord",
+        "string-quartet",
+        "pizzicato",
+        "clockwork",
+        "ticking",
+        "swiss",
+        "watch",
+        "sly",
+        "comedic",
+        "documentary"
+      ],
+      "duration_s": 122.9,
+      "prompt": "Elegant comedic luxury documentary bed: sly harpsichord and string quartet pizzicato over a ticking clockwork percussion pulse, refined Swiss sophistication with a wink, instrumental, quiet intro, build and grand climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [
+        "explained-like-5 #24"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/gameday-marching-drumline-brass-b",
+      "type": "music",
+      "file": "music/comedic-documentary/gameday-marching-drumline-brass-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "sports",
+        "football",
+        "game-day",
+        "stadium",
+        "marching-band",
+        "drumline",
+        "brass",
+        "tuba",
+        "comedic",
+        "documentary",
+        "upbeat"
+      ],
+      "duration_s": 153.3,
+      "prompt": "Comedic American football game-day stadium bed: snappy marching drumline snares, tubas and bright brass stabs, cheerleader energy, playful and confident, instrumental, intro, build and big touchdown climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [
+        "explained-like-5 #23"
+      ],
+      "notes": "",
+      "energy": "high",
+      "instrumental": true
+    },
+    {
+      "id": "music/comedic-documentary/swiss-luxury-harpsichord-clockwork-b",
+      "type": "music",
+      "file": "music/comedic-documentary/swiss-luxury-harpsichord-clockwork-b.mp3",
+      "category": "comedic-documentary",
+      "tags": [
+        "luxury",
+        "elegant",
+        "harpsichord",
+        "string-quartet",
+        "pizzicato",
+        "clockwork",
+        "ticking",
+        "swiss",
+        "watch",
+        "sly",
+        "comedic",
+        "documentary"
+      ],
+      "duration_s": 137.2,
+      "prompt": "Elegant comedic luxury documentary bed: sly harpsichord and string quartet pizzicato over a ticking clockwork percussion pulse, refined Swiss sophistication with a wink, instrumental, quiet intro, build and grand climax",
+      "generator": "Suno via AI33 (/v1s/task/music-generation)",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [
+        "explained-like-5 #24"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/foley/football-punt-kick-thump",
+      "type": "sfx",
+      "file": "sfx/foley/football-punt-kick-thump.mp3",
+      "category": "foley",
+      "tags": [
+        "football",
+        "kick",
+        "punt",
+        "thump",
+        "ball",
+        "sports",
+        "leather"
+      ],
+      "duration_s": 1.0,
+      "prompt": "single leather football punt kick, sharp hollow thump, clean, no crowd",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [
+        "explained-like-5 #23"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/boutique-door-chime-ding-dong",
+      "type": "sfx",
+      "file": "sfx/ui/boutique-door-chime-ding-dong.mp3",
+      "category": "ui",
+      "tags": [
+        "door",
+        "chime",
+        "shop",
+        "boutique",
+        "bell",
+        "ding-dong",
+        "luxury",
+        "store"
+      ],
+      "duration_s": 2.0,
+      "prompt": "elegant luxury boutique door chime, soft bright bell ding-dong as a shop door opens",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [
+        "explained-like-5 #24"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "music/hip-hop/90s-boom-bap-streetwear-swagger-a",
+      "type": "music",
+      "file": "music/hip-hop/90s-boom-bap-streetwear-swagger-a.mp3",
+      "category": "hip-hop",
+      "tags": [
+        "hip-hop",
+        "boom-bap",
+        "90s",
+        "new-york",
+        "vinyl",
+        "scratches",
+        "jazzy",
+        "swagger",
+        "streetwear",
+        "instrumental"
+      ],
+      "duration_s": 196.3,
+      "prompt": "90s New York boom-bap hip hop instrumental, dusty vinyl drums, upright bass sample, jazzy piano and horn stabs, record scratches, confident streetwear skate-shop swagger, head-nodding mid tempo, intro, build and full climax",
+      "generator": "Suno via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [
+        "ELI5 #21 Supreme"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/synth-retro/optimistic-night-drive-synthwave-a",
+      "type": "music",
+      "file": "music/synth-retro/optimistic-night-drive-synthwave-a.mp3",
+      "category": "synth-retro",
+      "tags": [
+        "synthwave",
+        "retro",
+        "night-drive",
+        "neon",
+        "optimistic",
+        "tech",
+        "startup",
+        "arpeggio",
+        "driving",
+        "instrumental"
+      ],
+      "duration_s": 229.9,
+      "prompt": "Retro night-drive synthwave instrumental, pulsing analog bass, gated drums, shimmering arpeggios, neon city lights cruising energy, optimistic tech-startup momentum, intro, build and soaring climax",
+      "generator": "Suno via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [
+        "ELI5 #22 Uber"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/hip-hop/90s-boom-bap-streetwear-swagger-b",
+      "type": "music",
+      "file": "music/hip-hop/90s-boom-bap-streetwear-swagger-b.mp3",
+      "category": "hip-hop",
+      "tags": [
+        "hip-hop",
+        "boom-bap",
+        "90s",
+        "new-york",
+        "vinyl",
+        "scratches",
+        "jazzy",
+        "swagger",
+        "streetwear",
+        "instrumental"
+      ],
+      "duration_s": 190.0,
+      "prompt": "90s New York boom-bap hip hop instrumental, dusty vinyl drums, upright bass sample, jazzy piano and horn stabs, record scratches, confident streetwear skate-shop swagger, head-nodding mid tempo, intro, build and full climax",
+      "generator": "Suno via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [
+        "ELI5 #21 Supreme"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/synth-retro/optimistic-night-drive-synthwave-b",
+      "type": "music",
+      "file": "music/synth-retro/optimistic-night-drive-synthwave-b.mp3",
+      "category": "synth-retro",
+      "tags": [
+        "synthwave",
+        "retro",
+        "night-drive",
+        "neon",
+        "optimistic",
+        "tech",
+        "startup",
+        "arpeggio",
+        "driving",
+        "instrumental"
+      ],
+      "duration_s": 219.7,
+      "prompt": "Retro night-drive synthwave instrumental, pulsing analog bass, gated drums, shimmering arpeggios, neon city lights cruising energy, optimistic tech-startup momentum, intro, build and soaring climax",
+      "generator": "Suno via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [
+        "ELI5 #22 Uber"
+      ],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/machines/casino-slot-lever-reels-spin",
+      "type": "sfx",
+      "file": "sfx/machines/casino-slot-lever-reels-spin.mp3",
+      "category": "machines",
+      "tags": [
+        "slot-machine",
+        "casino",
+        "lever",
+        "reels",
+        "spin",
+        "gambling",
+        "jackpot"
+      ],
+      "duration_s": 3.0,
+      "prompt": "slot machine lever pull, mechanical reels spinning and clicking to a stop, casino",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/phone-vibrate-table-double-buzz",
+      "type": "sfx",
+      "file": "sfx/ui/phone-vibrate-table-double-buzz.mp3",
+      "category": "ui",
+      "tags": [
+        "phone",
+        "vibrate",
+        "buzz",
+        "vibration",
+        "notification",
+        "table"
+      ],
+      "duration_s": 1.5,
+      "prompt": "smartphone vibrating on a wooden table, two short buzzes",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/judge-gavel-double-strike",
+      "type": "sfx",
+      "file": "sfx/foley/judge-gavel-double-strike.mp3",
+      "category": "foley",
+      "tags": [
+        "gavel",
+        "court",
+        "judge",
+        "courtroom",
+        "order",
+        "strike",
+        "law"
+      ],
+      "duration_s": 1.5,
+      "prompt": "wooden judge gavel striking twice on a sound block, courtroom",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/game-show-wrong-buzzer",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/game-show-wrong-buzzer.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "buzzer",
+        "wrong",
+        "error",
+        "fail",
+        "game-show",
+        "incorrect"
+      ],
+      "duration_s": 1.0,
+      "prompt": "game show wrong answer buzzer, short harsh electronic buzz",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/electric-car-pass-by-whine",
+      "type": "sfx",
+      "file": "sfx/vehicles/electric-car-pass-by-whine.mp3",
+      "category": "vehicles",
+      "tags": [
+        "electric-car",
+        "ev",
+        "pass-by",
+        "whine",
+        "motor",
+        "futuristic",
+        "whoosh"
+      ],
+      "duration_s": 3.0,
+      "prompt": "modern electric car passing by fast, futuristic electric motor whine and tyre whoosh, no combustion engine",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/cartoon-head-bonk",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/cartoon-head-bonk.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "bonk",
+        "hit",
+        "head",
+        "cartoon",
+        "comedic",
+        "hollow"
+      ],
+      "duration_s": 1.0,
+      "prompt": "cartoon bonk on the head, hollow comedic hit",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/paper-rip-in-half",
+      "type": "sfx",
+      "file": "sfx/foley/paper-rip-in-half.mp3",
+      "category": "foley",
+      "tags": [
+        "paper",
+        "rip",
+        "tear",
+        "document",
+        "certificate",
+        "ripping"
+      ],
+      "duration_s": 1.0,
+      "prompt": "sheet of paper ripped in half quickly",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/cardboard-box-drop-thud",
+      "type": "sfx",
+      "file": "sfx/foley/cardboard-box-drop-thud.mp3",
+      "category": "foley",
+      "tags": [
+        "cardboard",
+        "box",
+        "drop",
+        "thud",
+        "floor",
+        "package",
+        "delivery",
+        "flat-pack"
+      ],
+      "duration_s": 1.5,
+      "prompt": "cardboard box dropped flat onto a wooden floor, single dull thud with a light paper rattle",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "explained-like-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/soda-bottle-pop-fizz",
+      "type": "sfx",
+      "file": "sfx/foley/soda-bottle-pop-fizz.mp3",
+      "category": "foley",
+      "tags": [
+        "soda",
+        "bottle",
+        "cap",
+        "pop",
+        "open",
+        "fizz",
+        "carbonated",
+        "drink",
+        "cola"
+      ],
+      "duration_s": 2.0,
+      "prompt": "glass soda bottle cap pop open followed by a short carbonated fizz hiss",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/soda-pour-fizz-ice",
+      "type": "sfx",
+      "file": "sfx/foley/soda-pour-fizz-ice.mp3",
+      "category": "foley",
+      "tags": [
+        "soda",
+        "pour",
+        "fizz",
+        "bubbles",
+        "ice",
+        "glass",
+        "drink",
+        "cola",
+        "carbonated"
+      ],
+      "duration_s": 3.0,
+      "prompt": "fizzy soda pouring into a glass with ice, bubbles crackling",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/machines/sewing-machine-burst",
+      "type": "sfx",
+      "file": "sfx/machines/sewing-machine-burst.mp3",
+      "category": "machines",
+      "tags": [
+        "sewing-machine",
+        "stitching",
+        "factory",
+        "garment",
+        "fashion",
+        "textile",
+        "fast"
+      ],
+      "duration_s": 2.0,
+      "prompt": "industrial sewing machine fast stitching burst, short",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/parcel-box-doorstep-thud",
+      "type": "sfx",
+      "file": "sfx/foley/parcel-box-doorstep-thud.mp3",
+      "category": "foley",
+      "tags": [
+        "parcel",
+        "package",
+        "box",
+        "cardboard",
+        "delivery",
+        "doorstep",
+        "thud",
+        "drop"
+      ],
+      "duration_s": 1.0,
+      "prompt": "cardboard parcel box dropped on a doorstep, single soft thud",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/plastic-brick-snap-click",
+      "type": "sfx",
+      "file": "sfx/foley/plastic-brick-snap-click.mp3",
+      "category": "foley",
+      "tags": [
+        "plastic",
+        "toy",
+        "brick",
+        "snap",
+        "click",
+        "lego",
+        "build"
+      ],
+      "duration_s": 1.0,
+      "prompt": "two plastic toy building bricks snapping together, one crisp satisfying click",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/plastic-bricks-tumble-clatter",
+      "type": "sfx",
+      "file": "sfx/impacts/plastic-bricks-tumble-clatter.mp3",
+      "category": "impacts",
+      "tags": [
+        "plastic",
+        "toy",
+        "bricks",
+        "collapse",
+        "tumble",
+        "clatter",
+        "crash",
+        "tower"
+      ],
+      "duration_s": 2.5,
+      "prompt": "pile of small plastic toy bricks collapsing, tumbling and clattering onto a hard floor",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/f1-car-flyby-doppler",
+      "type": "sfx",
+      "file": "sfx/vehicles/f1-car-flyby-doppler.mp3",
+      "category": "vehicles",
+      "tags": [
+        "formula-one",
+        "f1",
+        "race-car",
+        "engine",
+        "flyby",
+        "doppler",
+        "pass-by",
+        "fast"
+      ],
+      "duration_s": 3.0,
+      "prompt": "formula one race car high-pitched engine fly-by, fast doppler pass, single pass",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "music/synth-retro/chiptune-arcade-chaos-comedy-a",
+      "type": "music",
+      "file": "music/synth-retro/chiptune-arcade-chaos-comedy-a.mp3",
+      "category": "synth-retro",
+      "tags": [
+        "chiptune",
+        "8-bit",
+        "arcade",
+        "retro",
+        "video-game",
+        "comedic",
+        "chaotic",
+        "fast",
+        "playful",
+        "panic"
+      ],
+      "duration_s": 123.6,
+      "prompt": "chaotic comedic 8-bit chiptune arcade bed, bouncy retro video game synths, fast tempo, playful mischief and panic, instrumental, intro, build and climax",
+      "generator": "Suno via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/funk-lounge/elevator-bossa-waiting-room-muzak-a",
+      "type": "music",
+      "file": "music/funk-lounge/elevator-bossa-waiting-room-muzak-a.mp3",
+      "category": "funk-lounge",
+      "tags": [
+        "elevator",
+        "muzak",
+        "bossa-nova",
+        "waiting-room",
+        "lounge",
+        "vibraphone",
+        "nylon-guitar",
+        "deadpan",
+        "comedic",
+        "on-hold"
+      ],
+      "duration_s": 198.2,
+      "prompt": "elevator waiting room muzak, smooth deadpan bossa nova, soft vibraphone, nylon guitar, brushed drums, comedic lounge, instrumental, intro, build and climax",
+      "generator": "Suno via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/synth-retro/chiptune-arcade-chaos-comedy-b",
+      "type": "music",
+      "file": "music/synth-retro/chiptune-arcade-chaos-comedy-b.mp3",
+      "category": "synth-retro",
+      "tags": [
+        "chiptune",
+        "8-bit",
+        "arcade",
+        "retro",
+        "video-game",
+        "comedic",
+        "chaotic",
+        "fast",
+        "playful",
+        "panic"
+      ],
+      "duration_s": 156.4,
+      "prompt": "chaotic comedic 8-bit chiptune arcade bed, bouncy retro video game synths, fast tempo, playful mischief and panic, instrumental, intro, build and climax",
+      "generator": "Suno via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/funk-lounge/elevator-bossa-waiting-room-muzak-b",
+      "type": "music",
+      "file": "music/funk-lounge/elevator-bossa-waiting-room-muzak-b.mp3",
+      "category": "funk-lounge",
+      "tags": [
+        "elevator",
+        "muzak",
+        "bossa-nova",
+        "waiting-room",
+        "lounge",
+        "vibraphone",
+        "nylon-guitar",
+        "deadpan",
+        "comedic",
+        "on-hold"
+      ],
+      "duration_s": 194.9,
+      "prompt": "elevator waiting room muzak, smooth deadpan bossa nova, soft vibraphone, nylon guitar, brushed drums, comedic lounge, instrumental, intro, build and climax",
+      "generator": "Suno via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/ui-cartoon/coin-drop-glass-jar",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/coin-drop-glass-jar.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "coin",
+        "drop",
+        "clink",
+        "glass",
+        "jar",
+        "tip-jar",
+        "money",
+        "tiny",
+        "single"
+      ],
+      "duration_s": 2.0,
+      "prompt": "single small coin dropping into an empty glass jar, one bright tiny clink and a short rattle, clean, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/cartoon-body-thud",
+      "type": "sfx",
+      "file": "sfx/foley/cartoon-body-thud.mp3",
+      "category": "foley",
+      "tags": [
+        "thud",
+        "body",
+        "fall",
+        "collapse",
+        "faint",
+        "floor",
+        "impact",
+        "cartoon"
+      ],
+      "duration_s": 1.0,
+      "prompt": "soft cartoon body thud, a character collapsing onto a wooden floor, single clean impact, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/rocket-launch-roar",
+      "type": "sfx",
+      "file": "sfx/vehicles/rocket-launch-roar.mp3",
+      "category": "vehicles",
+      "tags": [
+        "rocket",
+        "launch",
+        "ignition",
+        "blast-off",
+        "roar",
+        "rumble",
+        "space",
+        "cartoon"
+      ],
+      "duration_s": 4.0,
+      "prompt": "rocket engine ignition and launch roar with deep rumble rising, cartoon blast-off, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "music/playful-heartfelt/nashville-country-pop-storytelling-a",
+      "type": "music",
+      "file": "music/playful-heartfelt/nashville-country-pop-storytelling-a.mp3",
+      "category": "playful-heartfelt",
+      "tags": [
+        "country",
+        "country-pop",
+        "nashville",
+        "acoustic-guitar",
+        "banjo",
+        "fiddle",
+        "claps",
+        "hopeful",
+        "storytelling",
+        "anthem"
+      ],
+      "duration_s": 192.4,
+      "prompt": "warm Nashville country-pop storytelling bed, fingerpicked acoustic guitar, banjo, light claps, fiddle, hopeful, instrumental, slow intro, builds to anthemic singalong climax",
+      "generator": "Suno via AI33",
+      "added_by": "eli5-explained-like-youre-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/playful-heartfelt/nashville-country-pop-storytelling-b",
+      "type": "music",
+      "file": "music/playful-heartfelt/nashville-country-pop-storytelling-b.mp3",
+      "category": "playful-heartfelt",
+      "tags": [
+        "country",
+        "country-pop",
+        "nashville",
+        "acoustic-guitar",
+        "banjo",
+        "fiddle",
+        "claps",
+        "hopeful",
+        "storytelling",
+        "anthem"
+      ],
+      "duration_s": 184.3,
+      "prompt": "warm Nashville country-pop storytelling bed, fingerpicked acoustic guitar, banjo, light claps, fiddle, hopeful, instrumental, slow intro, builds to anthemic singalong climax",
+      "generator": "Suno via AI33",
+      "added_by": "eli5-explained-like-youre-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/ui-cartoon/cartoon-body-fall-thud",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/cartoon-body-fall-thud.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "thud",
+        "fall",
+        "faint",
+        "body",
+        "floor",
+        "cartoon",
+        "comedic"
+      ],
+      "duration_s": 1.2,
+      "prompt": "cartoon body falling flat on the floor, soft comedic thud",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "eli5-explained-like-youre-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/chocolate-bar-snap",
+      "type": "sfx",
+      "file": "sfx/foley/chocolate-bar-snap.mp3",
+      "category": "foley",
+      "tags": [
+        "chocolate",
+        "snap",
+        "crack",
+        "break",
+        "candy",
+        "crisp",
+        "food"
+      ],
+      "duration_s": 1.0,
+      "prompt": "crisp chocolate bar snap, close-up",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "eli5-explained-like-youre-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/plastic-plaque-crack-shatter",
+      "type": "sfx",
+      "file": "sfx/impacts/plastic-plaque-crack-shatter.mp3",
+      "category": "impacts",
+      "tags": [
+        "crack",
+        "shatter",
+        "plastic",
+        "award",
+        "plaque",
+        "break",
+        "comedic"
+      ],
+      "duration_s": 1.5,
+      "prompt": "plastic award plaque cracking and shattering, comedic",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "eli5-explained-like-youre-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/vinyl-needle-drop-crackle",
+      "type": "sfx",
+      "file": "sfx/foley/vinyl-needle-drop-crackle.mp3",
+      "category": "foley",
+      "tags": [
+        "vinyl",
+        "record",
+        "needle",
+        "drop",
+        "crackle",
+        "turntable",
+        "music"
+      ],
+      "duration_s": 3.0,
+      "prompt": "vinyl record needle drop with warm crackle",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "eli5-explained-like-youre-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/machines/slot-reels-spin-stop",
+      "type": "sfx",
+      "file": "sfx/machines/slot-reels-spin-stop.mp3",
+      "category": "machines",
+      "tags": [
+        "slot-machine",
+        "reels",
+        "spin",
+        "clunk",
+        "casino",
+        "gambling"
+      ],
+      "duration_s": 3.0,
+      "prompt": "slot machine reels spinning fast then three mechanical clunks as each reel stops",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/poker-chips-clatter",
+      "type": "sfx",
+      "file": "sfx/foley/poker-chips-clatter.mp3",
+      "category": "foley",
+      "tags": [
+        "casino",
+        "poker",
+        "chips",
+        "clatter",
+        "gambling",
+        "table"
+      ],
+      "duration_s": 1.5,
+      "prompt": "casino chips clattering, a small stack of clay poker chips dropped and shuffled on a felt table",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/roulette-ball-spin-drop",
+      "type": "sfx",
+      "file": "sfx/foley/roulette-ball-spin-drop.mp3",
+      "category": "foley",
+      "tags": [
+        "casino",
+        "roulette",
+        "wheel",
+        "ball",
+        "rattle",
+        "gambling"
+      ],
+      "duration_s": 4.0,
+      "prompt": "roulette ball whirring around a spinning wooden wheel then rattling and dropping into a pocket",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/slot-win-bells-jingle",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/slot-win-bells-jingle.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "slot-machine",
+        "win",
+        "jingle",
+        "bells",
+        "casino",
+        "celebration",
+        "electronic"
+      ],
+      "duration_s": 2.5,
+      "prompt": "slot machine small win celebration, bright electronic bell jingle and flashing light beeps",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/cardboard-box-open",
+      "type": "sfx",
+      "file": "sfx/foley/cardboard-box-open.mp3",
+      "category": "foley",
+      "tags": [
+        "cardboard",
+        "box",
+        "parcel",
+        "open",
+        "rustle",
+        "delivery",
+        "package"
+      ],
+      "duration_s": 1.2,
+      "prompt": "cardboard box flaps opened quickly, crisp cardboard rustle",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "music/funk-lounge/vegas-lounge-swing-a",
+      "type": "music",
+      "file": "music/funk-lounge/vegas-lounge-swing-a.mp3",
+      "category": "funk-lounge",
+      "tags": [
+        "las-vegas",
+        "lounge",
+        "swing",
+        "big-band",
+        "brass",
+        "finger-snaps",
+        "upright-bass",
+        "vibraphone",
+        "rat-pack",
+        "casino",
+        "glamour",
+        "comedic",
+        "documentary",
+        "narration-bed"
+      ],
+      "duration_s": 185.0,
+      "prompt": "vintage Las Vegas lounge swing, big band brass, finger snaps, walking upright bass, vibraphone, cocky rat-pack casino glamour, playful comedic documentary bed, instrumental with intro, build and big brassy climax",
+      "generator": "Suno via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/funk-lounge/vegas-lounge-swing-b",
+      "type": "music",
+      "file": "music/funk-lounge/vegas-lounge-swing-b.mp3",
+      "category": "funk-lounge",
+      "tags": [
+        "las-vegas",
+        "lounge",
+        "swing",
+        "big-band",
+        "brass",
+        "finger-snaps",
+        "upright-bass",
+        "vibraphone",
+        "rat-pack",
+        "casino",
+        "glamour",
+        "comedic",
+        "documentary",
+        "narration-bed"
+      ],
+      "duration_s": 187.7,
+      "prompt": "vintage Las Vegas lounge swing, big band brass, finger snaps, walking upright bass, vibraphone, cocky rat-pack casino glamour, playful comedic documentary bed, instrumental with intro, build and big brassy climax",
+      "generator": "Suno via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
       "used_in": [],
       "notes": "",
       "energy": "medium",
