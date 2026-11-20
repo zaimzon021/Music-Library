@@ -9501,6 +9501,76 @@
       "notes": "",
       "energy": "medium",
       "instrumental": true
+    },
+    {
+      "id": "sfx/ui-cartoon/coin-drop-glass-jar",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/coin-drop-glass-jar.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "coin",
+        "drop",
+        "clink",
+        "glass",
+        "jar",
+        "tip-jar",
+        "money",
+        "tiny",
+        "single"
+      ],
+      "duration_s": 2.0,
+      "prompt": "single small coin dropping into an empty glass jar, one bright tiny clink and a short rattle, clean, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/cartoon-body-thud",
+      "type": "sfx",
+      "file": "sfx/foley/cartoon-body-thud.mp3",
+      "category": "foley",
+      "tags": [
+        "thud",
+        "body",
+        "fall",
+        "collapse",
+        "faint",
+        "floor",
+        "impact",
+        "cartoon"
+      ],
+      "duration_s": 1.0,
+      "prompt": "soft cartoon body thud, a character collapsing onto a wooden floor, single clean impact, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/vehicles/rocket-launch-roar",
+      "type": "sfx",
+      "file": "sfx/vehicles/rocket-launch-roar.mp3",
+      "category": "vehicles",
+      "tags": [
+        "rocket",
+        "launch",
+        "ignition",
+        "blast-off",
+        "roar",
+        "rumble",
+        "space",
+        "cartoon"
+      ],
+      "duration_s": 4.0,
+      "prompt": "rocket engine ignition and launch roar with deep rumble rising, cartoon blast-off, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }

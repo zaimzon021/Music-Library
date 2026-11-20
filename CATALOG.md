@@ -218,6 +218,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/boots-on-stone-footsteps.mp3` | 2.0s | footsteps, boots, stone, walking, castle, guard |
 | sfx | foley | `sfx/foley/calendar-page-flip.mp3` | 1.5s | paper, page, flip, calendar, tear, time-jump |
 | sfx | foley | `sfx/foley/cardboard-box-drop-thud.mp3` | 1.5s | cardboard, box, drop, thud, floor, package, delivery, flat-pack |
+| sfx | foley | `sfx/foley/cartoon-body-thud.mp3` | 1.0s | thud, body, fall, collapse, faint, floor, impact, cartoon |
 | sfx | foley | `sfx/foley/chalk-mark-scrape.mp3` | 1.0s | chalk, scrape, mark, line |
 | sfx | foley | `sfx/foley/church-bell-distant-medieval.mp3` | 5.0s | bell, church, medieval, distant, village |
 | sfx | foley | `sfx/foley/crowd-cheer-joyful.mp3` | 6.0s | crowd, cheer, applause, joy, celebration, outdoor |
@@ -338,6 +339,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/cash-register-ching.mp3` | 1.5s | cash-register, cha-ching, money, price, comedic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/choir-ahh-win-sting.mp3` | 2.5s | choir, ahh, angelic, win, sting, positive, heavenly, verdict |
 | sfx | ui-cartoon | `sfx/ui-cartoon/coin-cascade-clink.mp3` | 2.5s | coins, gold, cascade, clink, money, reward, cartoon |
+| sfx | ui-cartoon | `sfx/ui-cartoon/coin-drop-glass-jar.mp3` | 2.0s | coin, drop, clink, glass, jar, tip-jar, money, tiny, single |
 | sfx | ui-cartoon | `sfx/ui-cartoon/comedic-ding.mp3` | 1.5s | ding, bell, comedic, reveal, hit |
 | sfx | ui-cartoon | `sfx/ui-cartoon/comedic-fail-piano-sting.mp3` | 2.0s | fail, lose, piano, descending, comedic, cartoon, sting |
 | sfx | ui-cartoon | `sfx/ui-cartoon/dun-dun-dunnn-comedic-sting.mp3` | 3.0s | dun-dun-dun, dramatic, reveal, sting, comedic, brass, timpani, suspicion |
@@ -371,6 +373,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | vehicles | `sfx/vehicles/prop-cargo-plane-takeoff.mp3` | 9.0s | plane, propeller, cargo, takeoff, flyby, aircraft, engine |
 | sfx | vehicles | `sfx/vehicles/propeller-plane-flyby.mp3` | 6.0s | plane, propeller, vintage, aircraft, flyby, overhead |
 | sfx | vehicles | `sfx/vehicles/quadcopter-drone-hover.mp3` | 6.0s | quadcopter, drone, hover |
+| sfx | vehicles | `sfx/vehicles/rocket-launch-roar.mp3` | 4.0s | rocket, launch, ignition, blast-off, roar, rumble, space, cartoon |
 | sfx | vehicles | `sfx/vehicles/ship-horn.mp3` | 4.0s | ship, horn, foghorn, steamship, harbour, low |
 | sfx | vehicles | `sfx/vehicles/spike-strip-tire-pop.mp3` | 2.0s | spike-strip, stop-sticks, tire, pop, hiss, pursuit |
 | sfx | vehicles | `sfx/vehicles/straight-pipe-exhaust-rev-backfire.mp3` | 4.0s | exhaust, muffler, rev, v8, rumble, backfire, pops, loud, car |
