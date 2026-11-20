@@ -92,6 +92,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | epic-rock | `music/epic-rock/rock-orchestra-battle-b.mp3` | 238.7s | battle, rock, guitars, orchestra, relentless, showdown |
 | music | explainer | `music/explainer/minimal-explainer-pluck-bed-a.mp3` | 180.8s | explainer, minimal, ambient, electronic, plucks, marimba, calm, narration-bed, education |
 | music | explainer | `music/explainer/minimal-explainer-pluck-bed-b.mp3` | 202.4s | explainer, minimal, ambient, electronic, plucks, marimba, calm, narration-bed, education |
+| music | fairy-tale-villain | `music/fairy-tale-villain/dark-fairytale-villain-waltz-a.mp3` | 184.5s | fairy-tale, villain, waltz, celesta, harp, pizzicato, bassoon, mischievous, elegant, sinister, build, choir, climax, disney-style |
+| music | fairy-tale-villain | `music/fairy-tale-villain/dark-fairytale-villain-waltz-b.mp3` | 182.6s | fairy-tale, villain, waltz, celesta, harp, pizzicato, bassoon, mischievous, elegant, sinister, build, choir, climax, disney-style |
 | music | funk-lounge | `music/funk-lounge/elevator-bossa-waiting-room-muzak-a.mp3` | 198.2s | elevator, muzak, bossa-nova, waiting-room, lounge, vibraphone, nylon-guitar, deadpan, comedic, on-hold |
 | music | funk-lounge | `music/funk-lounge/elevator-bossa-waiting-room-muzak-b.mp3` | 194.9s | elevator, muzak, bossa-nova, waiting-room, lounge, vibraphone, nylon-guitar, deadpan, comedic, on-hold |
 | music | funk-lounge | `music/funk-lounge/funky-luxury-lounge-a.mp3` | 234.4s | funk, lounge, slap-bass, brass, wah-guitar, upbeat, luxury, money, playful |
@@ -310,6 +312,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | impacts | `sfx/impacts/stone-floor-crumble-collapse.mp3` | 2.5s | stone, rock, crumble, collapse, floor, debris, rubble, cave-in |
 | sfx | impacts | `sfx/impacts/sub-bass-drop.mp3` | 2.0s | sub, bass, drop |
 | sfx | impacts | `sfx/impacts/trailer-impact-sub-boom.mp3` | 3.0s | trailer, impact, sub, boom |
+| sfx | impacts | `sfx/impacts/two-note-brand-sting.mp3` | 1.5s | brand, sting, logo, two-note, signature, synth-bass, bell, verdict, stinger |
 | sfx | impacts | `sfx/impacts/vault-door-slam-bolts.mp3` | 5.0s | vault, door, blast-door, bunker, slam, bolts, metal, lock |
 | sfx | impacts | `sfx/impacts/wooden-plank-snap-fall.mp3` | 2.5s | wood, plank, snap, crack, break, fall, bridge, chasm |
 | sfx | machines | `sfx/machines/bunker-ventilation-hum.mp3` | 20.0s | ventilation, fan, hum, bunker, air, underground, loop, ambience |
@@ -350,6 +353,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | transitions | `sfx/transitions/deep-swoosh-rumble.mp3` | 1.5s | deep, swoosh, rumble |
 | sfx | transitions | `sfx/transitions/digital-glitch-stutter.mp3` | 0.8s | digital, glitch, stutter |
 | sfx | transitions | `sfx/transitions/soft-ui-swipe.mp3` | 1.0s | swipe, whoosh, soft, ui, minimal, transition |
+| sfx | transitions | `sfx/transitions/storybook-page-turn-sparkle.mp3` | 1.5s | page, turn, flip, paper, storybook, sparkle, magic, shimmer, transition, fairy-tale |
 | sfx | transitions | `sfx/transitions/time-warp-whoosh.mp3` | 2.5s | time-travel, warp, whoosh, sci-fi, reverse, impact |
 | sfx | transitions | `sfx/transitions/vhs-rewind.mp3` | 1.5s | vhs, rewind |
 | sfx | transitions | `sfx/transitions/whoosh.mp3` | 1.0s | whoosh, swoosh, transition, fast |
@@ -382,6 +386,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-spring-boing-short.mp3` | 1.2s | boing, spring, cartoon, comedic, bounce, clown |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-straw-slurp.mp3` | 1.5s | slurp, straw, drink, cartoon, comedic, wet |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cash-register-ching.mp3` | 1.5s | cash-register, cha-ching, money, price, comedic |
+| sfx | ui-cartoon | `sfx/ui-cartoon/chiptune-blip-select.mp3` | 0.7s | 8-bit, chiptune, blip, select, menu, retro, video-game, ui, square-wave |
+| sfx | ui-cartoon | `sfx/ui-cartoon/chiptune-game-over-jingle.mp3` | 2.5s | 8-bit, chiptune, game-over, retro, video-game, lose, fail, descending, jingle |
 | sfx | ui-cartoon | `sfx/ui-cartoon/choir-ahh-win-sting.mp3` | 2.5s | choir, ahh, angelic, win, sting, positive, heavenly, verdict |
 | sfx | ui-cartoon | `sfx/ui-cartoon/coin-cascade-clink.mp3` | 2.5s | coins, gold, cascade, clink, money, reward, cartoon |
 | sfx | ui-cartoon | `sfx/ui-cartoon/coin-drop-glass-jar.mp3` | 2.0s | coin, drop, clink, glass, jar, tip-jar, money, tiny, single |
