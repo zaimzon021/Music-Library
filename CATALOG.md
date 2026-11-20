@@ -237,10 +237,12 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | impacts | `sfx/impacts/epic-choir-orchestra-hit.mp3` | 3.5s | choir, orchestra, epic, hit, impact, sub-boom, trailer, finale, number-one |
 | sfx | impacts | `sfx/impacts/epic-full-choir-orchestra-hit.mp3` | 4.0s | choir, epic, orchestra, timpani, divine, reveal, huge, cinematic, hit |
 | sfx | impacts | `sfx/impacts/full-choir-orchestral-hit.mp3` | 3.5s | choir, orchestral, hit, impact, epic, reveal, stinger |
+| sfx | impacts | `sfx/impacts/hammer-plastic-clonk.mp3` | 1.0s | hammer, smash, plastic, clonk, hit, heavy |
 | sfx | impacts | `sfx/impacts/hull-ice-scrape.mp3` | 5.0s | ship, hull, ice, scrape, grind, metal, groan, crack |
 | sfx | impacts | `sfx/impacts/impact.mp3` | 1.2s | impact, hit, metal, heavy, stinger |
 | sfx | impacts | `sfx/impacts/mechanical-net-launch-thunk.mp3` | 1.5s | mechanical, launch, thunk, net, whip, spring |
 | sfx | impacts | `sfx/impacts/metallic-title-boom.mp3` | 3.0s | metallic, title, boom |
+| sfx | impacts | `sfx/impacts/phone-screen-glass-crack.mp3` | 1.0s | glass, crack, phone, screen, break, sharp |
 | sfx | impacts | `sfx/impacts/rubber-stamp-slam.mp3` | 1.0s | rubber, stamp, slam |
 | sfx | impacts | `sfx/impacts/shell-casing-alarm-gong.mp3` | 3.0s | gong, metal, alarm, brass, shell, ringing, ww1 |
 | sfx | impacts | `sfx/impacts/stone-floor-crumble-collapse.mp3` | 2.5s | stone, rock, crumble, collapse, floor, debris, rubble, cave-in |
@@ -283,17 +285,20 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | transitions | `sfx/transitions/whoosh.mp3` | 1.0s | whoosh, swoosh, transition, fast |
 | sfx | ui | `sfx/ui/arcade-score-counter-tick-up.mp3` | 1.5s | score, counter, tick, arcade, points, ding, game, ui |
 | sfx | ui | `sfx/ui/camera-shutter-freeze.mp3` | 1.0s | camera, shutter, freeze |
+| sfx | ui | `sfx/ui/contactless-payment-beep.mp3` | 1.0s | payment, card, contactless, beep, terminal, tap, checkout |
 | sfx | ui | `sfx/ui/digital-typing-terminal.mp3` | 2.5s | digital, typing, terminal |
 | sfx | ui | `sfx/ui/digital-ui-blip.mp3` | 0.5s | digital, ui, blip |
 | sfx | ui | `sfx/ui/emergency-alert-tone.mp3` | 4.0s | emergency, alert, EAS, alarm, beep, broadcast, phone |
 | sfx | ui | `sfx/ui/gps-navigation-recalculating-chime.mp3` | 1.0s | gps, navigation, sat-nav, chime, dashboard, notification, recalculating, car, ui |
 | sfx | ui | `sfx/ui/phone-notification-chime.mp3` | 1.0s | phone, notification, chime, smartphone, message |
 | sfx | ui | `sfx/ui/phone-notification-two-tone.mp3` | 1.2s | phone, notification, chime, alert, message, app, two-tone |
+| sfx | ui | `sfx/ui/retro-monophonic-ringtone.mp3` | 3.0s | ringtone, phone, retro, monophonic, 2000s, mobile, beeps |
 | sfx | ui | `sfx/ui/soft-ding.mp3` | 1.0s | ding, notification, soft, bright, ui |
 | sfx | ui | `sfx/ui/soft-ui-tap.mp3` | 0.5s | tap, click, soft, ui, minimal |
 | sfx | ui | `sfx/ui/tv-static-burst.mp3` | 1.5s | static, tv, crt, noise, hiss, broadcast |
 | sfx | ui-cartoon | `sfx/ui-cartoon/brass-win-sting.mp3` | 2.0s | win, victory, sting, brass, fanfare, positive |
 | sfx | ui-cartoon | `sfx/ui-cartoon/calculator-button-beeps.mp3` | 2.0s | calculator, beep, buttons, math, counting, electronic |
+| sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-electric-zap.mp3` | 1.2s | zap, electric, lightning, crackle, cartoon, shock |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-nervous-gulp.mp3` | 1.0s | gulp, swallow, nervous, cartoon, comedic, reaction |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-smoke-poof.mp3` | 1.2s | poof, smoke, vanish, disappear, cartoon, puff |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-spring-boing.mp3` | 1.0s | boing, spring, cartoon, pop-up, comedy |
@@ -312,6 +317,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/sad-trombone-wah-wah.mp3` | 3.0s | sad, trombone, fail, wah-wah, comedic, loser |
 | sfx | ui-cartoon | `sfx/ui-cartoon/score-counter-tick-up-ding.mp3` | 1.2s | counter, score, ticking, count-up, ding, game, ui, points |
 | sfx | ui-cartoon | `sfx/ui-cartoon/scratch.mp3` | 1.0s | record-scratch, vinyl, comedic, stop, twist |
+| sfx | ui-cartoon | `sfx/ui-cartoon/slide-whistle-down.mp3` | 1.5s | slide-whistle, cartoon, fall, descending, comedic, fail |
 | sfx | ui-cartoon | `sfx/ui-cartoon/snare-drum-roll-crash.mp3` | 4.0s | drumroll, snare, drum, roll, cymbal, crash, reveal, suspense |
 | sfx | ui-cartoon | `sfx/ui-cartoon/target-lock-beeps.mp3` | 1.5s | ui, beep, target, lock-on, hud, electronic, confirm |
 | sfx | ui-cartoon | `sfx/ui-cartoon/thermal-camera-zoom.mp3` | 1.5s | thermal, camera, zoom, servo, whir, chirp, ui, hud, infrared |

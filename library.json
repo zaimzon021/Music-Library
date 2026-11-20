@@ -8503,6 +8503,134 @@
       "added": "2026-11-20",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "sfx/ui/contactless-payment-beep",
+      "type": "sfx",
+      "file": "sfx/ui/contactless-payment-beep.mp3",
+      "category": "ui",
+      "tags": [
+        "payment",
+        "card",
+        "contactless",
+        "beep",
+        "terminal",
+        "tap",
+        "checkout"
+      ],
+      "duration_s": 1.0,
+      "prompt": "contactless card payment terminal success beep, single clean electronic beep",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/cartoon-electric-zap",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/cartoon-electric-zap.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "zap",
+        "electric",
+        "lightning",
+        "crackle",
+        "cartoon",
+        "shock"
+      ],
+      "duration_s": 1.2,
+      "prompt": "cartoon electric zap, short crackling lightning bolt",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/phone-screen-glass-crack",
+      "type": "sfx",
+      "file": "sfx/impacts/phone-screen-glass-crack.mp3",
+      "category": "impacts",
+      "tags": [
+        "glass",
+        "crack",
+        "phone",
+        "screen",
+        "break",
+        "sharp"
+      ],
+      "duration_s": 1.0,
+      "prompt": "phone screen glass cracking, sharp single crack",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/slide-whistle-down",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/slide-whistle-down.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "slide-whistle",
+        "cartoon",
+        "fall",
+        "descending",
+        "comedic",
+        "fail"
+      ],
+      "duration_s": 1.5,
+      "prompt": "cartoon slide whistle going down",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/retro-monophonic-ringtone",
+      "type": "sfx",
+      "file": "sfx/ui/retro-monophonic-ringtone.mp3",
+      "category": "ui",
+      "tags": [
+        "ringtone",
+        "phone",
+        "retro",
+        "monophonic",
+        "2000s",
+        "mobile",
+        "beeps"
+      ],
+      "duration_s": 3.0,
+      "prompt": "retro monophonic mobile phone ringtone, generic early 2000s beeps melody, 3 seconds",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/hammer-plastic-clonk",
+      "type": "sfx",
+      "file": "sfx/impacts/hammer-plastic-clonk.mp3",
+      "category": "impacts",
+      "tags": [
+        "hammer",
+        "smash",
+        "plastic",
+        "clonk",
+        "hit",
+        "heavy"
+      ],
+      "duration_s": 1.0,
+      "prompt": "hammer smashing down on hard plastic object, single heavy clonk",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }
