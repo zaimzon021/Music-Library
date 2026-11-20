@@ -237,12 +237,15 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/office-desk-phone-ring.mp3` | 4.0s | phone, telephone, ring, office, corded, landline, 2000s |
 | sfx | foley | `sfx/foley/paper-leaflets-flutter.mp3` | 4.0s | paper, leaflets, flutter, falling, flyers |
 | sfx | foley | `sfx/foley/paper-rip-in-half.mp3` | 1.0s | paper, rip, tear, document, certificate, ripping |
+| sfx | foley | `sfx/foley/parcel-box-doorstep-thud.mp3` | 1.0s | parcel, package, box, cardboard, delivery, doorstep, thud, drop |
 | sfx | foley | `sfx/foley/pencil-scribble.mp3` | 2.0s | pencil, sketch, scribble, paper, writing |
 | sfx | foley | `sfx/foley/rope-bridge-creak.mp3` | 3.0s | rope, bridge, creak, strain, planks, sway, tense |
 | sfx | foley | `sfx/foley/rotary-phone-ring.mp3` | 4.0s | phone, telephone, rotary, landline, ring, vintage |
 | sfx | foley | `sfx/foley/running-sand-footsteps.mp3` | 8.0s | footsteps, running, sand, beach, foley |
 | sfx | foley | `sfx/foley/running-through-corn.mp3` | 3.0s | corn, cornfield, running, rustle, foliage, foley |
 | sfx | foley | `sfx/foley/ship-bell-three.mp3` | 3.0s | bell, ship, brass, ring, three, alarm, lookout |
+| sfx | foley | `sfx/foley/soda-bottle-pop-fizz.mp3` | 2.0s | soda, bottle, cap, pop, open, fizz, carbonated, drink, cola |
+| sfx | foley | `sfx/foley/soda-pour-fizz-ice.mp3` | 3.0s | soda, pour, fizz, bubbles, ice, glass, drink, cola, carbonated |
 | sfx | foley | `sfx/foley/tape-measure-pull-retract-snap.mp3` | 2.5s | tape-measure, measuring, zip, retract, snap, click, foley, height |
 | sfx | foley | `sfx/foley/torch-extinguish-fizzle.mp3` | 1.5s | fire, torch, extinguish, fizzle, hiss, snuff, smoke |
 | sfx | foley | `sfx/foley/torch-fire-crackle.mp3` | 4.0s | fire, torch, flame, crackle, burning, medieval, loop |
@@ -274,6 +277,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | machines | `sfx/machines/fax-machine-printing.mp3` | 5.0s | fax, office, printer, paper, machine, beeps, retro |
 | sfx | machines | `sfx/machines/iron-portcullis-grinding-down.mp3` | 4.0s | portcullis, gate, iron, grinding, chains, castle, medieval |
 | sfx | machines | `sfx/machines/milkshake-spindle-mixer-whir.mp3` | 5.0s | milkshake, mixer, blender, motor, whir, diner, 1950s, kitchen |
+| sfx | machines | `sfx/machines/sewing-machine-burst.mp3` | 2.0s | sewing-machine, stitching, factory, garment, fashion, textile, fast |
 | sfx | machines | `sfx/machines/steel-cable-tension-creak.mp3` | 3.0s | cable, steel, creak, groan, metal, elevator, shaft, tension |
 | sfx | machines | `sfx/machines/typewriter-line-bell.mp3` | 3.0s | typewriter, typing, keys, carriage-return, bell, vintage |
 | sfx | magic | `sfx/magic/angelic-choir-ahh-hit.mp3` | 2.5s | choir, ahh, angelic, heavenly, vocal, positive, reveal |

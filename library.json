@@ -9232,6 +9232,99 @@
       "added": "2026-11-20",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "sfx/foley/soda-bottle-pop-fizz",
+      "type": "sfx",
+      "file": "sfx/foley/soda-bottle-pop-fizz.mp3",
+      "category": "foley",
+      "tags": [
+        "soda",
+        "bottle",
+        "cap",
+        "pop",
+        "open",
+        "fizz",
+        "carbonated",
+        "drink",
+        "cola"
+      ],
+      "duration_s": 2.0,
+      "prompt": "glass soda bottle cap pop open followed by a short carbonated fizz hiss",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/soda-pour-fizz-ice",
+      "type": "sfx",
+      "file": "sfx/foley/soda-pour-fizz-ice.mp3",
+      "category": "foley",
+      "tags": [
+        "soda",
+        "pour",
+        "fizz",
+        "bubbles",
+        "ice",
+        "glass",
+        "drink",
+        "cola",
+        "carbonated"
+      ],
+      "duration_s": 3.0,
+      "prompt": "fizzy soda pouring into a glass with ice, bubbles crackling",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/machines/sewing-machine-burst",
+      "type": "sfx",
+      "file": "sfx/machines/sewing-machine-burst.mp3",
+      "category": "machines",
+      "tags": [
+        "sewing-machine",
+        "stitching",
+        "factory",
+        "garment",
+        "fashion",
+        "textile",
+        "fast"
+      ],
+      "duration_s": 2.0,
+      "prompt": "industrial sewing machine fast stitching burst, short",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/parcel-box-doorstep-thud",
+      "type": "sfx",
+      "file": "sfx/foley/parcel-box-doorstep-thud.mp3",
+      "category": "foley",
+      "tags": [
+        "parcel",
+        "package",
+        "box",
+        "cardboard",
+        "delivery",
+        "doorstep",
+        "thud",
+        "drop"
+      ],
+      "duration_s": 1.0,
+      "prompt": "cardboard parcel box dropped on a doorstep, single soft thud",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "Explained Like You're 5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }
