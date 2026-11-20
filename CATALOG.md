@@ -122,6 +122,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | ocean-deep | `music/ocean-deep/ocean-predator-heartbeat-b.mp3` | 209.7s | ocean, underwater, heartbeat, suspense, splash, predator |
 | music | phonk-trap | `music/phonk-trap/drift-phonk-cowbell-808-a.mp3` | 180.8s | phonk, trap, drift, 808, cowbell, aggressive, gaming, montage, drops |
 | music | phonk-trap | `music/phonk-trap/drift-phonk-cowbell-808-b.mp3` | 176.7s | phonk, trap, drift, 808, cowbell, aggressive, gaming, montage, drops |
+| music | playful-heartfelt | `music/playful-heartfelt/nashville-country-pop-storytelling-a.mp3` | 192.4s | country, country-pop, nashville, acoustic-guitar, banjo, fiddle, claps, hopeful, storytelling, anthem |
+| music | playful-heartfelt | `music/playful-heartfelt/nashville-country-pop-storytelling-b.mp3` | 184.3s | country, country-pop, nashville, acoustic-guitar, banjo, fiddle, claps, hopeful, storytelling, anthem |
 | music | playful-heartfelt | `music/playful-heartfelt/playful-pizzicato-heroic-swell-a.mp3` | 174.9s | playful, heartfelt, pizzicato, strings, emotional, heroic |
 | music | playful-heartfelt | `music/playful-heartfelt/playful-pizzicato-heroic-swell-b.mp3` | 174.9s | playful, heartfelt, pizzicato, strings, emotional, heroic |
 | music | retro-japanese | `music/retro-japanese/1960s-monster-march-a.mp3` | 152.2s | retro, japanese, march, brass, playful, heroic, triumphant |
@@ -220,6 +222,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/cardboard-box-drop-thud.mp3` | 1.5s | cardboard, box, drop, thud, floor, package, delivery, flat-pack |
 | sfx | foley | `sfx/foley/cartoon-body-thud.mp3` | 1.0s | thud, body, fall, collapse, faint, floor, impact, cartoon |
 | sfx | foley | `sfx/foley/chalk-mark-scrape.mp3` | 1.0s | chalk, scrape, mark, line |
+| sfx | foley | `sfx/foley/chocolate-bar-snap.mp3` | 1.0s | chocolate, snap, crack, break, candy, crisp, food |
 | sfx | foley | `sfx/foley/church-bell-distant-medieval.mp3` | 5.0s | bell, church, medieval, distant, village |
 | sfx | foley | `sfx/foley/crowd-cheer-joyful.mp3` | 6.0s | crowd, cheer, applause, joy, celebration, outdoor |
 | sfx | foley | `sfx/foley/espresso-steam-wand-hiss.mp3` | 3.0s | espresso, coffee, cafe, steam, milk-frothing, barista |
@@ -255,6 +258,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/tape-measure-pull-retract-snap.mp3` | 2.5s | tape-measure, measuring, zip, retract, snap, click, foley, height |
 | sfx | foley | `sfx/foley/torch-extinguish-fizzle.mp3` | 1.5s | fire, torch, extinguish, fizzle, hiss, snuff, smoke |
 | sfx | foley | `sfx/foley/torch-fire-crackle.mp3` | 4.0s | fire, torch, flame, crackle, burning, medieval, loop |
+| sfx | foley | `sfx/foley/vinyl-needle-drop-crackle.mp3` | 3.0s | vinyl, record, needle, drop, crackle, turntable, music |
 | sfx | foley | `sfx/foley/wooden-chest-lid-creak.mp3` | 2.0s | chest, lid, creak, hinge, open, wood, treasure |
 | sfx | foley | `sfx/foley/wooden-chest-rattle.mp3` | 2.0s | chest, wood, lid, rattle, knock, box, something-inside |
 | sfx | impacts | `sfx/impacts/car-window-glass-smash.mp3` | 2.0s | glass, smash, shatter, window, car, break-in |
@@ -269,6 +273,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | impacts | `sfx/impacts/metallic-title-boom.mp3` | 3.0s | metallic, title, boom |
 | sfx | impacts | `sfx/impacts/phone-screen-glass-crack.mp3` | 1.0s | glass, crack, phone, screen, break, sharp |
 | sfx | impacts | `sfx/impacts/plastic-bricks-tumble-clatter.mp3` | 2.5s | plastic, toy, bricks, collapse, tumble, clatter, crash, tower |
+| sfx | impacts | `sfx/impacts/plastic-plaque-crack-shatter.mp3` | 1.5s | crack, shatter, plastic, award, plaque, break, comedic |
 | sfx | impacts | `sfx/impacts/rubber-stamp-slam.mp3` | 1.0s | rubber, stamp, slam |
 | sfx | impacts | `sfx/impacts/shell-casing-alarm-gong.mp3` | 3.0s | gong, metal, alarm, brass, shell, ringing, ww1 |
 | sfx | impacts | `sfx/impacts/stone-floor-crumble-collapse.mp3` | 2.5s | stone, rock, crumble, collapse, floor, debris, rubble, cave-in |
@@ -330,6 +335,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui | `sfx/ui/tv-static-burst.mp3` | 1.5s | static, tv, crt, noise, hiss, broadcast |
 | sfx | ui-cartoon | `sfx/ui-cartoon/brass-win-sting.mp3` | 2.0s | win, victory, sting, brass, fanfare, positive |
 | sfx | ui-cartoon | `sfx/ui-cartoon/calculator-button-beeps.mp3` | 2.0s | calculator, beep, buttons, math, counting, electronic |
+| sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-body-fall-thud.mp3` | 1.2s | thud, fall, faint, body, floor, cartoon, comedic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-electric-zap.mp3` | 1.2s | zap, electric, lightning, crackle, cartoon, shock |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-head-bonk.mp3` | 1.0s | bonk, hit, head, cartoon, comedic, hollow |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-nervous-gulp.mp3` | 1.0s | gulp, swallow, nervous, cartoon, comedic, reaction |

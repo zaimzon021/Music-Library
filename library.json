@@ -9571,6 +9571,148 @@
       "added": "2026-11-20",
       "used_in": [],
       "notes": ""
+    },
+    {
+      "id": "music/playful-heartfelt/nashville-country-pop-storytelling-a",
+      "type": "music",
+      "file": "music/playful-heartfelt/nashville-country-pop-storytelling-a.mp3",
+      "category": "playful-heartfelt",
+      "tags": [
+        "country",
+        "country-pop",
+        "nashville",
+        "acoustic-guitar",
+        "banjo",
+        "fiddle",
+        "claps",
+        "hopeful",
+        "storytelling",
+        "anthem"
+      ],
+      "duration_s": 192.4,
+      "prompt": "warm Nashville country-pop storytelling bed, fingerpicked acoustic guitar, banjo, light claps, fiddle, hopeful, instrumental, slow intro, builds to anthemic singalong climax",
+      "generator": "Suno via AI33",
+      "added_by": "eli5-explained-like-youre-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "music/playful-heartfelt/nashville-country-pop-storytelling-b",
+      "type": "music",
+      "file": "music/playful-heartfelt/nashville-country-pop-storytelling-b.mp3",
+      "category": "playful-heartfelt",
+      "tags": [
+        "country",
+        "country-pop",
+        "nashville",
+        "acoustic-guitar",
+        "banjo",
+        "fiddle",
+        "claps",
+        "hopeful",
+        "storytelling",
+        "anthem"
+      ],
+      "duration_s": 184.3,
+      "prompt": "warm Nashville country-pop storytelling bed, fingerpicked acoustic guitar, banjo, light claps, fiddle, hopeful, instrumental, slow intro, builds to anthemic singalong climax",
+      "generator": "Suno via AI33",
+      "added_by": "eli5-explained-like-youre-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": "",
+      "energy": "medium",
+      "instrumental": true
+    },
+    {
+      "id": "sfx/ui-cartoon/cartoon-body-fall-thud",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/cartoon-body-fall-thud.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "thud",
+        "fall",
+        "faint",
+        "body",
+        "floor",
+        "cartoon",
+        "comedic"
+      ],
+      "duration_s": 1.2,
+      "prompt": "cartoon body falling flat on the floor, soft comedic thud",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "eli5-explained-like-youre-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/chocolate-bar-snap",
+      "type": "sfx",
+      "file": "sfx/foley/chocolate-bar-snap.mp3",
+      "category": "foley",
+      "tags": [
+        "chocolate",
+        "snap",
+        "crack",
+        "break",
+        "candy",
+        "crisp",
+        "food"
+      ],
+      "duration_s": 1.0,
+      "prompt": "crisp chocolate bar snap, close-up",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "eli5-explained-like-youre-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/plastic-plaque-crack-shatter",
+      "type": "sfx",
+      "file": "sfx/impacts/plastic-plaque-crack-shatter.mp3",
+      "category": "impacts",
+      "tags": [
+        "crack",
+        "shatter",
+        "plastic",
+        "award",
+        "plaque",
+        "break",
+        "comedic"
+      ],
+      "duration_s": 1.5,
+      "prompt": "plastic award plaque cracking and shattering, comedic",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "eli5-explained-like-youre-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/foley/vinyl-needle-drop-crackle",
+      "type": "sfx",
+      "file": "sfx/foley/vinyl-needle-drop-crackle.mp3",
+      "category": "foley",
+      "tags": [
+        "vinyl",
+        "record",
+        "needle",
+        "drop",
+        "crackle",
+        "turntable",
+        "music"
+      ],
+      "duration_s": 3.0,
+      "prompt": "vinyl record needle drop with warm crackle",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "eli5-explained-like-youre-5",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }
