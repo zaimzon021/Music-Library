@@ -235,6 +235,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | impacts | `sfx/impacts/car-window-glass-smash.mp3` | 2.0s | glass, smash, shatter, window, car, break-in |
 | sfx | impacts | `sfx/impacts/distant-single-gunshot.mp3` | 2.5s | gunshot, distant, single, echo, rural |
 | sfx | impacts | `sfx/impacts/epic-choir-orchestra-hit.mp3` | 3.5s | choir, orchestra, epic, hit, impact, sub-boom, trailer, finale, number-one |
+| sfx | impacts | `sfx/impacts/epic-full-choir-orchestra-hit.mp3` | 4.0s | choir, epic, orchestra, timpani, divine, reveal, huge, cinematic, hit |
 | sfx | impacts | `sfx/impacts/full-choir-orchestral-hit.mp3` | 3.5s | choir, orchestral, hit, impact, epic, reveal, stinger |
 | sfx | impacts | `sfx/impacts/hull-ice-scrape.mp3` | 5.0s | ship, hull, ice, scrape, grind, metal, groan, crack |
 | sfx | impacts | `sfx/impacts/impact.mp3` | 1.2s | impact, hit, metal, heavy, stinger |
@@ -256,6 +257,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | machines | `sfx/machines/milkshake-spindle-mixer-whir.mp3` | 5.0s | milkshake, mixer, blender, motor, whir, diner, 1950s, kitchen |
 | sfx | machines | `sfx/machines/steel-cable-tension-creak.mp3` | 3.0s | cable, steel, creak, groan, metal, elevator, shaft, tension |
 | sfx | machines | `sfx/machines/typewriter-line-bell.mp3` | 3.0s | typewriter, typing, keys, carriage-return, bell, vintage |
+| sfx | magic | `sfx/magic/angelic-choir-ahh-hit.mp3` | 2.5s | choir, ahh, angelic, heavenly, vocal, positive, reveal |
 | sfx | magic | `sfx/magic/angelic-choir-ahh-stinger.mp3` | 2.5s | choir, ahh, angelic, heavenly, stinger, positive, verdict |
 | sfx | magic | `sfx/magic/full-choir-divine-swell.mp3` | 5.0s | choir, swell, divine, epic, climax, reveal |
 | sfx | magic | `sfx/magic/heavenly-choir-ahh-stinger.mp3` | 2.5s | choir, ahh, angelic, heavenly, win, positive, stinger, reveal |
@@ -279,6 +281,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | transitions | `sfx/transitions/time-warp-whoosh.mp3` | 2.5s | time-travel, warp, whoosh, sci-fi, reverse, impact |
 | sfx | transitions | `sfx/transitions/vhs-rewind.mp3` | 1.5s | vhs, rewind |
 | sfx | transitions | `sfx/transitions/whoosh.mp3` | 1.0s | whoosh, swoosh, transition, fast |
+| sfx | ui | `sfx/ui/arcade-score-counter-tick-up.mp3` | 1.5s | score, counter, tick, arcade, points, ding, game, ui |
 | sfx | ui | `sfx/ui/camera-shutter-freeze.mp3` | 1.0s | camera, shutter, freeze |
 | sfx | ui | `sfx/ui/digital-typing-terminal.mp3` | 2.5s | digital, typing, terminal |
 | sfx | ui | `sfx/ui/digital-ui-blip.mp3` | 0.5s | digital, ui, blip |
@@ -294,10 +297,12 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-nervous-gulp.mp3` | 1.0s | gulp, swallow, nervous, cartoon, comedic, reaction |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-smoke-poof.mp3` | 1.2s | poof, smoke, vanish, disappear, cartoon, puff |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-spring-boing.mp3` | 1.0s | boing, spring, cartoon, pop-up, comedy |
+| sfx | ui-cartoon | `sfx/ui-cartoon/cartoon-spring-boing-short.mp3` | 1.2s | boing, spring, cartoon, comedic, bounce, clown |
 | sfx | ui-cartoon | `sfx/ui-cartoon/cash-register-ching.mp3` | 1.5s | cash-register, cha-ching, money, price, comedic |
 | sfx | ui-cartoon | `sfx/ui-cartoon/choir-ahh-win-sting.mp3` | 2.5s | choir, ahh, angelic, win, sting, positive, heavenly, verdict |
 | sfx | ui-cartoon | `sfx/ui-cartoon/coin-cascade-clink.mp3` | 2.5s | coins, gold, cascade, clink, money, reward, cartoon |
 | sfx | ui-cartoon | `sfx/ui-cartoon/comedic-ding.mp3` | 1.5s | ding, bell, comedic, reveal, hit |
+| sfx | ui-cartoon | `sfx/ui-cartoon/comedic-fail-piano-sting.mp3` | 2.0s | fail, lose, piano, descending, comedic, cartoon, sting |
 | sfx | ui-cartoon | `sfx/ui-cartoon/dun-dun-dunnn-comedic-sting.mp3` | 3.0s | dun-dun-dun, dramatic, reveal, sting, comedic, brass, timpani, suspicion |
 | sfx | ui-cartoon | `sfx/ui-cartoon/fail-piano-chord-slam.mp3` | 2.0s | fail, piano, lose, sting, comedic, dissonant |
 | sfx | ui-cartoon | `sfx/ui-cartoon/fail-piano-lose-sting.mp3` | 2.5s | fail, piano, lose, sting, comedic, descending, sad, game-over |
@@ -310,6 +315,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | ui-cartoon | `sfx/ui-cartoon/snare-drum-roll-crash.mp3` | 4.0s | drumroll, snare, drum, roll, cymbal, crash, reveal, suspense |
 | sfx | ui-cartoon | `sfx/ui-cartoon/target-lock-beeps.mp3` | 1.5s | ui, beep, target, lock-on, hud, electronic, confirm |
 | sfx | ui-cartoon | `sfx/ui-cartoon/thermal-camera-zoom.mp3` | 1.5s | thermal, camera, zoom, servo, whir, chirp, ui, hud, infrared |
+| sfx | ui-cartoon | `sfx/ui-cartoon/victory-win-sting-brass.mp3` | 2.0s | win, victory, sting, brass, fanfare, success, game-show |
 | sfx | vehicles | `sfx/vehicles/box-truck-rollover-side-slam.mp3` | 4.0s | truck, rollover, crash, metal, crunch, scrape, slide, debris |
 | sfx | vehicles | `sfx/vehicles/car-alarm-siren-burst.mp3` | 2.5s | car, alarm, siren, whoop, wail, comedic |
 | sfx | vehicles | `sfx/vehicles/car-hood-flap-slam.mp3` | 3.0s | car, hood, flap, slam, bang, windshield, wind, metal |

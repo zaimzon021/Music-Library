@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-18",
+  "updated": "2026-11-20",
   "items": [
     {
       "id": "music/epic-cinematic/kaiju-trailer-taiko-brass-a",
@@ -8368,6 +8368,140 @@
       "used_in": [
         "aura-ranked #5 anime villains"
       ],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/cartoon-spring-boing-short",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/cartoon-spring-boing-short.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "boing",
+        "spring",
+        "cartoon",
+        "comedic",
+        "bounce",
+        "clown"
+      ],
+      "duration_s": 1.2,
+      "prompt": "cartoon spring boing, single bouncy comedic boing, clean, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/magic/angelic-choir-ahh-hit",
+      "type": "sfx",
+      "file": "sfx/magic/angelic-choir-ahh-hit.mp3",
+      "category": "magic",
+      "tags": [
+        "choir",
+        "ahh",
+        "angelic",
+        "heavenly",
+        "vocal",
+        "positive",
+        "reveal"
+      ],
+      "duration_s": 2.5,
+      "prompt": "short angelic choir ahh, heavenly vocal swell, single clean hit, no instruments",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/victory-win-sting-brass",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/victory-win-sting-brass.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "win",
+        "victory",
+        "sting",
+        "brass",
+        "fanfare",
+        "success",
+        "game-show"
+      ],
+      "duration_s": 2.0,
+      "prompt": "short victory win sting, bright brass and chime fanfare, game show success",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/impacts/epic-full-choir-orchestra-hit",
+      "type": "sfx",
+      "file": "sfx/impacts/epic-full-choir-orchestra-hit.mp3",
+      "category": "impacts",
+      "tags": [
+        "choir",
+        "epic",
+        "orchestra",
+        "timpani",
+        "divine",
+        "reveal",
+        "huge",
+        "cinematic",
+        "hit"
+      ],
+      "duration_s": 4.0,
+      "prompt": "massive epic full choir hit with orchestra and timpani, divine heavenly reveal, huge cinematic",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui-cartoon/comedic-fail-piano-sting",
+      "type": "sfx",
+      "file": "sfx/ui-cartoon/comedic-fail-piano-sting.mp3",
+      "category": "ui-cartoon",
+      "tags": [
+        "fail",
+        "lose",
+        "piano",
+        "descending",
+        "comedic",
+        "cartoon",
+        "sting"
+      ],
+      "duration_s": 2.0,
+      "prompt": "comedic fail piano lose sting, descending clumsy piano notes, cartoon",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/ui/arcade-score-counter-tick-up",
+      "type": "sfx",
+      "file": "sfx/ui/arcade-score-counter-tick-up.mp3",
+      "category": "ui",
+      "tags": [
+        "score",
+        "counter",
+        "tick",
+        "arcade",
+        "points",
+        "ding",
+        "game",
+        "ui"
+      ],
+      "duration_s": 1.5,
+      "prompt": "fast arcade score counter ticking up rapidly then a final ding, game UI",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "aura-ranked",
+      "added": "2026-11-20",
+      "used_in": [],
       "notes": ""
     }
   ]
