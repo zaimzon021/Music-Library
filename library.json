@@ -10582,6 +10582,49 @@
       "notes": "",
       "energy": "medium",
       "instrumental": true
+    },
+    {
+      "id": "sfx/creatures/racehorse-gallop-pass-by",
+      "type": "sfx",
+      "file": "sfx/creatures/racehorse-gallop-pass-by.mp3",
+      "category": "creatures",
+      "tags": [
+        "horse",
+        "gallop",
+        "hooves",
+        "racehorse",
+        "race",
+        "pass-by",
+        "thundering"
+      ],
+      "duration_s": 4.0,
+      "prompt": "racehorses galloping past close, thundering hooves on dirt track, single pass-by, no crowd, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "historia-oscura-shorts",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
+    },
+    {
+      "id": "sfx/machines/gas-valve-hiss",
+      "type": "sfx",
+      "file": "sfx/machines/gas-valve-hiss.mp3",
+      "category": "machines",
+      "tags": [
+        "gas",
+        "valve",
+        "hiss",
+        "leak",
+        "pipe",
+        "steady"
+      ],
+      "duration_s": 3.0,
+      "prompt": "old gas valve turned on, steady hissing gas escaping from a pipe, quiet room, no music",
+      "generator": "ElevenLabs SFX v3 via AI33",
+      "added_by": "historia-oscura-shorts",
+      "added": "2026-11-20",
+      "used_in": [],
+      "notes": ""
     }
   ]
 }

@@ -217,6 +217,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | creatures | `sfx/creatures/goose-panicked-honk.mp3` | 1.5s | goose, honk, bird, panic, farm, cartoon |
 | sfx | creatures | `sfx/creatures/humpback-whale-call.mp3` | 5.0s | whale, humpback, whale-song, call, moan, underwater, ocean |
 | sfx | creatures | `sfx/creatures/pig-oink-grunt.mp3` | 2.5s | pig, oink, grunt, farm, animal, comedic |
+| sfx | creatures | `sfx/creatures/racehorse-gallop-pass-by.mp3` | 4.0s | horse, gallop, hooves, racehorse, race, pass-by, thundering |
 | sfx | creatures | `sfx/creatures/rat-squeak.mp3` | 1.5s | rat, squeak, rodent, small |
 | sfx | creatures | `sfx/creatures/roar.mp3` | 2.5s | roar, monster, kaiju, creature, distorted |
 | sfx | creatures | `sfx/creatures/seagull-squawk.mp3` | 1.5s | seagull, gull, bird, squawk, beach, sea, harbour, comedic |
@@ -314,6 +315,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | machines | `sfx/machines/dialup-modem-handshake.mp3` | 6.0s | dial-up, modem, internet, 1990s, 2000s, retro, screech, computer |
 | sfx | machines | `sfx/machines/drone-hover-buzz.mp3` | 6.0s | drone, quadcopter, propeller, buzz, hover, loop, surveillance |
 | sfx | machines | `sfx/machines/fax-machine-printing.mp3` | 5.0s | fax, office, printer, paper, machine, beeps, retro |
+| sfx | machines | `sfx/machines/gas-valve-hiss.mp3` | 3.0s | gas, valve, hiss, leak, pipe, steady |
 | sfx | machines | `sfx/machines/iron-portcullis-grinding-down.mp3` | 4.0s | portcullis, gate, iron, grinding, chains, castle, medieval |
 | sfx | machines | `sfx/machines/light-bulb-flicker-off.mp3` | 2.5s | light, bulb, flicker, buzz, electrical, power-out |
 | sfx | machines | `sfx/machines/milkshake-spindle-mixer-whir.mp3` | 5.0s | milkshake, mixer, blender, motor, whir, diner, 1950s, kitchen |
