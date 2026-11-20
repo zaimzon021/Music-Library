@@ -9211,158 +9211,22 @@
       "notes": ""
     },
     {
-      "id": "music/comedic-documentary/wild-west-gold-rush-banjo-a",
-      "type": "music",
-      "file": "music/comedic-documentary/wild-west-gold-rush-banjo-a.mp3",
-      "category": "comedic-documentary",
-      "tags": [
-        "western",
-        "gold-rush",
-        "banjo",
-        "fiddle",
-        "honky-tonk",
-        "piano",
-        "harmonica",
-        "comedic",
-        "playful",
-        "narration-bed"
-      ],
-      "duration_s": 184.0,
-      "prompt": "comedic wild west gold rush instrumental, banjo, fiddle, honky-tonk saloon piano, harmonica, jaunty boom-chick bass, playful and mischievous, light narration bed with intro, build and big finish",
-      "generator": "Suno via AI33",
-      "added_by": "explained-like-5",
-      "added": "2026-11-20",
-      "used_in": [
-        "ELI5 ep28 Nvidia"
-      ],
-      "notes": "",
-      "energy": "medium",
-      "instrumental": true
-    },
-    {
-      "id": "music/comedic-documentary/wild-west-gold-rush-banjo-b",
-      "type": "music",
-      "file": "music/comedic-documentary/wild-west-gold-rush-banjo-b.mp3",
-      "category": "comedic-documentary",
-      "tags": [
-        "western",
-        "gold-rush",
-        "banjo",
-        "fiddle",
-        "honky-tonk",
-        "piano",
-        "harmonica",
-        "comedic",
-        "playful",
-        "narration-bed"
-      ],
-      "duration_s": 183.8,
-      "prompt": "comedic wild west gold rush instrumental, banjo, fiddle, honky-tonk saloon piano, harmonica, jaunty boom-chick bass, playful and mischievous, light narration bed with intro, build and big finish",
-      "generator": "Suno via AI33",
-      "added_by": "explained-like-5",
-      "added": "2026-11-20",
-      "used_in": [
-        "ELI5 ep28 Nvidia"
-      ],
-      "notes": "",
-      "energy": "medium",
-      "instrumental": true
-    },
-    {
-      "id": "music/synth-retro/90s-arcade-chiptune-bed-a",
-      "type": "music",
-      "file": "music/synth-retro/90s-arcade-chiptune-bed-a.mp3",
-      "category": "synth-retro",
-      "tags": [
-        "chiptune",
-        "8-bit",
-        "retro",
-        "video-game",
-        "arcade",
-        "1990s",
-        "nostalgic",
-        "playful",
-        "narration-bed"
-      ],
-      "duration_s": 192.7,
-      "prompt": "upbeat 1990s retro video game chiptune, 8-bit square wave melody, arpeggios, nostalgic arcade energy, playful, instrumental narration bed with intro build and climax",
-      "generator": "Suno via AI33",
-      "added_by": "explained-like-5",
-      "added": "2026-11-20",
-      "used_in": [
-        "ELI5 ep28 Nvidia"
-      ],
-      "notes": "",
-      "energy": "medium",
-      "instrumental": true
-    },
-    {
-      "id": "music/synth-retro/90s-arcade-chiptune-bed-b",
-      "type": "music",
-      "file": "music/synth-retro/90s-arcade-chiptune-bed-b.mp3",
-      "category": "synth-retro",
-      "tags": [
-        "chiptune",
-        "8-bit",
-        "retro",
-        "video-game",
-        "arcade",
-        "1990s",
-        "nostalgic",
-        "playful",
-        "narration-bed"
-      ],
-      "duration_s": 192.0,
-      "prompt": "upbeat 1990s retro video game chiptune, 8-bit square wave melody, arpeggios, nostalgic arcade energy, playful, instrumental narration bed with intro build and climax",
-      "generator": "Suno via AI33",
-      "added_by": "explained-like-5",
-      "added": "2026-11-20",
-      "used_in": [
-        "ELI5 ep28 Nvidia"
-      ],
-      "notes": "",
-      "energy": "medium",
-      "instrumental": true
-    },
-    {
-      "id": "sfx/impacts/pickaxe-rock-clink",
+      "id": "sfx/foley/cardboard-box-drop-thud",
       "type": "sfx",
-      "file": "sfx/impacts/pickaxe-rock-clink.mp3",
-      "category": "impacts",
+      "file": "sfx/foley/cardboard-box-drop-thud.mp3",
+      "category": "foley",
       "tags": [
-        "pickaxe",
-        "mining",
-        "rock",
-        "metal",
-        "clink",
-        "dig",
-        "gold-rush"
+        "cardboard",
+        "box",
+        "drop",
+        "thud",
+        "floor",
+        "package",
+        "delivery",
+        "flat-pack"
       ],
       "duration_s": 1.5,
-      "prompt": "single pickaxe striking hard rock, sharp metallic clink with small stone debris, clean, no music",
-      "generator": "ElevenLabs SFX v3 via AI33",
-      "added_by": "explained-like-5",
-      "added": "2026-11-20",
-      "used_in": [],
-      "notes": ""
-    },
-    {
-      "id": "sfx/ui-cartoon/cartoon-brawl-dust-cloud",
-      "type": "sfx",
-      "file": "sfx/ui-cartoon/cartoon-brawl-dust-cloud.mp3",
-      "category": "ui-cartoon",
-      "tags": [
-        "cartoon",
-        "brawl",
-        "fight",
-        "scuffle",
-        "dust-cloud",
-        "thumps",
-        "bonks",
-        "comedic"
-      ],
-      "duration_s": 3.0,
-      "prompt": "cartoon brawl dust cloud scuffle, comedic rapid thumps, bonks and slaps, short, no voices, no music",
+      "prompt": "cardboard box dropped flat onto a wooden floor, single dull thud with a light paper rattle",
       "generator": "ElevenLabs SFX v3 via AI33",
       "added_by": "explained-like-5",
       "added": "2026-11-20",
