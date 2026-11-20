@@ -84,6 +84,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | epic-rock | `music/epic-rock/rock-orchestra-battle-b.mp3` | 238.7s | battle, rock, guitars, orchestra, relentless, showdown |
 | music | explainer | `music/explainer/minimal-explainer-pluck-bed-a.mp3` | 180.8s | explainer, minimal, ambient, electronic, plucks, marimba, calm, narration-bed, education |
 | music | explainer | `music/explainer/minimal-explainer-pluck-bed-b.mp3` | 202.4s | explainer, minimal, ambient, electronic, plucks, marimba, calm, narration-bed, education |
+| music | funk-lounge | `music/funk-lounge/elevator-bossa-waiting-room-muzak-a.mp3` | 198.2s | elevator, muzak, bossa-nova, waiting-room, lounge, vibraphone, nylon-guitar, deadpan, comedic, on-hold |
+| music | funk-lounge | `music/funk-lounge/elevator-bossa-waiting-room-muzak-b.mp3` | 194.9s | elevator, muzak, bossa-nova, waiting-room, lounge, vibraphone, nylon-guitar, deadpan, comedic, on-hold |
 | music | funk-lounge | `music/funk-lounge/funky-luxury-lounge-a.mp3` | 234.4s | funk, lounge, slap-bass, brass, wah-guitar, upbeat, luxury, money, playful |
 | music | funk-lounge | `music/funk-lounge/funky-luxury-lounge-b.mp3` | 222.7s | funk, lounge, slap-bass, brass, wah-guitar, upbeat, luxury, money, playful |
 | music | hip-hop | `music/hip-hop/90s-boom-bap-streetwear-swagger-a.mp3` | 196.3s | hip-hop, boom-bap, 90s, new-york, vinyl, scratches, jazzy, swagger, streetwear, instrumental |
@@ -126,6 +128,8 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | music | retro-japanese | `music/retro-japanese/1960s-monster-march-b.mp3` | 146.3s | retro, japanese, march, brass, playful, heroic, triumphant |
 | music | retro-japanese | `music/retro-japanese/hero-vs-monster-showdown-a.mp3` | 184.8s | retro, japanese, hero, showdown, brass, fast-drums, triumphant |
 | music | retro-japanese | `music/retro-japanese/hero-vs-monster-showdown-b.mp3` | 179.0s | retro, japanese, hero, showdown, brass, fast-drums, triumphant |
+| music | synth-retro | `music/synth-retro/chiptune-arcade-chaos-comedy-a.mp3` | 123.6s | chiptune, 8-bit, arcade, retro, video-game, comedic, chaotic, fast, playful, panic |
+| music | synth-retro | `music/synth-retro/chiptune-arcade-chaos-comedy-b.mp3` | 156.4s | chiptune, 8-bit, arcade, retro, video-game, comedic, chaotic, fast, playful, panic |
 | music | synth-retro | `music/synth-retro/optimistic-night-drive-synthwave-a.mp3` | 229.9s | synthwave, retro, night-drive, neon, optimistic, tech, startup, arpeggio, driving, instrumental |
 | music | synth-retro | `music/synth-retro/optimistic-night-drive-synthwave-b.mp3` | 219.7s | synthwave, retro, night-drive, neon, optimistic, tech, startup, arpeggio, driving, instrumental |
 | music | synth-retro | `music/synth-retro/psychedelic-70s-sludge-a.mp3` | 219.8s | psychedelic, 1970s, synth, eerie, weird, dark |
@@ -239,6 +243,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | foley | `sfx/foley/paper-rip-in-half.mp3` | 1.0s | paper, rip, tear, document, certificate, ripping |
 | sfx | foley | `sfx/foley/parcel-box-doorstep-thud.mp3` | 1.0s | parcel, package, box, cardboard, delivery, doorstep, thud, drop |
 | sfx | foley | `sfx/foley/pencil-scribble.mp3` | 2.0s | pencil, sketch, scribble, paper, writing |
+| sfx | foley | `sfx/foley/plastic-brick-snap-click.mp3` | 1.0s | plastic, toy, brick, snap, click, lego, build |
 | sfx | foley | `sfx/foley/rope-bridge-creak.mp3` | 3.0s | rope, bridge, creak, strain, planks, sway, tense |
 | sfx | foley | `sfx/foley/rotary-phone-ring.mp3` | 4.0s | phone, telephone, rotary, landline, ring, vintage |
 | sfx | foley | `sfx/foley/running-sand-footsteps.mp3` | 8.0s | footsteps, running, sand, beach, foley |
@@ -262,6 +267,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | impacts | `sfx/impacts/mechanical-net-launch-thunk.mp3` | 1.5s | mechanical, launch, thunk, net, whip, spring |
 | sfx | impacts | `sfx/impacts/metallic-title-boom.mp3` | 3.0s | metallic, title, boom |
 | sfx | impacts | `sfx/impacts/phone-screen-glass-crack.mp3` | 1.0s | glass, crack, phone, screen, break, sharp |
+| sfx | impacts | `sfx/impacts/plastic-bricks-tumble-clatter.mp3` | 2.5s | plastic, toy, bricks, collapse, tumble, clatter, crash, tower |
 | sfx | impacts | `sfx/impacts/rubber-stamp-slam.mp3` | 1.0s | rubber, stamp, slam |
 | sfx | impacts | `sfx/impacts/shell-casing-alarm-gong.mp3` | 3.0s | gong, metal, alarm, brass, shell, ringing, ww1 |
 | sfx | impacts | `sfx/impacts/stone-floor-crumble-collapse.mp3` | 2.5s | stone, rock, crumble, collapse, floor, debris, rubble, cave-in |
@@ -358,6 +364,7 @@ Auto-generated from `library.json`. Regenerate with `python3 tools/catalog.py`.
 | sfx | vehicles | `sfx/vehicles/electric-car-pass-by-whine.mp3` | 3.0s | electric-car, ev, pass-by, whine, motor, futuristic, whoosh |
 | sfx | vehicles | `sfx/vehicles/engine-rev-high-speed.mp3` | 4.0s | engine, rev, car, speed, interior |
 | sfx | vehicles | `sfx/vehicles/engine-sputter-out-of-fuel.mp3` | 3.0s | engine, sputter, cough, stall, out-of-gas, fuel, dying, car, comedic |
+| sfx | vehicles | `sfx/vehicles/f1-car-flyby-doppler.mp3` | 3.0s | formula-one, f1, race-car, engine, flyby, doppler, pass-by, fast |
 | sfx | vehicles | `sfx/vehicles/helicopter-rotor-hover-loop.mp3` | 8.0s | helicopter, rotor, hover, loop, military, night |
 | sfx | vehicles | `sfx/vehicles/jet-takeoff-roar.mp3` | 7.0s | jet, plane, takeoff, engine, roar, military, cargo |
 | sfx | vehicles | `sfx/vehicles/patrol-car-engine-acceleration-road.mp3` | 8.0s | engine, police, car, acceleration, road-noise, pursuit, exterior, loop |
